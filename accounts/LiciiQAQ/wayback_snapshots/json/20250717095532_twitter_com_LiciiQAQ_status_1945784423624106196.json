@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1945663688943587689",
+    "created_at": "2025-07-17T09:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945784423624106196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945784423624106196",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945663688943587689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 🛋️🫴💻\n🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1945663688943587689",
+        "created_at": "2025-07-17T09:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945784423624106196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945784423624106196",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945663688943587689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 🛋️🫴💻\n🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "1945663688943587689",
+        "created_at": "2025-07-17T01:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945663688943587689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VicoOci/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/VicoOci/status/1945071878466351307",
+              "start": 39,
+              "url": "https://t.co/30o5yf3t3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945663688943587689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 646,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945071878466351307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你现在正在？\n1.🛏️🤳🏻 2.🛋️🤳🏻 3.🚽🤳🏻 4.🚌🤳🏻 5.🪑🤳🏻 https://t.co/30o5yf3t3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 1338,
+          "like_count": 40793,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 4891
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7177,
+          "following_count": 2026,
+          "like_count": 152098,
+          "listed_count": 17,
+          "media_count": 2910,
+          "tweet_count": 38212
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

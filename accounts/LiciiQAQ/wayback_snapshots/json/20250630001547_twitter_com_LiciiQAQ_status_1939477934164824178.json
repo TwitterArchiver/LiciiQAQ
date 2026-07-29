@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939462846657818826",
+    "created_at": "2025-06-30T00:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T01:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939477934164824178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883158410700746752",
+          "start": 0,
+          "username": "alienwuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939477934164824178",
+    "in_reply_to_user_id": "1883158410700746752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939462846657818826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alienwuwu 早喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939462846657818826].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939462846657818826",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939462846657818826"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939462846657818826",
+        "created_at": "2025-06-30T00:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T01:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939477934164824178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883158410700746752",
+              "start": 0,
+              "username": "alienwuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939477934164824178",
+        "in_reply_to_user_id": "1883158410700746752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939462846657818826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alienwuwu 早喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1198,
+          "like_count": 34396,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4120
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:22:26.000Z",
+        "description": "09 巨蟹座♋️ 请称呼我为呜呜或者大主宰大人",
+        "id": "1883158410700746752",
+        "location": "Moon",
+        "name": "呜呜「堕落于星辰深渊的堕天冥王·伟大的幽冥主宰·终焉的幻想咏唱者」",
+        "pinned_tweet_id": "1937447867108720847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912889755064532993/4mgitBN3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 702,
+          "like_count": 8062,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3440
+        },
+        "username": "alienwuwu",
+        "verified": false
+      }
+    ]
+  }
+}

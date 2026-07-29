@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1936728667792740512",
+    "created_at": "2025-06-22T11:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T12:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936747856129617934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936747856129617934",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936747793642819902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsushou_sonn 是捏（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1936728667792740512",
+        "created_at": "2025-06-22T11:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936747856129617934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936747856129617934",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936747793642819902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn 是捏（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "1936728667792740512",
+        "created_at": "2025-06-22T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936747793642819902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936747793642819902",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936728667792740512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 中考吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1105,
+          "like_count": 31104,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 3768
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1933490646494687408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2813,
+          "following_count": 3928,
+          "like_count": 1869,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 5110
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

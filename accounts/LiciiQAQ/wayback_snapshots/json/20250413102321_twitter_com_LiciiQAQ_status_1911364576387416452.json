@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1910745605640773971",
+    "created_at": "2025-04-13T10:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T11:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911364576387416452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750621119445651456",
+          "start": 0,
+          "username": "Bolimantou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911364576387416452",
+    "in_reply_to_user_id": "1750621119445651456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910745605640773971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolimantou 羡慕w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8916,
+        "height": 720,
+        "media_key": "7_1910745569968230400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1910745569968230400/pu/img/Pl6EA8aZCWrZAADL.jpg",
+        "public_metrics": {
+          "view_count": 14467
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910745569968230400/pu/vid/avc1/320x320/EYxjW6YBKqSnGocf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910745569968230400/pu/vid/avc1/540x540/SsF4elRKKwhUJ1ZQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1910745569968230400/pu/vid/avc1/720x720/WFBJOYLEORNHPNYB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1910745569968230400/pu/pl/fOxEYF0V1-8jzOXY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1910745605640773971",
+        "created_at": "2025-04-13T10:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T11:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911364576387416452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750621119445651456",
+              "start": 0,
+              "username": "Bolimantou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911364576387416452",
+        "in_reply_to_user_id": "1750621119445651456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910745605640773971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolimantou 羡慕w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1910745569968230400"
+          ]
+        },
+        "author_id": "1750621119445651456",
+        "conversation_id": "1910745605640773971",
+        "created_at": "2025-04-11T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910745605640773971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "伪娘"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/03uJPzIlOj",
+              "end": 48,
+              "expanded_url": "https://x.com/Bolimantou/status/1910745605640773971/video/1",
+              "media_key": "7_1910745569968230400",
+              "start": 25,
+              "url": "https://t.co/03uJPzIlOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910745605640773971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 41541,
+          "like_count": 272,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "师傅别出奶了我害怕😭😭😭\n＃伪娘 ＃男娘 ＃药娘 https://t.co/03uJPzIlOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 580,
+          "like_count": 7848,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1055
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T20:46:25.000Z",
+        "description": "梦想是变成女孩子！在这里放一个抱抱。成分是go批瓦批a批bf1/5/2042批\n在等她…，等她回来……\n没有门槛，没有门槛，没有门槛\n（pps：仅接受交友私信aaaa）\n想给大家带来一点温暖？\n（ppps：喜欢发癫）\n江苏扬州-河南郑州来回跑（\n依存中毒/药物上瘾/铃原树",
+        "id": "1750621119445651456",
+        "location": "扬州",
+        "name": "玻璃馒头ღ",
+        "pinned_tweet_id": "1795865290154393951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787162186936393728/JJrNvSHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4225,
+          "following_count": 1112,
+          "like_count": 1471,
+          "listed_count": 8,
+          "media_count": 362,
+          "tweet_count": 1393
+        },
+        "username": "Bolimantou",
+        "verified": false
+      }
+    ]
+  }
+}

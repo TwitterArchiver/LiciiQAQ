@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914512529029796184",
+    "created_at": "2025-04-22T06:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T07:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914569157557047663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1122184216693764096",
+          "start": 0,
+          "username": "jshwnszzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914569157557047663",
+    "in_reply_to_user_id": "1122184216693764096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914512529029796184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jshwnszzs 快删掉，我一个朋友破防了👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914512529029796184",
+        "created_at": "2025-04-22T06:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914569157557047663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1122184216693764096",
+              "start": 0,
+              "username": "jshwnszzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914569157557047663",
+        "in_reply_to_user_id": "1122184216693764096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914512529029796184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jshwnszzs 快删掉，我一个朋友破防了👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122184216693764096",
+        "conversation_id": "1914512529029796184",
+        "created_at": "2025-04-22T02:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914512529029796184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914512529029796184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4141,
+          "like_count": 85,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你住推特上了吗？你其他社交软件没人搭理你吗？🐒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 658,
+          "like_count": 9715,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1383
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-27T17:02:21.000Z",
+        "description": "我需要你 🚪99",
+        "id": "1122184216693764096",
+        "location": "上海",
+        "name": "小土",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905216559645351936/I7Jcop3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 27,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 161
+        },
+        "username": "jshwnszzs",
+        "verified": false
+      }
+    ]
+  }
+}

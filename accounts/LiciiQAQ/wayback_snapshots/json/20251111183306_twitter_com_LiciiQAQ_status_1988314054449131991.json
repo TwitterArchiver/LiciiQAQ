@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988123049930215424"
+      ],
+      "media_source_tweet_id": [
+        "1988123087884423623"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988314054449131991",
+    "created_at": "2025-11-11T18:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T19:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988314054449131991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1lp2jnIcE",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/1988123087884423623/photo/1",
+          "media_key": "3_1988123049930215424",
+          "start": 15,
+          "url": "https://t.co/o1lp2jnIcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988314054449131991",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988123087884423623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/o1lp2jnIcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1988123049930215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5c7YWDbUAA_3q2.jpg",
+        "width": 455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988123049930215424"
+          ],
+          "media_source_tweet_id": [
+            "1988123087884423623"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988314054449131991",
+        "created_at": "2025-11-11T18:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T19:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988314054449131991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1lp2jnIcE",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/1988123087884423623/photo/1",
+              "media_key": "3_1988123049930215424",
+              "start": 15,
+              "url": "https://t.co/o1lp2jnIcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988314054449131991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988123087884423623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/o1lp2jnIcE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988123049930215424"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988123087884423623",
+        "created_at": "2025-11-11T05:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988123087884423623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1lp2jnIcE",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1988123087884423623/photo/1",
+              "media_key": "3_1988123049930215424",
+              "start": 0,
+              "url": "https://t.co/o1lp2jnIcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988123087884423623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 89231,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o1lp2jnIcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 2079,
+          "like_count": 85121,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 7577
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26176,
+          "following_count": 245,
+          "like_count": 55,
+          "listed_count": 75,
+          "media_count": 7799,
+          "tweet_count": 7825
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

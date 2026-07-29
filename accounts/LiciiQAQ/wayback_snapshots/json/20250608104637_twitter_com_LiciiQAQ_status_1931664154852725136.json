@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1931664154852725136",
+    "created_at": "2025-06-08T10:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T11:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931664154852725136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TopGyaru/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/TopGyaru/status/1931187888168784032",
+          "start": 13,
+          "url": "https://t.co/9fmCeWgwll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931664154852725136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931187888168784032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不管，这就是gay（） https://t.co/9fmCeWgwll"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47321,
+        "height": 1280,
+        "media_key": "7_1931187839972069376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931187839972069376/pu/img/z74WTQeTWAoqEMry.jpg",
+        "public_metrics": {
+          "view_count": 226559
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931187839972069376/pu/vid/avc1/320x568/-WqYpmxY0PzLVifS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931187839972069376/pu/vid/avc1/480x852/kYRdPbtDtgZhSxXM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931187839972069376/pu/vid/avc1/720x1280/Jvt03G4FL0eA_oXM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931187839972069376/pu/pl/6MKyTTE8h5oGQquy.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1931664154852725136",
+        "created_at": "2025-06-08T10:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931664154852725136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TopGyaru/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/TopGyaru/status/1931187888168784032",
+              "start": 13,
+              "url": "https://t.co/9fmCeWgwll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931664154852725136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931187888168784032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不管，这就是gay（） https://t.co/9fmCeWgwll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931187839972069376"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "conversation_id": "1931187888168784032",
+        "created_at": "2025-06-07T03:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T04:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931187888168784032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfRW5cBXU6",
+              "end": 23,
+              "expanded_url": "https://x.com/TopGyaru/status/1931187888168784032/video/1",
+              "media_key": "7_1931187839972069376",
+              "start": 0,
+              "url": "https://t.co/OfRW5cBXU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931187888168784032",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3098,
+          "impression_count": 383210,
+          "like_count": 11695,
+          "quote_count": 102,
+          "reply_count": 45,
+          "retweet_count": 1441
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OfRW5cBXU6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 988,
+          "like_count": 25159,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 3291
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1892952150281539702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248981,
+          "following_count": 1345,
+          "like_count": 132572,
+          "listed_count": 421,
+          "media_count": 7765,
+          "tweet_count": 22946
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

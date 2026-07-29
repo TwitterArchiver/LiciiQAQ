@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1908883719177359416",
+    "created_at": "2025-04-07T23:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T00:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909382111913820257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614826297091592198",
+          "start": 0,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909382111913820257",
+    "in_reply_to_user_id": "1614826297091592198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908883719177359416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_yoki 抱抱🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1908883719177359416",
+        "created_at": "2025-04-07T23:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T00:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909382111913820257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909382111913820257",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908883719177359416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 抱抱🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614826297091592198",
+        "conversation_id": "1908883719177359416",
+        "created_at": "2025-04-06T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908883719177359416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908883719177359416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35367,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸妈倒是不把我赶出家门了，但是他们把家里面路由器关了，还把我的数据卡停了，因为我那个是副卡...我现在上不了网...\n\n只能在楼下小卖部蹭网了...可能要在店旁边的小桌子坐一个晚上吧...\n\n我好讨厌父母..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 522,
+          "like_count": 6696,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 898
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "我是帅哥！发的推文是日常或者是碎碎念...  ΣΣ(,,・ω・,,)  随缘互fo | 涩涩里推?：@winter_whaet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "winter_whaet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Winter_yoki/st…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/Winter_yoki/status/1909078359784518119",
+                "start": 0,
+                "url": "https://t.co/DLZ6XT3qcq"
+              }
+            ]
+          }
+        },
+        "id": "1614826297091592198",
+        "location": "自介条/QQ扩列：",
+        "name": "冬麦yoki",
+        "pinned_tweet_id": "1909102851856666768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908872643740418048/zQTdGsSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4972,
+          "following_count": 861,
+          "like_count": 11595,
+          "listed_count": 4,
+          "media_count": 291,
+          "tweet_count": 5309
+        },
+        "url": "https://t.co/DLZ6XT3qcq",
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

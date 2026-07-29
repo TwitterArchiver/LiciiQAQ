@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939375869639921898",
+    "created_at": "2025-06-30T04:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939538975305408708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1162034568976723969",
+          "start": 0,
+          "username": "DancingSnow0517"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939538975305408708",
+    "in_reply_to_user_id": "1162034568976723969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939538530000335050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DancingSnow0517 窝家长也是（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939375869639921898",
+        "created_at": "2025-06-30T04:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939538975305408708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1162034568976723969",
+              "start": 0,
+              "username": "DancingSnow0517"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939538975305408708",
+        "in_reply_to_user_id": "1162034568976723969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939538530000335050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DancingSnow0517 窝家长也是（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162034568976723969",
+        "conversation_id": "1939375869639921898",
+        "created_at": "2025-06-30T04:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939538530000335050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939538530000335050",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939375869639921898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 我家里倒是，我生啥病，都说我吃糖吃的，说的我好像不吃糖就不会生病似的......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 1206,
+          "like_count": 34555,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4133
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-15T16:13:25.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dancingsnow0517.github.io",
+                "end": 23,
+                "expanded_url": "https://dancingsnow0517.github.io/",
+                "start": 0,
+                "url": "https://t.co/UkCkzT2bY3"
+              }
+            ]
+          }
+        },
+        "id": "1162034568976723969",
+        "name": "DancingSnow",
+        "pinned_tweet_id": "1689679371945287680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899544168558690304/gdl1G5Xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 166,
+          "like_count": 8413,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/UkCkzT2bY3",
+        "username": "DancingSnow0517",
+        "verified": false
+      }
+    ]
+  }
+}

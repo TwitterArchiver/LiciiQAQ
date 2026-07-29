@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948346011057033216"
+      ],
+      "media_source_tweet_id": [
+        "1948346013120606350"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948514088381972731",
+    "created_at": "2025-07-24T22:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T23:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948514088381972731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1830761760334454787",
+          "start": 3,
+          "username": "ci2008_tyxjzl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FjWYQSgzLv",
+          "end": 46,
+          "expanded_url": "https://x.com/ci2008_tyxjzl/status/1948346013120606350/photo/1",
+          "media_key": "3_1948346011057033216",
+          "start": 23,
+          "url": "https://t.co/FjWYQSgzLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948514088381972731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948346013120606350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ci2008_tyxjzl: 请关注 https://t.co/FjWYQSgzLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_1948346011057033216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnqX9CakAAej8f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948346011057033216"
+          ],
+          "media_source_tweet_id": [
+            "1948346013120606350"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948514088381972731",
+        "created_at": "2025-07-24T22:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T23:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948514088381972731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1830761760334454787",
+              "start": 3,
+              "username": "ci2008_tyxjzl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjWYQSgzLv",
+              "end": 46,
+              "expanded_url": "https://x.com/ci2008_tyxjzl/status/1948346013120606350/photo/1",
+              "media_key": "3_1948346011057033216",
+              "start": 23,
+              "url": "https://t.co/FjWYQSgzLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948514088381972731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948346013120606350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ci2008_tyxjzl: 请关注 https://t.co/FjWYQSgzLv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948346011057033216"
+          ]
+        },
+        "author_id": "1830761760334454787",
+        "conversation_id": "1948346013120606350",
+        "created_at": "2025-07-24T11:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948346013120606350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjWYQSgzLv",
+              "end": 27,
+              "expanded_url": "https://x.com/ci2008_tyxjzl/status/1948346013120606350/photo/1",
+              "media_key": "3_1948346011057033216",
+              "start": 4,
+              "url": "https://t.co/FjWYQSgzLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948346013120606350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请关注 https://t.co/FjWYQSgzLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1434,
+          "like_count": 44281,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 5293
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "偷窥着我破碎的生活🤕 | hrt 2024.7.23🍥 | 乐队对白后 Drums🥁 | 双相木桶饭🏳‍⚧ | isfj | @ManCity Fan💙 | 市队RB/RM⚽️ | 羽毛球🏸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "ManCity"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/TCqLxW3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/TCqLxW3",
+                "start": 0,
+                "url": "https://t.co/gSBTk1pqA1"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "Tokyo-to, Japan",
+        "name": "瓷ci",
+        "pinned_tweet_id": "1947579396891807778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946726332697542656/nZ--zouA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 211,
+          "like_count": 1696,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/gSBTk1pqA1",
+        "username": "ci2008_tyxjzl",
+        "verified": false
+      }
+    ]
+  }
+}

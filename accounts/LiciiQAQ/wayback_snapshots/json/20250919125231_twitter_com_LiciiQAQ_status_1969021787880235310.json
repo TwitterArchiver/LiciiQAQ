@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1968742145650561187",
+    "created_at": "2025-09-19T12:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T13:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969021787880235310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969021787880235310",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969018939838456147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yujiudu 👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1968742145650561187",
+        "created_at": "2025-09-19T12:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969021787880235310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969021787880235310",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969018939838456147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593799138893873152",
+        "conversation_id": "1968742145650561187",
+        "created_at": "2025-09-19T12:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969018939838456147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969018939838456147",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968742145650561187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 为什么这么快呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 1881,
+          "like_count": 65669,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 6882
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "千江有水映月光 風拂君襟侧挽袖\n红叶散尽冬已至 风月无边夜未央\n买🍬可以找找@qiqibushibendan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "qiqibushibendan"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922026234634182656/rMjrx4Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 2681,
+          "like_count": 30686,
+          "listed_count": 10,
+          "media_count": 1012,
+          "tweet_count": 6475
+        },
+        "username": "Yujiudu",
+        "verified": false
+      }
+    ]
+  }
+}

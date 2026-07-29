@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1952498270355501063",
+    "created_at": "2025-08-04T22:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T23:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952498270355501063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1913309341735956480",
+          "start": 3,
+          "username": "yingyang_MTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952498270355501063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952384169197408474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yingyang_MTF: 快到100fo了，整个抽奖🤓\n抽3个人给10块钱（我是穷入）\n关注｜转发｜评论参加\n到100fo就开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1952498270355501063",
+        "created_at": "2025-08-04T22:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952498270355501063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913309341735956480",
+              "start": 3,
+              "username": "yingyang_MTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952498270355501063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952384169197408474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yingyang_MTF: 快到100fo了，整个抽奖🤓\n抽3个人给10块钱（我是穷入）\n关注｜转发｜评论参加\n到100fo就开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913309341735956480",
+        "conversation_id": "1952384169197408474",
+        "created_at": "2025-08-04T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952384169197408474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952384169197408474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "快到100fo了，整个抽奖🤓\n抽3个人给10块钱（我是穷入）\n关注｜转发｜评论参加\n到100fo就开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1530,
+          "like_count": 48179,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5801
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T19:11:33.000Z",
+        "description": "小药娘｜玩 战争雷霆，钢铁雄心4，KARDS｜171cm 58kg｜无证含糖｜生日2010.11.28｜互fo｜只会中文｜QQ:3344269844(扩列)｜有时傻傻的｜社恐｜想要找对象！！",
+        "id": "1913309341735956480",
+        "location": "谁知道呢",
+        "name": "营养要均衡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950147286937587715/jqqsbiqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 125,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 147
+        },
+        "username": "yingyang_MTF",
+        "verified": false
+      }
+    ]
+  }
+}

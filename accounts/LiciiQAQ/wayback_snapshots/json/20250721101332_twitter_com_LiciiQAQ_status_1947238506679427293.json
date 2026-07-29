@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947147900741382145"
+      ],
+      "media_source_tweet_id": [
+        "1947147910912806975"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1947238506679427293",
+    "created_at": "2025-07-21T10:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T11:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947238506679427293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1732356232290222080",
+          "start": 3,
+          "username": "8964_Y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQlbYNzL5F",
+          "end": 53,
+          "expanded_url": "https://x.com/8964_Y/status/1947147910912806975/photo/1",
+          "media_key": "3_1947147900741382145",
+          "start": 30,
+          "url": "https://t.co/EQlbYNzL5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947238506679427293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947147910912806975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964_Y: 刚买的灯，姐妹们觉得这个拍照好看不 https://t.co/EQlbYNzL5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1947147900741382145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWoswTWcAEkK1W.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947147900741382145"
+          ],
+          "media_source_tweet_id": [
+            "1947147910912806975"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1947238506679427293",
+        "created_at": "2025-07-21T10:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947238506679427293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1732356232290222080",
+              "start": 3,
+              "username": "8964_Y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQlbYNzL5F",
+              "end": 53,
+              "expanded_url": "https://x.com/8964_Y/status/1947147910912806975/photo/1",
+              "media_key": "3_1947147900741382145",
+              "start": 30,
+              "url": "https://t.co/EQlbYNzL5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947238506679427293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947147910912806975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964_Y: 刚买的灯，姐妹们觉得这个拍照好看不 https://t.co/EQlbYNzL5F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947147900741382145"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1947147910912806975",
+        "created_at": "2025-07-21T04:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T05:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947147910912806975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQlbYNzL5F",
+              "end": 41,
+              "expanded_url": "https://x.com/8964_Y/status/1947147910912806975/photo/1",
+              "media_key": "3_1947147900741382145",
+              "start": 18,
+              "url": "https://t.co/EQlbYNzL5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947147910912806975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刚买的灯，姐妹们觉得这个拍照好看不 https://t.co/EQlbYNzL5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 1395,
+          "like_count": 42557,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 5088
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜@yeye828282｜里账号：@00Mio007｜专门发画的：@QY_art7 ｜ダンダダン全员推｜绘画/药物/音乐/漫画/甜品｜👓🍑｜本魔女对所说的任何言论都不负责｜🚪100/188/520无区别",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "yeye828282"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "00Mio007"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1943663464414949676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 943,
+          "like_count": 15099,
+          "listed_count": 12,
+          "media_count": 778,
+          "tweet_count": 11734
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

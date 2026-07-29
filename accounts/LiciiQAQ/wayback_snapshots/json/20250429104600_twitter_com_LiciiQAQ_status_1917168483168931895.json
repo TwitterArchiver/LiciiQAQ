@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1916999174509498823",
+    "created_at": "2025-04-29T10:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T11:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917168483168931895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802674143030374400",
+          "start": 0,
+          "username": "Mikhail_712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917168483168931895",
+    "in_reply_to_user_id": "1802674143030374400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916999174509498823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikhail_712 我草…窝也这样（什"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916999174509498823].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916999174509498823",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916999174509498823"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1916999174509498823",
+        "created_at": "2025-04-29T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917168483168931895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802674143030374400",
+              "start": 0,
+              "username": "Mikhail_712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917168483168931895",
+        "in_reply_to_user_id": "1802674143030374400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916999174509498823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikhail_712 我草…窝也这样（什"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 694,
+          "like_count": 11451,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1658
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:06:44.000Z",
+        "description": "米沙好，世界坏！\n@misa2333qwq|可以叫「米沙」的啦～\n中文|日本語|拒极端壬\n欢迎好友友——！qwq\n性奴@baojiangdilei @enosima_asahi可爱主人@qHanTinp|互fo联系我！\n可爱|详见置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "misa2333qwq"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "enosima_asahi"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikhail_7121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikhail_7121",
+                "start": 0,
+                "url": "https://t.co/VW9vsBPqMf"
+              }
+            ]
+          }
+        },
+        "id": "1802674143030374400",
+        "location": "米哈伊尔无限逃避责任很有限公司",
+        "name": "【半退推】Mikhailのパイプオルガン🎏🏳️",
+        "pinned_tweet_id": "1901260705141334286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912879585081139201/2Nly1bpT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 955,
+          "like_count": 7661,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/VW9vsBPqMf",
+        "username": "Mikhail_712",
+        "verified": false
+      }
+    ]
+  }
+}

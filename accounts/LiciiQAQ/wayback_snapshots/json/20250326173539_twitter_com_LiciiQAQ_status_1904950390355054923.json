@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1904950390355054923",
+    "created_at": "2025-03-26T17:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T18:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904950390355054923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1876832792744792064",
+          "start": 3,
+          "username": "menntikorosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904950390355054923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904833004486484236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @menntikorosei: 比起学习和艾草我宁愿艾草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1904950390355054923",
+        "created_at": "2025-03-26T17:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T18:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904950390355054923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1876832792744792064",
+              "start": 3,
+              "username": "menntikorosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904950390355054923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904833004486484236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @menntikorosei: 比起学习和艾草我宁愿艾草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876832792744792064",
+        "conversation_id": "1904833004486484236",
+        "created_at": "2025-03-26T09:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T10:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904833004486484236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904833004486484236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比起学习和艾草我宁愿艾草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 460,
+          "like_count": 3913,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 619
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T03:26:32.000Z",
+        "description": "双相精神病一个，女装爱好者，不键政，看成分互fo，双性恋 ，被生活调教成人妻的样子了，小号：@mengqiwakaka向我匿名问答：https://t.co/VFlYPDdDYv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mengqiwakaka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/menntikorosei",
+                "end": 89,
+                "expanded_url": "https://ngl.link/menntikorosei",
+                "start": 66,
+                "url": "https://t.co/VFlYPDdDYv"
+              }
+            ]
+          }
+        },
+        "id": "1876832792744792064",
+        "location": "大贝塔里",
+        "name": "檬七（预备人妻修行中）",
+        "pinned_tweet_id": "1901272692399226970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902315363679047680/MRIlkI4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 402,
+          "like_count": 2775,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 1943
+        },
+        "username": "menntikorosei",
+        "verified": false
+      }
+    ]
+  }
+}

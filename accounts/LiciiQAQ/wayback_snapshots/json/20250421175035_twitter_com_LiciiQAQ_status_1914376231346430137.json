@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914288701431304612",
+    "created_at": "2025-04-21T17:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T18:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914376231346430137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914376231346430137",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914288701431304612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 很好了，我们一顿25r做的和史一样还不干净👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1914288690081476608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDra9nasAAjzTt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914288701431304612",
+        "created_at": "2025-04-21T17:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T18:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914376231346430137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914376231346430137",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914288701431304612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 很好了，我们一顿25r做的和史一样还不干净👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914288690081476608"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1914288701431304612",
+        "created_at": "2025-04-21T12:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T13:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914288701431304612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96xR2pJ3XN",
+              "end": 39,
+              "expanded_url": "https://x.com/meiqinyuban/status/1914288701431304612/photo/1",
+              "media_key": "3_1914288690081476608",
+              "start": 16,
+              "url": "https://t.co/96xR2pJ3XN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914288701431304612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校食堂23块钱自选菜，爽吃（ https://t.co/96xR2pJ3XN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 655,
+          "like_count": 9549,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1352
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立，娱乐级街机音游玩家/电子DIY  GNU/Linux  把我当男的当女的都行 或许是男娘（？ 在沧州黄骅上学（看到有营养或好看的帖子会转转，合得来的会回关，需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908806629270884352/fSDOVqtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 446,
+          "like_count": 2154,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 1933
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

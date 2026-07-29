@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1910043209306448280",
+    "created_at": "2025-04-09T18:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T19:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910043209306448280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1910043209306448280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉…回想起昨天去考体育中考的那个学校，感觉那里氛围真的好好，环境也很不错，不像窝学校那么压抑、死气沉沉，动不动还被班主任和学生处的领导折腾，而且那边还不管头发，同样是学校，差距咋就这么大捏…好羡慕w😭\n…也许窝不在现在的学校，不要碰到nc的班主任和学生处也不会是现在这样吧…🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1910043209306448280",
+        "created_at": "2025-04-09T18:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T19:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910043209306448280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910043209306448280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉…回想起昨天去考体育中考的那个学校，感觉那里氛围真的好好，环境也很不错，不像窝学校那么压抑、死气沉沉，动不动还被班主任和学生处的领导折腾，而且那边还不管头发，同样是学校，差距咋就这么大捏…好羡慕w😭\n…也许窝不在现在的学校，不要碰到nc的班主任和学生处也不会是现在这样吧…🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 560,
+          "like_count": 7334,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 976
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954113536776683520"
+      ],
+      "media_source_tweet_id": [
+        "1954113547400626454"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954117292897288256",
+    "created_at": "2025-08-09T09:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T10:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954117292897288256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624451741382221824",
+          "start": 3,
+          "username": "nya_QianZi"
+        },
+        {
+          "end": 28,
+          "id": "1695649420539219968",
+          "start": 19,
+          "username": "LiciiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jQzzAil9uU",
+          "end": 73,
+          "expanded_url": "https://x.com/nya_QianZi/status/1954113547400626454/photo/1",
+          "media_key": "3_1954113536776683520",
+          "start": 50,
+          "url": "https://t.co/jQzzAil9uU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954117292897288256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954113547400626454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nya_QianZi: 贴到了@liciiQAQ\n虽然不知道两个社恐为什么面对面打字交流… https://t.co/jQzzAil9uU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954113536776683520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx5n6IpbQAApce-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954113536776683520"
+          ],
+          "media_source_tweet_id": [
+            "1954113547400626454"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954117292897288256",
+        "created_at": "2025-08-09T09:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T10:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954117292897288256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624451741382221824",
+              "start": 3,
+              "username": "nya_QianZi"
+            },
+            {
+              "end": 28,
+              "id": "1695649420539219968",
+              "start": 19,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQzzAil9uU",
+              "end": 73,
+              "expanded_url": "https://x.com/nya_QianZi/status/1954113547400626454/photo/1",
+              "media_key": "3_1954113536776683520",
+              "start": 50,
+              "url": "https://t.co/jQzzAil9uU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954117292897288256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954113547400626454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nya_QianZi: 贴到了@liciiQAQ\n虽然不知道两个社恐为什么面对面打字交流… https://t.co/jQzzAil9uU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954113536776683520"
+          ]
+        },
+        "author_id": "1624451741382221824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954113547400626454",
+        "created_at": "2025-08-09T09:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T10:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954113547400626454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695649420539219968",
+              "start": 3,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQzzAil9uU",
+              "end": 57,
+              "expanded_url": "https://x.com/nya_QianZi/status/1954113547400626454/photo/1",
+              "media_key": "3_1954113536776683520",
+              "start": 34,
+              "url": "https://t.co/jQzzAil9uU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954113547400626454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴到了@liciiQAQ\n虽然不知道两个社恐为什么面对面打字交流… https://t.co/jQzzAil9uU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 1549,
+          "like_count": 50446,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 5995
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T16:54:29.000Z",
+        "description": "舞萌吃/INFP-T/会回fo没回可能是忘了戳戳我/167cm60kg减肥中/大概聊天会回不然搞不好又被送扭了/2023.2.6/2023.10.16/2024.5.6",
+        "id": "1624451741382221824",
+        "location": "雨城区",
+        "name": "见雨neko🍥",
+        "pinned_tweet_id": "1937351443523993639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704492155966754816/2wAtZ-xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 816,
+          "like_count": 2646,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 1743
+        },
+        "username": "nya_QianZi",
+        "verified": false
+      }
+    ]
+  }
+}

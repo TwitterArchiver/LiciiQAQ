@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1917079808330371211",
+    "created_at": "2025-04-29T10:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T11:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917168615453065339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853293374889136128",
+          "start": 0,
+          "username": "gimanother"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917168615453065339",
+    "in_reply_to_user_id": "1853293374889136128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917079808330371211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimanother 那很坏了，揉揉w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1917079808330371211",
+        "created_at": "2025-04-29T10:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T11:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917168615453065339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853293374889136128",
+              "start": 0,
+              "username": "gimanother"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917168615453065339",
+        "in_reply_to_user_id": "1853293374889136128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917079808330371211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimanother 那很坏了，揉揉w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853293374889136128",
+        "conversation_id": "1917079808330371211",
+        "created_at": "2025-04-29T04:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917079808330371211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917079808330371211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜上厕所踩空摔了一跤\n脚崴了手指甲也在浴缸上撞出血了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 694,
+          "like_count": 11456,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1659
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853311066996162560/VyGivQK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 224,
+          "like_count": 12941,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1636
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

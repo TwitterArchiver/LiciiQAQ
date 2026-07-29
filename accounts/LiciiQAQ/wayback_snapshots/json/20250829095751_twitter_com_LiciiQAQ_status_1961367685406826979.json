@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1961289904190857653",
+    "created_at": "2025-08-29T09:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T10:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961367685406826979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684406308332785665",
+          "start": 0,
+          "username": "WandererFly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961367685406826979",
+    "in_reply_to_user_id": "1684406308332785665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961289904190857653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WandererFly 三星或者一加……？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1961289904190857653",
+        "created_at": "2025-08-29T09:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961367685406826979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684406308332785665",
+              "start": 0,
+              "username": "WandererFly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961367685406826979",
+        "in_reply_to_user_id": "1684406308332785665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961289904190857653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WandererFly 三星或者一加……？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684406308332785665",
+        "conversation_id": "1961289904190857653",
+        "created_at": "2025-08-29T04:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T05:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961289904190857653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961289904190857653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1779,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的下一部手机可能会是什么品牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 1769,
+          "like_count": 58741,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 6570
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:32:25.000Z",
+        "description": "记录麦当劳兼职生活/校服控/可以面基/和平派/禁止政治",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xym.one",
+                "end": 23,
+                "expanded_url": "http://xym.one",
+                "start": 0,
+                "url": "https://t.co/726DTxL0Qa"
+              }
+            ]
+          }
+        },
+        "id": "1684406308332785665",
+        "location": "ㄊㄧˊㄨㄚˇㄊㄜˋ",
+        "name": "蹦蹦小圆帽",
+        "pinned_tweet_id": "1862500252189958526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778320966025957376/IZ7WHCeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 1109,
+          "like_count": 6127,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/726DTxL0Qa",
+        "username": "WandererFly",
+        "verified": false
+      }
+    ]
+  }
+}

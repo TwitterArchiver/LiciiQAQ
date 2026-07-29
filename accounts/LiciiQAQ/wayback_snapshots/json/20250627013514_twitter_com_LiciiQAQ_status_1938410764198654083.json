@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1913849538269376913",
+    "created_at": "2025-06-27T01:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T02:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938410764198654083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LiciiQAQ/statu…",
+          "end": 29,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1938410428914368888?t=W-SAGdP1c8AMpq7EefGmPA&s=19",
+          "start": 6,
+          "url": "https://t.co/OKEKGlakBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938410764198654083",
+    "in_reply_to_user_id": "1695649420539219968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938410428914368888",
+        "type": "quoted"
+      },
+      {
+        "id": "1913849538269376913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新了喵👇\nhttps://t.co/OKEKGlakBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938410426175524865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuaeAzEbEAEdZfr.jpg",
+        "width": 1157
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913849533190320128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go9cAqtbMAA8R03.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1913849538269376913",
+        "created_at": "2025-06-27T01:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T02:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938410764198654083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 29,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1938410428914368888?t=W-SAGdP1c8AMpq7EefGmPA&s=19",
+              "start": 6,
+              "url": "https://t.co/OKEKGlakBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938410764198654083",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938410428914368888",
+            "type": "quoted"
+          },
+          {
+            "id": "1913849538269376913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新了喵👇\nhttps://t.co/OKEKGlakBa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938410426175524865"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938410428914368888",
+        "created_at": "2025-06-27T01:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T02:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938410428914368888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IuVjLt0tvr",
+              "end": 59,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1938410428914368888/photo/1",
+              "media_key": "3_1938410426175524865",
+              "start": 36,
+              "url": "https://t.co/IuVjLt0tvr"
+            },
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1931217975211970648",
+              "start": 60,
+              "url": "https://t.co/anoyb7pCCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938410428914368888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931217975211970648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个置顶自介条😇（\n…\n游戏代练可私信窝，药物售卖相关见引用推文喵，， https://t.co/IuVjLt0tvr https://t.co/anoyb7pCCy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913849533190320128"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1913849538269376913",
+        "created_at": "2025-04-20T06:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T07:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913849538269376913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKwNyrs65w",
+              "end": 57,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1913849538269376913/photo/1",
+              "media_key": "3_1913849533190320128",
+              "start": 34,
+              "url": "https://t.co/wKwNyrs65w"
+            },
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1906194587699597780",
+              "start": 58,
+              "url": "https://t.co/uSkBuoVXBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913849538269376913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15871,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906194587699597780",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个置顶自介条😇（\n…\n游戏代练可私信窝，凝胶相关见引用推文喵，， https://t.co/wKwNyrs65w https://t.co/uSkBuoVXBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938410428914368888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 1190,
+          "like_count": 33541,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 3980
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

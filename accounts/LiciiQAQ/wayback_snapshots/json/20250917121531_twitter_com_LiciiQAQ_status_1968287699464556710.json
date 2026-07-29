@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967970827833352192"
+      ],
+      "media_source_tweet_id": [
+        "1967970837363036609"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596656304128",
+          "name": "Beverage - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040162748",
+          "name": "Monster Energy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Energy Drinks",
+          "id": "850449183441960960",
+          "name": "Energy Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596656304128",
+          "name": "Beverage - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040162748",
+          "name": "Monster Energy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040162748",
+          "name": "Monster Energy"
+        }
+      }
+    ],
+    "conversation_id": "1968287699464556710",
+    "created_at": "2025-09-17T12:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T13:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968287699464556710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722976543939432448",
+          "start": 3,
+          "username": "pinkiegutx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v4Ogs4sbQJ",
+          "end": 100,
+          "expanded_url": "https://x.com/pinkiegutx/status/1967970837363036609/photo/1",
+          "media_key": "3_1967970827833352192",
+          "start": 77,
+          "url": "https://t.co/v4Ogs4sbQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968287699464556710",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 352
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967970837363036609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkiegutx: Who doesn't love monster energy? X3 #drugtwt moot me up!!♡♡♡ https://t.co/v4Ogs4sbQJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_1967970827833352192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0-jColWoAAeGjz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967970827833352192"
+          ],
+          "media_source_tweet_id": [
+            "1967970837363036609"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Energy Drinks",
+              "id": "850449183441960960",
+              "name": "Energy Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          }
+        ],
+        "conversation_id": "1968287699464556710",
+        "created_at": "2025-09-17T12:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968287699464556710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722976543939432448",
+              "start": 3,
+              "username": "pinkiegutx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4Ogs4sbQJ",
+              "end": 100,
+              "expanded_url": "https://x.com/pinkiegutx/status/1967970837363036609/photo/1",
+              "media_key": "3_1967970827833352192",
+              "start": 77,
+              "url": "https://t.co/v4Ogs4sbQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968287699464556710",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 352
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967970837363036609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkiegutx: Who doesn't love monster energy? X3 #drugtwt moot me up!!♡♡♡ https://t.co/v4Ogs4sbQJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967970827833352192"
+          ]
+        },
+        "author_id": "1722976543939432448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Energy Drinks",
+              "id": "850449183441960960",
+              "name": "Energy Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040162748",
+              "name": "Monster Energy"
+            }
+          }
+        ],
+        "conversation_id": "1967970837363036609",
+        "created_at": "2025-09-16T15:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967970837363036609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4Ogs4sbQJ",
+              "end": 84,
+              "expanded_url": "https://x.com/pinkiegutx/status/1967970837363036609/photo/1",
+              "media_key": "3_1967970827833352192",
+              "start": 61,
+              "url": "https://t.co/v4Ogs4sbQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967970837363036609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 28652,
+          "like_count": 3091,
+          "quote_count": 14,
+          "reply_count": 20,
+          "retweet_count": 352
+        },
+        "reply_settings": "everyone",
+        "text": "Who doesn't love monster energy? X3 #drugtwt moot me up!!♡♡♡ https://t.co/v4Ogs4sbQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1870,
+          "like_count": 65055,
+          "listed_count": 5,
+          "media_count": 319,
+          "tweet_count": 6852
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T13:56:45.000Z",
+        "description": "（ ͜.人 ͜.）𓏵𓏵𓏵\n •°☆-▪︎ 🦴🍰your menhera internet angel \non a mission to bring blood to this gory world₍ᐢ. .ᐢ₎ ₊˚⊹♡🪱\n -⚠️♡TW{ sh obs guro drugs}♡ {18}🐈‍⬛",
+        "id": "1722976543939432448",
+        "location": "☆×*-Ponyville-*×☆",
+        "name": "𐂯⋆˚🐾˖° !.",
+        "pinned_tweet_id": "1941071016127770746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937907628274835456/dwbOowEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 583,
+          "like_count": 3536,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 3460
+        },
+        "username": "pinkiegutx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1897249843938254949",
+    "created_at": "2025-03-05T16:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897324597516918976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897324597516918976",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897249843938254949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 我我我，🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1897249843938254949",
+        "created_at": "2025-03-05T16:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897324597516918976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897324597516918976",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897249843938254949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 我我我，🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407034837953748995",
+        "conversation_id": "1897249843938254949",
+        "created_at": "2025-03-05T11:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897249843938254949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897249843938254949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3355,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人真的愿意和我交朋友🥺🥺🥺私聊可以掉落联系方式\n（岐奈猜沒人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 90,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 110
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "18歲高中生/接援交中/善待這個世界 卻被無情折磨/請不要喜歡或愛岐奈/男想變女",
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": "岐奈ゆるん",
+        "pinned_tweet_id": "1810643240733032908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826930572754620416/lWG-a777_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 488,
+          "like_count": 88477,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 19090
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

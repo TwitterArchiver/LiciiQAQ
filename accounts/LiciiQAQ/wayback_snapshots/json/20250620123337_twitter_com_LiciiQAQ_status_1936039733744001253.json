@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1935934420038693216",
+    "created_at": "2025-06-20T12:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T13:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936039733744001253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1815295909271678976",
+          "start": 0,
+          "username": "xiao_Zi007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936039733744001253",
+    "in_reply_to_user_id": "1815295909271678976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936039375378554980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_Zi007 好w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1935934420038693216",
+        "created_at": "2025-06-20T12:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936039733744001253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815295909271678976",
+              "start": 0,
+              "username": "xiao_Zi007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936039733744001253",
+        "in_reply_to_user_id": "1815295909271678976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936039375378554980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_Zi007 好w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815295909271678976",
+        "conversation_id": "1935934420038693216",
+        "created_at": "2025-06-20T12:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936039375378554980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936039375378554980",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935934420038693216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 加油别跟我以前一样裸考就好了😋就是别去什么垃圾普高还是那种屁事多同学也沙币的那种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1079,
+          "like_count": 30193,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 3701
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T08:01:03.000Z",
+        "description": "当pyq发 负能量倾倒处 07年中二病少年",
+        "id": "1815295909271678976",
+        "name": "王维C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860716341424238592/qCuAA1AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 117,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 448
+        },
+        "username": "xiao_Zi007",
+        "verified": false
+      }
+    ]
+  }
+}

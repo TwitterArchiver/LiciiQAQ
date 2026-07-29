@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1986461033926697164",
+    "created_at": "2025-11-06T16:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T17:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986465211692564773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872130736872144897",
+          "start": 0,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986465211692564773",
+    "in_reply_to_user_id": "1872130736872144897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986461033926697164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhenzhen21 抱抱…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1986461033926697164",
+        "created_at": "2025-11-06T16:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986465211692564773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872130736872144897",
+              "start": 0,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986465211692564773",
+        "in_reply_to_user_id": "1872130736872144897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986461033926697164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhenzhen21 抱抱…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872130736872144897",
+        "conversation_id": "1986461033926697164",
+        "created_at": "2025-11-06T15:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986461033926697164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986461033926697164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天和室友起冲突直接掐着他的脖子往床上摁，我知道自己有精神疾病，我控制不住自己，没有人拦得话我下一步可能就要抡起凳子砸向他，我简直是疯了，原来的我都是唯唯诺诺的，上初中时受尽欺负，唉😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 2072,
+          "like_count": 83092,
+          "listed_count": 4,
+          "media_count": 369,
+          "tweet_count": 7542
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "09年mtf 🏳️‍⚧ / 常住地区开封 / 性格温顺欢迎找我聊天₍˄·͈༝·͈˄*₎◞ ̑̑ / 我不会讨厌任何人，我爱你们所有人，世界好温柔我爱这个世界，世界支离破碎抱抱我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shen_dian",
+                "end": 23,
+                "expanded_url": "https://t.me/shen_dian",
+                "start": 0,
+                "url": "https://t.co/em3JVvO9cY"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "location": "月球",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 706,
+          "like_count": 20017,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 922
+        },
+        "url": "https://t.co/em3JVvO9cY",
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938485381764452756",
+    "created_at": "2025-06-27T11:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938556282967032223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918971399139733504",
+          "start": 0,
+          "username": "zayuqier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938556282967032223",
+    "in_reply_to_user_id": "1918971399139733504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938485381764452756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zayuqier 揉揉…补药割手🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1938485189115822080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubiAkuawAAsCNj.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1938485246485532674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubiD6cbEAItVGC.jpg",
+        "width": 4080
+      },
+      {
+        "height": 4080,
+        "media_key": "3_1938485307558834176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubiHd9bsAAik0b.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938485381764452756",
+        "created_at": "2025-06-27T11:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938556282967032223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918971399139733504",
+              "start": 0,
+              "username": "zayuqier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938556282967032223",
+        "in_reply_to_user_id": "1918971399139733504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938485381764452756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zayuqier 揉揉…补药割手🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938485189115822080",
+            "3_1938485246485532674",
+            "3_1938485307558834176"
+          ]
+        },
+        "author_id": "1918971399139733504",
+        "conversation_id": "1938485381764452756",
+        "created_at": "2025-06-27T06:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938485381764452756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "男娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eCK96NqC3",
+              "end": 69,
+              "expanded_url": "https://x.com/zayuqier/status/1938485381764452756/photo/1",
+              "media_key": "3_1938485189115822080",
+              "start": 46,
+              "url": "https://t.co/1eCK96NqC3"
+            },
+            {
+              "display_url": "pic.x.com/1eCK96NqC3",
+              "end": 69,
+              "expanded_url": "https://x.com/zayuqier/status/1938485381764452756/photo/1",
+              "media_key": "3_1938485246485532674",
+              "start": 46,
+              "url": "https://t.co/1eCK96NqC3"
+            },
+            {
+              "display_url": "pic.x.com/1eCK96NqC3",
+              "end": 69,
+              "expanded_url": "https://x.com/zayuqier/status/1938485381764452756/photo/1",
+              "media_key": "3_1938485307558834176",
+              "start": 46,
+              "url": "https://t.co/1eCK96NqC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938485381764452756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 751,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我太懦弱了，不过我会努力的……可以多喜欢我吗……哈哈哈哈哈哈哈hhh #男娘 #药娘 https://t.co/1eCK96NqC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1190,
+          "like_count": 33719,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 3995
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T10:10:28.000Z",
+        "description": "嗨喽嗨喽这里是乃爱05/社畜/时男时女/体重；173，65/谢谢各位宝宝关注哦！还请多多支持喵！想不到了，等想到了继续补充😋",
+        "id": "1918971399139733504",
+        "location": "记得看简介/互fo记得私信，太多有时候看不过来",
+        "name": "乃爱",
+        "pinned_tweet_id": "1935711041662374316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936672743069564928/u-HsM1nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 417,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 244
+        },
+        "username": "zayuqier",
+        "verified": false
+      }
+    ]
+  }
+}

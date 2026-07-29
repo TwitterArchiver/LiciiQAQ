@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939449458586206287",
+    "created_at": "2025-06-30T08:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939608394387898464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "ALCheng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939608394387898464",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939449458586206287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALCheng_ 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939449458586206287",
+        "created_at": "2025-06-30T08:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939608394387898464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "ALCheng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939608394387898464",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939449458586206287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALCheng_ 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "1939449458586206287",
+        "created_at": "2025-06-29T22:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T23:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939449458586206287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939449458586206287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 354,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，本来昨天感觉精神状态好一点了，但是晚上家里人在那聊天的时候又在聊什么马一龙的儿子是mtf，什么跨性别是制药公司的阴谋什么的。虽然上次喝醉了和他们说了想当女孩子，也知道我cd，但是大抵是不知道我含糖的。他们还在安慰自己说我只是在把自己的喜好投射到自己身上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 1214,
+          "like_count": 34959,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 4165
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我河童或者荷取\n出厂年份09/双相/ASD/不登校|\n左下自由社（其它倾向也很包容）/友跨顺男（HRT 250611）|\nBI9CJE/机械爱好者/火车迷/尼康用户/……（爱好广泛，但是都不精通QAQ）|\n东方/雷批/P社战犯/少战/邦多利/……\n|\n成分非常复杂的说喵，很友善，欢迎来找我聊天喵～😋",
+        "id": "1847025525610762240",
+        "location": "Shaanxi,China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919692896535773187/XZWw2EVN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 643,
+          "like_count": 3618,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 453
+        },
+        "username": "ALCheng_",
+        "verified": false
+      }
+    ]
+  }
+}

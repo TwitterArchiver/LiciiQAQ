@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1899516548869730390",
+    "created_at": "2025-03-12T12:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T13:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899804526607028447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1424763174742540288",
+          "start": 0,
+          "username": "4yOung13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899804526607028447",
+    "in_reply_to_user_id": "1424763174742540288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899516548869730390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4yOung13 唉…你们家长党、🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1899516548869730390",
+        "created_at": "2025-03-12T12:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T13:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899804526607028447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1424763174742540288",
+              "start": 0,
+              "username": "4yOung13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899804526607028447",
+        "in_reply_to_user_id": "1424763174742540288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899516548869730390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4yOung13 唉…你们家长党、🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424763174742540288",
+        "conversation_id": "1899516548869730390",
+        "created_at": "2025-03-11T17:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T18:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899516548869730390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899516548869730390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22921,
+          "like_count": 288,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我母亲刚刚跟我说：“晚安，记得吃晚上的药。祝你奶子越吃越大，jiji越吃越小”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 373,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 273
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T16:03:16.000Z",
+        "description": "MtX | zh & en | 老婆：@sincoew_yx | maimaiDX & Ready Or Not & Euro Truck Sim2 | Not a developer | FX30 user",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "sincoew_yx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "young-4.com",
+                "end": 23,
+                "expanded_url": "http://young-4.com",
+                "start": 0,
+                "url": "https://t.co/51nCnOCPCy"
+              }
+            ]
+          }
+        },
+        "id": "1424763174742540288",
+        "location": "Suzhou, Jiangsu, China",
+        "name": "负4价的yOung元素",
+        "pinned_tweet_id": "1833549505641505054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735689705289662464/w07fsulG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 328,
+          "like_count": 46527,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/51nCnOCPCy",
+        "username": "4yOung13",
+        "verified": false
+      }
+    ]
+  }
+}

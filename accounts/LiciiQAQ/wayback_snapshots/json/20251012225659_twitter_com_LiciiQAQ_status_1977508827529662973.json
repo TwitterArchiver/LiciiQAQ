@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977406303392964608"
+      ],
+      "media_source_tweet_id": [
+        "1977406313543106914"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1977508827529662973",
+    "created_at": "2025-10-12T22:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977508827529662973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hCpoROpD71",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/1977406313543106914/photo/1",
+          "media_key": "3_1977406303392964608",
+          "start": 12,
+          "url": "https://t.co/hCpoROpD71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977508827529662973",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977406313543106914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/hCpoROpD71"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_1977406303392964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EojmJbIAAPOlB.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977406303392964608"
+          ],
+          "media_source_tweet_id": [
+            "1977406313543106914"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1977508827529662973",
+        "created_at": "2025-10-12T22:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977508827529662973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCpoROpD71",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/1977406313543106914/photo/1",
+              "media_key": "3_1977406303392964608",
+              "start": 12,
+              "url": "https://t.co/hCpoROpD71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977508827529662973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977406313543106914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: https://t.co/hCpoROpD71"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977406303392964608"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1977406313543106914",
+        "created_at": "2025-10-12T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977406313543106914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hCpoROpD71",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1977406313543106914/photo/1",
+              "media_key": "3_1977406303392964608",
+              "start": 0,
+              "url": "https://t.co/hCpoROpD71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977406313543106914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9572,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hCpoROpD71"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 2009,
+          "like_count": 74630,
+          "listed_count": 4,
+          "media_count": 350,
+          "tweet_count": 7282
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83471,
+          "following_count": 645,
+          "like_count": 30813,
+          "listed_count": 257,
+          "media_count": 12714,
+          "tweet_count": 18015
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

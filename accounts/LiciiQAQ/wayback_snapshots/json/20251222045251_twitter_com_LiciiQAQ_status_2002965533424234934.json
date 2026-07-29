@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2002191363027448231",
+    "created_at": "2025-12-22T04:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T05:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002965533424234934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955988310956105732",
+          "start": 0,
+          "username": "AqDro9Qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002965533424234934",
+    "in_reply_to_user_id": "1955988310956105732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002191363027448231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqDro9Qa 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2002191349446291457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8k2bJwbMAE11zO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2002191363027448231",
+        "created_at": "2025-12-22T04:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002965533424234934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955988310956105732",
+              "start": 0,
+              "username": "AqDro9Qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002965533424234934",
+        "in_reply_to_user_id": "1955988310956105732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002191363027448231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqDro9Qa 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002191349446291457"
+          ]
+        },
+        "author_id": "1955988310956105732",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2002191363027448231",
+        "created_at": "2025-12-20T01:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T02:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002191363027448231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/e7Uj0T7yWE"
+            },
+            {
+              "display_url": "pic.x.com/Zv5n9R1zJs",
+              "end": 64,
+              "expanded_url": "https://x.com/AqDro9Qa/status/2002191363027448231/photo/1",
+              "media_key": "3_2002191349446291457",
+              "start": 41,
+              "url": "https://t.co/Zv5n9R1zJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002191363027448231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 947,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/e7Uj0T7yWE https://t.co/Zv5n9R1zJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 2087,
+          "like_count": 96249,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 7913
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:42:30.000Z",
+        "description": "06年在校大学生｜🇨🇳mtf🏳️‍⚧️｜无证含糖｜2025.08.31 hrt｜cn浊酒｜168cm  104斤｜无烟无酒无瑕无痕无自残 ｜非同类🚪25｜轻度抑郁中度焦虑｜喜欢可爱的东西捏🤗｜世界不能没了罗小黑（嘿咻）｜小女儿@Htoz1790524",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "Htoz1790524"
+              }
+            ]
+          }
+        },
+        "id": "1955988310956105732",
+        "location": "安徽  池州",
+        "name": "Dro🍥9",
+        "pinned_tweet_id": "2001449478293983417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992221861883879424/UO2lgmL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 446,
+          "like_count": 2216,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 382
+        },
+        "username": "AqDro9Qa",
+        "verified": false
+      }
+    ]
+  }
+}

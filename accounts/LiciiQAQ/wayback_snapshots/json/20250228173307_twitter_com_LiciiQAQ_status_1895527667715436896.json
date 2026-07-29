@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1895287002666607018",
+    "created_at": "2025-02-28T17:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T18:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895527667715436896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895527667715436896",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895287002666607018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 怎么连吃带拿的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1309,
+        "media_key": "3_1895286994533601280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1petiX0AAg56e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1895287002666607018",
+        "created_at": "2025-02-28T17:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T18:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895527667715436896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895527667715436896",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895287002666607018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 怎么连吃带拿的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895286994533601280"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1895287002666607018",
+        "created_at": "2025-02-28T01:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T02:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895287002666607018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3ChafcmCR",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1895287002666607018/photo/1",
+              "media_key": "3_1895286994533601280",
+              "start": 0,
+              "url": "https://t.co/B3ChafcmCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895287002666607018",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 89632,
+          "like_count": 2490,
+          "quote_count": 28,
+          "reply_count": 209,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/B3ChafcmCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 63
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42400,
+          "following_count": 918,
+          "like_count": 36663,
+          "listed_count": 109,
+          "media_count": 6869,
+          "tweet_count": 12145
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

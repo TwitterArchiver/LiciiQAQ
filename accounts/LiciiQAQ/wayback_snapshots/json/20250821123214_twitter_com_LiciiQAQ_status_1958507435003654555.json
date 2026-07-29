@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1958459874003832937",
+    "created_at": "2025-08-21T12:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958507435003654555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "334264467",
+          "start": 0,
+          "username": "jvazto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958507435003654555",
+    "in_reply_to_user_id": "334264467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958506327497674861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jvazto 豪🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1958459874003832937",
+        "created_at": "2025-08-21T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958507435003654555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "334264467",
+              "start": 0,
+              "username": "jvazto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958507435003654555",
+        "in_reply_to_user_id": "334264467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958506327497674861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jvazto 豪🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "334264467",
+        "conversation_id": "1958459874003832937",
+        "created_at": "2025-08-21T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958506327497674861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958506327497674861",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958459874003832937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 操你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 1726,
+          "like_count": 55233,
+          "listed_count": 4,
+          "media_count": 295,
+          "tweet_count": 6401
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-12T20:40:21.000Z",
+        "description": "🇨🇦加拿大NEXUS药品官方购买通道 ：可用早产催乳 ❣️领养哺乳所需 ❣️情趣特别催乳所需 ❣️ 男/女性丰胸所需 ❣️正规药品不得滥用 请私信留言需求后购买！ 购买请私信/或联系TG 官网2号@eZneiPGaLviZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 98,
+                "username": "eZneiPGaLviZ"
+              }
+            ]
+          }
+        },
+        "id": "334264467",
+        "location": "Hong Kong",
+        "name": "NEXUS PHARMACY 丰胸泌乳",
+        "pinned_tweet_id": "1891578996409725293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930955388268183552/qVRPgXHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3882,
+          "following_count": 3089,
+          "like_count": 3555,
+          "listed_count": 11,
+          "media_count": 136,
+          "tweet_count": 731
+        },
+        "username": "jvazto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1942387213867602385",
+    "created_at": "2025-07-08T00:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T01:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942387213867602385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/Cldeop/status/1942142495430959292",
+          "start": 2,
+          "url": "https://t.co/xt9FHiEs2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942387213867602385",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942142495430959292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭 https://t.co/xt9FHiEs2G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1942387213867602385",
+        "created_at": "2025-07-08T00:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942387213867602385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Cldeop/status/1942142495430959292",
+              "start": 2,
+              "url": "https://t.co/xt9FHiEs2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942387213867602385",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942142495430959292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭 https://t.co/xt9FHiEs2G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1942142495430959292",
+        "created_at": "2025-07-07T08:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T09:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942142495430959292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942142495430959292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11220,
+          "like_count": 215,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝，不要再用手挡着你的脸了，因为你的手也很难看，更不要用口罩，因为你的眼睛也很难看，用特效挡脸更是没有必要，因为你的穿搭也很难看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1298,
+          "like_count": 37447,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 4515
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1940280750542397825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69816,
+          "following_count": 588,
+          "like_count": 29607,
+          "listed_count": 233,
+          "media_count": 10949,
+          "tweet_count": 15475
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

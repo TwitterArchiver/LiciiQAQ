@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940698936442003456"
+      ],
+      "media_source_tweet_id": [
+        "1940698940200177788"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940929529926898167",
+    "created_at": "2025-07-04T00:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T01:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940929529926898167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnXbT6Jb9u",
+          "end": 39,
+          "expanded_url": "https://x.com/Moningmeng/status/1940698940200177788/photo/1",
+          "media_key": "3_1940698936442003456",
+          "start": 16,
+          "url": "https://t.co/HnXbT6Jb9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940929529926898167",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940698940200177788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: https://t.co/HnXbT6Jb9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1940698936442003456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6_ZoKaoAAgOko.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940698936442003456"
+          ],
+          "media_source_tweet_id": [
+            "1940698940200177788"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940929529926898167",
+        "created_at": "2025-07-04T00:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940929529926898167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684788633797287936",
+              "start": 3,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnXbT6Jb9u",
+              "end": 39,
+              "expanded_url": "https://x.com/Moningmeng/status/1940698940200177788/photo/1",
+              "media_key": "3_1940698936442003456",
+              "start": 16,
+              "url": "https://t.co/HnXbT6Jb9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940929529926898167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940698940200177788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Moningmeng: https://t.co/HnXbT6Jb9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940698936442003456"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940698940200177788",
+        "created_at": "2025-07-03T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940698940200177788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnXbT6Jb9u",
+              "end": 23,
+              "expanded_url": "https://x.com/Moningmeng/status/1940698940200177788/photo/1",
+              "media_key": "3_1940698936442003456",
+              "start": 0,
+              "url": "https://t.co/HnXbT6Jb9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940698940200177788",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3129,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HnXbT6Jb9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1253,
+          "like_count": 36484,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4323
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpoBzT"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "沫柠～🍋🍈🍋‍🟩🫐🍏🍇🍧🍡🧁🍭🧊🍩🧃🍬🍞🍨🧇🍟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932569658647064579/Q1muwosh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21413,
+          "following_count": 10721,
+          "like_count": 77334,
+          "listed_count": 76,
+          "media_count": 3811,
+          "tweet_count": 13839
+        },
+        "url": "https://t.co/gWovYpoBzT",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

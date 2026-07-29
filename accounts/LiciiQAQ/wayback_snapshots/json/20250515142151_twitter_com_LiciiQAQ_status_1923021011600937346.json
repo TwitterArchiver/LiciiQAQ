@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1922873905816944919",
+    "created_at": "2025-05-15T14:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923021011600937346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "153305674",
+          "start": 0,
+          "username": "boluochuixuexue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923021011600937346",
+    "in_reply_to_user_id": "153305674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922873905816944919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluochuixuexue 小头头顶尖尖🤓（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1922873903291998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq9roJGWoAAGqOx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1922873905816944919",
+        "created_at": "2025-05-15T14:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923021011600937346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "153305674",
+              "start": 0,
+              "username": "boluochuixuexue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923021011600937346",
+        "in_reply_to_user_id": "153305674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922873905816944919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluochuixuexue 小头头顶尖尖🤓（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922873903291998208"
+          ]
+        },
+        "author_id": "153305674",
+        "conversation_id": "1922873905816944919",
+        "created_at": "2025-05-15T04:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T05:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922873905816944919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUl9TGZXzL",
+              "end": 35,
+              "expanded_url": "https://x.com/boluochuixuexue/status/1922873905816944919/photo/1",
+              "media_key": "3_1922873903291998208",
+              "start": 12,
+              "url": "https://t.co/TUl9TGZXzL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922873905816944919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11764,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求下联:\n老头头头是道 https://t.co/TUl9TGZXzL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 829,
+          "like_count": 16117,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2341
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-08T05:53:18.000Z",
+        "description": "最骚菠萝头在此🍍我菠萝吹雪，吹的不是雪，是梗🍍梨花诗忠犬，见到梨花诗麻烦客气一点，否则我对你就不客气了🍍互fo我是专业的🍍由于账号限制有的时候无法回 fo，如果有没回的情况一定要私信提醒我！我保证 100% 回 fo🍍欢迎交朋友🍍试试我的🪜？很好用哦 https://t.co/jAQNmuaTGj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/blcxvvv",
+                "end": 149,
+                "expanded_url": "http://bit.ly/blcxvvv",
+                "start": 126,
+                "url": "https://t.co/jAQNmuaTGj"
+              }
+            ]
+          }
+        },
+        "id": "153305674",
+        "name": "菠萝吹雪（神评达人互fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917882547335491584/2Gl5Xdbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 42,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 661
+        },
+        "username": "boluochuixuexue",
+        "verified": false
+      }
+    ]
+  }
+}

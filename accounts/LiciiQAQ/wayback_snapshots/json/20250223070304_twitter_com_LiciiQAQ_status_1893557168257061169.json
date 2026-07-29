@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1864147494676123745",
+    "created_at": "2025-02-23T07:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T08:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893557168257061169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        },
+        {
+          "end": 28,
+          "id": "1812966325377200128",
+          "start": 16,
+          "username": "04177_truth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893557168257061169",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864147494676123745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname @04177_truth 抱抱，fo我喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1864147494676123745",
+        "created_at": "2025-02-23T07:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T08:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893557168257061169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            },
+            {
+              "end": 28,
+              "id": "1812966325377200128",
+              "start": 16,
+              "username": "04177_truth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893557168257061169",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864147494676123745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname @04177_truth 抱抱，fo我喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680508885394927616",
+        "conversation_id": "1864147494676123745",
+        "created_at": "2024-12-04T03:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T04:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864147494676123745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1812966325377200128",
+              "start": 17,
+              "username": "04177_truth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864147494676123745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 45263,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有点担心自己哪天亖了，这是逃生舱：@04177_truth\n来互fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 49,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "学习，工作和休息",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9949,
+          "following_count": 6217,
+          "like_count": 62047,
+          "listed_count": 30,
+          "media_count": 1994,
+          "tweet_count": 16656
+        },
+        "username": "04177_realname",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T21:44:06.000Z",
+        "description": "互fo/大号：@04177_realname/🦋：@04177realname.bsky.social/提问箱：https://t.co/bJ4FH9IZlD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "04177_realname"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 79,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 56,
+                "url": "https://t.co/bJ4FH9IZlD"
+              }
+            ]
+          }
+        },
+        "id": "1812966325377200128",
+        "name": "神里真名",
+        "pinned_tweet_id": "1864147652436509087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188623089434624/FZD1bUcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 518,
+          "like_count": 867,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 230
+        },
+        "username": "04177_truth",
+        "verified": false
+      }
+    ]
+  }
+}

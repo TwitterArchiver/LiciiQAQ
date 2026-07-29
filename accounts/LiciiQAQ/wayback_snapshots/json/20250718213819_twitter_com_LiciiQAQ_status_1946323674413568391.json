@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1946189003604234240"
+      ],
+      "media_source_tweet_id": [
+        "1946189131329241179"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946323674413568391",
+    "created_at": "2025-07-18T21:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T22:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946323674413568391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TfXOFyIq7J",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/1946189131329241179/video/1",
+          "media_key": "13_1946189003604234240",
+          "start": 12,
+          "url": "https://t.co/TfXOFyIq7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946323674413568391",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946189131329241179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/TfXOFyIq7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12653,
+        "height": 960,
+        "media_key": "13_1946189003604234240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946189003604234240/img/IpDl0s-FPt0RFn4q.jpg",
+        "public_metrics": {
+          "view_count": 44471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946189003604234240/vid/avc1/320x426/HSAnZQIUxuhLSydo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946189003604234240/vid/avc1/480x640/LRTpNGYjtJqb-Y6I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946189003604234240/vid/avc1/720x960/mRoY15kD-10wYLUv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946189003604234240/pl/dGNR8E6K13M5Xopu.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946189003604234240"
+          ],
+          "media_source_tweet_id": [
+            "1946189131329241179"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946323674413568391",
+        "created_at": "2025-07-18T21:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T22:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946323674413568391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfXOFyIq7J",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/1946189131329241179/video/1",
+              "media_key": "13_1946189003604234240",
+              "start": 12,
+              "url": "https://t.co/TfXOFyIq7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946323674413568391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946189131329241179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: https://t.co/TfXOFyIq7J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946189003604234240"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1946189131329241179",
+        "created_at": "2025-07-18T12:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946189131329241179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfXOFyIq7J",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1946189131329241179/video/1",
+              "media_key": "13_1946189003604234240",
+              "start": 0,
+              "url": "https://t.co/TfXOFyIq7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946189131329241179",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 103648,
+          "like_count": 1120,
+          "quote_count": 10,
+          "reply_count": 49,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TfXOFyIq7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1368,
+          "like_count": 41250,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 4962
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71038,
+          "following_count": 600,
+          "like_count": 29791,
+          "listed_count": 236,
+          "media_count": 11134,
+          "tweet_count": 15720
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

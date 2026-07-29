@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1944065752673235244",
+    "created_at": "2025-07-13T00:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T01:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944188086004359208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1372542827851214858",
+          "start": 0,
+          "username": "Kyusho_9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944188086004359208",
+    "in_reply_to_user_id": "1372542827851214858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944065752673235244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyusho_9999 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 194,
+        "media_key": "3_1944065728010723329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq1esIXIAEPujS.jpg",
+        "width": 260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1944065752673235244",
+        "created_at": "2025-07-13T00:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944188086004359208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1372542827851214858",
+              "start": 0,
+              "username": "Kyusho_9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944188086004359208",
+        "in_reply_to_user_id": "1372542827851214858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944065752673235244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyusho_9999 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944065728010723329"
+          ]
+        },
+        "author_id": "1372542827851214858",
+        "conversation_id": "1944065752673235244",
+        "created_at": "2025-07-12T16:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944065752673235244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rOh65jLlg4",
+              "end": 34,
+              "expanded_url": "https://x.com/Kyusho_9999/status/1944065752673235244/photo/1",
+              "media_key": "3_1944065728010723329",
+              "start": 11,
+              "url": "https://t.co/rOh65jLlg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944065752673235244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1035,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "換我了！今天我生日！ https://t.co/rOh65jLlg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 1321,
+          "like_count": 39599,
+          "listed_count": 4,
+          "media_count": 239,
+          "tweet_count": 4717
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-18T13:39:57.000Z",
+        "description": "套皮圖奇實況人\n一隻狐狸，不定時發癲\n\n【Fan】#花笙 \n【Fanart】 #繪笙繪影 \n【Discord】https://t.co/xJf4nxkwyd\n\n委託開放中歡迎DC聯繫！ت",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 25,
+                "tag": "花笙"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "繪笙繪影"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/bnkjdv",
+                "end": 78,
+                "expanded_url": "http://reurl.cc/bnkjdv",
+                "start": 55,
+                "url": "https://t.co/xJf4nxkwyd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kyusho9999",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/kyusho9999",
+                "start": 0,
+                "url": "https://t.co/mKPTPp8lKq"
+              }
+            ]
+          }
+        },
+        "id": "1372542827851214858",
+        "location": "Twitch窩ㄉ家",
+        "name": "九笙💛委託開放中歡迎詢問！",
+        "pinned_tweet_id": "1782117946153959759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848213003407327233/w1ZDqpsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 791,
+          "like_count": 49659,
+          "listed_count": 14,
+          "media_count": 851,
+          "tweet_count": 9554
+        },
+        "url": "https://t.co/mKPTPp8lKq",
+        "username": "Kyusho_9999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939135316759322676",
+    "created_at": "2025-06-29T09:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T10:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939252594725224480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1393598307784527873",
+          "start": 0,
+          "username": "miaobiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939252594725224480",
+    "in_reply_to_user_id": "1393598307784527873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939135316759322676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaobiao 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1939135301865046016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GukxSHcWAAAE4M0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939135316759322676",
+        "created_at": "2025-06-29T09:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939252594725224480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1393598307784527873",
+              "start": 0,
+              "username": "miaobiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939252594725224480",
+        "in_reply_to_user_id": "1393598307784527873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939135316759322676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaobiao 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939135301865046016"
+          ]
+        },
+        "author_id": "1393598307784527873",
+        "conversation_id": "1939135316759322676",
+        "created_at": "2025-06-29T01:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T02:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939135316759322676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3H9dTwBkM",
+              "end": 32,
+              "expanded_url": "https://x.com/miaobiao/status/1939135316759322676/photo/1",
+              "media_key": "3_1939135301865046016",
+              "start": 9,
+              "url": "https://t.co/p3H9dTwBkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939135316759322676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1653,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24岁，是学生🥺 https://t.co/p3H9dTwBkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1195,
+          "like_count": 34334,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4103
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T16:05:09.000Z",
+        "description": "@wws0629",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "wws0629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/miaobiao",
+                "end": 23,
+                "expanded_url": "http://t.me/miaobiao",
+                "start": 0,
+                "url": "https://t.co/XV9JkFXxdV"
+              }
+            ]
+          }
+        },
+        "id": "1393598307784527873",
+        "location": "dustbin",
+        "name": "淼表",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936766859145052160/qIUvdfWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 104,
+          "like_count": 18391,
+          "listed_count": 6,
+          "media_count": 1146,
+          "tweet_count": 8387
+        },
+        "url": "https://t.co/XV9JkFXxdV",
+        "username": "miaobiao",
+        "verified": false
+      }
+    ]
+  }
+}

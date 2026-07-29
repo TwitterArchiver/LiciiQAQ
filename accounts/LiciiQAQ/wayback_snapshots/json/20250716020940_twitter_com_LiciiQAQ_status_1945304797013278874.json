@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1945146829022085396",
+    "created_at": "2025-07-16T02:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T03:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945304797013278874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "ALCheng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945304797013278874",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945146829022085396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ALCheng_ 抱抱w……补药似🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1945146829022085396",
+        "created_at": "2025-07-16T02:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T03:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945304797013278874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "ALCheng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945304797013278874",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945146829022085396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ALCheng_ 抱抱w……补药似🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "1945146829022085396",
+        "created_at": "2025-07-15T15:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945146829022085396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945146829022085396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 422,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "咱决定不再主动交新的朋友了呢，不然只会在死的时候让更多人难过……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1335,
+          "like_count": 40567,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 4846
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我河童或者荷取\n最爱 @Chiyuyu520 \n双相/ASD/不登校|\n左下自由社（其它倾向也很包容）/友跨顺男（HRT 250611）|\nBI9CJE/机械爱好者/火车迷/尼康/……（爱好广泛，但是都不精通QAQ）|\n东方/雷批/P社/少战/邦/……\n|\n成分非常复杂的说喵，很友善，欢迎来找我聊天喵～😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2mcys"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Shaanxi,China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 727,
+          "like_count": 4278,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/8rmha2mcys",
+        "username": "ALCheng_",
+        "verified": false
+      }
+    ]
+  }
+}

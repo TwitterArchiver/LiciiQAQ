@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1897999228758376453"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1897999233497940068",
+    "created_at": "2025-03-07T13:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T14:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897999233497940068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykewp9sApO",
+          "end": 39,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1897999233497940068/photo/1",
+          "media_key": "3_1897999228758376453",
+          "start": 16,
+          "url": "https://t.co/ykewp9sApO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897999233497940068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…怎么连我这种底边推主都发啊（ https://t.co/ykewp9sApO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "收到的私信",
+        "height": 2048,
+        "media_key": "3_1897999228758376453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlcMPhYbwAUCFCe.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897999228758376453"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1897999233497940068",
+        "created_at": "2025-03-07T13:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T14:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897999233497940068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykewp9sApO",
+              "end": 39,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1897999233497940068/photo/1",
+              "media_key": "3_1897999228758376453",
+              "start": 16,
+              "url": "https://t.co/ykewp9sApO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897999233497940068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…怎么连我这种底边推主都发啊（ https://t.co/ykewp9sApO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 103,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 132
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

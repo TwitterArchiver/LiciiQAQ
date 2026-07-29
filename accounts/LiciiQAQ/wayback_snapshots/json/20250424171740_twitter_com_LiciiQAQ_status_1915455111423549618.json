@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1915335074524139754",
+    "created_at": "2025-04-24T17:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T18:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915455111423549618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794942592297455616",
+          "start": 0,
+          "username": "DanT4rt"
+        },
+        {
+          "end": 20,
+          "id": "1757616332240224256",
+          "start": 9,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915455111423549618",
+    "in_reply_to_user_id": "1794942592297455616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915411673449742807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanT4rt @B_cat38324 窝也😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1915335074524139754",
+        "created_at": "2025-04-24T17:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T18:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915455111423549618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794942592297455616",
+              "start": 0,
+              "username": "DanT4rt"
+            },
+            {
+              "end": 20,
+              "id": "1757616332240224256",
+              "start": 9,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915455111423549618",
+        "in_reply_to_user_id": "1794942592297455616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915411673449742807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanT4rt @B_cat38324 窝也😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794942592297455616",
+        "conversation_id": "1915335074524139754",
+        "created_at": "2025-04-24T14:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T15:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915411673449742807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915411673449742807",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915335074524139754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 笑不出来因为我真是陕西的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 674,
+          "like_count": 10318,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1481
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T04:04:19.000Z",
+        "description": "『04/166cm/57kg/水仙/跨性别/MTF/同类或路人缘好的可以互关/Hrt起始日2020.12.18日/打男娘tag是我缺钱不要骂我/目前不收门槛但纯绿/因为要还债急需打赏/谢谢你们^•͈༝•^』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dant4rt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dant4rt",
+                "start": 0,
+                "url": "https://t.co/Abe0BsA7bd"
+              }
+            ]
+          }
+        },
+        "id": "1794942592297455616",
+        "location": "我家烤箱",
+        "name": "✝金髮貪婪惡魔蛋挞✝（互fo互推）",
+        "pinned_tweet_id": "1910816284029444516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910839560595996672/GcsdeesL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 90,
+          "like_count": 303,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/Abe0BsA7bd",
+        "username": "DanT4rt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15981,
+          "following_count": 184,
+          "like_count": 539,
+          "listed_count": 58,
+          "media_count": 80,
+          "tweet_count": 15916
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

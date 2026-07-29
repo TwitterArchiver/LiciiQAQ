@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1944766710461972853",
+    "created_at": "2025-07-14T14:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944766710461972853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oder_666/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/oder_666/status/1944751672766689752",
+          "start": 13,
+          "url": "https://t.co/8aenvYoPHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944766710461972853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944751672766689752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很羡慕你们现实中有朋友的 https://t.co/8aenvYoPHu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1944766710461972853",
+        "created_at": "2025-07-14T14:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944766710461972853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oder_666/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/oder_666/status/1944751672766689752",
+              "start": 13,
+              "url": "https://t.co/8aenvYoPHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944766710461972853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944751672766689752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很羡慕你们现实中有朋友的 https://t.co/8aenvYoPHu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1944751672766689752",
+        "created_at": "2025-07-14T13:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944751672766689752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944751672766689752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很羡慕你们现实中有朋友的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1337,
+          "like_count": 40267,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 4804
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|欢迎互fo🏳️‍🌈",
+        "id": "622036546",
+        "location": "じごく",
+        "name": "むのう",
+        "pinned_tweet_id": "1943307259796459789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938107969285328896/jfhm3tZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 65,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 506
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

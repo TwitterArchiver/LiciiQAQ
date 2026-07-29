@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935666118850453504"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1935600592455610450",
+    "created_at": "2025-06-19T11:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935666121971015954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891810325512806400",
+          "start": 0,
+          "username": "Jiepaiki_meow"
+        },
+        {
+          "end": 23,
+          "id": "1503375345856413696",
+          "start": 15,
+          "username": "bkdk_bk"
+        },
+        {
+          "end": 34,
+          "id": "1102136713806110720",
+          "start": 24,
+          "username": "filmpuppy"
+        },
+        {
+          "end": 46,
+          "id": "1761688601010847744",
+          "start": 35,
+          "username": "Leo66shuai"
+        },
+        {
+          "end": 58,
+          "id": "1818912725889957890",
+          "start": 47,
+          "username": "sheng49754"
+        },
+        {
+          "end": 68,
+          "id": "1425468398670999560",
+          "start": 59,
+          "username": "waygsdxt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jevndF7sAS",
+          "end": 96,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1935666121971015954/photo/1",
+          "media_key": "3_1935666118850453504",
+          "start": 73,
+          "url": "https://t.co/jevndF7sAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935666121971015954",
+    "in_reply_to_user_id": "1891810325512806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935600592455610450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiepaiki_meow @bkdk_bk @filmpuppy @Leo66shuai @sheng49754 @waygsdxt 好欸， https://t.co/jevndF7sAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1935666118850453504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzeFFnXIAAUhe_.png",
+        "width": 534
+      },
+      {
+        "duration_ms": 126883,
+        "height": 1280,
+        "media_key": "13_1935599669096161280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935599669096161280/img/Dt9f7HyO3MH09NkM.jpg",
+        "public_metrics": {
+          "view_count": 80
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669096161280/vid/avc1/432x270/VBPF3Fe4z1QV4Y6Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669096161280/vid/avc1/576x360/bICtNfFJx1lEy6Wd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669096161280/vid/avc1/1152x720/Npo4NrJkgHAqtTzj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935599669096161280/pl/WpJ4inLSOH95EQJl.m3u8?tag=14"
+          }
+        ],
+        "width": 2048
+      },
+      {
+        "duration_ms": 94583,
+        "height": 1280,
+        "media_key": "13_1935599669087739904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935599669087739904/img/5Pe3ajqHMnweL5S5.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669087739904/vid/avc1/432x270/7ula6EAU4aj9zBfm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669087739904/vid/avc1/576x360/bK2pGbbs0N23a4IL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935599669087739904/vid/avc1/1152x720/cYCGzvVLb9JX8wZr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935599669087739904/pl/p0geRfaC4d2aoA5R.m3u8?tag=14"
+          }
+        ],
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935666118850453504"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1935600592455610450",
+        "created_at": "2025-06-19T11:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935666121971015954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891810325512806400",
+              "start": 0,
+              "username": "Jiepaiki_meow"
+            },
+            {
+              "end": 23,
+              "id": "1503375345856413696",
+              "start": 15,
+              "username": "bkdk_bk"
+            },
+            {
+              "end": 34,
+              "id": "1102136713806110720",
+              "start": 24,
+              "username": "filmpuppy"
+            },
+            {
+              "end": 46,
+              "id": "1761688601010847744",
+              "start": 35,
+              "username": "Leo66shuai"
+            },
+            {
+              "end": 58,
+              "id": "1818912725889957890",
+              "start": 47,
+              "username": "sheng49754"
+            },
+            {
+              "end": 68,
+              "id": "1425468398670999560",
+              "start": 59,
+              "username": "waygsdxt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jevndF7sAS",
+              "end": 96,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1935666121971015954/photo/1",
+              "media_key": "3_1935666118850453504",
+              "start": 73,
+              "url": "https://t.co/jevndF7sAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935666121971015954",
+        "in_reply_to_user_id": "1891810325512806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935600592455610450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiepaiki_meow @bkdk_bk @filmpuppy @Leo66shuai @sheng49754 @waygsdxt 好欸， https://t.co/jevndF7sAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935599669096161280",
+            "13_1935599669087739904"
+          ]
+        },
+        "author_id": "1891810325512806400",
+        "conversation_id": "1935600592455610450",
+        "created_at": "2025-06-19T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935600592455610450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1503375345856413696",
+              "start": 23,
+              "username": "bkdk_bk"
+            },
+            {
+              "end": 47,
+              "id": "1695649420539219968",
+              "start": 38,
+              "username": "LiciiQAQ"
+            },
+            {
+              "end": 59,
+              "id": "1102136713806110720",
+              "start": 49,
+              "username": "filmpuppy"
+            },
+            {
+              "end": 72,
+              "id": "1761688601010847744",
+              "start": 61,
+              "username": "Leo66shuai"
+            },
+            {
+              "end": 85,
+              "id": "1818912725889957890",
+              "start": 74,
+              "username": "sheng49754"
+            },
+            {
+              "end": 96,
+              "id": "1425468398670999560",
+              "start": 87,
+              "username": "waygsdxt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYj27iLOZv",
+              "end": 120,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1935600592455610450/video/1",
+              "media_key": "13_1935599669096161280",
+              "start": 97,
+              "url": "https://t.co/HYj27iLOZv"
+            },
+            {
+              "display_url": "pic.x.com/HYj27iLOZv",
+              "end": 120,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1935600592455610450/video/1",
+              "media_key": "13_1935599669087739904",
+              "start": 97,
+              "url": "https://t.co/HYj27iLOZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935600592455610450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜！\n收到@的尽快找我兑奖哦w\n\n一等奖:\n@bkdk_bk \n二等奖：\n@LiciiQAQ \n@filmpuppy \n@Leo66shuai \n@sheng49754 \n@waygsdxt https://t.co/HYj27iLOZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1056,
+          "like_count": 29095,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 3653
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T11:21:56.000Z",
+        "description": "| 前世 @jiepaiqi_meow | 📍HK | 初三 | 重度抑鬱焦慮 | With 舍曲林 | 疑似双相、人格分裂 | 無證 曾經含糖 | Photographer | Hong Kongese | 卡拉彼丘 | Strinova | Maimai | Chunithm | PJSK |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "jiepaiqi_meow"
+              }
+            ]
+          }
+        },
+        "id": "1891810325512806400",
+        "location": "幻想鄉紅魔館兼幻想鄉核爆試驗場所內蕾米莉亞斯卡蕾特臥室的床上",
+        "name": "新•截拍器🏳️‍⚧️",
+        "pinned_tweet_id": "1935600592455610450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891810492777365504/94_igz5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 1068,
+          "like_count": 11769,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1243
+        },
+        "username": "Jiepaiki_meow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T14:20:31.000Z",
+        "description": "類司🎈🌟+貓蛛🍾😾🎀🕷+比斯♈️🦉+藕餅🔥🌊+貓狗🌙🐱☀️🐶姐一名\n                                                   司🌟+AngelDust🎀🕷+Blitzø♈️+DogDay☀️推 :3",
+        "id": "1503375345856413696",
+        "location": "🇭🇰 :3",
+        "name": "未来のスター🌟",
+        "pinned_tweet_id": "1805213647486247042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855636628129325056/TndoEHPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 264,
+          "like_count": 63865,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 19569
+        },
+        "username": "bkdk_bk",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-03T09:20:44.000Z",
+        "description": "白浪 | 05 | Furry |  | Trans-friendly🏳️‍⚧️  | 摄影 | Love cute stuff but can't buy, DM me to share!",
+        "id": "1102136713806110720",
+        "location": "Moscow",
+        "name": "Whitecap📸🏳️‍🌈",
+        "pinned_tweet_id": "1898378654058680681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898378853439229952/eP9Hslzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 304,
+          "like_count": 1588,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 144
+        },
+        "username": "filmpuppy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T09:44:37.000Z",
+        "description": "K.博士Kol小分队/21年进圈defi起步历经各个热点/喜欢爬山⛰️球类运动/交易所返佣找我/商务合作直接Dm",
+        "id": "1761688601010847744",
+        "name": "🐺狼仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766665272080125952/NB8mjQzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 1979,
+          "like_count": 8513,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 14646
+        },
+        "username": "Leo66shuai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T07:33:10.000Z",
+        "description": "",
+        "id": "1818912725889957890",
+        "location": "重庆",
+        "name": "雨昕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901933422400217088/QWJ08zmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 2239,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 147
+        },
+        "username": "sheng49754",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-11T14:45:57.000Z",
+        "description": "很多都会一点但是都不深‖pc‖MtX‖成分复杂‖看成分互fo，需要互fo请联系‖经常不在线‖被动社交‖",
+        "id": "1425468398670999560",
+        "name": "YuKi_0325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743680139995865088/S-AL-bC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 294,
+          "like_count": 11938,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1208
+        },
+        "username": "waygsdxt",
+        "verified": false
+      }
+    ]
+  }
+}

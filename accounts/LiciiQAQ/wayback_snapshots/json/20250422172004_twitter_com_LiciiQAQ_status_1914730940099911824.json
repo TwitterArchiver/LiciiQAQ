@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914722522018537832",
+    "created_at": "2025-04-22T17:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T18:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914730940099911824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1649826431055302658",
+          "start": 0,
+          "username": "pwnint64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914730940099911824",
+    "in_reply_to_user_id": "1649826431055302658",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914730811271864486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pwnint64 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914722522018537832",
+        "created_at": "2025-04-22T17:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914730940099911824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649826431055302658",
+              "start": 0,
+              "username": "pwnint64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914730940099911824",
+        "in_reply_to_user_id": "1649826431055302658",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914730811271864486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwnint64 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649826431055302658",
+        "conversation_id": "1914722522018537832",
+        "created_at": "2025-04-22T17:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T18:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914730811271864486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914730811271864486",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914730172810715274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 惨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 660,
+          "like_count": 9809,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1397
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T17:24:25.000Z",
+        "description": "1/8.2 Billion. | mt*                                                                                              \nTweets are under WTFPL v2 License. @64bit_ndk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "64bit_ndk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ndk.moe",
+                "end": 23,
+                "expanded_url": "https://ndk.moe",
+                "start": 0,
+                "url": "https://t.co/cgXOrekREk"
+              }
+            ]
+          }
+        },
+        "id": "1649826431055302658",
+        "location": ":D",
+        "name": "无双大黄瓜",
+        "pinned_tweet_id": "1900016464209256757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886467087834767360/rfYDuy-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 1150,
+          "like_count": 25209,
+          "listed_count": 1,
+          "media_count": 674,
+          "tweet_count": 4146
+        },
+        "url": "https://t.co/cgXOrekREk",
+        "username": "pwnint64",
+        "verified": false
+      }
+    ]
+  }
+}

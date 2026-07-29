@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947595626264535040",
+        "3_1947595626436542464",
+        "3_1947595626566627328",
+        "3_1947595629217386503"
+      ],
+      "media_source_tweet_id": [
+        "1947595642421104986",
+        "1947595642421104986",
+        "1947595642421104986",
+        "1947595642421104986"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948026042444304633",
+    "created_at": "2025-07-23T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948026042444304633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AVPRkWRpuF",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+          "media_key": "3_1947595626264535040",
+          "start": 13,
+          "url": "https://t.co/AVPRkWRpuF"
+        },
+        {
+          "display_url": "pic.x.com/AVPRkWRpuF",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+          "media_key": "3_1947595626436542464",
+          "start": 13,
+          "url": "https://t.co/AVPRkWRpuF"
+        },
+        {
+          "display_url": "pic.x.com/AVPRkWRpuF",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+          "media_key": "3_1947595626566627328",
+          "start": 13,
+          "url": "https://t.co/AVPRkWRpuF"
+        },
+        {
+          "display_url": "pic.x.com/AVPRkWRpuF",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+          "media_key": "3_1947595629217386503",
+          "start": 13,
+          "url": "https://t.co/AVPRkWRpuF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948026042444304633",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947595642421104986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/AVPRkWRpuF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1947595626264535040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwc_5z2aIAARdib.jpg",
+        "width": 1080
+      },
+      {
+        "height": 942,
+        "media_key": "3_1947595626436542464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwc_50fawAAGc1m.jpg",
+        "width": 1080
+      },
+      {
+        "height": 937,
+        "media_key": "3_1947595626566627328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwc_50-bsAA7wie.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1947595629217386503",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwc_5-2bEAcxQQf.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947595626264535040",
+            "3_1947595626436542464",
+            "3_1947595626566627328",
+            "3_1947595629217386503"
+          ],
+          "media_source_tweet_id": [
+            "1947595642421104986",
+            "1947595642421104986",
+            "1947595642421104986",
+            "1947595642421104986"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948026042444304633",
+        "created_at": "2025-07-23T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948026042444304633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626264535040",
+              "start": 13,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626436542464",
+              "start": 13,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626566627328",
+              "start": 13,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595629217386503",
+              "start": 13,
+              "url": "https://t.co/AVPRkWRpuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948026042444304633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947595642421104986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/AVPRkWRpuF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947595626264535040",
+            "3_1947595626436542464",
+            "3_1947595626566627328",
+            "3_1947595629217386503"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947595642421104986",
+        "created_at": "2025-07-22T09:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T10:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947595642421104986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626264535040",
+              "start": 0,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626436542464",
+              "start": 0,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595626566627328",
+              "start": 0,
+              "url": "https://t.co/AVPRkWRpuF"
+            },
+            {
+              "display_url": "pic.x.com/AVPRkWRpuF",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1947595642421104986/photo/1",
+              "media_key": "3_1947595629217386503",
+              "start": 0,
+              "url": "https://t.co/AVPRkWRpuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947595642421104986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 61587,
+          "like_count": 787,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AVPRkWRpuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1425,
+          "like_count": 43896,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 5187
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86465,
+          "following_count": 978,
+          "like_count": 42648,
+          "listed_count": 200,
+          "media_count": 13962,
+          "tweet_count": 20830
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

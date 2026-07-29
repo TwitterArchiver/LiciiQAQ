@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1936817468913381387",
+    "created_at": "2025-06-22T18:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T19:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936850105971388833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666010240725450752",
+          "start": 0,
+          "username": "amedesu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936850105971388833",
+    "in_reply_to_user_id": "1666010240725450752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936817468913381387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amedesu8964 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_1936817460839100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuD1OAwWsAA4gWx.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1936817468913381387",
+        "created_at": "2025-06-22T18:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T19:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936850105971388833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666010240725450752",
+              "start": 0,
+              "username": "amedesu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936850105971388833",
+        "in_reply_to_user_id": "1666010240725450752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936817468913381387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amedesu8964 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936817460839100416"
+          ]
+        },
+        "author_id": "1666010240725450752",
+        "conversation_id": "1936817468913381387",
+        "created_at": "2025-06-22T16:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T17:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936817468913381387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ia4XtDSwdk",
+              "end": 26,
+              "expanded_url": "https://x.com/amedesu8964/status/1936817468913381387/photo/1",
+              "media_key": "3_1936817460839100416",
+              "start": 3,
+              "url": "https://t.co/ia4XtDSwdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936817468913381387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1435,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日 https://t.co/ia4XtDSwdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 1108,
+          "like_count": 31645,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3808
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T09:14:53.000Z",
+        "description": "偶尔营业的地雷系女孩 不太会聊天，但想被温柔对待 希望能遇到像恋人一样相处的人🖤 infp/巨蟹/泛性恋📍江浙沪（经常在上海）/全国跑｜📩欢迎私信",
+        "id": "1666010240725450752",
+        "location": "🚪199/288/388/520/1314",
+        "name": "急支血浆（6.23生日）",
+        "pinned_tweet_id": "1930223427605930362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914007856669761536/65xKzozb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19297,
+          "following_count": 283,
+          "like_count": 9868,
+          "listed_count": 37,
+          "media_count": 611,
+          "tweet_count": 5245
+        },
+        "username": "amedesu8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1908727906580484329",
+    "created_at": "2025-04-06T08:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T09:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908791788472852937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908791788472852937",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908727906580484329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 恭喜喵🥳\nfo你了、"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_1908727902000340992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn0p6fubYAAeC45.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1908727906580484329",
+        "created_at": "2025-04-06T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908791788472852937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908791788472852937",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908727906580484329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 恭喜喵🥳\nfo你了、"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908727902000340992"
+          ]
+        },
+        "author_id": "1606690184564985856",
+        "conversation_id": "1908727906580484329",
+        "created_at": "2025-04-06T03:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T04:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908727906580484329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K47iETgqKj",
+              "end": 30,
+              "expanded_url": "https://x.com/hgsbtin_nisaki/status/1908727906580484329/photo/1",
+              "media_key": "3_1908727902000340992",
+              "start": 7,
+              "url": "https://t.co/K47iETgqKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908727906580484329",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo！ https://t.co/K47iETgqKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 510,
+          "like_count": 6206,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 836
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜🏳️‍⚧️同类互fo｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1901667171320959058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 133,
+          "like_count": 900,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 116
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

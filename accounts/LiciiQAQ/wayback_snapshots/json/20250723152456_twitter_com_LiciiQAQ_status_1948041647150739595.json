@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947977017150029824"
+      ],
+      "media_source_tweet_id": [
+        "1947977674137436256"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948041647150739595",
+    "created_at": "2025-07-23T15:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T16:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948041647150739595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPCHq4be68",
+          "end": 56,
+          "expanded_url": "https://x.com/saonanaa/status/1947977674137436256/video/1",
+          "media_key": "13_1947977017150029824",
+          "start": 33,
+          "url": "https://t.co/CPCHq4be68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948041647150739595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947977674137436256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: 我要转出去，再不转，他们就要转给我了 https://t.co/CPCHq4be68"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33156,
+        "height": 1280,
+        "media_key": "13_1947977017150029824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947977017150029824/img/ixMpgunCSfK_05wV.jpg",
+        "public_metrics": {
+          "view_count": 16808
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947977017150029824/vid/avc1/320x568/9MHCjQJsGbRggKIM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947977017150029824/vid/avc1/480x852/9-plS76hNGMrol1x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947977017150029824/vid/avc1/720x1280/8P5KpR2iTy1iqm7G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947977017150029824/pl/5lUDIPvniCLqfncg.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947977017150029824"
+          ],
+          "media_source_tweet_id": [
+            "1947977674137436256"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948041647150739595",
+        "created_at": "2025-07-23T15:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T16:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948041647150739595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690570637499154432",
+              "start": 3,
+              "username": "saonanaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPCHq4be68",
+              "end": 56,
+              "expanded_url": "https://x.com/saonanaa/status/1947977674137436256/video/1",
+              "media_key": "13_1947977017150029824",
+              "start": 33,
+              "url": "https://t.co/CPCHq4be68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948041647150739595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947977674137436256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saonanaa: 我要转出去，再不转，他们就要转给我了 https://t.co/CPCHq4be68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947977017150029824"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "1947977674137436256",
+        "created_at": "2025-07-23T11:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947977674137436256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPCHq4be68",
+              "end": 42,
+              "expanded_url": "https://x.com/saonanaa/status/1947977674137436256/video/1",
+              "media_key": "13_1947977017150029824",
+              "start": 19,
+              "url": "https://t.co/CPCHq4be68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947977674137436256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 20729,
+          "like_count": 140,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "我要转出去，再不转，他们就要转给我了 https://t.co/CPCHq4be68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1425,
+          "like_count": 43902,
+          "listed_count": 4,
+          "media_count": 260,
+          "tweet_count": 5188
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "声明：本人行为与昵称无关",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1946394383097680128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937167378510426116/OYo5MO_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5159,
+          "following_count": 395,
+          "like_count": 28689,
+          "listed_count": 14,
+          "media_count": 1756,
+          "tweet_count": 15526
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

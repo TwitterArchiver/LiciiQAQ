@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062548744432943105"
+      ],
+      "media_source_tweet_id": [
+        "2062548752465006690"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2062896869865574850",
+    "created_at": "2026-06-05T13:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062896869865574850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062214288669048835",
+          "start": 3,
+          "username": "LinYe67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oR4GZ4MiiT",
+          "end": 93,
+          "expanded_url": "https://x.com/LinYe67/status/2062548752465006690/photo/1",
+          "media_key": "3_2062548744432943105",
+          "start": 70,
+          "url": "https://t.co/oR4GZ4MiiT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062896869865574850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548752465006690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LinYe67: 同出绝赞自制pr 💊\n150mg×42t 65r/瓶\n采用99%药用级原料，药效与喜思平等相近，需要可联系窝喵😘 https://t.co/oR4GZ4MiiT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062548744432943105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lJ7vagAEeFP8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548744432943105"
+          ],
+          "media_source_tweet_id": [
+            "2062548752465006690"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2062896869865574850",
+        "created_at": "2026-06-05T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062896869865574850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062214288669048835",
+              "start": 3,
+              "username": "LinYe67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR4GZ4MiiT",
+              "end": 93,
+              "expanded_url": "https://x.com/LinYe67/status/2062548752465006690/photo/1",
+              "media_key": "3_2062548744432943105",
+              "start": 70,
+              "url": "https://t.co/oR4GZ4MiiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062896869865574850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548752465006690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LinYe67: 同出绝赞自制pr 💊\n150mg×42t 65r/瓶\n采用99%药用级原料，药效与喜思平等相近，需要可联系窝喵😘 https://t.co/oR4GZ4MiiT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548744432943105"
+          ]
+        },
+        "author_id": "2062214288669048835",
+        "conversation_id": "2062548752465006690",
+        "created_at": "2026-06-04T14:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548752465006690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR4GZ4MiiT",
+              "end": 80,
+              "expanded_url": "https://x.com/LinYe67/status/2062548752465006690/photo/1",
+              "media_key": "3_2062548744432943105",
+              "start": 57,
+              "url": "https://t.co/oR4GZ4MiiT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548752465006690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同出绝赞自制pr 💊\n150mg×42t 65r/瓶\n采用99%药用级原料，药效与喜思平等相近，需要可联系窝喵😘 https://t.co/oR4GZ4MiiT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@，姐姐：@Grinin_mark @kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 2181,
+          "like_count": 121562,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 8330
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T16:53:02.000Z",
+        "description": "这里是霖葉。🍀 \n另丰川药业代理（雌二醇凝胶/土色/日雌/pr）；另有售策划药、SNS、oxycodone，具体可私信喵😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LinYe7",
+                "end": 23,
+                "expanded_url": "http://t.me/LinYe7",
+                "start": 0,
+                "url": "https://t.co/9uGw0A4dyP"
+              }
+            ]
+          }
+        },
+        "id": "2062214288669048835",
+        "name": "霖葉🍥（卖pr和精品神药的小女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062216393970618368/IhFEAF6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/9uGw0A4dyP",
+        "username": "LinYe67",
+        "verified": false
+      }
+    ]
+  }
+}

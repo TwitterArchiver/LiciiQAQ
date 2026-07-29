@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954806967194828800",
+        "3_1954806967199047680"
+      ],
+      "media_source_tweet_id": [
+        "1954806997896794323",
+        "1954806997896794323"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1954860575411904570",
+    "created_at": "2025-08-11T11:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T12:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954860575411904570"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "ANIME                                        REAL",
+          "probability": 0.5774,
+          "start": 17,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1330130969936924685",
+          "start": 3,
+          "username": "BanGDreamGH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/inIVHQHyhI",
+          "end": 95,
+          "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+          "media_key": "3_1954806967194828800",
+          "start": 72,
+          "url": "https://t.co/inIVHQHyhI"
+        },
+        {
+          "display_url": "pic.x.com/inIVHQHyhI",
+          "end": 95,
+          "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+          "media_key": "3_1954806967199047680",
+          "start": 72,
+          "url": "https://t.co/inIVHQHyhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954860575411904570",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954806997896794323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BanGDreamGH: ANIME                                        REAL LIFE https://t.co/inIVHQHyhI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_1954806967194828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDelGQbQAA57rr.jpg",
+        "width": 362
+      },
+      {
+        "height": 498,
+        "media_key": "3_1954806967199047680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDelGRboAA9myR.jpg",
+        "width": 445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954806967194828800",
+            "3_1954806967199047680"
+          ],
+          "media_source_tweet_id": [
+            "1954806997896794323",
+            "1954806997896794323"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1954860575411904570",
+        "created_at": "2025-08-11T11:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954860575411904570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "ANIME                                        REAL",
+              "probability": 0.5774,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1330130969936924685",
+              "start": 3,
+              "username": "BanGDreamGH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inIVHQHyhI",
+              "end": 95,
+              "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+              "media_key": "3_1954806967194828800",
+              "start": 72,
+              "url": "https://t.co/inIVHQHyhI"
+            },
+            {
+              "display_url": "pic.x.com/inIVHQHyhI",
+              "end": 95,
+              "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+              "media_key": "3_1954806967199047680",
+              "start": 72,
+              "url": "https://t.co/inIVHQHyhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954860575411904570",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954806997896794323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BanGDreamGH: ANIME                                        REAL LIFE https://t.co/inIVHQHyhI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954806967194828800",
+            "3_1954806967199047680"
+          ]
+        },
+        "author_id": "1330130969936924685",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1954806997896794323",
+        "created_at": "2025-08-11T07:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954806997896794323"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "ANIME",
+              "probability": 0.5085,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/inIVHQHyhI",
+              "end": 78,
+              "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+              "media_key": "3_1954806967194828800",
+              "start": 55,
+              "url": "https://t.co/inIVHQHyhI"
+            },
+            {
+              "display_url": "pic.x.com/inIVHQHyhI",
+              "end": 78,
+              "expanded_url": "https://x.com/BanGDreamGH/status/1954806997896794323/photo/1",
+              "media_key": "3_1954806967199047680",
+              "start": 55,
+              "url": "https://t.co/inIVHQHyhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954806997896794323",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 11440,
+          "like_count": 526,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "ANIME                                        REAL LIFE https://t.co/inIVHQHyhI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 1599,
+          "like_count": 51383,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 6053
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T12:48:56.000Z",
+        "description": "お絵描きとバンド活動が趣味のバンドリーマーです。MyGO!!!!!コピバン「迷子センター」サイドギター＆バンドリーダーを担当しています。ふわふわピンク。",
+        "id": "1330130969936924685",
+        "location": "まんまるお山にあるふわふわピンクの沼",
+        "name": "みどり🌿",
+        "pinned_tweet_id": "1954144378676465762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594657797077348354/L1ypc8FR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 555,
+          "like_count": 60791,
+          "listed_count": 41,
+          "media_count": 3583,
+          "tweet_count": 40851
+        },
+        "username": "BanGDreamGH",
+        "verified": false
+      }
+    ]
+  }
+}

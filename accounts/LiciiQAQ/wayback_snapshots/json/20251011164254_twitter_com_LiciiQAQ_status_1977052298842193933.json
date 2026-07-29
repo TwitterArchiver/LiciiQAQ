@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1977043767845962021",
+    "created_at": "2025-10-11T16:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T17:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977052298842193933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977052298842193933",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977043767845962021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 生日快乐🎂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1977043767845962021].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977043767845962021",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1977043767845962021"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1977043767845962021",
+        "created_at": "2025-10-11T16:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977052298842193933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977052298842193933",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977043767845962021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 2007,
+          "like_count": 73693,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 7259
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024含糖小量od自殘+ASD+不穩定抑鬱(求抱抱), 深櫃被斷糧半家暴黨 🩵MtX/F🩷, 泛性戀, INFP-T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.m.wikipedia.org/zh-hk/%E6%A9%9…",
+                "end": 23,
+                "expanded_url": "https://zh.m.wikipedia.org/zh-hk/%E6%A9%98%E8%B2%93",
+                "start": 0,
+                "url": "https://t.co/8nGl8KfVHM"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "🔤: 粵/中/客家/EN/Old EN/ES/IT/LAT",
+        "name": "雪花 (日常區) 🩷🏳️‍⚧️🍥🕊️",
+        "pinned_tweet_id": "1931393901090521574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929542651344523264/tG7dTJuH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 504,
+          "like_count": 34140,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3883
+        },
+        "url": "https://t.co/8nGl8KfVHM",
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

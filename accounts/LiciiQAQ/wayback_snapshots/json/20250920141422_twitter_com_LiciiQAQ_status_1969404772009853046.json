@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969404164259397636",
+        "3_1969404164255203330",
+        "3_1969404164255203337"
+      ],
+      "media_source_tweet_id": [
+        "1969404207938879757",
+        "1969404207938879757",
+        "1969404207938879757"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1969404772009853046",
+    "created_at": "2025-09-20T14:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969404772009853046"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "请重点关注"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPqgRorwls",
+          "end": 85,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+          "media_key": "3_1969404164259397636",
+          "start": 62,
+          "url": "https://t.co/PPqgRorwls"
+        },
+        {
+          "display_url": "pic.x.com/PPqgRorwls",
+          "end": 85,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+          "media_key": "3_1969404164255203330",
+          "start": 62,
+          "url": "https://t.co/PPqgRorwls"
+        },
+        {
+          "display_url": "pic.x.com/PPqgRorwls",
+          "end": 85,
+          "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+          "media_key": "3_1969404164255203337",
+          "start": 62,
+          "url": "https://t.co/PPqgRorwls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969404772009853046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969404207938879757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: #请重点关注 请救救露露 \n19918987110 湖南长沙\n有人可以联系她嘛？？？ https://t.co/PPqgRorwls"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969404772009853046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969404772009853046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969404772009853046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1969404164259397636",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S6py3bQAQt6Tb.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1969404164255203330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S6py2bQAIIkiV.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1969404164255203337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S6py2bQAk1mT4.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969404164259397636",
+            "3_1969404164255203330",
+            "3_1969404164255203337"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "1969404207938879757",
+        "created_at": "2025-09-20T14:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969404207938879757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPqgRorwls",
+              "end": 66,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+              "media_key": "3_1969404164259397636",
+              "start": 43,
+              "url": "https://t.co/PPqgRorwls"
+            },
+            {
+              "display_url": "pic.x.com/PPqgRorwls",
+              "end": 66,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+              "media_key": "3_1969404164255203330",
+              "start": 43,
+              "url": "https://t.co/PPqgRorwls"
+            },
+            {
+              "display_url": "pic.x.com/PPqgRorwls",
+              "end": 66,
+              "expanded_url": "https://x.com/LingJiaXin233/status/1969404207938879757/photo/1",
+              "media_key": "3_1969404164255203337",
+              "start": 43,
+              "url": "https://t.co/PPqgRorwls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969404207938879757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#请重点关注 请救救露露 \n19918987110 湖南长沙\n有人可以联系她嘛？？？ https://t.co/PPqgRorwls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 1902,
+          "like_count": 65992,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 6908
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "不见证",
+        "id": "1857802986837172224",
+        "name": "凌嘉欣🍥",
+        "pinned_tweet_id": "1962478259167535426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 396,
+          "like_count": 2989,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1356
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      }
+    ]
+  }
+}

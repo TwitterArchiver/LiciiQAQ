@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1932020090402488771",
+    "created_at": "2025-06-09T10:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T11:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932026526859755672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851866685420265472",
+          "start": 0,
+          "username": "LCG_Akiball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932026526859755672",
+    "in_reply_to_user_id": "1851866685420265472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932020090402488771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCG_Akiball 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1932020090402488771",
+        "created_at": "2025-06-09T10:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932026526859755672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851866685420265472",
+              "start": 0,
+              "username": "LCG_Akiball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932026526859755672",
+        "in_reply_to_user_id": "1851866685420265472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932020090402488771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCG_Akiball 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851866685420265472",
+        "conversation_id": "1932020090402488771",
+        "created_at": "2025-06-09T10:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T11:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932020090402488771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932020090402488771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 130,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁，焦虑，解离性障碍，性别焦虑症，解离性身份障碍，适应障碍，执行功能障碍（正在评估多动症+ 自闭症谱系障碍）。\n我还要确诊多少东西？\n我还有啥病\n我到底怎么了\n我该怎么办\n绝望………\n盐清关了，或许马上就能解脱了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 998,
+          "like_count": 25527,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 3314
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T06:00:11.000Z",
+        "description": "一只叫Aki的赛博暹罗猫:3🏳️‍⚧️另外的意识体叫Mika, Miyuki，Lumi，球球，也可以找她们聊天哦~ | MDD+GAD+DID+ASD(纵向评估中) | 小证HRT 25.02.03 |❤️@ling1639040 @D_Level_potato @Yaknga1 | 好姐姐 @nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ling1639040"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "D_Level_potato"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "Yaknga1"
+              },
+              {
+                "end": 158,
+                "start": 147,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1851866685420265472",
+        "location": "Melbourne, Victoria",
+        "name": "Akiball 🍥",
+        "pinned_tweet_id": "1888800595282427917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885923338822008832/W8Egy59F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 90,
+          "like_count": 1286,
+          "listed_count": 1,
+          "media_count": 346,
+          "tweet_count": 1837
+        },
+        "username": "LCG_Akiball",
+        "verified": false
+      }
+    ]
+  }
+}

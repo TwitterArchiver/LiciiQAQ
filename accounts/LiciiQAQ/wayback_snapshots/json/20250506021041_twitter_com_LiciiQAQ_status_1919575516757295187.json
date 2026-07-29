@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919555608795365399",
+    "created_at": "2025-05-06T02:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T03:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919575516757295187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893623858911150080",
+          "start": 0,
+          "username": "Apatite98568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919575516757295187",
+    "in_reply_to_user_id": "1893623858911150080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919555608795365399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite98568 好像安卓10也有（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919555605691564034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqOhpzPbAAIasfc.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919555608795365399",
+        "created_at": "2025-05-06T02:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T03:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919575516757295187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893623858911150080",
+              "start": 0,
+              "username": "Apatite98568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919575516757295187",
+        "in_reply_to_user_id": "1893623858911150080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919555608795365399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite98568 好像安卓10也有（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919555605691564034"
+          ]
+        },
+        "author_id": "1893623858911150080",
+        "conversation_id": "1919555608795365399",
+        "created_at": "2025-05-06T00:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T01:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919555608795365399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVfGly1sBT",
+              "end": 38,
+              "expanded_url": "https://x.com/Apatite98568/status/1919555608795365399/photo/1",
+              "media_key": "3_1919555605691564034",
+              "start": 15,
+              "url": "https://t.co/AVfGly1sBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919555608795365399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刷安卓11就是要看这个的😈 https://t.co/AVfGly1sBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 749,
+          "like_count": 13093,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1927
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:28:16.000Z",
+        "description": "高二|福瑞|航天|粥批|二次元|友🏳️‍⚧️🏳️‍🌈姐姐@RusndageSNF |中抑ADHD|社民社自|大连|071209|小号@Apatite_Cinis 朋友 @iranon_lcf @Topia_Urbica @TravelerNMRI  @DraTohru_XLN @Inyuki_1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Apatite_Cinis"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "Topia_Urbica"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "TravelerNMRI"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "DraTohru_XLN"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Inyuki_1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "http://biupiukiu.net",
+                "start": 0,
+                "url": "https://t.co/a2fKnAmdyS"
+              }
+            ]
+          }
+        },
+        "id": "1893623858911150080",
+        "location": "在高潮的青年路",
+        "name": "湛隕",
+        "pinned_tweet_id": "1905965938383466626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905398465905262592/9K52Dy0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 760,
+          "like_count": 11101,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2732
+        },
+        "url": "https://t.co/a2fKnAmdyS",
+        "username": "Apatite98568",
+        "verified": false
+      }
+    ]
+  }
+}

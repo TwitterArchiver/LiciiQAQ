@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996194259670822912"
+      ],
+      "media_source_tweet_id": [
+        "1996308459478729156"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1996441547227934961",
+    "created_at": "2025-12-04T04:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996441547227934961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PsqMR7P6Ev",
+          "end": 35,
+          "expanded_url": "https://x.com/BI3BXI/status/1996308459478729156/photo/1",
+          "media_key": "3_1996194259670822912",
+          "start": 12,
+          "url": "https://t.co/PsqMR7P6Ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996441547227934961",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996308459478729156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: https://t.co/PsqMR7P6Ev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1996194259670822912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PoGlZacAAbL7X.jpg",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996194259670822912"
+          ],
+          "media_source_tweet_id": [
+            "1996308459478729156"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1996441547227934961",
+        "created_at": "2025-12-04T04:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996441547227934961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsqMR7P6Ev",
+              "end": 35,
+              "expanded_url": "https://x.com/BI3BXI/status/1996308459478729156/photo/1",
+              "media_key": "3_1996194259670822912",
+              "start": 12,
+              "url": "https://t.co/PsqMR7P6Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996441547227934961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996308459478729156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: https://t.co/PsqMR7P6Ev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996194259670822912"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1996308459478729156",
+        "created_at": "2025-12-03T20:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996308459478729156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PsqMR7P6Ev",
+              "end": 23,
+              "expanded_url": "https://x.com/BI3BXI/status/1996308459478729156/photo/1",
+              "media_key": "3_1996194259670822912",
+              "start": 0,
+              "url": "https://t.co/PsqMR7P6Ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996308459478729156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 9565,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PsqMR7P6Ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 2083,
+          "like_count": 91213,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 7752
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Student at law｜Inherited from @ryq59｜🏳️‍⚧️Enby.（MtX）🏳️‍🌈｜里垢@TabeWang｜sister @A5Tr41 @Tonghua245｜Administrator @mhtqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 30,
+                "username": "ryq59"
+              },
+              {
+                "end": 68,
+                "start": 59,
+                "username": "TabeWang"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Tonghua245"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNp6ag"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3960,
+          "following_count": 2860,
+          "like_count": 27125,
+          "listed_count": 13,
+          "media_count": 785,
+          "tweet_count": 4477
+        },
+        "url": "https://t.co/LbGkYNp6ag",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

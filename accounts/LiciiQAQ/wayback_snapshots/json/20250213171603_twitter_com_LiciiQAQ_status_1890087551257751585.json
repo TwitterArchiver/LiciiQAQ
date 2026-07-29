@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1890087551257751585",
+    "created_at": "2025-02-13T17:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T18:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890087551257751585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akitsuki_Inori…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Akitsuki_Inori/status/1889553871682331012",
+          "start": 8,
+          "url": "https://t.co/pOqqgBl1OP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890087551257751585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889553871682331012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太好了是猫猫！ https://t.co/pOqqgBl1OP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1890087551257751585",
+        "created_at": "2025-02-13T17:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T18:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890087551257751585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akitsuki_Inori…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Akitsuki_Inori/status/1889553871682331012",
+              "start": 8,
+              "url": "https://t.co/pOqqgBl1OP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890087551257751585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889553871682331012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太好了是猫猫！ https://t.co/pOqqgBl1OP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889553856448831488"
+          ]
+        },
+        "author_id": "1175341799344226306",
+        "conversation_id": "1889553871682331012",
+        "created_at": "2025-02-12T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889553871682331012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmAqOdvMQp",
+              "end": 43,
+              "expanded_url": "https://x.com/Akitsuki_Inori/status/1889553871682331012/photo/1",
+              "media_key": "3_1889553856448831488",
+              "start": 20,
+              "url": "https://t.co/kmAqOdvMQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889553871682331012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 220371,
+          "like_count": 4456,
+          "quote_count": 12,
+          "reply_count": 130,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "我媽：你為什麼拍一座山\n我：網友會懂的 https://t.co/kmAqOdvMQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn），成分复杂，都来找我玩喵（",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-21T09:31:44.000Z",
+        "description": "中/日/広/EN/MY 馬來西亞個人勢Vtuber的阿祁！ 我是我自己的繪師 L2D @en_kaien Collab and Work → DM / vtuber.inori@gmail.com #個人勢Vtuber #MYVT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 99,
+                "tag": "個人勢Vtuber"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "MYVT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "en_kaien"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/tZgWf9hl2hc?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/tZgWf9hl2hc?si=8tjUFkFuFDR2MPKS",
+                "start": 0,
+                "url": "https://t.co/KfTHVBvk49"
+              }
+            ]
+          }
+        },
+        "id": "1175341799344226306",
+        "location": "馬來西亞",
+        "name": "秋月祁 🔻 秋月イノリ | Malaysia Vtuber 🇲🇾",
+        "pinned_tweet_id": "1832346691087036705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878022890811166720/maqJyWp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7367,
+          "following_count": 1310,
+          "like_count": 36490,
+          "listed_count": 56,
+          "media_count": 4594,
+          "tweet_count": 38943
+        },
+        "url": "https://t.co/KfTHVBvk49",
+        "username": "Akitsuki_Inori",
+        "verified": false
+      }
+    ]
+  }
+}

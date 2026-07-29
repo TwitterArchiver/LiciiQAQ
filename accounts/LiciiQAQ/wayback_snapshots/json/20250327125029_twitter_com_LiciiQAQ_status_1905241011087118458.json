@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1905047921122574659",
+    "created_at": "2025-03-27T12:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T13:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905241011087118458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859486191281897477",
+          "start": 0,
+          "username": "liveDeath750122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905241011087118458",
+    "in_reply_to_user_id": "1859486191281897477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905047921122574659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liveDeath750122 揉揉，可以的话尽快离开他们吧,，🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1905047921122574659",
+        "created_at": "2025-03-27T12:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T13:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905241011087118458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859486191281897477",
+              "start": 0,
+              "username": "liveDeath750122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905241011087118458",
+        "in_reply_to_user_id": "1859486191281897477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905047921122574659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liveDeath750122 揉揉，可以的话尽快离开他们吧,，🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859486191281897477",
+        "conversation_id": "1905047921122574659",
+        "created_at": "2025-03-27T00:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T01:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905047921122574659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905047921122574659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11948,
+          "like_count": 120,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "关于昨天上午学校躯体化回家 考试出分超低 然后被骂一上午被打一晚上的事情 妈妈用充电线勒死我但是没死成 被爸爸按地上打踢踹 说他有暴力倾向让我别惹他 一拳能把我打死 揪着头发扇我 让我死远点别恶心他们 被从椅子上踹下来好几次然后按地上打完让我站起来 手腿发抖说我吸毒 我难受说我吃变性药吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 468,
+          "like_count": 3973,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 625
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T06:37:55.000Z",
+        "description": "doctor is Promised Land\nHappyDeath or live\n天天开心 努力生活\n不自残 不OD 不自杀 精神状态良好/TARDIS 驾驶员\n哥哥（professor @Muoujiang_\n\n作为时间之子 我会为善良的孩子带来欢乐\n我是有主人的猫猫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Muoujiang_"
+              }
+            ]
+          }
+        },
+        "id": "1859486191281897477",
+        "location": "MTF应许之地",
+        "name": "liveDeath🏳️‍⚧️🏳️‍⚧️🍥🍥",
+        "pinned_tweet_id": "1877948978815521050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859712046000111618/6j7gDy8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 355,
+          "like_count": 8854,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 3099
+        },
+        "username": "liveDeath750122",
+        "verified": false
+      }
+    ]
+  }
+}

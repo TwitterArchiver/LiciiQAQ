@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966660353313669120"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1966621253399441418",
+    "created_at": "2025-09-13T00:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T01:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966660355993591832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677253878524547073",
+          "start": 0,
+          "username": "wufaliuli_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AKW1Nirt4n",
+          "end": 39,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1966660355993591832/photo/1",
+          "media_key": "3_1966660353313669120",
+          "start": 16,
+          "url": "https://t.co/AKW1Nirt4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966660355993591832",
+    "in_reply_to_user_id": "1677253878524547073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966621253399441418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wufaliuli_ 好欸😇 https://t.co/AKW1Nirt4n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1966660353313669120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0r7K-kbAAAdYS4.png",
+        "width": 534
+      },
+      {
+        "height": 861,
+        "media_key": "3_1966621250392080384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rXm41awAA920I.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966660353313669120"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1966621253399441418",
+        "created_at": "2025-09-13T00:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966660355993591832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677253878524547073",
+              "start": 0,
+              "username": "wufaliuli_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AKW1Nirt4n",
+              "end": 39,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1966660355993591832/photo/1",
+              "media_key": "3_1966660353313669120",
+              "start": 16,
+              "url": "https://t.co/AKW1Nirt4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966660355993591832",
+        "in_reply_to_user_id": "1677253878524547073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966621253399441418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wufaliuli_ 好欸😇 https://t.co/AKW1Nirt4n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966621250392080384"
+          ]
+        },
+        "author_id": "1677253878524547073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1966621253399441418",
+        "created_at": "2025-09-12T21:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T22:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966621253399441418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1695649420539219968",
+              "start": 16,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 53,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1965849608011317251/HLKq-bFc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1965849608011317251/HLKq-bFc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/QzlaVK8h25"
+            },
+            {
+              "display_url": "pic.x.com/O0Hr27pKxw",
+              "end": 77,
+              "expanded_url": "https://x.com/wufaliuli_/status/1966621253399441418/photo/1",
+              "media_key": "3_1966621250392080384",
+              "start": 54,
+              "url": "https://t.co/O0Hr27pKxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966621253399441418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @LiciiQAQ\n\n➡️ https://t.co/QzlaVK8h25 https://t.co/O0Hr27pKxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1851,
+          "like_count": 63577,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 6783
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T09:51:16.000Z",
+        "description": "//05.2.16/165cm49kg/infp-t/深柜中，很穷，买不起糖/双相中喵/轻微网络社恐患者/呆呆的，脑子里不知道在想什么，精神不正常致歉呃呃🍀/努力攒钱hrt中🍥🔥🔥🔥//",
+        "id": "1677253878524547073",
+        "name": "舞法琉璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878902485756325889/lkxUrbA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 137,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "username": "wufaliuli_",
+        "verified": false
+      }
+    ]
+  }
+}

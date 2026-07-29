@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946225757870821376",
+        "3_1946225758038278144",
+        "3_1946225757807906816",
+        "3_1946225757816266752"
+      ],
+      "media_source_tweet_id": [
+        "1946225840997736669",
+        "1946225840997736669",
+        "1946225840997736669",
+        "1946225840997736669"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1946312773371400622",
+    "created_at": "2025-07-18T20:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T21:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946312773371400622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843518394056015872",
+          "start": 3,
+          "username": "xxxx123yyy545"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lGfIdW7ArJ",
+          "end": 135,
+          "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+          "media_key": "3_1946225757870821376",
+          "start": 112,
+          "url": "https://t.co/lGfIdW7ArJ"
+        },
+        {
+          "display_url": "pic.x.com/lGfIdW7ArJ",
+          "end": 135,
+          "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+          "media_key": "3_1946225758038278144",
+          "start": 112,
+          "url": "https://t.co/lGfIdW7ArJ"
+        },
+        {
+          "display_url": "pic.x.com/lGfIdW7ArJ",
+          "end": 135,
+          "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+          "media_key": "3_1946225757807906816",
+          "start": 112,
+          "url": "https://t.co/lGfIdW7ArJ"
+        },
+        {
+          "display_url": "pic.x.com/lGfIdW7ArJ",
+          "end": 135,
+          "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+          "media_key": "3_1946225757816266752",
+          "start": 112,
+          "url": "https://t.co/lGfIdW7ArJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946312773371400622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946225840997736669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxx123yyy545: 接线下接线下，金主爸爸的每一炮都能帮助一个985学生完成她的期末作业，学电影的拍电影学校一分钱都不给，所以给钱就卖，片子要投奖，给多点的话给金主们挂出品人，对不起不是玩梗是真的没钱了。 https://t.co/lGfIdW7ArJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946312773371400622].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946312773371400622",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946312773371400622"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946225757870821376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJiA-abEAAGZdo.jpg",
+        "width": 923
+      },
+      {
+        "height": 878,
+        "media_key": "3_1946225758038278144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJiA_CWQAAbeXx.jpg",
+        "width": 878
+      },
+      {
+        "height": 3660,
+        "media_key": "3_1946225757807906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJiA-LbEAAswF0.jpg",
+        "width": 3660
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1946225757816266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJiA-NaoAAZbfA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946225757870821376",
+            "3_1946225758038278144",
+            "3_1946225757807906816",
+            "3_1946225757816266752"
+          ]
+        },
+        "author_id": "1843518394056015872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1946225840997736669",
+        "created_at": "2025-07-18T15:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946225840997736669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGfIdW7ArJ",
+              "end": 116,
+              "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+              "media_key": "3_1946225757870821376",
+              "start": 93,
+              "url": "https://t.co/lGfIdW7ArJ"
+            },
+            {
+              "display_url": "pic.x.com/lGfIdW7ArJ",
+              "end": 116,
+              "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+              "media_key": "3_1946225758038278144",
+              "start": 93,
+              "url": "https://t.co/lGfIdW7ArJ"
+            },
+            {
+              "display_url": "pic.x.com/lGfIdW7ArJ",
+              "end": 116,
+              "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+              "media_key": "3_1946225757807906816",
+              "start": 93,
+              "url": "https://t.co/lGfIdW7ArJ"
+            },
+            {
+              "display_url": "pic.x.com/lGfIdW7ArJ",
+              "end": 116,
+              "expanded_url": "https://x.com/xxxx123yyy545/status/1946225840997736669/photo/1",
+              "media_key": "3_1946225757816266752",
+              "start": 93,
+              "url": "https://t.co/lGfIdW7ArJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946225840997736669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3356,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "接线下接线下，金主爸爸的每一炮都能帮助一个985学生完成她的期末作业，学电影的拍电影学校一分钱都不给，所以给钱就卖，片子要投奖，给多点的话给金主们挂出品人，对不起不是玩梗是真的没钱了。 https://t.co/lGfIdW7ArJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 1367,
+          "like_count": 41305,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 4972
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "在下纪伊🍥！\n北三持证含糖小药娘/HRT2024/11/RLE/985本/高考政治100喵~/\n猎奇向地雷妹/INFP/血图gal/南北一生推！maiw25/偶尔见证。\n双相严重失眠烟酒o割日常推，喜欢被调教，同类互fo\n为期末作业不挂科，接线下，视情况全国可飞\n爱人&小狗 @l93374231 \n前往约定之星ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 138,
+                "username": "l93374231"
+              }
+            ]
+          }
+        },
+        "id": "1843518394056015872",
+        "location": "后海边地道老北京人",
+        "name": "纪~伊~下海拍作业版",
+        "pinned_tweet_id": "1946225840997736669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 1046,
+          "like_count": 4884,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 1775
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

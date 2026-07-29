@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1928369219663540677",
+    "created_at": "2025-05-31T01:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T02:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928621413809705147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824455257453387777",
+          "start": 0,
+          "username": "happyalldayyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928621413809705147",
+    "in_reply_to_user_id": "1824455257453387777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928369219663540677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@happyalldayyyy 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1928369219663540677",
+        "created_at": "2025-05-31T01:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T02:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928621413809705147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824455257453387777",
+              "start": 0,
+              "username": "happyalldayyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928621413809705147",
+        "in_reply_to_user_id": "1824455257453387777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928369219663540677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happyalldayyyy 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824455257453387777",
+        "conversation_id": "1928369219663540677",
+        "created_at": "2025-05-30T08:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T09:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928369219663540677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928369219663540677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8319,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 124,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日啊！有人祝我生日快乐吗 但是是农历了 我一般农历和阳历都会过😌等过几天阳历就有气球可以看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 940,
+          "like_count": 21741,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 2994
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T14:37:09.000Z",
+        "description": "无趣的人和不礼貌的人不许和我说话不许和我说话不许和我说话不许和我说话👊 喜欢我可以给我打钱@friedchichen_这是我宝宝/❗️关评推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "friedchichen_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fried%20chicke…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fried%20chicken1",
+                "start": 0,
+                "url": "https://t.co/YnuskJdGJU"
+              }
+            ]
+          }
+        },
+        "id": "1824455257453387777",
+        "location": "🚪188",
+        "name": "饥饿蛋炒饭",
+        "pinned_tweet_id": "1900510431212376328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897278084060987392/vlkDiSnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9574,
+          "following_count": 294,
+          "like_count": 25815,
+          "listed_count": 18,
+          "media_count": 303,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/YnuskJdGJU",
+        "username": "happyalldayyyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896251255854391296"
+      ],
+      "media_source_tweet_id": [
+        "1896251264171987359"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1971119972186488966",
+    "created_at": "2025-09-25T07:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T08:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971119972186488966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721736749926567936",
+          "start": 3,
+          "username": "Dr0gsneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XUV9cjIm7",
+          "end": 38,
+          "expanded_url": "https://x.com/Dr0gsneko/status/1896251264171987359/photo/1",
+          "media_key": "3_1896251255854391296",
+          "start": 15,
+          "url": "https://t.co/5XUV9cjIm7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971119972186488966",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 636
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896251264171987359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr0gsneko: https://t.co/5XUV9cjIm7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1896251255854391296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDWeG4W4AAlyDc.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896251255854391296"
+          ],
+          "media_source_tweet_id": [
+            "1896251264171987359"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1971119972186488966",
+        "created_at": "2025-09-25T07:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T08:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971119972186488966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721736749926567936",
+              "start": 3,
+              "username": "Dr0gsneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XUV9cjIm7",
+              "end": 38,
+              "expanded_url": "https://x.com/Dr0gsneko/status/1896251264171987359/photo/1",
+              "media_key": "3_1896251255854391296",
+              "start": 15,
+              "url": "https://t.co/5XUV9cjIm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971119972186488966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 636
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896251264171987359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr0gsneko: https://t.co/5XUV9cjIm7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896251255854391296"
+          ]
+        },
+        "author_id": "1721736749926567936",
+        "conversation_id": "1896251264171987359",
+        "created_at": "2025-03-02T17:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896251264171987359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XUV9cjIm7",
+              "end": 23,
+              "expanded_url": "https://x.com/Dr0gsneko/status/1896251264171987359/photo/1",
+              "media_key": "3_1896251255854391296",
+              "start": 0,
+              "url": "https://t.co/5XUV9cjIm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896251264171987359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1385,
+          "impression_count": 173234,
+          "like_count": 12471,
+          "quote_count": 31,
+          "reply_count": 34,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5XUV9cjIm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1925,
+          "like_count": 67198,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 6959
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "FA #麻薬ねこ #drugsneko / @Drugsneko18",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 3,
+                "tag": "麻薬ねこ"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "tag": "drugsneko"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Drugsneko18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/Hawawa",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/Hawawa",
+                "start": 0,
+                "url": "https://t.co/IGBmkEVwIJ"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "CM closed",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1903135371996864546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940053685289074688/QrzvgZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64024,
+          "following_count": 53,
+          "like_count": 14150,
+          "listed_count": 92,
+          "media_count": 175,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/IGBmkEVwIJ",
+        "username": "Dr0gsneko",
+        "verified": true
+      }
+    ]
+  }
+}

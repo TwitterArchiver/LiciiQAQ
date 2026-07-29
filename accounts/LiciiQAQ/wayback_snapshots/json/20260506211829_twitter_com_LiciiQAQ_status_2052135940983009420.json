@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2052135940983009420",
+    "created_at": "2026-05-06T21:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T22:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052135940983009420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1695649420539219968",
+          "start": 3,
+          "username": "LiciiQAQ"
+        },
+        {
+          "end": 26,
+          "id": "1822922661174910976",
+          "start": 14,
+          "username": "K4ALS__0486"
+        },
+        {
+          "end": 38,
+          "id": "1835764493231751168",
+          "start": 27,
+          "username": "mirekintoc"
+        },
+        {
+          "end": 55,
+          "id": "1889157954143981568",
+          "start": 39,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 71,
+          "id": "1723715289723092992",
+          "start": 56,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052135940983009420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052135927976530022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiciiQAQ: @K4ALS__0486 @mirekintoc @_blueberrysauce @CharmingFurina 由于简介过于冗长，互挂仅保留近期联系较多的推油，抱歉喵🙇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2052135940983009420",
+        "created_at": "2026-05-06T21:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052135940983009420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1695649420539219968",
+              "start": 3,
+              "username": "LiciiQAQ"
+            },
+            {
+              "end": 26,
+              "id": "1822922661174910976",
+              "start": 14,
+              "username": "K4ALS__0486"
+            },
+            {
+              "end": 38,
+              "id": "1835764493231751168",
+              "start": 27,
+              "username": "mirekintoc"
+            },
+            {
+              "end": 55,
+              "id": "1889157954143981568",
+              "start": 39,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 71,
+              "id": "1723715289723092992",
+              "start": 56,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052135940983009420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052135927976530022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiciiQAQ: @K4ALS__0486 @mirekintoc @_blueberrysauce @CharmingFurina 由于简介过于冗长，互挂仅保留近期联系较多的推油，抱歉喵🙇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2052135122682696123",
+        "created_at": "2026-05-06T21:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T22:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052135927976530022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822922661174910976",
+              "start": 0,
+              "username": "K4ALS__0486"
+            },
+            {
+              "end": 24,
+              "id": "1835764493231751168",
+              "start": 13,
+              "username": "mirekintoc"
+            },
+            {
+              "end": 41,
+              "id": "1889157954143981568",
+              "start": 25,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 57,
+              "id": "1723715289723092992",
+              "start": 42,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052135927976530022",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052135122682696123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K4ALS__0486 @mirekintoc @_blueberrysauce @CharmingFurina 由于简介过于冗长，互挂仅保留近期联系较多的推油，抱歉喵🙇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 2213,
+          "like_count": 120586,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 8314
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T09:07:00.000Z",
+        "description": "丨拒极端粉红丨理性看待一切事物，细致分析问题。国家需采取强硬措施改变现状\n    淡推中\n礼貌互挂@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1822922661174910976",
+        "location": "雪国",
+        "name": "古関ウイ🇭🇰🇲🇴🇯🇵🇩🇪",
+        "pinned_tweet_id": "1908798345272795619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884912807071895552/GNmJGAiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 717,
+          "like_count": 10081,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "K4ALS__0486",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "✨正在准备下一 CNOI 赛季，能进队吗｜09 年高一退役又复役的 OIer ｜代词随意｜大概（绝对）是顺男，对人属生物个体友好｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "omkechan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirekintocvoid",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mirekintocvoid",
+                "start": 0,
+                "url": "https://t.co/Gm4k8wa7mW"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "NAMORK Leinshin",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "2045097315627835506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051744459352903680/NnxV3mWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 948,
+          "like_count": 5192,
+          "listed_count": 4,
+          "media_count": 316,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/Gm4k8wa7mW",
+        "username": "mirekintoc",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "好朋友@liciiQAQ 妹妹/推特托管人@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "liciiQAQ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv167Q"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2883,
+          "following_count": 1295,
+          "like_count": 9389,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/7oEMPv167Q",
+        "username": "_blueberrysauce",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶07男高/高三/理科生/日常清水推/🇹🇼右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/妹妹@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 118,
+                "username": "Furina_Thailand"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF1U2q"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "Palais Mermonia, Fontaine",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958894650598858753/c_kIQugG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 3716,
+          "like_count": 85275,
+          "listed_count": 11,
+          "media_count": 1323,
+          "tweet_count": 18103
+        },
+        "url": "https://t.co/Y8AOwF1U2q",
+        "username": "CharmingFurina",
+        "verified": true
+      }
+    ]
+  }
+}

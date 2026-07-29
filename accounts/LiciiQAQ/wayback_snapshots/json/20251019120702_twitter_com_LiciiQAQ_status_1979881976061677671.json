@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1979587009476960314",
+    "created_at": "2025-10-19T12:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979881976061677671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696817218842169345",
+          "start": 0,
+          "username": "remakeqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979881976061677671",
+    "in_reply_to_user_id": "1696817218842169345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979587009476960314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remakeqvq 那个…窝私信到条数限制了，加下tg可以嘛？\n（等下删掉这条）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1979587009476960314",
+        "created_at": "2025-10-19T12:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979881976061677671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696817218842169345",
+              "start": 0,
+              "username": "remakeqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979881976061677671",
+        "in_reply_to_user_id": "1696817218842169345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979587009476960314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remakeqvq 那个…窝私信到条数限制了，加下tg可以嘛？\n（等下删掉这条）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696817218842169345",
+        "conversation_id": "1979587009476960314",
+        "created_at": "2025-10-18T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979587009476960314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979587009476960314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷茫…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 2022,
+          "like_count": 77330,
+          "listed_count": 4,
+          "media_count": 357,
+          "tweet_count": 7376
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T09:29:10.000Z",
+        "description": "想嗑药/虚无主义至上/p社/反正不是什么好人/不知道自己像个什么，当个幽灵挺好的/苟活于世/随便转发喜欢的图片…蛮看吧/不表态任何事…/想要…额…不知道/可聊天/gumi…玻璃动物/评论就当发病了（不是）/想成为魂五/喜欢就fo下呗…会看成分／2025.10.19",
+        "id": "1696817218842169345",
+        "location": "世界渴望之城",
+        "name": "柠ghost",
+        "pinned_tweet_id": "1979348309820215695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977499859927359488/CJTZFuEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 59,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 493
+        },
+        "username": "remakeqvq",
+        "verified": false
+      }
+    ]
+  }
+}

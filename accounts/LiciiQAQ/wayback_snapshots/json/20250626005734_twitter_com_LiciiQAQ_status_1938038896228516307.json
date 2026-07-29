@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938002203504955536",
+    "created_at": "2025-06-26T00:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T01:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938038896228516307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818678630824001538",
+          "start": 0,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938038896228516307",
+    "in_reply_to_user_id": "1818678630824001538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938002203504955536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misako_25ji 别啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938002203504955536",
+        "created_at": "2025-06-26T00:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T01:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938038896228516307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818678630824001538",
+              "start": 0,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938038896228516307",
+        "in_reply_to_user_id": "1818678630824001538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938002203504955536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misako_25ji 别啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818678630824001538",
+        "conversation_id": "1938002203504955536",
+        "created_at": "2025-06-25T22:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T23:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938002203504955536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938002203504955536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么吃苯海索？\n很简单 我想死 而且我不想在思考了\n服用苯海索能极为明显的降低你的思维速度和步骤。\n最近会找一天尝试死亡剂量的苯海索哦 大家可以提前关注我一下（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 1176,
+          "like_count": 33054,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 3945
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 924,
+          "like_count": 1125,
+          "listed_count": 4,
+          "media_count": 137,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

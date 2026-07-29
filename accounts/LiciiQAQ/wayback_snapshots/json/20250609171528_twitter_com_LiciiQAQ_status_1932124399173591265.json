@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1932123334231388474",
+    "created_at": "2025-06-09T17:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T18:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932124399173591265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932124399173591265",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932123334231388474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 晚安喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_1932123321405165568",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GtBH7IqaUAA02Ue.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GtBH7IqaUAA02Ue.mp4"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1932123334231388474",
+        "created_at": "2025-06-09T17:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932124399173591265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932124399173591265",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932123334231388474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1932123321405165568"
+          ]
+        },
+        "author_id": "1636232016231542784",
+        "conversation_id": "1932123334231388474",
+        "created_at": "2025-06-09T17:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932123334231388474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fk6NNF02x",
+              "end": 30,
+              "expanded_url": "https://x.com/SEuyrj/status/1932123334231388474/photo/1",
+              "media_key": "16_1932123321405165568",
+              "start": 7,
+              "url": "https://t.co/7fk6NNF02x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932123334231388474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚…晚安🐾💌 https://t.co/7fk6NNF02x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1000,
+          "like_count": 25689,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3336
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "沒錯，是我！你們的好朋友籽岷（是小花），互聯網上的大王！  歡迎訂閱我的頻道  每天分享有趣的內容 ✨🐾\n//__ps:（我會根據你和我互動的次數，然後回fo你   |目前我只在推特發布內容 |點擊下面的鏈接，你可以給我發送匿名留言🩵 |子帳號：@jack89_64 ⛱️  __//愛你們，和我成為朋友💌🐾💐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jack89_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seuyrj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seuyrj",
+                "start": 0,
+                "url": "https://t.co/LEs0YguWIE"
+              }
+            ]
+          }
+        },
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "人民的頻道🌸💗",
+        "pinned_tweet_id": "1920406688030412891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915751567829209088/fPNY1E_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 836,
+          "like_count": 8155,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/LEs0YguWIE",
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

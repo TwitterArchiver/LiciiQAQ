@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1931383531089125553",
+    "created_at": "2025-06-08T04:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T05:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931569851379953919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1241967881035730945",
+          "start": 0,
+          "username": "catty_yuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931569851379953919",
+    "in_reply_to_user_id": "1241967881035730945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931383531089125553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catty_yuan 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_1931383517256224768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2nE3caEAA2kUq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1931383531089125553",
+        "created_at": "2025-06-08T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931569851379953919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1241967881035730945",
+              "start": 0,
+              "username": "catty_yuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931569851379953919",
+        "in_reply_to_user_id": "1241967881035730945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931383531089125553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catty_yuan 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931383517256224768"
+          ]
+        },
+        "author_id": "1241967881035730945",
+        "conversation_id": "1931383531089125553",
+        "created_at": "2025-06-07T16:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931383531089125553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYBn4zzYDO",
+              "end": 29,
+              "expanded_url": "https://x.com/catty_yuan/status/1931383531089125553/photo/1",
+              "media_key": "3_1931383517256224768",
+              "start": 6,
+              "url": "https://t.co/rYBn4zzYDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931383531089125553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5711,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶20岁咯 https://t.co/rYBn4zzYDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 988,
+          "like_count": 25031,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 3273
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T06:00:00.000Z",
+        "description": "05 Ⅱ brat Ⅱ INFP Ⅱ 一辈子喜欢爹系 Ⅱ 环游世界^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/catty_yuan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/catty_yuan",
+                "start": 0,
+                "url": "https://t.co/njH8XcPF9M"
+              }
+            ]
+          }
+        },
+        "id": "1241967881035730945",
+        "location": "匿名提问箱👉🏻",
+        "name": "苦酱",
+        "pinned_tweet_id": "1902426858840580506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926151541045473280/xlHf2iUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 128,
+          "like_count": 4235,
+          "listed_count": 8,
+          "media_count": 391,
+          "tweet_count": 2335
+        },
+        "url": "https://t.co/njH8XcPF9M",
+        "username": "catty_yuan",
+        "verified": false
+      }
+    ]
+  }
+}

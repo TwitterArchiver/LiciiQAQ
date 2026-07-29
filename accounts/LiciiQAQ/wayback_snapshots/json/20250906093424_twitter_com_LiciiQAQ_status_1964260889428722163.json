@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1964199284381012293",
+    "created_at": "2025-09-06T09:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T10:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964260889428722163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964260889428722163",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964199284381012293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 羡慕了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1964199284381012293",
+        "created_at": "2025-09-06T09:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964260889428722163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964260889428722163",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964199284381012293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 羡慕了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "1964199284381012293",
+        "created_at": "2025-09-06T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964199284381012293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964199284381012293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7051,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "下午就要去姐姐家开银趴了。。。被三个女生同时玩弄应该会很幸福吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1813,
+          "like_count": 61246,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 6695
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n24年8月28号无证含糖\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 104,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao",
+                "start": 0,
+                "url": "https://t.co/kL6TQThccf"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾🍥（戒割手版）",
+        "pinned_tweet_id": "1867250521729306631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863679245043544064/UEWeNeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3218,
+          "following_count": 845,
+          "like_count": 24107,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 4695
+        },
+        "url": "https://t.co/kL6TQThccf",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

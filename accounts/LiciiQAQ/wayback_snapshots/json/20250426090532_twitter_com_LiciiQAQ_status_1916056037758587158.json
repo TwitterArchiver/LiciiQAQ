@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1916056037758587158",
+    "created_at": "2025-04-26T09:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916056037758587158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ExtremeBlitz__…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/ExtremeBlitz__/status/1915815264312070260",
+          "start": 14,
+          "url": "https://t.co/zA6u1nKFwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916056037758587158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915815264312070260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后一看是约炮小广告👿（） https://t.co/zA6u1nKFwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9350,
+        "height": 1062,
+        "media_key": "13_1915815202295107584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915815202295107584/img/rgik5G4s-TAMA7Cd.jpg",
+        "public_metrics": {
+          "view_count": 218217
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915815202295107584/vid/avc1/274x270/qDkr7z8Fo-WxN_OI.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915815202295107584/vid/avc1/366x360/_UOR7BeF8iKV3DUu.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915815202295107584/vid/avc1/732x720/FniR88swAgFj0BvA.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915815202295107584/pl/g66xSErv0mgqeFIk.m3u8?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1916056037758587158",
+        "created_at": "2025-04-26T09:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916056037758587158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ExtremeBlitz__…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ExtremeBlitz__/status/1915815264312070260",
+              "start": 14,
+              "url": "https://t.co/zA6u1nKFwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916056037758587158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915815264312070260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后一看是约炮小广告👿（） https://t.co/zA6u1nKFwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915815202295107584"
+          ]
+        },
+        "author_id": "1099082900056739840",
+        "conversation_id": "1915815264312070260",
+        "created_at": "2025-04-25T17:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T18:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915815264312070260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRgZs2iA8V",
+              "end": 23,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/1915815264312070260/video/1",
+              "media_key": "13_1915815202295107584",
+              "start": 0,
+              "url": "https://t.co/zRgZs2iA8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915815264312070260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2731,
+          "impression_count": 537372,
+          "like_count": 45510,
+          "quote_count": 487,
+          "reply_count": 126,
+          "retweet_count": 9691
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zRgZs2iA8V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 682,
+          "like_count": 10705,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1531
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T23:05:58.000Z",
+        "description": "real",
+        "id": "1099082900056739840",
+        "name": "duck",
+        "pinned_tweet_id": "1897104082260910401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705880241531502592/7pn9NVaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325478,
+          "following_count": 538,
+          "like_count": 12487,
+          "listed_count": 477,
+          "media_count": 2985,
+          "tweet_count": 6030
+        },
+        "username": "ExtremeBlitz__",
+        "verified": true
+      }
+    ]
+  }
+}

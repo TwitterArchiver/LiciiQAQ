@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946871376578838528"
+      ],
+      "media_source_tweet_id": [
+        "1946871387307782234"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1947250039144984957",
+    "created_at": "2025-07-21T10:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T11:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947250039144984957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1680508885394927616",
+          "start": 3,
+          "username": "04177_realname"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/47zn7chwYB",
+          "end": 47,
+          "expanded_url": "https://x.com/04177_realname/status/1946871387307782234/photo/1",
+          "media_key": "3_1946871376578838528",
+          "start": 24,
+          "url": "https://t.co/47zn7chwYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947250039144984957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946871387307782234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @04177_realname: 呜呜🥹 https://t.co/47zn7chwYB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1946871376578838528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwStM7hbgAAU9ub.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946871376578838528"
+          ],
+          "media_source_tweet_id": [
+            "1946871387307782234"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1947250039144984957",
+        "created_at": "2025-07-21T10:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T11:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947250039144984957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1680508885394927616",
+              "start": 3,
+              "username": "04177_realname"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/47zn7chwYB",
+              "end": 47,
+              "expanded_url": "https://x.com/04177_realname/status/1946871387307782234/photo/1",
+              "media_key": "3_1946871376578838528",
+              "start": 24,
+              "url": "https://t.co/47zn7chwYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947250039144984957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946871387307782234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @04177_realname: 呜呜🥹 https://t.co/47zn7chwYB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946871376578838528"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1946871387307782234",
+        "created_at": "2025-07-20T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946871387307782234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47zn7chwYB",
+              "end": 27,
+              "expanded_url": "https://x.com/04177_realname/status/1946871387307782234/photo/1",
+              "media_key": "3_1946871376578838528",
+              "start": 4,
+              "url": "https://t.co/47zn7chwYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946871387307782234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15109,
+          "like_count": 271,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜🥹 https://t.co/47zn7chwYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1400,
+          "like_count": 42769,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 5099
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。❤️：@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "zqtlovekris99"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10924,
+          "following_count": 6142,
+          "like_count": 62653,
+          "listed_count": 32,
+          "media_count": 2412,
+          "tweet_count": 17881
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

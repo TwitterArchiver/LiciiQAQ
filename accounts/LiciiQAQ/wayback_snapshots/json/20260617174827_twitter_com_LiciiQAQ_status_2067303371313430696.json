@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067303369220460544"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2067303371313430696",
+    "created_at": "2026-06-17T17:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067303371313430696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V8UdjyDVQU",
+          "end": 44,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2067303371313430696/photo/1",
+          "media_key": "3_2067303369220460544",
+          "start": 21,
+          "url": "https://t.co/V8UdjyDVQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067303371313430696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "号主前几天去见完爱德华回来了，望周知😢（ https://t.co/V8UdjyDVQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2067303369220460544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLCJdhVakAAtuBJ.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067303369220460544"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2067303371313430696",
+        "created_at": "2026-06-17T17:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067303371313430696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V8UdjyDVQU",
+              "end": 44,
+              "expanded_url": "https://x.com/LiciiQAQ/status/2067303371313430696/photo/1",
+              "media_key": "3_2067303369220460544",
+              "start": 21,
+              "url": "https://t.co/V8UdjyDVQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067303371313430696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号主前几天去见完爱德华回来了，望周知😢（ https://t.co/V8UdjyDVQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@，主人：@eledaylily 姐姐：@Grinin_mark @kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "eledaylily"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 2185,
+          "like_count": 121600,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 8335
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

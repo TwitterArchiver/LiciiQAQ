@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940454678934049253",
+    "created_at": "2025-07-02T17:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T18:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940459891031965727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764149440133447680",
+          "start": 0,
+          "username": "RinTka8964"
+        },
+        {
+          "end": 27,
+          "id": "1723715289723092992",
+          "start": 12,
+          "username": "CharmingFurina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940459891031965727",
+    "in_reply_to_user_id": "1764149440133447680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940457956564500834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinTka8964 @CharmingFurina 那很好了🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1940457956564500834].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1940457956564500834",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1940457956564500834"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1940454678934049253",
+        "created_at": "2025-07-02T17:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940459891031965727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764149440133447680",
+              "start": 0,
+              "username": "RinTka8964"
+            },
+            {
+              "end": 27,
+              "id": "1723715289723092992",
+              "start": 12,
+              "username": "CharmingFurina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940459891031965727",
+        "in_reply_to_user_id": "1764149440133447680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940457956564500834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinTka8964 @CharmingFurina 那很好了🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 1230,
+          "like_count": 35961,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4264
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T04:43:06.000Z",
+        "description": "窝里推@YUSEI1917 /战斗仍将继续.......?/欢迎私信互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "YUSEI1917"
+              }
+            ]
+          }
+        },
+        "id": "1764149440133447680",
+        "location": "布里亚特",
+        "name": "里想奈",
+        "pinned_tweet_id": "1928879164222054828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884929141549805568/8VEkfZJJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 339,
+          "like_count": 29645,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 6177
+        },
+        "username": "RinTka8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T14:52:12.000Z",
+        "description": "中推第一芙廚🥰/重慶07男高/高二/理科生/日常清水推/右翼中華民國派❂(RKMT)/183cm 62kg/澀澀/數學/語言文字學/中華&印度文化圈研究/喜歡東亞、東南亞/原神、崩鐵/友LGBT/漢英日韓泰法語ok/會發自拍🥰/小帳@Furina_Thailand/亞鐵@kgdyodyi/@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "Furina_Thailand"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "kgdyodyi"
+              },
+              {
+                "end": 154,
+                "start": 145,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/charmingfurina",
+                "end": 23,
+                "expanded_url": "http://ngl.link/charmingfurina",
+                "start": 0,
+                "url": "https://t.co/Y8AOwF2rRY"
+              }
+            ]
+          }
+        },
+        "id": "1723715289723092992",
+        "location": "Palais Mermonia, Fontaine",
+        "name": "💙迷人的芙芙💙",
+        "pinned_tweet_id": "1929101204237287777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918590799119630336/Z2G66HRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 3349,
+          "like_count": 75375,
+          "listed_count": 12,
+          "media_count": 1166,
+          "tweet_count": 14660
+        },
+        "url": "https://t.co/Y8AOwF2rRY",
+        "username": "CharmingFurina",
+        "verified": false
+      }
+    ]
+  }
+}

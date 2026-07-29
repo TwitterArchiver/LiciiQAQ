@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1916896312941015394",
+    "created_at": "2025-04-29T18:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T19:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917283136163176913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1555961306913689600",
+          "start": 0,
+          "username": "3C3AHuangYou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917283136163176913",
+    "in_reply_to_user_id": "1555961306913689600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916896312941015394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3C3AHuangYou 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916896308859998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpovCWjbkAA9QcR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1916896312941015394",
+        "created_at": "2025-04-29T18:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T19:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917283136163176913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1555961306913689600",
+              "start": 0,
+              "username": "3C3AHuangYou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917283136163176913",
+        "in_reply_to_user_id": "1555961306913689600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916896312941015394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3C3AHuangYou 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916896308859998208"
+          ]
+        },
+        "author_id": "1555961306913689600",
+        "conversation_id": "1916896312941015394",
+        "created_at": "2025-04-28T16:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T17:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916896312941015394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nq3PvHJq7m",
+              "end": 30,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1916896312941015394/photo/1",
+              "media_key": "3_1916896308859998208",
+              "start": 7,
+              "url": "https://t.co/Nq3PvHJq7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916896312941015394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11495,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 138,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐 https://t.co/Nq3PvHJq7m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 699,
+          "like_count": 11649,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1704
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝                                                                                                我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️Perish",
+        "pinned_tweet_id": "1645099075468140544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915662797171810306/g3qHcBvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5320,
+          "following_count": 2443,
+          "like_count": 121085,
+          "listed_count": 9,
+          "media_count": 1445,
+          "tweet_count": 22959
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      }
+    ]
+  }
+}

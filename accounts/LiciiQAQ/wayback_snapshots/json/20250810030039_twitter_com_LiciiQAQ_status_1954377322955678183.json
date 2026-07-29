@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1954218086694846739",
+    "created_at": "2025-08-10T03:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954377322955678183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467599287754755",
+          "start": 0,
+          "username": "with_WhiT3Rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954377322955678183",
+    "in_reply_to_user_id": "1887467599287754755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954218086694846739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@with_WhiT3Rose 日常25-26，睡觉26-27（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1954218086694846739",
+        "created_at": "2025-08-10T03:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954377322955678183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467599287754755",
+              "start": 0,
+              "username": "with_WhiT3Rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954377322955678183",
+        "in_reply_to_user_id": "1887467599287754755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954218086694846739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@with_WhiT3Rose 日常25-26，睡觉26-27（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887467599287754755",
+        "conversation_id": "1954218086694846739",
+        "created_at": "2025-08-09T16:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T17:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954218086694846739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954218086694846739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5999,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 88,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇大家空调都开多少度🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 1553,
+          "like_count": 50764,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 6017
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:45:28.000Z",
+        "description": "与你说些无聊事 挽手几千里",
+        "id": "1887467599287754755",
+        "name": "StOr3",
+        "pinned_tweet_id": "1947644176482636066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954150747014316032/U3tmsODx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 494,
+          "like_count": 16282,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1927
+        },
+        "username": "with_WhiT3Rose",
+        "verified": false
+      }
+    ]
+  }
+}

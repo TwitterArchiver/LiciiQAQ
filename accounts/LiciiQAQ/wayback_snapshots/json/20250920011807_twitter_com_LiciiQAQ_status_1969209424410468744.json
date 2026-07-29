@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1969108547481813496",
+    "created_at": "2025-09-20T01:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T02:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969209424410468744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1603232668744761345",
+          "start": 0,
+          "username": "orugannokasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969209424410468744",
+    "in_reply_to_user_id": "1603232668744761345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969202636349161511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orugannokasa 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1969108547481813496",
+        "created_at": "2025-09-20T01:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969209424410468744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1603232668744761345",
+              "start": 0,
+              "username": "orugannokasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969209424410468744",
+        "in_reply_to_user_id": "1603232668744761345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969202636349161511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orugannokasa 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603232668744761345",
+        "conversation_id": "1969108547481813496",
+        "created_at": "2025-09-20T00:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T01:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969202636349161511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "1969202636349161511",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969108547481813496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 笨蛋...🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 1882,
+          "like_count": 65885,
+          "listed_count": 5,
+          "media_count": 322,
+          "tweet_count": 6894
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T03:38:20.000Z",
+        "description": "一只mtf，INFP，缺爱，中度抑郁的xyn，偶尔会割手手，但是不od（）\n暂时无证含糖，身高体重保密喵～\n同类无门槛w ，互fo踢我\n永远的好妹妹 @MiaoJiang080923\n❤️永远的大笨蛋❤️樂晴\n永远的好闺蜜@bdxiaoxiong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "MiaoJiang080923"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "bdxiaoxiong"
+              }
+            ]
+          }
+        },
+        "id": "1603232668744761345",
+        "location": "苏南",
+        "name": "🍥オルガンの傘🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962398253481365504/3QH1bDNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 121,
+          "like_count": 1103,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 169
+        },
+        "username": "orugannokasa",
+        "verified": false
+      }
+    ]
+  }
+}

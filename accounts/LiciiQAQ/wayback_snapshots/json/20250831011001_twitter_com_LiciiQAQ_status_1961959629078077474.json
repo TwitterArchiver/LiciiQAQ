@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1961959629078077474",
+    "created_at": "2025-08-31T01:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T02:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961959629078077474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961959629078077474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961942008106520610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 转发+关注抽雪fufu一个，9.4开奖\n\n凌晨五点〇七，醒来时收到的温暖。\n泡了一杯咖啡，喝完红豆薏米水，小猫卡尔在门口看我。\n有点苦，又有点甜。\n\n我把这些写成了一篇博客。\n\n🍬 红豆薏米水与凌晨五点〇七 | ❤ 小雨的博客 ❤\n\nhttps:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 481,
+        "media_key": "3_1961909897312059392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzoaqC6bwAAr0PK.png",
+        "width": 1200
+      },
+      {
+        "height": 531,
+        "media_key": "3_1961909896628281344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzoaqAXaIAA5czJ.png",
+        "width": 549
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1961959629078077474",
+        "created_at": "2025-08-31T01:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961959629078077474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961959629078077474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961942008106520610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 转发+关注抽雪fufu一个，9.4开奖\n\n凌晨五点〇七，醒来时收到的温暖。\n泡了一杯咖啡，喝完红豆薏米水，小猫卡尔在门口看我。\n有点苦，又有点甜。\n\n我把这些写成了一篇博客。\n\n🍬 红豆薏米水与凌晨五点〇七 | ❤ 小雨的博客 ❤\n\nhttps:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961909897312059392",
+            "3_1961909896628281344"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "1961942008106520610",
+        "created_at": "2025-08-31T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961942008106520610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "angelkawaii.xyz/2025/08/30/5-0…",
+              "end": 140,
+              "expanded_url": "https://angelkawaii.xyz/2025/08/30/5-07/",
+              "start": 117,
+              "status": 200,
+              "title": "🍬 红豆薏米水与凌晨五点〇七 | ❤ 小雨的博客 ❤",
+              "unwound_url": "https://angelkawaii.xyz/2025/08/30/5-07/",
+              "url": "https://t.co/EJ6ArDaj03"
+            },
+            {
+              "display_url": "pic.x.com/QrrupX5hBI",
+              "end": 164,
+              "expanded_url": "https://x.com/amecandy_x/status/1961942008106520610/photo/1",
+              "media_key": "3_1961909897312059392",
+              "start": 141,
+              "url": "https://t.co/QrrupX5hBI"
+            },
+            {
+              "display_url": "pic.x.com/QrrupX5hBI",
+              "end": 164,
+              "expanded_url": "https://x.com/amecandy_x/status/1961942008106520610/photo/1",
+              "media_key": "3_1961909896628281344",
+              "start": 141,
+              "url": "https://t.co/QrrupX5hBI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961942008106520610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz/2025/08/30/5-0…",
+                "end": 140,
+                "expanded_url": "https://angelkawaii.xyz/2025/08/30/5-07/",
+                "start": 117,
+                "url": "https://t.co/sYg47wJf8W"
+              }
+            ]
+          },
+          "text": "转发+关注抽雪fufu一个，9.4开奖\n\n凌晨五点〇七，醒来时收到的温暖。\n泡了一杯咖啡，喝完红豆薏米水，小猫卡尔在门口看我。\n有点苦，又有点甜。\n\n我把这些写成了一篇博客。\n\n🍬 红豆薏米水与凌晨五点〇七 | ❤ 小雨的博客 ❤\n\nhttps://t.co/sYg47wJf8W"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "转发+关注抽雪fufu一个，9.4开奖\n\n凌晨五点〇七，醒来时收到的温暖。\n泡了一杯咖啡，喝完红豆薏米水，小猫卡尔在门口看我。\n有点苦，又有点甜。\n\n我把这些写成了一篇博客。\n\n🍬 红豆薏米水与凌晨五点〇七 | ❤ 小雨的博客 ❤\n\nhttps://t.co/EJ6ArDaj03 https://t.co/QrrupX5hBI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1777,
+          "like_count": 59551,
+          "listed_count": 5,
+          "media_count": 305,
+          "tweet_count": 6595
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "我是小雨休学在家3年，互联网是我的一切🌏//阴暗角落独自流泪的小猫🐱🏳️‍⚧️//HRT 2022.07//双相//我会写东西搞oc！文章网站https://t.co/Ul32kqG4uh 欢迎找我讨论！！//去过🇯🇵🇷🇺🇰🇷🧳//术曲🎧//私信欢迎//恋人@jingjiehaoshan2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 129,
+                "username": "jingjiehaoshan2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 94,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 71,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "家里",
+        "name": "超絕最可愛 Rain 🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1957588484484702540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3126,
+          "following_count": 1169,
+          "like_count": 18250,
+          "listed_count": 9,
+          "media_count": 476,
+          "tweet_count": 5739
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

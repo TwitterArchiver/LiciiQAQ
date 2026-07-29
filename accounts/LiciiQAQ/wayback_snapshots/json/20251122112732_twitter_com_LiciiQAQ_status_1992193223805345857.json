@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1990801923088527400",
+    "created_at": "2025-11-22T11:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992193223805345857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "46529201",
+          "start": 0,
+          "username": "y4006948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992193223805345857",
+    "in_reply_to_user_id": "46529201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992187220317671628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4006948 下周二左右会发qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1990801923088527400",
+        "created_at": "2025-11-22T11:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992193223805345857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "46529201",
+              "start": 0,
+              "username": "y4006948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992193223805345857",
+        "in_reply_to_user_id": "46529201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992187220317671628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4006948 下周二左右会发qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46529201",
+        "conversation_id": "1990801923088527400",
+        "created_at": "2025-11-22T11:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992187220317671628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992187220317671628",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990801923088527400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 快发货（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 2083,
+          "like_count": 88261,
+          "listed_count": 4,
+          "media_count": 381,
+          "tweet_count": 7683
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T00:07:57.000Z",
+        "description": "09年xyn（10.2）🏳️‍⚧️｜HRT2025.2.6｜无证含糖🍥｜167/53｜天赋（残缺）党+家长反对党｜选择性出柜｜性取向偏男｜ESFP-O-H｜常驻广东｜中职计算机专业｜推当朋友圈发｜没有门槛🚪｜提问箱👇，联系方式在置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y4006948",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y4006948",
+                "start": 0,
+                "url": "https://t.co/lDbig9xDOo"
+              }
+            ]
+          }
+        },
+        "id": "46529201",
+        "location": "距你5.2千米",
+        "name": "(ᇂ_ᇂ|||)🍥",
+        "pinned_tweet_id": "1975006953685626923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923825224024064/pOQ8Mvt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 424,
+          "like_count": 21111,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/lDbig9xDOo",
+        "username": "y4006948",
+        "verified": false
+      }
+    ]
+  }
+}

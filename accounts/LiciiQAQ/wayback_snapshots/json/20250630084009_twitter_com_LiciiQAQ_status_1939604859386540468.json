@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939594052569329989",
+    "created_at": "2025-06-30T08:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T09:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939604859386540468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "Gotohitory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939604859386540468",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939594052569329989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gotohitory 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1939594047485788160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurSgoDaQAA0YqV.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939594052569329989",
+        "created_at": "2025-06-30T08:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T09:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939604859386540468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "Gotohitory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939604859386540468",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939594052569329989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gotohitory 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939594047485788160"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1939594052569329989",
+        "created_at": "2025-06-30T07:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939594052569329989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover your closest Twitter connections! 🎯 This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.com/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "url": "https://t.co/xyEq5V3ony"
+            },
+            {
+              "display_url": "pic.x.com/Mmt4vqoFbl",
+              "end": 64,
+              "expanded_url": "https://x.com/Gotohitory/status/1939594052569329989/photo/1",
+              "media_key": "3_1939594047485788160",
+              "start": 41,
+              "url": "https://t.co/Mmt4vqoFbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939594052569329989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/xyEq5V3ony https://t.co/Mmt4vqoFbl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 1211,
+          "like_count": 34780,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 4147
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "左翼哲比  生理无糖伪娘 pan\n女装照见媒体\n🚪30 半绿🚪777 \n我是友好的波奇fumo\nʟᴇғᴛɪsᴛs & ʀɪɢʜᴛɪsᴛs ғʀɪᴇɴᴅʟʏ\n如果我b你你要好好反思自己是不是太sb\n可爱宝宝@iLIc5147 \n小狗宝宝@mengyoong2\n前世老公😿@wuyan_sleeeepy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "iLIc5147"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "mengyoong2"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "wuyan_sleeeepy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=dQw4w9…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/4Kb114DPc5"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "爱哈气的神人@hood8964",
+        "name": "BoO0occhi the 2nd",
+        "pinned_tweet_id": "1938603762115059754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938542727488282625/buxZQG6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 1207,
+          "like_count": 18321,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 4461
+        },
+        "url": "https://t.co/4Kb114DPc5",
+        "username": "Gotohitory",
+        "verified": false
+      }
+    ]
+  }
+}

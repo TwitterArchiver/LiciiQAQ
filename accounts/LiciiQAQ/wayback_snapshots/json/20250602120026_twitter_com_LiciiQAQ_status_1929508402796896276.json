@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1929501311365771344",
+    "created_at": "2025-06-02T12:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T13:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929508402796896276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760607995300585472",
+          "start": 0,
+          "username": "xiaoeiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929508402796896276",
+    "in_reply_to_user_id": "1760607995300585472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929501311365771344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoeiQAQ 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1929501306659753984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsb3NykbUAASzGA.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1929501311365771344",
+        "created_at": "2025-06-02T12:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T13:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929508402796896276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760607995300585472",
+              "start": 0,
+              "username": "xiaoeiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929508402796896276",
+        "in_reply_to_user_id": "1760607995300585472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929501311365771344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoeiQAQ 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929501306659753984"
+          ]
+        },
+        "author_id": "1760607995300585472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1929501311365771344",
+        "created_at": "2025-06-02T11:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T12:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929501311365771344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/cHEkgGt4lg"
+            },
+            {
+              "display_url": "pic.x.com/xeWYrJlJZa",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoeiQAQ/status/1929501311365771344/photo/1",
+              "media_key": "3_1929501306659753984",
+              "start": 41,
+              "url": "https://t.co/xeWYrJlJZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929501311365771344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/cHEkgGt4lg https://t.co/xeWYrJlJZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 971,
+          "like_count": 23217,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 3142
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "09年(12.7)家长党/身高164/体重95左右/m属性/\n无证含糖/乞讨大王/🚪50/🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️\n金主爸爸来养我吧🥺\n好妹妹 @WinkCat1234\n好姐姐@FengJIn2781\n老婆是这位哦→@qinghuan5865471\n世上对我最好的姐姐：@Yuewu49667",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "FengJIn2781"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "qinghuan5865471"
+              },
+              {
+                "end": 149,
+                "start": 138,
+                "username": "Yuewu49667"
+              }
+            ]
+          }
+        },
+        "id": "1760607995300585472",
+        "location": "喵喵喵",
+        "name": "咲苡🏳️‍⚧️🏳️‍⚧️（努力活着）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923230146896723971/fOEnMnSw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 425,
+          "like_count": 1400,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1067
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2006298547533283726",
+    "created_at": "2025-12-31T09:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T10:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006298547533283726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1987472738966216704",
+          "start": 3,
+          "username": "ranRan1335555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006298547533283726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005944994872361087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ranRan1335555: 我有个疑问，为什么31号到1号叫跨年 不叫跳旦？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2006298547533283726",
+        "created_at": "2025-12-31T09:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006298547533283726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1987472738966216704",
+              "start": 3,
+              "username": "ranRan1335555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006298547533283726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005944994872361087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ranRan1335555: 我有个疑问，为什么31号到1号叫跨年 不叫跳旦？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987472738966216704",
+        "conversation_id": "2005944994872361087",
+        "created_at": "2025-12-30T10:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005944994872361087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005944994872361087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 34338,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我有个疑问，为什么31号到1号叫跨年 不叫跳旦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 2097,
+          "like_count": 98392,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 7954
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T10:50:16.000Z",
+        "description": "les🌈 长发h 感兴趣回关 私信礼貌的都会回    \n\n男的全部不回复一律拉黑不解释 entp＆infp恋爱中 天大地大老婆最大 @youyudouQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "youyudouQ"
+              }
+            ]
+          }
+        },
+        "id": "1987472738966216704",
+        "name": "PinktalkR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997530894991818752/ZR0G3_YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 18,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 432
+        },
+        "username": "ranRan1335555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1968324706987299065",
+    "created_at": "2025-09-18T10:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968628495266849028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881612519430930432",
+          "start": 0,
+          "username": "huihui12126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968628495266849028",
+    "in_reply_to_user_id": "1881612519430930432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968324706987299065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huihui12126 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968324634136510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Dk03xbgAA3YwX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1968324706987299065",
+        "created_at": "2025-09-18T10:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968628495266849028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881612519430930432",
+              "start": 0,
+              "username": "huihui12126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968628495266849028",
+        "in_reply_to_user_id": "1881612519430930432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968324706987299065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui12126 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968324634136510464"
+          ]
+        },
+        "author_id": "1881612519430930432",
+        "conversation_id": "1968324706987299065",
+        "created_at": "2025-09-17T14:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968324706987299065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xmkVAeLPlJ",
+              "end": 38,
+              "expanded_url": "https://x.com/huihui12126/status/1968324706987299065/photo/1",
+              "media_key": "3_1968324634136510464",
+              "start": 15,
+              "url": "https://t.co/xmkVAeLPlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968324706987299065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3646,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "刚满18岁～\n（来戳气球？） https://t.co/xmkVAeLPlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 1871,
+          "like_count": 65192,
+          "listed_count": 5,
+          "media_count": 320,
+          "tweet_count": 6863
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T07:59:29.000Z",
+        "description": "男高｜广东mtf｜遵守x规则｜接线下 🚪66（可口令红包或赞赏码）   图包  定制  原味｜⭐麻烦多看看主页置顶⭐｜小破群：750599309（不喜欢说话的就别来啦）｜韶关，节假日可去广州深圳之类近的地方",
+        "id": "1881612519430930432",
+        "location": "粤北",
+        "name": "惠惠惠惠🍥",
+        "pinned_tweet_id": "1927713824309682421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960974418047590400/eP_Fb8Ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16271,
+          "following_count": 215,
+          "like_count": 1613,
+          "listed_count": 63,
+          "media_count": 108,
+          "tweet_count": 1734
+        },
+        "username": "huihui12126",
+        "verified": false
+      }
+    ]
+  }
+}

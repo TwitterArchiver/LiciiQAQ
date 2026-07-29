@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1927023573324992634",
+    "created_at": "2025-05-26T23:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T00:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927144038966198544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690638204356214784",
+          "start": 0,
+          "username": "luo_12168735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927144038966198544",
+    "in_reply_to_user_id": "1690638204356214784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927023573324992634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_12168735 内圈欸🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1927023569629782016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4pug2WoAAVxgf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1927023573324992634",
+        "created_at": "2025-05-26T23:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T00:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927144038966198544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690638204356214784",
+              "start": 0,
+              "username": "luo_12168735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927144038966198544",
+        "in_reply_to_user_id": "1690638204356214784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927023573324992634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_12168735 内圈欸🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927023569629782016"
+          ]
+        },
+        "author_id": "1690638204356214784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1927023573324992634",
+        "created_at": "2025-05-26T15:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927023573324992634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/9M0ouUUwjP"
+            },
+            {
+              "display_url": "pic.x.com/5JfjEiRzqS",
+              "end": 64,
+              "expanded_url": "https://x.com/luo_12168735/status/1927023573324992634/photo/1",
+              "media_key": "3_1927023569629782016",
+              "start": 41,
+              "url": "https://t.co/5JfjEiRzqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927023573324992634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/9M0ouUUwjP https://t.co/5JfjEiRzqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 903,
+          "like_count": 19842,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2805
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T08:15:53.000Z",
+        "description": "华风夏韵，洛水天依/INFP/hrt25.5.14/是个超大只的yn哦/🏳️‍⚧️",
+        "id": "1690638204356214784",
+        "name": "雨天🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921946068230578177/2K5L8yGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 295,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 337
+        },
+        "username": "luo_12168735",
+        "verified": false
+      }
+    ]
+  }
+}

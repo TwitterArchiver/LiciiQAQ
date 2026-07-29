@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1995811083689365789",
+    "created_at": "2025-12-02T11:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T12:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995811083689365789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Minokakay/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Minokakay/status/1995778110684602866",
+          "start": 16,
+          "url": "https://t.co/aCderyrpVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995811083689365789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995778110684602866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉想被抱着睡觉想被摸头安抚🥺🥺 https://t.co/aCderyrpVk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1995811083689365789",
+        "created_at": "2025-12-02T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995811083689365789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Minokakay/status/1995778110684602866",
+              "start": 16,
+              "url": "https://t.co/aCderyrpVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995811083689365789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995778110684602866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉想被抱着睡觉想被摸头安抚🥺🥺 https://t.co/aCderyrpVk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1995778110684602866",
+        "created_at": "2025-12-02T08:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995778110684602866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995778110684602866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉想被抱着睡觉想被摸头安抚🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 2084,
+          "like_count": 90670,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 7743
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。  阿斯ADHD精分抑鬱焦慮MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智/靶向药请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 109,
+                "start": 99,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12810,
+          "following_count": 1017,
+          "like_count": 45036,
+          "listed_count": 48,
+          "media_count": 1690,
+          "tweet_count": 23961
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

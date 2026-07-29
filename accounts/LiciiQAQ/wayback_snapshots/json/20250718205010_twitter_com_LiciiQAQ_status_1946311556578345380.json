@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946311554179158016"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1946278914642608262",
+    "created_at": "2025-07-18T20:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T21:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946311556578345380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487563847602900992",
+          "start": 0,
+          "username": "duxiangwan4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZ3eaoKFFi",
+          "end": 40,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1946311556578345380/photo/1",
+          "media_key": "3_1946311554179158016",
+          "start": 17,
+          "url": "https://t.co/uZ3eaoKFFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946311556578345380",
+    "in_reply_to_user_id": "1487563847602900992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946278914642608262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxiangwan4 好欸😇 https://t.co/uZ3eaoKFFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1946311554179158016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKwC-kWUAABFOz.png",
+        "width": 534
+      },
+      {
+        "height": 861,
+        "media_key": "3_1946278911702392832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKSW73a4AAtgmy.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946311554179158016"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1946278914642608262",
+        "created_at": "2025-07-18T20:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T21:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946311556578345380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487563847602900992",
+              "start": 0,
+              "username": "duxiangwan4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZ3eaoKFFi",
+              "end": 40,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1946311556578345380/photo/1",
+              "media_key": "3_1946311554179158016",
+              "start": 17,
+              "url": "https://t.co/uZ3eaoKFFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946311556578345380",
+        "in_reply_to_user_id": "1487563847602900992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946278914642608262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxiangwan4 好欸😇 https://t.co/uZ3eaoKFFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946278911702392832"
+          ]
+        },
+        "author_id": "1487563847602900992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1946278914642608262",
+        "created_at": "2025-07-18T18:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T19:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946278914642608262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1695649420539219968",
+              "start": 16,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+              "display_url": "infintytweet.me/secret-crush?l…",
+              "end": 53,
+              "expanded_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1945311845428183041/DKcUA2L9?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945311845428183041/DKcUA2L9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Secret Crush • Infinitweet",
+              "unwound_url": "https://infintytweet.me/secret-crush?lang=zh",
+              "url": "https://t.co/zfcFaWRuP9"
+            },
+            {
+              "display_url": "pic.x.com/5ina6wmYIb",
+              "end": 77,
+              "expanded_url": "https://x.com/duxiangwan4/status/1946278914642608262/photo/1",
+              "media_key": "3_1946278911702392832",
+              "start": 54,
+              "url": "https://t.co/5ina6wmYIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946278914642608262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在Twitter上的暗恋是  @LiciiQAQ\n\n➡️ https://t.co/zfcFaWRuP9 https://t.co/5ina6wmYIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1368,
+          "like_count": 41129,
+          "listed_count": 4,
+          "media_count": 246,
+          "tweet_count": 4948
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T23:10:42.000Z",
+        "description": "待我长发及腰，娶我可好",
+        "id": "1487563847602900992",
+        "name": "🍥陌然🇨🇳🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941702376554950656/BZo2AT4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 55,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 246
+        },
+        "username": "duxiangwan4",
+        "verified": false
+      }
+    ]
+  }
+}

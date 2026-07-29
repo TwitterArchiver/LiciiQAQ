@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941669184515211334",
+    "created_at": "2025-07-06T01:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T02:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941669184515211334"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "门槛"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "女大"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "反差"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "求包养"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "白虎"
+        },
+        {
+          "end": 118,
+          "start": 114,
+          "tag": "娃娃音"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "求入门"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "缺钱"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "女友系列"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925432852877041664",
+          "start": 3,
+          "username": "miaobaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941669184515211334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940350983764361506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaobaomao: 这里是小猫咪\n缺钱喵\n非常想要漂亮衣服\n想去好多地方玩\n哥哥入🚪的话小猫真的会很开心\n欢迎宝贝找我互转互fo～\n#门槛 #门槛妹 #女大 #反差 #爸爸活 #妈妈活 #金主爸爸 #求包养 #白虎 #娃娃音 #求入门  #缺钱 #女友系列 http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_1940350972225605632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2C7ccXUAA3LuV.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1568,
+        "media_key": "3_1940350972225597440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2C7ccXMAAO5vu.jpg",
+        "width": 1151
+      },
+      {
+        "height": 1520,
+        "media_key": "3_1940350972242403328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2C7cgXoAANndB.jpg",
+        "width": 1130
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1940350972175212544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2C7cQWYAAWyYU.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941669184515211334",
+        "created_at": "2025-07-06T01:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941669184515211334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "门槛"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "女大"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "反差"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 104,
+              "start": 99,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "求包养"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "白虎"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "娃娃音"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "求入门"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "缺钱"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "女友系列"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925432852877041664",
+              "start": 3,
+              "username": "miaobaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941669184515211334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940350983764361506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaobaomao: 这里是小猫咪\n缺钱喵\n非常想要漂亮衣服\n想去好多地方玩\n哥哥入🚪的话小猫真的会很开心\n欢迎宝贝找我互转互fo～\n#门槛 #门槛妹 #女大 #反差 #爸爸活 #妈妈活 #金主爸爸 #求包养 #白虎 #娃娃音 #求入门  #缺钱 #女友系列 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940350972225605632",
+            "3_1940350972225597440",
+            "3_1940350972242403328",
+            "3_1940350972175212544"
+          ]
+        },
+        "author_id": "1925432852877041664",
+        "conversation_id": "1940350983764361506",
+        "created_at": "2025-07-02T10:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T11:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940350983764361506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "门槛"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "女大"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "反差"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "求包养"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "白虎"
+            },
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "娃娃音"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "求入门"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "缺钱"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "女友系列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CeZPfQpBmw",
+              "end": 142,
+              "expanded_url": "https://x.com/miaobaomao/status/1940350983764361506/photo/1",
+              "media_key": "3_1940350972225605632",
+              "start": 119,
+              "url": "https://t.co/CeZPfQpBmw"
+            },
+            {
+              "display_url": "pic.x.com/CeZPfQpBmw",
+              "end": 142,
+              "expanded_url": "https://x.com/miaobaomao/status/1940350983764361506/photo/1",
+              "media_key": "3_1940350972225597440",
+              "start": 119,
+              "url": "https://t.co/CeZPfQpBmw"
+            },
+            {
+              "display_url": "pic.x.com/CeZPfQpBmw",
+              "end": 142,
+              "expanded_url": "https://x.com/miaobaomao/status/1940350983764361506/photo/1",
+              "media_key": "3_1940350972242403328",
+              "start": 119,
+              "url": "https://t.co/CeZPfQpBmw"
+            },
+            {
+              "display_url": "pic.x.com/CeZPfQpBmw",
+              "end": 142,
+              "expanded_url": "https://x.com/miaobaomao/status/1940350983764361506/photo/1",
+              "media_key": "3_1940350972175212544",
+              "start": 119,
+              "url": "https://t.co/CeZPfQpBmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940350983764361506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3404,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "这里是小猫咪\n缺钱喵\n非常想要漂亮衣服\n想去好多地方玩\n哥哥入🚪的话小猫真的会很开心\n欢迎宝贝找我互转互fo～\n#门槛 #门槛妹 #女大 #反差 #爸爸活 #妈妈活 #金主爸爸 #求包养 #白虎 #娃娃音 #求入门  #缺钱 #女友系列 https://t.co/CeZPfQpBmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 1282,
+          "like_count": 37020,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4444
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T06:05:47.000Z",
+        "description": "可以验证 坐标20r 期待有哥哥入门！",
+        "id": "1925432852877041664",
+        "name": "一只面包猫2.0",
+        "pinned_tweet_id": "1940350983764361506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925453179984236544/STtRjQ0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 33,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 294
+        },
+        "username": "miaobaomao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1898194191412609447",
+    "created_at": "2025-03-10T12:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899077282334957939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646829104078143494",
+          "start": 0,
+          "username": "8EY3rZMN2k78200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899077282334957939",
+    "in_reply_to_user_id": "1646829104078143494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898977668718334351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8EY3rZMN2k78200 好喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1898194191412609447",
+        "created_at": "2025-03-10T12:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899077282334957939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646829104078143494",
+              "start": 0,
+              "username": "8EY3rZMN2k78200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899077282334957939",
+        "in_reply_to_user_id": "1646829104078143494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898977668718334351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8EY3rZMN2k78200 好喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646829104078143494",
+        "conversation_id": "1898194191412609447",
+        "created_at": "2025-03-10T06:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T07:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898977668718334351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898977668718334351",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898194191412609447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 是冉冉升起的新星！\n互fo啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 336,
+          "like_count": 1021,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 246
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T10:54:50.000Z",
+        "description": "資工（computer science）大學生，喜歡梗圖、小說、幻想、女裝，喜歡和各種有趣的人聊天，蘿莉控+百合控，intp，都會回跟，會聊政治，但僅限回覆，盡量不吵到不聊政治的人，私信非廣告都會回，但不會秒回\n(我不是beautifulsoup的作者，只是當暱稱而已)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BeautifulSoup8",
+                "end": 23,
+                "expanded_url": "http://t.me/BeautifulSoup8",
+                "start": 0,
+                "url": "https://t.co/07s4Q6MeA8"
+              }
+            ]
+          }
+        },
+        "id": "1646829104078143494",
+        "location": "台灣 台北 Taiwan Taipei ",
+        "name": "湯湯 beautiful soup（求互fo!!）",
+        "pinned_tweet_id": "1864690737667035216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693455888768745472/P3GUay9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 3482,
+          "like_count": 74904,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 8370
+        },
+        "url": "https://t.co/07s4Q6MeA8",
+        "username": "8EY3rZMN2k78200",
+        "verified": false
+      }
+    ]
+  }
+}

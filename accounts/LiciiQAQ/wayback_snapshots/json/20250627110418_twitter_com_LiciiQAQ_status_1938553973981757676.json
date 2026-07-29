@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938175786286256153",
+    "created_at": "2025-06-27T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938553973981757676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375730868241670146",
+          "start": 0,
+          "username": "MoMo2007_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938553973981757676",
+    "in_reply_to_user_id": "1375730868241670146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938553657601208816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoMo2007_ 哦哦，下次窝试试、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938175786286256153",
+        "created_at": "2025-06-27T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938553973981757676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375730868241670146",
+              "start": 0,
+              "username": "MoMo2007_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938553973981757676",
+        "in_reply_to_user_id": "1375730868241670146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938553657601208816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoMo2007_ 哦哦，下次窝试试、、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375730868241670146",
+        "conversation_id": "1938175786286256153",
+        "created_at": "2025-06-27T11:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938553657601208816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938553657601208816",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938553535165321407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 对，告诉医生诊断写易性症（如果医生同意的话）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1190,
+          "like_count": 33694,
+          "listed_count": 4,
+          "media_count": 208,
+          "tweet_count": 3993
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-27T08:46:23.000Z",
+        "description": "183cm😭 焦虑症 ADHD 高中 hrt2024.7.1 泛性恋? 25年3月3日大证 不od不割手 🚪38 家长不管党？爱好:mc/模拟飞行/无人机/无线电/计算机/战雷 备用@sQingHeya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 91,
+                "username": "sQingHeya"
+              }
+            ]
+          }
+        },
+        "id": "1375730868241670146",
+        "location": "河北",
+        "name": "墨瑾🍥",
+        "pinned_tweet_id": "1837053443946504370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881546176563957760/l7joKrCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 334,
+          "like_count": 6663,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 2119
+        },
+        "username": "MoMo2007_",
+        "verified": false
+      }
+    ]
+  }
+}

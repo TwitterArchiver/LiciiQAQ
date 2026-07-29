@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948598013108383744"
+      ],
+      "media_source_tweet_id": [
+        "1948598055294619959"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948695727116574728",
+    "created_at": "2025-07-25T10:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T11:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948695727116574728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TCbXV5LKrp",
+          "end": 49,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1948598055294619959/photo/1",
+          "media_key": "3_1948598013108383744",
+          "start": 26,
+          "url": "https://t.co/TCbXV5LKrp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948695727116574728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948598055294619959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 现代七宗罪 https://t.co/TCbXV5LKrp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1948598013108383744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrPkZ1bcAAaKK4.png",
+        "width": 654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948598013108383744"
+          ],
+          "media_source_tweet_id": [
+            "1948598055294619959"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948695727116574728",
+        "created_at": "2025-07-25T10:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T11:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948695727116574728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCbXV5LKrp",
+              "end": 49,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1948598055294619959/photo/1",
+              "media_key": "3_1948598013108383744",
+              "start": 26,
+              "url": "https://t.co/TCbXV5LKrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948695727116574728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948598055294619959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 现代七宗罪 https://t.co/TCbXV5LKrp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948598013108383744"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1948598055294619959",
+        "created_at": "2025-07-25T04:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948598055294619959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCbXV5LKrp",
+              "end": 29,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1948598055294619959/photo/1",
+              "media_key": "3_1948598013108383744",
+              "start": 6,
+              "url": "https://t.co/TCbXV5LKrp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1948598055294619959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3386,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "现代七宗罪 https://t.co/TCbXV5LKrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1436,
+          "like_count": 44564,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 5329
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 4871,
+          "like_count": 16799,
+          "listed_count": 8,
+          "media_count": 3193,
+          "tweet_count": 23874
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

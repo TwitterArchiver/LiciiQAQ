@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1990458258696663112",
+    "created_at": "2025-11-18T00:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T01:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990572034901111164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841768354178334721",
+          "start": 0,
+          "username": "jingzi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990572034901111164",
+    "in_reply_to_user_id": "1841768354178334721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990458258696663112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi004 这下不得不吃了😋（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1990458258696663112",
+        "created_at": "2025-11-18T00:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T01:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990572034901111164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841768354178334721",
+              "start": 0,
+              "username": "jingzi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990572034901111164",
+        "in_reply_to_user_id": "1841768354178334721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990458258696663112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi004 这下不得不吃了😋（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841768354178334721",
+        "conversation_id": "1990458258696663112",
+        "created_at": "2025-11-17T16:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990458258696663112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/l_oveforyou/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/l_oveforyou/status/1990299428725637449",
+              "start": 8,
+              "url": "https://t.co/Yi9MrrpOnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990458258696663112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990299428725637449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是個好事啊🌝 https://t.co/Yi9MrrpOnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 2082,
+          "like_count": 86873,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 7619
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T09:14:54.000Z",
+        "description": "常駐昆山😁是剛用上雌激素沒幾年的亞洲人妖🌝自產自銷人妖藥（雌二醇）糖商🌚減肥、豐胸、泌乳、脫毛、美白、雌墮、互fo、面基找我☝️🤓會轉發好看的",
+        "id": "1841768354178334721",
+        "location": "中國大陸江蘇",
+        "name": "劉陰嫚（京本京子）",
+        "pinned_tweet_id": "1988811313527812350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947896196036759558/jZW-lLDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3640,
+          "following_count": 3677,
+          "like_count": 1098,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 5617
+        },
+        "username": "jingzi004",
+        "verified": false
+      }
+    ]
+  }
+}

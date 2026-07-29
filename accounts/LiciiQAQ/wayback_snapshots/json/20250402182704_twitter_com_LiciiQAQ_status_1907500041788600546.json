@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907494908598038529"
+      ],
+      "media_source_tweet_id": [
+        "1907494948943048864"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1907500041788600546",
+    "created_at": "2025-04-02T18:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T19:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907500041788600546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k8x847YDj0",
+          "end": 49,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1907494948943048864/photo/1",
+          "media_key": "3_1907494908598038529",
+          "start": 26,
+          "url": "https://t.co/k8x847YDj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907500041788600546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907494948943048864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 汗流浃背了 https://t.co/k8x847YDj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1907494908598038529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnjIg1XaMAEoXEb.png",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907494908598038529"
+          ],
+          "media_source_tweet_id": [
+            "1907494948943048864"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1907500041788600546",
+        "created_at": "2025-04-02T18:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907500041788600546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8x847YDj0",
+              "end": 49,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1907494948943048864/photo/1",
+              "media_key": "3_1907494908598038529",
+              "start": 26,
+              "url": "https://t.co/k8x847YDj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907500041788600546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907494948943048864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 汗流浃背了 https://t.co/k8x847YDj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907494908598038529"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1907494948943048864",
+        "created_at": "2025-04-02T18:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907494948943048864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k8x847YDj0",
+              "end": 29,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1907494948943048864/photo/1",
+              "media_key": "3_1907494908598038529",
+              "start": 6,
+              "url": "https://t.co/k8x847YDj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907494948943048864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "汗流浃背了 https://t.co/k8x847YDj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 494,
+          "like_count": 5554,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 770
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894685893140881409/EAkfTOuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 2451,
+          "like_count": 4348,
+          "listed_count": 2,
+          "media_count": 681,
+          "tweet_count": 6154
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

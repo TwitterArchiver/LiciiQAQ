@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1937705285726187699",
+    "created_at": "2025-06-25T05:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T06:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937740591150039238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760607995300585472",
+          "start": 0,
+          "username": "xiaoeiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937740591150039238",
+    "in_reply_to_user_id": "1760607995300585472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937705285726187699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoeiQAQ 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1937705281112408064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuQcr9AagAAiUoh.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1937705285726187699",
+        "created_at": "2025-06-25T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937740591150039238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760607995300585472",
+              "start": 0,
+              "username": "xiaoeiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937740591150039238",
+        "in_reply_to_user_id": "1760607995300585472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937705285726187699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoeiQAQ 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937705281112408064"
+          ]
+        },
+        "author_id": "1760607995300585472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1937705285726187699",
+        "created_at": "2025-06-25T02:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T03:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937705285726187699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Discover your closest Twitter connections! 🎯 This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.com/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933393968072699904/oQbqe9yK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.com/interaction-circle?lang=zh",
+              "url": "https://t.co/pCcSpRS3iy"
+            },
+            {
+              "display_url": "pic.x.com/wYCk2qywgU",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoeiQAQ/status/1937705285726187699/photo/1",
+              "media_key": "3_1937705281112408064",
+              "start": 41,
+              "url": "https://t.co/wYCk2qywgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937705285726187699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/pCcSpRS3iy https://t.co/wYCk2qywgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 1168,
+          "like_count": 32728,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 3909
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "呜呜呜这里是咲苡，15mtf家暴党，药已被扔没药吃了呜呜呜。\n我最好的妹妹在这里→@xiaoyieQAQ\n 老公🥺@wwjxx 教父@E2374118263",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "xiaoyieQAQ"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "username": "wwjxx"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "E2374118263"
+              }
+            ]
+          }
+        },
+        "id": "1760607995300585472",
+        "location": "喵喵喵",
+        "name": "咲苡🏳️‍⚧️🏳️‍⚧️",
+        "pinned_tweet_id": "1929755203835998531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936285700799787008/gkKTtytG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 454,
+          "like_count": 1364,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 1157
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1913849538269376913",
+    "created_at": "2025-05-06T14:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919758023326830909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780642673713356800",
+          "start": 0,
+          "username": "zhsy211427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919758023326830909",
+    "in_reply_to_user_id": "1780642673713356800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919749330547945952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsy211427 …互fo嘛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1913849538269376913",
+        "created_at": "2025-05-06T14:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919758023326830909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780642673713356800",
+              "start": 0,
+              "username": "zhsy211427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919758023326830909",
+        "in_reply_to_user_id": "1780642673713356800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919749330547945952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsy211427 …互fo嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780642673713356800",
+        "conversation_id": "1913849538269376913",
+        "created_at": "2025-05-06T13:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919749330547945952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919749330547945952",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913849538269376913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 互互咕咕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 753,
+          "like_count": 13299,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1967
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "大一动画在读，很纠结的一个人，这里算是自己的一个小树洞吧，含🏳️‍⚧️两个月的小菜鸡🍥",
+        "id": "1780642673713356800",
+        "name": "咕咕不哭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133551264985088/f0P2uBOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 51,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

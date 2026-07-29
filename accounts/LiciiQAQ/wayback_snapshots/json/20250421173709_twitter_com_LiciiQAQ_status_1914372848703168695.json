@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914351693736898589",
+    "created_at": "2025-04-21T17:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T18:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914372848703168695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759721938191110144",
+          "start": 0,
+          "username": "Aurora71310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914372848703168695",
+    "in_reply_to_user_id": "1759721938191110144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914351693736898589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora71310 抱抱，遵循自己内心想法就好捏，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914351693736898589",
+        "created_at": "2025-04-21T17:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T18:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914372848703168695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759721938191110144",
+              "start": 0,
+              "username": "Aurora71310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914372848703168695",
+        "in_reply_to_user_id": "1759721938191110144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914351693736898589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora71310 抱抱，遵循自己内心想法就好捏，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759721938191110144",
+        "conversation_id": "1914351693736898589",
+        "created_at": "2025-04-21T16:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T17:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914351693736898589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914351693736898589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我真的很纠结到底要不要穿内衣。明明胸部已经开始发育了，但看起来还是“一眼男的”。我不想被看出来，不想让人用奇怪的眼光盯着我。但有时候又会突然很在意那一点点微妙的隆起，想好好保护它，不被碰、不被评头论足。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 655,
+          "like_count": 9510,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1351
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T23:29:39.000Z",
+        "description": "14MtF｜初三休学中...｜精神状态“良好”｜家长党｜持小证阻断+（自己HRT，但家长和医生也同意）｜笨蛋&老婆&狗狗@chen_qian97548闺蜜@MinaseAyano 猫猫@AGeSang2008｜喜欢山地自行车（enduro）、卡丁车（270CC）和玩游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "chen_qian97548"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 104,
+                "start": 92,
+                "username": "AGeSang2008"
+              }
+            ]
+          }
+        },
+        "id": "1759721938191110144",
+        "location": "北京",
+        "name": "云迹",
+        "pinned_tweet_id": "1897312766664507614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895489774967828480/o9n0xLIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 823,
+          "like_count": 1652,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1214
+        },
+        "username": "Aurora71310",
+        "verified": false
+      }
+    ]
+  }
+}

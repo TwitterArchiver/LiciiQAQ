@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1912800951817425321",
+    "created_at": "2025-04-17T15:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T16:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912885072119972082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu20240316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912885072119972082",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912800951817425321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu20240316 很好了（\n立定跳远2.34欸😯…窝最多跳1.8，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1912800951817425321",
+        "created_at": "2025-04-17T15:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912885072119972082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu20240316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912885072119972082",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912800951817425321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu20240316 很好了（\n立定跳远2.34欸😯…窝最多跳1.8，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818920358403256320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1912800951817425321",
+        "created_at": "2025-04-17T09:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T10:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912800951817425321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuanyu20240316…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/xuanyu20240316/status/1912512944413524438",
+              "start": 56,
+              "url": "https://t.co/WF26R7ICE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912800951817425321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2307,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912512944413524438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "体育考完了w\n立定跳远234cm 14分\n实心球7.7m 10分\n跳绳176个 19分\n总分43/50\n废掉了 https://t.co/WF26R7ICE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 612,
+          "like_count": 8491,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1160
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "Chongqing ",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1906717866109419928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 2111,
+          "like_count": 9847,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      }
+    ]
+  }
+}

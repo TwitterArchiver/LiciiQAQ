@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1983789105919226243",
+    "created_at": "2025-10-30T11:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983854559484375048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983854559484375048",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983789105919226243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10376,
+        "height": 720,
+        "media_key": "13_1983789043591868418",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983789043591868418/img/zcRzJic_ak1xbNP6.jpg",
+        "public_metrics": {
+          "view_count": 435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983789043591868418/vid/avc1/288x270/RcTXWwUEvcbEMiFO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983789043591868418/vid/avc1/384x360/qohWK9k6PnKE3N-m.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983789043591868418/vid/avc1/770x720/oiYYa6gv6_FTVOpv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983789043591868418/pl/aErOoNWQ-1B0q3Ew.m3u8"
+          }
+        ],
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1983789105919226243",
+        "created_at": "2025-10-30T11:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983854559484375048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983854559484375048",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983789105919226243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983789043591868418"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "conversation_id": "1983789105919226243",
+        "created_at": "2025-10-30T06:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983789105919226243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wio02rcGMw",
+              "end": 26,
+              "expanded_url": "https://x.com/blueicesama/status/1983789105919226243/video/1",
+              "media_key": "13_1983789043591868418",
+              "start": 3,
+              "url": "https://t.co/Wio02rcGMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983789105919226243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1467,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "无题 https://t.co/Wio02rcGMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2218,
+          "following_count": 2059,
+          "like_count": 80574,
+          "listed_count": 4,
+          "media_count": 366,
+          "tweet_count": 7481
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/Apple全肯定bot/中文·日本語·ENG/大连人/网蓝/杂学分享·日常碎碎念·生活账·奇怪梗图/三倍厚袜/里@blueicesamaQWQ 社交饱和暂不扩列·本账号任何关注不代表本人立场 推止于推/可爱小狐狸@ri_si16512/老公@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1983061990609424563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6399,
+          "following_count": 3284,
+          "like_count": 38606,
+          "listed_count": 9,
+          "media_count": 904,
+          "tweet_count": 8147
+        },
+        "username": "blueicesama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946184153088827393"
+      ],
+      "media_source_tweet_id": [
+        "1946184156247150746"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1946326708292096128",
+    "created_at": "2025-07-18T21:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T22:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946326708292096128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1786397664722268160",
+          "start": 3,
+          "username": "proxynova712sec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9M8nsaa7lz",
+          "end": 44,
+          "expanded_url": "https://x.com/proxynova712sec/status/1946184156247150746/photo/1",
+          "media_key": "3_1946184153088827393",
+          "start": 21,
+          "url": "https://t.co/9M8nsaa7lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946326708292096128",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946184156247150746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @proxynova712sec: https://t.co/9M8nsaa7lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_1946184153088827393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwI8LQhaoAELFJn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946184153088827393"
+          ],
+          "media_source_tweet_id": [
+            "1946184156247150746"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1946326708292096128",
+        "created_at": "2025-07-18T21:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T22:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946326708292096128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1786397664722268160",
+              "start": 3,
+              "username": "proxynova712sec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M8nsaa7lz",
+              "end": 44,
+              "expanded_url": "https://x.com/proxynova712sec/status/1946184156247150746/photo/1",
+              "media_key": "3_1946184153088827393",
+              "start": 21,
+              "url": "https://t.co/9M8nsaa7lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946326708292096128",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946184156247150746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @proxynova712sec: https://t.co/9M8nsaa7lz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946184153088827393"
+          ]
+        },
+        "author_id": "1786397664722268160",
+        "conversation_id": "1946184156247150746",
+        "created_at": "2025-07-18T12:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946184156247150746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9M8nsaa7lz",
+              "end": 23,
+              "expanded_url": "https://x.com/proxynova712sec/status/1946184156247150746/photo/1",
+              "media_key": "3_1946184153088827393",
+              "start": 0,
+              "url": "https://t.co/9M8nsaa7lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946184156247150746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1132,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9M8nsaa7lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 1367,
+          "like_count": 41305,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 4972
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "she/her/2009.3.22出厂/纯情女高（不是）/mtf/抑郁/2023.7.12hrt持证含糖😋/一号机 @proxynova712/互fo\n哈气ing/老公@kbhkbh1913832",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "proxynova712"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "kbhkbh1913832"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "汐诺🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1941864697042538676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906624888296873985/49rtpvf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5436,
+          "following_count": 757,
+          "like_count": 14032,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 1276
+        },
+        "username": "proxynova712sec",
+        "verified": true
+      }
+    ]
+  }
+}

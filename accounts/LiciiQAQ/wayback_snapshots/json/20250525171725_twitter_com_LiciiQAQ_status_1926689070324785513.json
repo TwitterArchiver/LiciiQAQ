@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926645359817760768"
+      ],
+      "media_source_tweet_id": [
+        "1926645364968370647"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1926689070324785513",
+    "created_at": "2025-05-25T17:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T18:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926689070324785513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1525973636913319936",
+          "start": 3,
+          "username": "qianluo89604542"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WvkbJPkQrQ",
+          "end": 44,
+          "expanded_url": "https://x.com/qianluo89604542/status/1926645364968370647/photo/1",
+          "media_key": "3_1926645359817760768",
+          "start": 21,
+          "url": "https://t.co/WvkbJPkQrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926689070324785513",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926645364968370647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qianluo89604542: https://t.co/WvkbJPkQrQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926689070324785513].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926689070324785513",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926689070324785513"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_1926645359817760768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzRvzgXoAA7O-s.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926645359817760768"
+          ]
+        },
+        "author_id": "1525973636913319936",
+        "conversation_id": "1926645364968370647",
+        "created_at": "2025-05-25T14:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926645364968370647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WvkbJPkQrQ",
+              "end": 23,
+              "expanded_url": "https://x.com/qianluo89604542/status/1926645364968370647/photo/1",
+              "media_key": "3_1926645359817760768",
+              "start": 0,
+              "url": "https://t.co/WvkbJPkQrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926645364968370647",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WvkbJPkQrQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 895,
+          "like_count": 19391,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 2752
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T22:57:28.000Z",
+        "description": "女朋友：@lu737721708770 我有对象！\n破画画会唱歌的小女孩 苦逼学生\nISFP 情绪不稳定 双性恋\n可以叫我 洛洛 阡洛 洛酱\n可以来找我交朋友 我会画赠图的嗯嗯！\n互fo单取我的 远离我谢谢\n最喜欢的画师：要領@kanameryou9 爱@yuuri0x0_haya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "lu737721708770"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "kanameryou9"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "yuuri0x0_haya"
+              }
+            ]
+          }
+        },
+        "id": "1525973636913319936",
+        "location": "中国",
+        "name": "阡洛",
+        "pinned_tweet_id": "1897308692909056438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915818354268336128/_5BBjxum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9124,
+          "following_count": 6987,
+          "like_count": 14168,
+          "listed_count": 13,
+          "media_count": 401,
+          "tweet_count": 5497
+        },
+        "username": "qianluo89604542",
+        "verified": false
+      }
+    ]
+  }
+}

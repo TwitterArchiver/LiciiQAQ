@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1957665599104106908",
+    "created_at": "2025-08-19T04:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T05:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957665599104106908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yyc20090/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/yyc20090/status/1957287043354268046",
+          "start": 33,
+          "url": "https://t.co/RSzZqFQVsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957665599104106908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957287043354268046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好没用……还是没能劝回来，昨晚6点半之后就没回过我消息了……🥺 https://t.co/RSzZqFQVsU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1957665599104106908",
+        "created_at": "2025-08-19T04:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957665599104106908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yyc20090/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/yyc20090/status/1957287043354268046",
+              "start": 33,
+              "url": "https://t.co/RSzZqFQVsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957665599104106908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957287043354268046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好没用……还是没能劝回来，昨晚6点半之后就没回过我消息了……🥺 https://t.co/RSzZqFQVsU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1957287043354268046",
+        "created_at": "2025-08-18T03:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957287043354268046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957287043354268046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3103,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吞药试试 不死当我命大喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1705,
+          "like_count": 54116,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 6314
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "20090718   hrt:2025.6.1老婆@LiciiQAQ 窝重度缺爱😡👊 会割手👉👈     177/122  久居佛山😋 可以随便骚扰窝😋 主包是xcn/xyn 🚪门槛25r  不接无套 开学不接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 583,
+          "like_count": 2110,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 910
+        },
+        "username": "yyc20090",
+        "verified": true
+      }
+    ]
+  }
+}

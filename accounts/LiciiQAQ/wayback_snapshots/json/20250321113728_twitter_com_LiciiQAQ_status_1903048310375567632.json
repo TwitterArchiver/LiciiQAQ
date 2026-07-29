@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1903039649863569594",
+    "created_at": "2025-03-21T11:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T12:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903048310375567632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892965164347199488",
+          "start": 0,
+          "username": "liang080423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903048310375567632",
+    "in_reply_to_user_id": "1892965164347199488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903039649863569594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liang080423 互fo喵\n（虽然窝不素武汉的、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1903039649863569594",
+        "created_at": "2025-03-21T11:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903048310375567632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892965164347199488",
+              "start": 0,
+              "username": "liang080423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903048310375567632",
+        "in_reply_to_user_id": "1892965164347199488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903039649863569594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liang080423 互fo喵\n（虽然窝不素武汉的、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892965164347199488",
+        "conversation_id": "1903039649863569594",
+        "created_at": "2025-03-21T11:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T12:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903039649863569594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903039649863569594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说武汉男娘多有没有武汉的男娘跟我互fo🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 429,
+          "like_count": 2602,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 501
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T15:50:50.000Z",
+        "description": "男｜08｜孤独摇滚山田凉｜🍥｜不当mtf单纯嗑药｜打算活到20就紫砂｜IP湖北｜\nQQ:3563875001",
+        "id": "1892965164347199488",
+        "location": "湖北",
+        "name": "凉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899609890366394368/3JkZpFbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 119,
+          "like_count": 2540,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 253
+        },
+        "username": "liang080423",
+        "verified": false
+      }
+    ]
+  }
+}

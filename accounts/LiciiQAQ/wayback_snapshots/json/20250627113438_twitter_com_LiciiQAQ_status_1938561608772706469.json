@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938556082735173964",
+    "created_at": "2025-06-27T11:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T12:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938561608772706469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938561608772706469",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938556082735173964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint8964 那很有实力了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938556082735173964",
+        "created_at": "2025-06-27T11:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938561608772706469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938561608772706469",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938556082735173964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint8964 那很有实力了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1938556082735173964",
+        "created_at": "2025-06-27T11:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T12:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938556082735173964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938556082735173964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "满分100\n语文72\n数学98\n英语99（不算作文）\n科学94\n历史与地理88\n道法82\n信息100\n%%%%"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1191,
+          "like_count": 33805,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 4002
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "\"纵使萤火微芒，愿汇星河璀璨\" || 现役OIer || ip: Yiwu, Chicago, Hangzhou || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇹🇼🇨🇳 || 🇺🇸🇨🇦🇯🇵🇸🇬 || 100% 回fo\nlang: 简中 繁中 English C/C++ Python",
+        "id": "1790006276162048000",
+        "location": "中国 北京 新华门",
+        "name": "Freunsigned 🇲🇴",
+        "pinned_tweet_id": "1907798498302636269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884908812936916992/61ZB-f2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 287,
+          "like_count": 4797,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 589
+        },
+        "username": "iCosint8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1934411650658132072",
+    "created_at": "2025-06-16T03:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T04:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934446194195087554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934446194195087554",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934411650658132072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@WaiFu8964 至少价格算是有些优势，也只能做些取舍了（？\n窝之前跑pcdn真被限过上传（悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1934411650658132072",
+        "created_at": "2025-06-16T03:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T04:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934446194195087554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934446194195087554",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934411650658132072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@WaiFu8964 至少价格算是有些优势，也只能做些取舍了（？\n窝之前跑pcdn真被限过上传（悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1934411650658132072",
+        "created_at": "2025-06-16T00:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T01:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934411650658132072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "youtu.be/debYBFNaAWE",
+              "end": 156,
+              "expanded_url": "https://youtu.be/debYBFNaAWE",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1934290607826223104/FR-w0vPP?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1934290607826223104/FR-w0vPP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "知识噪音 | 被封的宽带 —— 从中国网络运营的历史的角度，谈PCDN、大流量上传用户被封禁问题",
+              "unwound_url": "https://www.youtube.com/watch?v=debYBFNaAWE&feature=youtu.be",
+              "url": "https://t.co/rhzr60A4fJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934411650658132072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我感觉，没那么多戏。也没那么多政治化的原因。\n因为FTTH 本身还是共享宽带。按照中国这个小区密度，超售非常严重， OLT 单个PON 口分光率拉满，只要有几户跑PCDN都能把整个PON口的速率占满，让其他用户无法上网，所以运营商会想尽办法限制上传\n你们怎么看呢？\nhttps://t.co/rhzr60A4fJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 1040,
+          "like_count": 27773,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 3530
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLgt1L\n |aff成交金额10%返现\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand @Nobody_ZER0____",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Mionostand"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "Nobody_ZER0____"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLgt1L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLgt1L"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩(准退休版)",
+        "pinned_tweet_id": "1922911025097036164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7019,
+          "following_count": 2129,
+          "like_count": 5139,
+          "listed_count": 19,
+          "media_count": 689,
+          "tweet_count": 5812
+        },
+        "url": "https://t.co/G1WLyLgt1L",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

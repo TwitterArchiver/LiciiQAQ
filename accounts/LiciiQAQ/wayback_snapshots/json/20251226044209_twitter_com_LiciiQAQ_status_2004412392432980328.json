@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004412389102628864"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004388200874496104",
+    "created_at": "2025-12-26T04:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T05:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004412392432980328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991497208760590336",
+          "start": 0,
+          "username": "MegaGokuchoLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EE5mFxn75V",
+          "end": 43,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2004412392432980328/photo/1",
+          "media_key": "3_2004412389102628864",
+          "start": 20,
+          "url": "https://t.co/EE5mFxn75V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004412392432980328",
+    "in_reply_to_user_id": "1991497208760590336",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004388200874496104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MegaGokuchoLove （） https://t.co/EE5mFxn75V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2004412389102628864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EacrPasAAFhmb.jpg",
+        "width": 828
+      },
+      {
+        "height": 718,
+        "media_key": "3_2004388196793438208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEcf3b0AAYusP.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004412389102628864"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004388200874496104",
+        "created_at": "2025-12-26T04:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004412392432980328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991497208760590336",
+              "start": 0,
+              "username": "MegaGokuchoLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EE5mFxn75V",
+              "end": 43,
+              "expanded_url": "https://x.com/LiciiQAQ/status/2004412392432980328/photo/1",
+              "media_key": "3_2004412389102628864",
+              "start": 20,
+              "url": "https://t.co/EE5mFxn75V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004412392432980328",
+        "in_reply_to_user_id": "1991497208760590336",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004388200874496104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MegaGokuchoLove （） https://t.co/EE5mFxn75V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004388196793438208"
+          ]
+        },
+        "author_id": "1991497208760590336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004388200874496104",
+        "created_at": "2025-12-26T03:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T04:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004388200874496104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkZo86qtK1",
+              "end": 35,
+              "expanded_url": "https://x.com/MegaGokuchoLove/status/2004388200874496104/photo/1",
+              "media_key": "3_2004388196793438208",
+              "start": 12,
+              "url": "https://t.co/SkZo86qtK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004388200874496104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 568,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "何のポーズしてんのこれ https://t.co/SkZo86qtK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 2093,
+          "like_count": 97709,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 7940
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T13:22:16.000Z",
+        "description": "一般まのさば民 ゴクチョー可愛い大好きえらいねすごいね天才♥️🦉♥️",
+        "id": "1991497208760590336",
+        "name": "メガゴクチョー",
+        "pinned_tweet_id": "1994321598875099601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991497370539003904/wxwcUOng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 603,
+          "like_count": 6322,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2707
+        },
+        "username": "MegaGokuchoLove",
+        "verified": false
+      }
+    ]
+  }
+}

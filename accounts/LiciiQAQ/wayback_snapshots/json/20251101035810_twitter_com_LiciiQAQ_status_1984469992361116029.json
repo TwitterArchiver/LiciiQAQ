@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984175360553185281"
+      ],
+      "media_source_tweet_id": [
+        "1984175369399005478"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1984469992361116029",
+    "created_at": "2025-11-01T03:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984469992361116029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "Yooeuh121590"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1tXZNfsJvW",
+          "end": 55,
+          "expanded_url": "https://x.com/Yooeuh121590/status/1984175369399005478/photo/1",
+          "media_key": "3_1984175360553185281",
+          "start": 32,
+          "url": "https://t.co/1tXZNfsJvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984469992361116029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984175369399005478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yooeuh121590: 世界多一盘美食就少一根鸡巴 https://t.co/1tXZNfsJvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984175360553185281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4k0-lHa8AE-Ujq.jpg",
+        "width": 1269
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984175360553185281"
+          ],
+          "media_source_tweet_id": [
+            "1984175369399005478"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984469992361116029",
+        "created_at": "2025-11-01T03:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984469992361116029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "Yooeuh121590"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tXZNfsJvW",
+              "end": 55,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1984175369399005478/photo/1",
+              "media_key": "3_1984175360553185281",
+              "start": 32,
+              "url": "https://t.co/1tXZNfsJvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984469992361116029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984175369399005478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yooeuh121590: 世界多一盘美食就少一根鸡巴 https://t.co/1tXZNfsJvW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984175360553185281"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984175369399005478",
+        "created_at": "2025-10-31T08:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984175369399005478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1tXZNfsJvW",
+              "end": 37,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1984175369399005478/photo/1",
+              "media_key": "3_1984175360553185281",
+              "start": 14,
+              "url": "https://t.co/1tXZNfsJvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984175369399005478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 487339,
+          "like_count": 3017,
+          "quote_count": 8,
+          "reply_count": 143,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "世界多一盘美食就少一根鸡巴 https://t.co/1tXZNfsJvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 2065,
+          "like_count": 81446,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 7496
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 | 皮下真人",
+        "id": "1663516164306382852",
+        "location": "🚪52",
+        "name": "豆包",
+        "pinned_tweet_id": "1977620444426780996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 100,
+          "like_count": 10642,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4692
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

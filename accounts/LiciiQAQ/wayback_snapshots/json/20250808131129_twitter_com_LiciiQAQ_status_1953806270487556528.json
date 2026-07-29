@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953806267270803456"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1953731543387566256",
+    "created_at": "2025-08-08T13:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T14:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953806270487556528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909859675530797056",
+          "start": 0,
+          "username": "suk1202xwast3d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0mOerJ54O",
+          "end": 48,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1953806270487556528/photo/1",
+          "media_key": "3_1953806267270803456",
+          "start": 25,
+          "url": "https://t.co/K0mOerJ54O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953806270487556528",
+    "in_reply_to_user_id": "1909859675530797056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953731543387566256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suk1202xwast3d 刷到第三个了（x https://t.co/K0mOerJ54O"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1953731543387566256].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1953731543387566256",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1953731543387566256"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1953806267270803456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1QcsibsAAmDkS.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953806267270803456"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1953731543387566256",
+        "created_at": "2025-08-08T13:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953806270487556528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909859675530797056",
+              "start": 0,
+              "username": "suk1202xwast3d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0mOerJ54O",
+              "end": 48,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1953806270487556528/photo/1",
+              "media_key": "3_1953806267270803456",
+              "start": 25,
+              "url": "https://t.co/K0mOerJ54O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953806270487556528",
+        "in_reply_to_user_id": "1909859675530797056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953731543387566256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suk1202xwast3d 刷到第三个了（x https://t.co/K0mOerJ54O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1546,
+          "like_count": 50141,
+          "listed_count": 4,
+          "media_count": 283,
+          "tweet_count": 5960
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:43:41.000Z",
+        "description": "",
+        "id": "1909859675530797056",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 332,
+          "like_count": 4557,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1024
+        },
+        "username": "suk1202xwast3d",
+        "verified": false
+      }
+    ]
+  }
+}

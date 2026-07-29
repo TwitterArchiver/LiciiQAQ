@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941674811144679727",
+    "created_at": "2025-07-06T14:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T15:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941866074078892535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1208339254943703040",
+          "start": 0,
+          "username": "Hatsune_Erika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941866074078892535",
+    "in_reply_to_user_id": "1208339254943703040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941674811144679727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsune_Erika 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941674808451670016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvI282sWIAAkcpY.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941674811144679727",
+        "created_at": "2025-07-06T14:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T15:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941866074078892535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1208339254943703040",
+              "start": 0,
+              "username": "Hatsune_Erika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941866074078892535",
+        "in_reply_to_user_id": "1208339254943703040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941674811144679727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsune_Erika 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941674808451670016"
+          ]
+        },
+        "author_id": "1208339254943703040",
+        "conversation_id": "1941674811144679727",
+        "created_at": "2025-07-06T01:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941674811144679727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vNG1G4Glvu",
+              "end": 32,
+              "expanded_url": "https://x.com/Hatsune_Erika/status/1941674811144679727/photo/1",
+              "media_key": "3_1941674808451670016",
+              "start": 9,
+              "url": "https://t.co/vNG1G4Glvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941674811144679727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 914,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进我主页戳气球w https://t.co/vNG1G4Glvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 1286,
+          "like_count": 37109,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4456
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-21T10:51:55.000Z",
+        "description": "只有聪明人能看见的简介/@Yanami_Erika",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "Yanami_Erika"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Hatsune_Erika",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Hatsune_Erika",
+                "start": 0,
+                "url": "https://t.co/CpUdb5GX2n"
+              }
+            ]
+          }
+        },
+        "id": "1208339254943703040",
+        "location": "你的世界",
+        "name": "艾丽卡",
+        "pinned_tweet_id": "1912364366445572117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884203352990633984/DebSxh9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 323,
+          "like_count": 53052,
+          "listed_count": 22,
+          "media_count": 2419,
+          "tweet_count": 20272
+        },
+        "url": "https://t.co/CpUdb5GX2n",
+        "username": "Hatsune_Erika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941068528809099601",
+    "created_at": "2025-07-04T12:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T13:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941115058232381613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1867244970853466112",
+          "start": 0,
+          "username": "hyc945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941115058232381613",
+    "in_reply_to_user_id": "1867244970853466112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941068528809099601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyc945 那很nc了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941068528809099601",
+        "created_at": "2025-07-04T12:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T13:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941115058232381613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867244970853466112",
+              "start": 0,
+              "username": "hyc945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941115058232381613",
+        "in_reply_to_user_id": "1867244970853466112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941068528809099601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyc945 那很nc了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867244970853466112",
+        "conversation_id": "1941068528809099601",
+        "created_at": "2025-07-04T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941068528809099601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyc945/status/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hyc945/status/1941068028873158737",
+              "start": 11,
+              "url": "https://t.co/X6wtD4rhbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941068528809099601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941068028873158737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后还说要不先付25 https://t.co/X6wtD4rhbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yyc20090"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1265,
+          "like_count": 36615,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4341
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "年龄17/身高178/体重124/社恐/孤独阴暗b/不擅长交流/qq3997247387需要买凝胶，请加这个，是小号，可能有点新",
+        "id": "1867244970853466112",
+        "name": "怀愚痴🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1912073014117798032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867245341449302018/1YpYdeSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 38,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 103
+        },
+        "username": "hyc945",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1949081905535807864",
+    "created_at": "2025-07-26T13:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T14:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949095546201035006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928692639110692864",
+          "start": 0,
+          "username": "89Zhaoyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949095546201035006",
+    "in_reply_to_user_id": "1928692639110692864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949095237743476971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89Zhaoyt 欸欸欸，没关系的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1949081905535807864",
+        "created_at": "2025-07-26T13:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949095546201035006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928692639110692864",
+              "start": 0,
+              "username": "89Zhaoyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949095546201035006",
+        "in_reply_to_user_id": "1928692639110692864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949095237743476971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89Zhaoyt 欸欸欸，没关系的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928692639110692864",
+        "conversation_id": "1949081905535807864",
+        "created_at": "2025-07-26T13:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949095237743476971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949095237743476971",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949094905705627780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 对不起哈\n那个评论我删了\n我觉得不应该把一些敏感内容（六四事件）放在一个普通的打分推文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1453,
+          "like_count": 45575,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 5407
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T05:59:20.000Z",
+        "description": "ジョナサンです.\n\nジョジョの奇妙な冒険、NARUTOの界隈\n\n🇬🇧🇯🇵\n\n東方プロジェクトは好き\n\n中国の男\n\nイギリス🇬🇧の紳士です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/haoxuan221",
+                "end": 23,
+                "expanded_url": "https://github.com/haoxuan221",
+                "start": 0,
+                "url": "https://t.co/jybX6VJoZT"
+              }
+            ]
+          }
+        },
+        "id": "1928692639110692864",
+        "location": "London, England",
+        "name": "ジョナサン❂❀☭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943270112309501952/5Tf4kvKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 236,
+          "like_count": 4076,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/jybX6VJoZT",
+        "username": "89Zhaoyt",
+        "verified": false
+      }
+    ]
+  }
+}

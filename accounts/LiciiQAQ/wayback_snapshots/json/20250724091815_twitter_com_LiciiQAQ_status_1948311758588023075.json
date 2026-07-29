@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948288412584472834",
+    "created_at": "2025-07-24T09:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T10:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948311758588023075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948311758588023075",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948301282143535204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948288412584472834",
+        "created_at": "2025-07-24T09:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T10:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948311758588023075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948311758588023075",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948301282143535204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678655311006273536",
+        "conversation_id": "1948288412584472834",
+        "created_at": "2025-07-24T08:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T09:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948301282143535204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948301282143535204",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948288412584472834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 莱也梦到过🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 1429,
+          "like_count": 44131,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 5249
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "Ei. Si. Laitus｜萊・ライ｜BA4RRA｜Lat  L.Zomina崇明说话｜Postxing Photography ARCAEA maimaiDX Arknights｜LVNARIA †IulMMXXIV ｜Ea: 卯 @jnmo327284｜AUTOLIKE MODE on",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "jnmo327284"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eimei-laitus.straw.page",
+                "end": 23,
+                "expanded_url": "http://eimei-laitus.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZNM4L4Uaop"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "location": "Terra",
+        "name": "墨落莱 Laitus",
+        "pinned_tweet_id": "1774840045582901374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754530612181078016/-hANndZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 327,
+          "like_count": 56888,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/ZNM4L4Uaop",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}

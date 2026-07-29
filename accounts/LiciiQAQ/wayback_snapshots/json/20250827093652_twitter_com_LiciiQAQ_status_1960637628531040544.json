@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1960527547634213211",
+    "created_at": "2025-08-27T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960637628531040544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1690638204356214784",
+          "start": 0,
+          "username": "luo_12168735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960637628531040544",
+    "in_reply_to_user_id": "1690638204356214784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960527547634213211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_12168735 抱抱……希望不要有事吧🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5635,
+        "height": 1280,
+        "media_key": "7_1960527521524670468",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1960527521524670468/pu/img/jbVYtMEGa--1HfjO.jpg",
+        "public_metrics": {
+          "view_count": 136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960527521524670468/pu/vid/avc1/320x568/10ghXoGmT3wwBzyk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960527521524670468/pu/vid/avc1/480x852/bYOjrumRs719Cymk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1960527521524670468/pu/vid/avc1/720x1280/aTnWm-B9hXkqTQiU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1960527521524670468/pu/pl/pz7vYdIOEeRgidjZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1960527547634213211",
+        "created_at": "2025-08-27T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960637628531040544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1690638204356214784",
+              "start": 0,
+              "username": "luo_12168735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960637628531040544",
+        "in_reply_to_user_id": "1690638204356214784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960527547634213211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_12168735 抱抱……希望不要有事吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1960527521524670468"
+          ]
+        },
+        "author_id": "1690638204356214784",
+        "conversation_id": "1960527547634213211",
+        "created_at": "2025-08-27T02:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T03:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960527547634213211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mXQI77Apl",
+              "end": 27,
+              "expanded_url": "https://x.com/luo_12168735/status/1960527547634213211/video/1",
+              "media_key": "7_1960527521524670468",
+              "start": 4,
+              "url": "https://t.co/6mXQI77Apl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960527547634213211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "炸柜捏 https://t.co/6mXQI77Apl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 1761,
+          "like_count": 57815,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 6537
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T08:15:53.000Z",
+        "description": "华风夏韵，洛水天依/INFP/hrt25.5.14/是个超大只的xyn哦/🏳️‍⚧️/最好的朋友:@yifengluo_dream",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "yifengluo_dream"
+              }
+            ]
+          }
+        },
+        "id": "1690638204356214784",
+        "location": "休伯利安",
+        "name": "雨天🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960561177630490624/vbZe5FUW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 473,
+          "like_count": 1671,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 784
+        },
+        "username": "luo_12168735",
+        "verified": false
+      }
+    ]
+  }
+}

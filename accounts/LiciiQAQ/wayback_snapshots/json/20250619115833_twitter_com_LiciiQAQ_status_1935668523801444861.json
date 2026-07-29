@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1935544065225028094",
+    "created_at": "2025-06-19T11:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T12:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935668523801444861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3244048580",
+          "start": 0,
+          "username": "huahuojiang___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935668523801444861",
+    "in_reply_to_user_id": "3244048580",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935544065225028094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang___ hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1935544049659777024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtxvDucXkAAbufK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1935544065225028094",
+        "created_at": "2025-06-19T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935668523801444861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3244048580",
+              "start": 0,
+              "username": "huahuojiang___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935668523801444861",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935544065225028094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang___ hi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935544049659777024"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1935544065225028094",
+        "created_at": "2025-06-19T03:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T04:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935544065225028094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWQK2xdxKo",
+              "end": 50,
+              "expanded_url": "https://x.com/huahuojiang___/status/1935544065225028094/photo/1",
+              "media_key": "3_1935544049659777024",
+              "start": 27,
+              "url": "https://t.co/OWQK2xdxKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935544065225028094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2064,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是具有hi思想的，完全的，正确的，最全面的，hi推~ https://t.co/OWQK2xdxKo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1058,
+          "like_count": 29142,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 3659
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "",
+        "id": "3244048580",
+        "name": "花火酱～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935364217722322945/iXwRkwfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 169,
+          "like_count": 408,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 327
+        },
+        "username": "huahuojiang___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941771275694899200"
+      ],
+      "media_source_tweet_id": [
+        "1941771378622886047"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1942388741412131250",
+    "created_at": "2025-07-08T01:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T02:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942388741412131250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1601496535375949824",
+          "start": 3,
+          "username": "yzhlzi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQJA6J76Hu",
+          "end": 44,
+          "expanded_url": "https://x.com/yzhlzi3/status/1941771378622886047/photo/1",
+          "media_key": "3_1941771275694899200",
+          "start": 21,
+          "url": "https://t.co/BQJA6J76Hu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942388741412131250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941771378622886047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yzhlzi3: 史上最臭一块钱 https://t.co/BQJA6J76Hu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_1941771275694899200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvKOr_LaAAAXTim.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941771275694899200"
+          ],
+          "media_source_tweet_id": [
+            "1941771378622886047"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1942388741412131250",
+        "created_at": "2025-07-08T01:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942388741412131250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1601496535375949824",
+              "start": 3,
+              "username": "yzhlzi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQJA6J76Hu",
+              "end": 44,
+              "expanded_url": "https://x.com/yzhlzi3/status/1941771378622886047/photo/1",
+              "media_key": "3_1941771275694899200",
+              "start": 21,
+              "url": "https://t.co/BQJA6J76Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942388741412131250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941771378622886047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yzhlzi3: 史上最臭一块钱 https://t.co/BQJA6J76Hu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941771275694899200"
+          ]
+        },
+        "author_id": "1601496535375949824",
+        "conversation_id": "1941771378622886047",
+        "created_at": "2025-07-06T08:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941771378622886047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQJA6J76Hu",
+              "end": 31,
+              "expanded_url": "https://x.com/yzhlzi3/status/1941771378622886047/photo/1",
+              "media_key": "3_1941771275694899200",
+              "start": 8,
+              "url": "https://t.co/BQJA6J76Hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941771378622886047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 106364,
+          "like_count": 1588,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "史上最臭一块钱 https://t.co/BQJA6J76Hu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1298,
+          "like_count": 37476,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 4516
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T08:38:33.000Z",
+        "description": "这个世界已经没救了，但是，是你的话就可以改变命运！无法回避的毁灭与叹息，把他们全部颠覆就好啦。你也具备这样的力量！所以与我签订契约    成为魔法少女吧！☆梗图G7人，时常鬼上身。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep63470",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep63470",
+                "start": 0,
+                "url": "https://t.co/eT65Fp4mrx"
+              }
+            ]
+          }
+        },
+        "id": "1601496535375949824",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "一只̶狸̶子̶🍜",
+        "pinned_tweet_id": "1758014861924319355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907292253963624448/kRhiIHLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3302,
+          "following_count": 871,
+          "like_count": 47244,
+          "listed_count": 19,
+          "media_count": 3036,
+          "tweet_count": 13680
+        },
+        "url": "https://t.co/eT65Fp4mrx",
+        "username": "yzhlzi3",
+        "verified": false
+      }
+    ]
+  }
+}

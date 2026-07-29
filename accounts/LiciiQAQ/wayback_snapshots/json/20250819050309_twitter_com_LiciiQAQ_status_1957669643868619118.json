@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1957665599104106908",
+    "created_at": "2025-08-19T05:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957669643868619118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943361769814261760",
+          "start": 0,
+          "username": "sadsadcatc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957669643868619118",
+    "in_reply_to_user_id": "1943361769814261760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957668198922551503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadcatc 抱抱……🥺\n不怪你的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1957665599104106908",
+        "created_at": "2025-08-19T05:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957669643868619118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943361769814261760",
+              "start": 0,
+              "username": "sadsadcatc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957669643868619118",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957668198922551503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadcatc 抱抱……🥺\n不怪你的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943361769814261760",
+        "conversation_id": "1957665599104106908",
+        "created_at": "2025-08-19T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957668198922551503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957668198922551503",
+        "in_reply_to_user_id": "1943361769814261760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957667964968398970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 抱歉我没有去劝她……\n抱抱你……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 1706,
+          "like_count": 54120,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 6315
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T17:28:55.000Z",
+        "description": "我是Pretender｜长居武汉，04年，是伪装成人类的迷之生物｜欢迎互fo｜被无血无泪的忍者魂魄附身｜重度精神病｜是大笨蛋(｡ ́︿ ̀｡)｜喜欢TRPG和所有游戏｜会写点什么｜只是路过的迷之生物｜只是个破烂的空壳｜终有一天我们会在花与阳之都重逢｜寄居月球背面｜爱的魔法使｜Pistol空手道5段｜直到死亡将我们分离",
+        "id": "1943361769814261760",
+        "location": "月球背面的漩涡之中 花与阳之都",
+        "name": "転生きのこ🏳️‍⚧️",
+        "pinned_tweet_id": "1954355288251019305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943362181665558530/iXaaBsNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 2,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1318
+        },
+        "username": "sadsadcatc",
+        "verified": false
+      }
+    ]
+  }
+}

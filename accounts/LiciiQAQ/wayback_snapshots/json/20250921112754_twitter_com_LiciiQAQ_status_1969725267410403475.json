@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969725264256212992"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1969725267410403475",
+    "created_at": "2025-09-21T11:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969725267410403475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/18khy6Ddkq",
+          "end": 23,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1969725267410403475/photo/1",
+          "media_key": "3_1969725264256212992",
+          "start": 0,
+          "url": "https://t.co/18khy6Ddkq"
+        },
+        {
+          "display_url": "x.com/DustSwallo1580…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/DustSwallo15805/status/1969680315825471879",
+          "start": 24,
+          "url": "https://t.co/K7Vhv1M8Gn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969725267410403475",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969680315825471879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/18khy6Ddkq https://t.co/K7Vhv1M8Gn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_1969725264256212992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XesRkaoAAf4cT.jpg",
+        "width": 680
+      },
+      {
+        "height": 384,
+        "media_key": "3_1969680305792720896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W1zWPboAAm1gR.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969725264256212992"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1969725267410403475",
+        "created_at": "2025-09-21T11:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969725267410403475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18khy6Ddkq",
+              "end": 23,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1969725267410403475/photo/1",
+              "media_key": "3_1969725264256212992",
+              "start": 0,
+              "url": "https://t.co/18khy6Ddkq"
+            },
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/1969680315825471879",
+              "start": 24,
+              "url": "https://t.co/K7Vhv1M8Gn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969725267410403475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969680315825471879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/18khy6Ddkq https://t.co/K7Vhv1M8Gn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969680305792720896"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1969680315825471879",
+        "created_at": "2025-09-21T08:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T09:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969680315825471879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7QpuQkxdA",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1969680315825471879/photo/1",
+              "media_key": "3_1969680305792720896",
+              "start": 0,
+              "url": "https://t.co/L7QpuQkxdA"
+            },
+            {
+              "display_url": "x.com/venti718/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/venti718/status/1969657587294749145",
+              "start": 24,
+              "url": "https://t.co/moY4ivGwhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969680315825471879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969657587294749145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/L7QpuQkxdA https://t.co/moY4ivGwhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 1906,
+          "like_count": 66377,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 6920
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜友跨顺男｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 462,
+          "like_count": 38991,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 2423
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1982053675016298928",
+    "created_at": "2025-10-25T14:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982086664110669834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814598522895020033",
+          "start": 0,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982086664110669834",
+    "in_reply_to_user_id": "1814598522895020033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982053675016298928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoTrans112233 抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1982053675016298928",
+        "created_at": "2025-10-25T14:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982086664110669834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982086664110669834",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982053675016298928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814598522895020033",
+        "conversation_id": "1982053675016298928",
+        "created_at": "2025-10-25T11:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982053675016298928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982053675016298928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…完了…\n被父亲猜到性别认知障碍什么的\n然后没忍住直接出柜了…\n感觉父亲的情绪不太…\n刚刚找了个借口暂时离开…\n有点害怕…………………………\n窝…为什么我还没拿到盐…\n我好害怕……………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 2052,
+          "like_count": 79384,
+          "listed_count": 4,
+          "media_count": 361,
+          "tweet_count": 7442
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "简介在置顶喵|无证含糖|HRT起始25.5.6|\n08.6.13|高三牲|穷|省吃俭用买糖|求施舍|\n是优等生喔|目标成为工大一员|\n害怕炸柜|超级粘人|喜欢和同类贴贴哇|\n不设门槛|同类可直接私我要qq号喔（不喜欢的人我会踢掉）|\n非同类要加咱联系方式请先资助一顿饭……",
+        "id": "1814598522895020033",
+        "location": "距离你520m",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1962917147489009864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 288,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 452
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

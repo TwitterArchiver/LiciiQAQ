@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2062853761828286778",
+    "created_at": "2026-06-05T16:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062940444565418193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062940444565418193",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062853761828286778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@XUEQIUxka 恭喜喵🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062853754379223040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKC6j2VawAAVu46.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2062853761828286778",
+        "created_at": "2026-06-05T16:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062940444565418193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062940444565418193",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062853761828286778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@XUEQIUxka 恭喜喵🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062853754379223040"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2062853761828286778",
+        "created_at": "2026-06-05T11:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062853761828286778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43dPPsXeZ7",
+              "end": 37,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2062853761828286778/photo/1",
+              "media_key": "3_2062853754379223040",
+              "start": 14,
+              "url": "https://t.co/43dPPsXeZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062853761828286778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "记录一下，达成8888fo https://t.co/43dPPsXeZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@，主人：@eledaylily 姐姐：@Grinin_mark @kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "eledaylily"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 2181,
+          "like_count": 121590,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 8333
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8906,
+          "following_count": 2372,
+          "like_count": 31411,
+          "listed_count": 25,
+          "media_count": 1766,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

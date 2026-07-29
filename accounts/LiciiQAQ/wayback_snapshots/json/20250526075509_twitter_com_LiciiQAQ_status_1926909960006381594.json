@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1926829784933212160"
+      ],
+      "media_source_tweet_id": [
+        "1926829828189163841"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1926909960006381594",
+    "created_at": "2025-05-26T07:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T08:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926909960006381594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uj98kNA9QX",
+          "end": 37,
+          "expanded_url": "https://x.com/knd_8964/status/1926829828189163841/video/1",
+          "media_key": "7_1926829784933212160",
+          "start": 14,
+          "url": "https://t.co/Uj98kNA9QX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926909960006381594",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926829828189163841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: https://t.co/Uj98kNA9QX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926909960006381594].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926909960006381594",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926909960006381594"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17999,
+        "height": 720,
+        "media_key": "7_1926829784933212160",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1926829784933212160/pu/img/VvesyQ5dNBX41EdW.jpg",
+        "public_metrics": {
+          "view_count": 448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926829784933212160/pu/vid/avc1/480x270/makdOD3nf_FMsxkl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926829784933212160/pu/vid/avc1/640x360/UfHlVEaSj-8fhTM3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926829784933212160/pu/vid/avc1/1280x720/mDuOPcYT84nBE-eD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1926829784933212160/pu/pl/hfO6T0zl1pUOWpkR.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1926829784933212160"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1926829828189163841",
+        "created_at": "2025-05-26T02:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T03:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926829828189163841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uj98kNA9QX",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1926829828189163841/video/1",
+              "media_key": "7_1926829784933212160",
+              "start": 0,
+              "url": "https://t.co/Uj98kNA9QX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926829828189163841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1571,
+          "like_count": 53,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Uj98kNA9QX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 899,
+          "like_count": 19568,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 2774
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3299,
+          "following_count": 4293,
+          "like_count": 73095,
+          "listed_count": 11,
+          "media_count": 3779,
+          "tweet_count": 10585
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

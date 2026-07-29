@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932832478714351616"
+      ],
+      "media_source_tweet_id": [
+        "1932832481792962615"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1932998204146266441",
+    "created_at": "2025-06-12T03:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T04:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932998204146266441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829561041921130497",
+          "start": 3,
+          "username": "saika114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jF2eMoi6xS",
+          "end": 104,
+          "expanded_url": "https://x.com/saika114514/status/1932832481792962615/photo/1",
+          "media_key": "3_1932832478714351616",
+          "start": 81,
+          "url": "https://t.co/jF2eMoi6xS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932998204146266441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932832481792962615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saika114514: 本人前天不慎被骗了760块钱（380一盒买3盒日雌结果只给我发了1盒的死骗子）因此做了一张骗子的个人信息图，希望各位姐妹避雷🥹 https://t.co/jF2eMoi6xS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1858,
+        "media_key": "3_1932832478714351616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLM5hgbUAAz0um.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932832478714351616"
+          ],
+          "media_source_tweet_id": [
+            "1932832481792962615"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1932998204146266441",
+        "created_at": "2025-06-12T03:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932998204146266441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829561041921130497",
+              "start": 3,
+              "username": "saika114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jF2eMoi6xS",
+              "end": 104,
+              "expanded_url": "https://x.com/saika114514/status/1932832481792962615/photo/1",
+              "media_key": "3_1932832478714351616",
+              "start": 81,
+              "url": "https://t.co/jF2eMoi6xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932998204146266441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932832481792962615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saika114514: 本人前天不慎被骗了760块钱（380一盒买3盒日雌结果只给我发了1盒的死骗子）因此做了一张骗子的个人信息图，希望各位姐妹避雷🥹 https://t.co/jF2eMoi6xS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932832478714351616"
+          ]
+        },
+        "author_id": "1829561041921130497",
+        "conversation_id": "1932832481792962615",
+        "created_at": "2025-06-11T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932832481792962615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jF2eMoi6xS",
+              "end": 87,
+              "expanded_url": "https://x.com/saika114514/status/1932832481792962615/photo/1",
+              "media_key": "3_1932832478714351616",
+              "start": 64,
+              "url": "https://t.co/jF2eMoi6xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932832481792962615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "本人前天不慎被骗了760块钱（380一盒买3盒日雌结果只给我发了1盒的死骗子）因此做了一张骗子的个人信息图，希望各位姐妹避雷🥹 https://t.co/jF2eMoi6xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1012,
+          "like_count": 26408,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 3394
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T16:45:42.000Z",
+        "description": "01-02-07，实名上网，非典型性国男，电机配件厂绝缘浇筑工，mtx，已全切，男装生活，攒钱ffs中",
+        "id": "1829561041921130497",
+        "location": "Pingdingshan,Henan",
+        "name": "张宵洋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829561555031298048/zERD0Mfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 54,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "saika114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1904217700857253911",
+    "created_at": "2025-03-24T17:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T18:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904224442882175135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798017061131874304",
+          "start": 0,
+          "username": "cupric_oxide_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904224442882175135",
+    "in_reply_to_user_id": "1798017061131874304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904217700857253911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupric_oxide_ 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1904217700857253911",
+        "created_at": "2025-03-24T17:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T18:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904224442882175135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904224442882175135",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904217700857253911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "1904217700857253911",
+        "created_at": "2025-03-24T17:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T18:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904217700857253911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904217700857253911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 444,
+          "like_count": 3466,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 569
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "坏穹璃：@Acgbaka233Ba\n好盆友： @ci_shang85157 \nI only exist on the internet\nNGL暂时停用\n手机炸了qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "Acgbaka233Ba"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "南门二",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1903394790919835928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1134,
+          "like_count": 21558,
+          "listed_count": 4,
+          "media_count": 404,
+          "tweet_count": 3387
+        },
+        "username": "cupric_oxide_",
+        "verified": false
+      }
+    ]
+  }
+}

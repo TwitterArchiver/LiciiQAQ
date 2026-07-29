@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989493872377126912"
+      ],
+      "media_source_tweet_id": [
+        "1989878084892229987"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1989923417160913250",
+    "created_at": "2025-11-16T05:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T06:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989923417160913250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685784710285266944",
+          "start": 3,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yyH4JeEomp",
+          "end": 46,
+          "expanded_url": "https://x.com/mhtqwq/status/1989878084892229987/photo/1",
+          "media_key": "3_1989493872377126912",
+          "start": 23,
+          "url": "https://t.co/yyH4JeEomp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989923417160913250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989878084892229987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mhtqwq: 校长:请输入完整校训 https://t.co/yyH4JeEomp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_1989493872377126912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5waItna4AAXZJs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989493872377126912"
+          ],
+          "media_source_tweet_id": [
+            "1989878084892229987"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1989923417160913250",
+        "created_at": "2025-11-16T05:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989923417160913250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685784710285266944",
+              "start": 3,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyH4JeEomp",
+              "end": 46,
+              "expanded_url": "https://x.com/mhtqwq/status/1989878084892229987/photo/1",
+              "media_key": "3_1989493872377126912",
+              "start": 23,
+              "url": "https://t.co/yyH4JeEomp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989923417160913250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989878084892229987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mhtqwq: 校长:请输入完整校训 https://t.co/yyH4JeEomp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989493872377126912"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "1989878084892229987",
+        "created_at": "2025-11-16T02:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989878084892229987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyH4JeEomp",
+              "end": 34,
+              "expanded_url": "https://x.com/mhtqwq/status/1989878084892229987/photo/1",
+              "media_key": "3_1989493872377126912",
+              "start": 11,
+              "url": "https://t.co/yyH4JeEomp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989878084892229987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "校长:请输入完整校训 https://t.co/yyH4JeEomp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 2082,
+          "like_count": 86467,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 7606
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜友善对待所有人｜什么都会点什么都做不好的咸鱼｜差点一口气活了｜不建政｜Minecraft｜格雷科寄｜p社战犯｜❤️@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 431,
+          "like_count": 9060,
+          "listed_count": 6,
+          "media_count": 1513,
+          "tweet_count": 8420
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839456970023272451",
+        "3_1839456970065211392"
+      ],
+      "media_source_tweet_id": [
+        "1839456976008593788",
+        "1839456976008593788"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938257953968296220",
+    "created_at": "2025-06-26T15:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T16:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938257953968296220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MopVndDrdl",
+          "end": 71,
+          "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+          "media_key": "3_1839456970023272451",
+          "start": 48,
+          "url": "https://t.co/MopVndDrdl"
+        },
+        {
+          "display_url": "pic.x.com/MopVndDrdl",
+          "end": 71,
+          "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+          "media_key": "3_1839456970065211392",
+          "start": 48,
+          "url": "https://t.co/MopVndDrdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938257953968296220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839456976008593788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: [置顶] 最近有点缺钱，开个🚪好了，欢迎各位转发，感激不尽 https://t.co/MopVndDrdl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1839456970023272451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYcQXk3agAM1QDk.jpg",
+        "width": 856
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1839456970065211392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYcQXlBacAAn82m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839456970023272451",
+            "3_1839456970065211392"
+          ],
+          "media_source_tweet_id": [
+            "1839456976008593788",
+            "1839456976008593788"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938257953968296220",
+        "created_at": "2025-06-26T15:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T16:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938257953968296220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MopVndDrdl",
+              "end": 71,
+              "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+              "media_key": "3_1839456970023272451",
+              "start": 48,
+              "url": "https://t.co/MopVndDrdl"
+            },
+            {
+              "display_url": "pic.x.com/MopVndDrdl",
+              "end": 71,
+              "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+              "media_key": "3_1839456970065211392",
+              "start": 48,
+              "url": "https://t.co/MopVndDrdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938257953968296220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839456976008593788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: [置顶] 最近有点缺钱，开个🚪好了，欢迎各位转发，感激不尽 https://t.co/MopVndDrdl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839456970023272451",
+            "3_1839456970065211392"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1839456976008593788",
+        "created_at": "2024-09-27T00:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T01:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839456976008593788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MopVndDrdl",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+              "media_key": "3_1839456970023272451",
+              "start": 30,
+              "url": "https://t.co/MopVndDrdl"
+            },
+            {
+              "display_url": "pic.x.com/MopVndDrdl",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_toffee/status/1839456976008593788/photo/1",
+              "media_key": "3_1839456970065211392",
+              "start": 30,
+              "url": "https://t.co/MopVndDrdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839456976008593788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 217467,
+          "like_count": 328,
+          "quote_count": 8,
+          "reply_count": 29,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "[置顶] 最近有点缺钱，开个🚪好了，欢迎各位转发，感激不尽 https://t.co/MopVndDrdl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1190,
+          "like_count": 33425,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3967
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1839456976008593788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10523,
+          "following_count": 2310,
+          "like_count": 32223,
+          "listed_count": 33,
+          "media_count": 489,
+          "tweet_count": 15245
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

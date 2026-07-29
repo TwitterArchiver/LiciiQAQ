@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1922607232576856257",
+    "created_at": "2025-05-14T13:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T14:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922647688887025829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1856449541039632388",
+          "start": 0,
+          "username": "miao_lingmiao"
+        },
+        {
+          "end": 31,
+          "id": "1921643699731382272",
+          "start": 15,
+          "username": "PenanceLavinia3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922647688887025829",
+    "in_reply_to_user_id": "1856449541039632388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922607232576856257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miao_lingmiao @PenanceLavinia3 这是…拳交😨（？\n那很有实力了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 106140,
+        "height": 1280,
+        "media_key": "7_1922606552516882432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922606552516882432/pu/img/S-NntzJ_vZtJW8Mq.jpg",
+        "public_metrics": {
+          "view_count": 529
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606552516882432/pu/vid/avc1/320x568/nH70nxK9xXbViWid.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606552516882432/pu/vid/avc1/480x852/1a6Kr9H7jqzwL0WP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606552516882432/pu/vid/avc1/720x1280/bwi8euBs5Mep_UNF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922606552516882432/pu/pl/fXrbur_qR1NhX5di.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1509,
+        "media_key": "3_1922606564457742336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq54e-VWgAAjIr8.jpg",
+        "width": 1075
+      },
+      {
+        "duration_ms": 31966,
+        "height": 1280,
+        "media_key": "7_1922606943384047616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922606943384047616/pu/img/LqLEwWkmSg_OZnH6.jpg",
+        "public_metrics": {
+          "view_count": 113
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606943384047616/pu/vid/avc1/320x568/Nf_RC8dMbC8tvrlr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606943384047616/pu/vid/avc1/480x852/MtCIuABssYTf3kGZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922606943384047616/pu/vid/avc1/720x1280/gXZ0373BelZCBnAb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922606943384047616/pu/pl/AFC8zLvKGTZlAWRR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 136206,
+        "height": 720,
+        "media_key": "7_1922607117858447360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1922607117858447360/pu/img/sLjYFZivs6heL8wU.jpg",
+        "public_metrics": {
+          "view_count": 74
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922607117858447360/pu/vid/avc1/452x270/Uhd_TnBX4b8kkg0J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922607117858447360/pu/vid/avc1/604x360/Xie86ZCDHgBSU3nw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1922607117858447360/pu/vid/avc1/1208x720/0vN7tUxiSxpvGsGP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1922607117858447360/pu/pl/P899EI0PGyCv4gkW.m3u8?tag=12"
+          }
+        ],
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1922607232576856257",
+        "created_at": "2025-05-14T13:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T14:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922647688887025829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856449541039632388",
+              "start": 0,
+              "username": "miao_lingmiao"
+            },
+            {
+              "end": 31,
+              "id": "1921643699731382272",
+              "start": 15,
+              "username": "PenanceLavinia3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922647688887025829",
+        "in_reply_to_user_id": "1856449541039632388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922607232576856257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miao_lingmiao @PenanceLavinia3 这是…拳交😨（？\n那很有实力了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1922606552516882432",
+            "3_1922606564457742336",
+            "7_1922606943384047616",
+            "7_1922607117858447360"
+          ]
+        },
+        "author_id": "1856449541039632388",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1922607232576856257",
+        "created_at": "2025-05-14T10:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T11:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922607232576856257"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "男娘"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "伪百合"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "拳交"
+            },
+            {
+              "end": 151,
+              "start": 143,
+              "tag": "cosplay"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "榨精"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1921643699731382272",
+              "start": 12,
+              "username": "PenanceLavinia3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYtODre5eO",
+              "end": 179,
+              "expanded_url": "https://x.com/miao_lingmiao/status/1922607232576856257/video/1",
+              "media_key": "7_1922606552516882432",
+              "start": 156,
+              "url": "https://t.co/aYtODre5eO"
+            },
+            {
+              "display_url": "pic.x.com/aYtODre5eO",
+              "end": 179,
+              "expanded_url": "https://x.com/miao_lingmiao/status/1922607232576856257/video/1",
+              "media_key": "3_1922606564457742336",
+              "start": 156,
+              "url": "https://t.co/aYtODre5eO"
+            },
+            {
+              "display_url": "pic.x.com/aYtODre5eO",
+              "end": 179,
+              "expanded_url": "https://x.com/miao_lingmiao/status/1922607232576856257/video/1",
+              "media_key": "7_1922606943384047616",
+              "start": 156,
+              "url": "https://t.co/aYtODre5eO"
+            },
+            {
+              "display_url": "pic.x.com/aYtODre5eO",
+              "end": 179,
+              "expanded_url": "https://x.com/miao_lingmiao/status/1922607232576856257/video/1",
+              "media_key": "7_1922607117858447360",
+              "start": 156,
+              "url": "https://t.co/aYtODre5eO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922607232576856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1289,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "5.13作战记录\n拉普姐@penanceLavinia3的提议，拍一次拳交伪百合……\n所以为什么一开始就把我抱着榨精啊！我很好欺负吗？既然如此，那我也就不留手辣\n最后也是把拉普姐拳到脑瓜子一片空白……，累趴趴了，老头和拉普就在我旁边do……只可惜我睡得贼啦香\n＃男娘 ＃伪百合 #拳交 #cosplay #榨精 https://t.co/aYtODre5eO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 816,
+          "like_count": 15757,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2285
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T21:30:47.000Z",
+        "description": "🐱xyn🍥171cm/65kg🍥阴暗小说家🍥吞金兽🍥我很可爱请给我钱\n可以定拍/线下/聊聊天，喜欢的游戏是卡拉彼丘和八宝粥行动\n常驻#武汉/可以在其他地方刷新\n互关互赞/可以互推🍥#门槛88🍥#线下 #圆角",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "门槛88"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "线下"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "圆角"
+              }
+            ]
+          }
+        },
+        "id": "1856449541039632388",
+        "location": "武汉",
+        "name": "喵零🍥",
+        "pinned_tweet_id": "1922607232576856257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899908913283407872/ed8zLPPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 521,
+          "like_count": 204,
+          "listed_count": 38,
+          "media_count": 168,
+          "tweet_count": 1538
+        },
+        "username": "miao_lingmiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T19:09:09.000Z",
+        "description": "是的第二个号被光速爆破了/🔞主攻 #扩张 #深插/xp是 #cos sex/欢迎同好线下",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 17,
+                "tag": "扩张"
+              },
+              {
+                "end": 24,
+                "start": 21,
+                "tag": "深插"
+              },
+              {
+                "end": 33,
+                "start": 29,
+                "tag": "cos"
+              }
+            ]
+          }
+        },
+        "id": "1921643699731382272",
+        "name": "拉普，再次复活",
+        "pinned_tweet_id": "1922584650184081540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921643940228333568/1ishAyWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 236,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 45
+        },
+        "username": "PenanceLavinia3",
+        "verified": false
+      }
+    ]
+  }
+}

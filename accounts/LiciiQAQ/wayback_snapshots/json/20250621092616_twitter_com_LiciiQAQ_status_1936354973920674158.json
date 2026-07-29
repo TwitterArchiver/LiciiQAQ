@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1935934420038693216",
+    "created_at": "2025-06-21T09:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T10:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936354973920674158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647216504851537920",
+          "start": 0,
+          "username": "TimChirs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936354973920674158",
+    "in_reply_to_user_id": "1647216504851537920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936353591775597014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TimChirs 好w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1935934420038693216",
+        "created_at": "2025-06-21T09:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936354973920674158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647216504851537920",
+              "start": 0,
+              "username": "TimChirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936354973920674158",
+        "in_reply_to_user_id": "1647216504851537920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936353591775597014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TimChirs 好w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647216504851537920",
+        "conversation_id": "1935934420038693216",
+        "created_at": "2025-06-21T09:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T10:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936353591775597014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936353591775597014",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935934420038693216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 加油！！！！中考一般都会过，只要好好学了或者学了，去年我中考的时候，我也害怕高中考不上，但是事实证明我确实考上了，加油吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 1095,
+          "like_count": 30531,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 3728
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:33:24.000Z",
+        "description": "A loser",
+        "id": "1647216504851537920",
+        "location": "San Francisco Bay Area",
+        "name": "Lau.🌟",
+        "pinned_tweet_id": "1903423151045775787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917849351314890752/KtYsNKgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 1205,
+          "like_count": 23898,
+          "listed_count": 5,
+          "media_count": 890,
+          "tweet_count": 3288
+        },
+        "username": "TimChirs",
+        "verified": false
+      }
+    ]
+  }
+}

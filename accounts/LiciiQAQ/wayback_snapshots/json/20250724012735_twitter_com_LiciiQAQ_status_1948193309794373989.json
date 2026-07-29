@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947940530828312576"
+      ],
+      "media_source_tweet_id": [
+        "1947940538377965828"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948193309794373989",
+    "created_at": "2025-07-24T01:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T02:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948193309794373989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCplF7XFvm",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086/status/1947940538377965828/photo/1",
+          "media_key": "3_1947940530828312576",
+          "start": 13,
+          "url": "https://t.co/KCplF7XFvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948193309794373989",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947940538377965828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: https://t.co/KCplF7XFvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1947940530828312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwh5l5ebgAA5ixD.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947940530828312576"
+          ],
+          "media_source_tweet_id": [
+            "1947940538377965828"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948193309794373989",
+        "created_at": "2025-07-24T01:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T02:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948193309794373989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCplF7XFvm",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/1947940538377965828/photo/1",
+              "media_key": "3_1947940530828312576",
+              "start": 13,
+              "url": "https://t.co/KCplF7XFvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948193309794373989",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947940538377965828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: https://t.co/KCplF7XFvm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947940530828312576"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1947940538377965828",
+        "created_at": "2025-07-23T08:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T09:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947940538377965828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCplF7XFvm",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1947940538377965828/photo/1",
+              "media_key": "3_1947940530828312576",
+              "start": 0,
+              "url": "https://t.co/KCplF7XFvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947940538377965828",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 430727,
+          "like_count": 3936,
+          "quote_count": 20,
+          "reply_count": 116,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KCplF7XFvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 1428,
+          "like_count": 44035,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 5226
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86566,
+          "following_count": 978,
+          "like_count": 42648,
+          "listed_count": 200,
+          "media_count": 13965,
+          "tweet_count": 20834
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

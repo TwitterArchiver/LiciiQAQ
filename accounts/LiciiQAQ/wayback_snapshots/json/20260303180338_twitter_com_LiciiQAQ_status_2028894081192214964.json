@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028894073688649728",
+        "3_2028894077752946688",
+        "3_2028894075475423232"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2028894081192214964",
+    "created_at": "2026-03-03T18:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T19:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028894081192214964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860742128688857088",
+          "start": 2,
+          "username": "zhouxuanjiu2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwT7F1p0Sp",
+          "end": 47,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2028894081192214964/photo/1",
+          "media_key": "3_2028894073688649728",
+          "start": 24,
+          "url": "https://t.co/qwT7F1p0Sp"
+        },
+        {
+          "display_url": "pic.x.com/qwT7F1p0Sp",
+          "end": 47,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2028894081192214964/photo/1",
+          "media_key": "3_2028894077752946688",
+          "start": 24,
+          "url": "https://t.co/qwT7F1p0Sp"
+        },
+        {
+          "display_url": "pic.x.com/qwT7F1p0Sp",
+          "end": 47,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2028894081192214964/photo/1",
+          "media_key": "3_2028894075475423232",
+          "start": 24,
+          "url": "https://t.co/qwT7F1p0Sp"
+        },
+        {
+          "display_url": "x.com/zhouxuanjiu2/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/zhouxuanjiu2/status/2028437208169079210",
+          "start": 48,
+          "url": "https://t.co/xeIBDt7KJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028894081192214964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028437208169079210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和 @zhouxuanjiu2 玩得很开心w🥰 https://t.co/qwT7F1p0Sp https://t.co/xeIBDt7KJj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028894081192214964].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028894081192214964",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028894081192214964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028894073688649728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUaRUbcAAoGR-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028894077752946688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUagdbsAAbYGq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028894075475423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCgUaX-bcAAFrhf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028437193648472064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZ04WibgAAD0eQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1568,
+        "media_key": "3_2028437193644265472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZ04WhbUAAbc6_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028437193648472064",
+            "3_2028437193644265472"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2028437208169079210",
+        "created_at": "2026-03-02T11:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028437208169079210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695649420539219968",
+              "start": 5,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZO26J348uY",
+              "end": 38,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2028437208169079210/photo/1",
+              "media_key": "3_2028437193648472064",
+              "start": 15,
+              "url": "https://t.co/ZO26J348uY"
+            },
+            {
+              "display_url": "pic.x.com/ZO26J348uY",
+              "end": 38,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2028437208169079210/photo/1",
+              "media_key": "3_2028437193644265472",
+              "start": 15,
+              "url": "https://t.co/ZO26J348uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028437208169079210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 670,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "战败CG\n@LiciiQAQ https://t.co/ZO26J348uY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 2167,
+          "like_count": 115238,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 8158
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "*我与我，周旋久*｜mtx？｜Jpop爱好，广义二次元、绘画苦手｜INFP/ISFP｜性格恶劣、情绪不稳定｜可以和我交朋友，｜小杂鱼@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gUjI"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "粥璇玖喵～🍥",
+        "pinned_tweet_id": "2026989347841655042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457468016099328/iv334UJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 334,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/QgNGK9gUjI",
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

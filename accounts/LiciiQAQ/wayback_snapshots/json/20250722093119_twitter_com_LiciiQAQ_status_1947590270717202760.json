@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1947589200733474849",
+    "created_at": "2025-07-22T09:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T10:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947590270717202760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930929865789931520",
+          "start": 0,
+          "username": "mi_huan030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947590270717202760",
+    "in_reply_to_user_id": "1930929865789931520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 140,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947590112038293905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_huan030 先看你的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1947589200733474849",
+        "created_at": "2025-07-22T09:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T10:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947590270717202760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930929865789931520",
+              "start": 0,
+              "username": "mi_huan030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947590270717202760",
+        "in_reply_to_user_id": "1930929865789931520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947590112038293905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_huan030 先看你的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930929865789931520",
+        "conversation_id": "1947589200733474849",
+        "created_at": "2025-07-22T09:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T10:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947590112038293905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947590112038293905",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947589200733474849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 看看你的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1416,
+          "like_count": 43479,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 5159
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "🐈‍⬛｜INTP- T｜03年mtx｜阴暗b｜可以抱抱吗？｜不知名营业大号（？）@sleepmihuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "sleepmihuan"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan",
+        "pinned_tweet_id": "1940449157644427489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935782534383628288/3ONnKKBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 123,
+          "like_count": 2357,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 297
+        },
+        "username": "mi_huan030",
+        "verified": false
+      }
+    ]
+  }
+}

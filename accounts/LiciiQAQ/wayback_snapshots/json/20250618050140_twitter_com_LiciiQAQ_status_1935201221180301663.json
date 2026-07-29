@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1935201221180301663",
+    "created_at": "2025-06-18T05:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935201221180301663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1924965014831824896",
+          "start": 3,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935201221180301663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935159829947105369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuwen_Tang1019: 锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1935201221180301663",
+        "created_at": "2025-06-18T05:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935201221180301663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1924965014831824896",
+              "start": 3,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935201221180301663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935159829947105369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuwen_Tang1019: 锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924965014831824896",
+        "conversation_id": "1935159829947105369",
+        "created_at": "2025-06-18T02:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935159829947105369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935159829947105369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2668,
+          "like_count": 124,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "锁鸡儿时间公投\n我比较怂，十个点赞一小时🤓\n转帖10分钟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1053,
+          "like_count": 28828,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 3609
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "MTF木桶饭\n墨尔本\n其实一点也不傲娇\n反跨\nq群975641126\nhttps://t.co/HRulu0zTpS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DhBw7EtOmx01Z…",
+                "end": 58,
+                "expanded_url": "https://t.me/+DhBw7EtOmx01ZDY1",
+                "start": 35,
+                "url": "https://t.co/HRulu0zTpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.COM",
+                "end": 23,
+                "expanded_url": "http://NoMTF.COM",
+                "start": 0,
+                "url": "https://t.co/itsNX2I7yj"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "Melbourne, Victoria",
+        "name": "NoMTF | 唐毓文",
+        "pinned_tweet_id": "1934553053237321901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 183,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/itsNX2I7yj",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1920015381525365176",
+    "created_at": "2025-05-07T08:02:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T09:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920026440906469762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517777938695204865",
+          "start": 0,
+          "username": "NaNaSTP1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920026440906469762",
+    "in_reply_to_user_id": "1517777938695204865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920015381525365176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaNaSTP1105 影响应该不大（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1920015381525365176",
+        "created_at": "2025-05-07T08:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920026440906469762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517777938695204865",
+              "start": 0,
+              "username": "NaNaSTP1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920026440906469762",
+        "in_reply_to_user_id": "1517777938695204865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920015381525365176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaNaSTP1105 影响应该不大（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517777938695204865",
+        "conversation_id": "1920015381525365176",
+        "created_at": "2025-05-07T07:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920015381525365176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920015381525365176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内存时序真的影响打网游？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 762,
+          "like_count": 13569,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2026
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-23T08:10:48.000Z",
+        "description": "一个无迹的药娘",
+        "id": "1517777938695204865",
+        "location": "武汉",
+        "name": "左鸳",
+        "pinned_tweet_id": "1616844211915223040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784190976703311872/X8BS1Dhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 193,
+          "like_count": 1593,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1437
+        },
+        "username": "NaNaSTP1105",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1900601146609144041",
+    "created_at": "2025-03-15T01:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T02:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900724570837151996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1844397104409739264",
+          "start": 0,
+          "username": "hu_chuo153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900724570837151996",
+    "in_reply_to_user_id": "1844397104409739264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900603304188821942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_chuo153 q群不安全，而且容易炸、\n不过可以建个tg群（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1900601146609144041",
+        "created_at": "2025-03-15T01:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T02:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900724570837151996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1844397104409739264",
+              "start": 0,
+              "username": "hu_chuo153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900724570837151996",
+        "in_reply_to_user_id": "1844397104409739264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900603304188821942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_chuo153 q群不安全，而且容易炸、\n不过可以建个tg群（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844397104409739264",
+        "conversation_id": "1900601146609144041",
+        "created_at": "2025-03-14T17:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T18:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900603304188821942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900603304188821942",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900601146609144041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 互fo这么多，为什么不搞个Q群聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 388,
+          "like_count": 1507,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 336
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:18:53.000Z",
+        "description": "身高/体重，195/105kg\n19岁zn，在上大专",
+        "id": "1844397104409739264",
+        "location": "西安",
+        "name": "紫漓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890738142791303168/68z5Txf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 139,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 118
+        },
+        "username": "hu_chuo153",
+        "verified": false
+      }
+    ]
+  }
+}

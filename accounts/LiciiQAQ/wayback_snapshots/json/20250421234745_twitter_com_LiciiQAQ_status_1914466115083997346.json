@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914243559336845405",
+    "created_at": "2025-04-21T23:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T00:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914466115083997346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914466115083997346",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914449958230745197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 这样嘛…我们这边还没考一模捏（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914243559336845405",
+        "created_at": "2025-04-21T23:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T00:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914466115083997346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914466115083997346",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914449958230745197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 这样嘛…我们这边还没考一模捏（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545736499597307904",
+        "conversation_id": "1914243559336845405",
+        "created_at": "2025-04-21T22:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T23:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914449958230745197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914449958230745197",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914353330731843932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 是的（\n上海这边一模是九上期末\n二模是九下期中（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 657,
+          "like_count": 9608,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1359
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\ncrush @guo_lao32576\n喵喵 @mhtqwq\n妈咪 @zzzChumo\n里推@Andy1782025\n距离2025年上海市初中学业水平考试还有55天（2025.6.14-15）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（备战中考）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 3729,
+          "like_count": 9341,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

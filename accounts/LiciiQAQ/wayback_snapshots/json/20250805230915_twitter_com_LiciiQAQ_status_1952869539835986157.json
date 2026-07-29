@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952694770616446976"
+      ],
+      "media_source_tweet_id": [
+        "1952694778631688199"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1952869539835986157",
+    "created_at": "2025-08-05T23:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952869539835986157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jxK1lVBKZR",
+          "end": 43,
+          "expanded_url": "https://x.com/ggdxfulan/status/1952694778631688199/photo/1",
+          "media_key": "3_1952694770616446976",
+          "start": 20,
+          "url": "https://t.co/jxK1lVBKZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952869539835986157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952694778631688199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 冈门游戏 https://t.co/jxK1lVBKZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1952694770616446976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxldjE1bMAAvG78.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952694770616446976"
+          ],
+          "media_source_tweet_id": [
+            "1952694778631688199"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952869539835986157",
+        "created_at": "2025-08-05T23:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952869539835986157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxK1lVBKZR",
+              "end": 43,
+              "expanded_url": "https://x.com/ggdxfulan/status/1952694778631688199/photo/1",
+              "media_key": "3_1952694770616446976",
+              "start": 20,
+              "url": "https://t.co/jxK1lVBKZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952869539835986157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952694778631688199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 冈门游戏 https://t.co/jxK1lVBKZR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952694770616446976"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1952694778631688199",
+        "created_at": "2025-08-05T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952694778631688199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxK1lVBKZR",
+              "end": 28,
+              "expanded_url": "https://x.com/ggdxfulan/status/1952694778631688199/photo/1",
+              "media_key": "3_1952694770616446976",
+              "start": 5,
+              "url": "https://t.co/jxK1lVBKZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952694778631688199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4397,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冈门游戏 https://t.co/jxK1lVBKZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1526,
+          "like_count": 48507,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5832
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "纯1、药娘攻、抖s、MtX、男同喜欢操男娘pyz，喜欢欺负人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥",
+        "pinned_tweet_id": "1952546953524629563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9485,
+          "following_count": 442,
+          "like_count": 24708,
+          "listed_count": 20,
+          "media_count": 2780,
+          "tweet_count": 9409
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

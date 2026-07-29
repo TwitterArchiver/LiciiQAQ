@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913536091359150080"
+      ],
+      "media_source_tweet_id": [
+        "1913536130424651984"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1913797304684814410",
+    "created_at": "2025-04-20T03:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T04:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913797304684814410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1869440990970556416",
+          "start": 3,
+          "username": "Kaohchuancity"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tlkDSD9BDh",
+          "end": 53,
+          "expanded_url": "https://x.com/Kaohchuancity/status/1913536130424651984/photo/1",
+          "media_key": "3_1913536091359150080",
+          "start": 30,
+          "url": "https://t.co/tlkDSD9BDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913797304684814410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913536130424651984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kaohchuancity: 请扩散，这不是小事！ https://t.co/tlkDSD9BDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1913536091359150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4-785aAAAEyft.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913536091359150080"
+          ],
+          "media_source_tweet_id": [
+            "1913536130424651984"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1913797304684814410",
+        "created_at": "2025-04-20T03:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T04:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913797304684814410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1869440990970556416",
+              "start": 3,
+              "username": "Kaohchuancity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlkDSD9BDh",
+              "end": 53,
+              "expanded_url": "https://x.com/Kaohchuancity/status/1913536130424651984/photo/1",
+              "media_key": "3_1913536091359150080",
+              "start": 30,
+              "url": "https://t.co/tlkDSD9BDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913797304684814410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913536130424651984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kaohchuancity: 请扩散，这不是小事！ https://t.co/tlkDSD9BDh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913536091359150080"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "conversation_id": "1913536130424651984",
+        "created_at": "2025-04-19T10:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913536130424651984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlkDSD9BDh",
+              "end": 34,
+              "expanded_url": "https://x.com/Kaohchuancity/status/1913536130424651984/photo/1",
+              "media_key": "3_1913536091359150080",
+              "start": 11,
+              "url": "https://t.co/tlkDSD9BDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913536130424651984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15028,
+          "like_count": 207,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "请扩散，这不是小事！ https://t.co/tlkDSD9BDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 638,
+          "like_count": 9039,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1258
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "我是一颗星，4亿岁了。\n里推：@thelastchaoxinx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "thelastchaoxinx"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空合众国云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（摇光星）",
+        "pinned_tweet_id": "1913794699749736598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909572096617009152/nAwZoSaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 307,
+          "like_count": 689,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 804
+        },
+        "username": "Kaohchuancity",
+        "verified": false
+      }
+    ]
+  }
+}

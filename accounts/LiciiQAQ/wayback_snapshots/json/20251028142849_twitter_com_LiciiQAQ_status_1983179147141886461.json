@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982780533986734080",
+        "3_1982780533860974594"
+      ],
+      "media_source_tweet_id": [
+        "1982780544003031225",
+        "1982780544003031225"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1983179147141886461",
+    "created_at": "2025-10-28T14:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T15:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983179147141886461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533285336800866307",
+          "start": 3,
+          "username": "Miya_xxx_38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bSQelG31lX",
+          "end": 46,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+          "media_key": "3_1982780533986734080",
+          "start": 23,
+          "url": "https://t.co/bSQelG31lX"
+        },
+        {
+          "display_url": "pic.x.com/bSQelG31lX",
+          "end": 46,
+          "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+          "media_key": "3_1982780533860974594",
+          "start": 23,
+          "url": "https://t.co/bSQelG31lX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983179147141886461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982780544003031225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miya_xxx_38: ありがとう https://t.co/bSQelG31lX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_1982780533986734080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RAY_PWsAAiD9a.jpg",
+        "width": 1481
+      },
+      {
+        "height": 1953,
+        "media_key": "3_1982780533860974594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RAY-xXwAInM3s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982780533986734080",
+            "3_1982780533860974594"
+          ],
+          "media_source_tweet_id": [
+            "1982780544003031225",
+            "1982780544003031225"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1983179147141886461",
+        "created_at": "2025-10-28T14:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983179147141886461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533285336800866307",
+              "start": 3,
+              "username": "Miya_xxx_38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSQelG31lX",
+              "end": 46,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+              "media_key": "3_1982780533986734080",
+              "start": 23,
+              "url": "https://t.co/bSQelG31lX"
+            },
+            {
+              "display_url": "pic.x.com/bSQelG31lX",
+              "end": 46,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+              "media_key": "3_1982780533860974594",
+              "start": 23,
+              "url": "https://t.co/bSQelG31lX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983179147141886461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982780544003031225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miya_xxx_38: ありがとう https://t.co/bSQelG31lX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982780533986734080",
+            "3_1982780533860974594"
+          ]
+        },
+        "author_id": "1533285336800866307",
+        "conversation_id": "1982780544003031225",
+        "created_at": "2025-10-27T12:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982780544003031225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSQelG31lX",
+              "end": 29,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+              "media_key": "3_1982780533986734080",
+              "start": 6,
+              "url": "https://t.co/bSQelG31lX"
+            },
+            {
+              "display_url": "pic.x.com/bSQelG31lX",
+              "end": 29,
+              "expanded_url": "https://x.com/Miya_xxx_38/status/1982780544003031225/photo/1",
+              "media_key": "3_1982780533860974594",
+              "start": 6,
+              "url": "https://t.co/bSQelG31lX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982780544003031225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1129,
+          "impression_count": 128350,
+          "like_count": 12554,
+          "quote_count": 57,
+          "reply_count": 6,
+          "retweet_count": 1319
+        },
+        "reply_settings": "everyone",
+        "text": "ありがとう https://t.co/bSQelG31lX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 2055,
+          "like_count": 79937,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 7472
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T03:11:41.000Z",
+        "description": "𝙞𝙡𝙡𝙪𝙨𝙩𝙧𝙖𝙩𝙞𝙤𝙣💌📮￤女の子と動物 の2コマ漫画描いてます 【skeb受付中】https://t.co/0sN0BDpVrC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Miya_xxx_38",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@Miya_xxx_38",
+                "start": 43,
+                "url": "https://t.co/0sN0BDpVrC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/71183609",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/71183609",
+                "start": 0,
+                "url": "https://t.co/sQRbkOFkey"
+              }
+            ]
+          }
+        },
+        "id": "1533285336800866307",
+        "location": "ご依頼はskebのみ承っております(skeb only)",
+        "name": "みんとぴあ",
+        "pinned_tweet_id": "1978431333140464000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971199086654345216/MmLuUiJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4988,
+          "following_count": 392,
+          "like_count": 16468,
+          "listed_count": 42,
+          "media_count": 46,
+          "tweet_count": 3727
+        },
+        "url": "https://t.co/sQRbkOFkey",
+        "username": "Miya_xxx_38",
+        "verified": false
+      }
+    ]
+  }
+}

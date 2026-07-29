@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1933211257412464840",
+    "created_at": "2025-06-12T21:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T22:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933278807190089746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674536408470659074",
+          "start": 0,
+          "username": "zzmm05290711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933278807190089746",
+    "in_reply_to_user_id": "1674536408470659074",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933211257412464840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzmm05290711 （捏捏）😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2533,
+        "height": 960,
+        "media_key": "7_1933211243881574400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933211243881574400/pu/img/msCLbHzoWv4oVmBL.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933211243881574400/pu/vid/avc1/320x426/yq4YMn_l8JJudEde.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933211243881574400/pu/vid/avc1/480x640/qbfdXFoxu--CXb1s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933211243881574400/pu/vid/avc1/720x960/WoRUoyZ-zvOJNjGA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933211243881574400/pu/pl/lbX45h_Aa5PnlxtA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1933211257412464840",
+        "created_at": "2025-06-12T21:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T22:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933278807190089746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674536408470659074",
+              "start": 0,
+              "username": "zzmm05290711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933278807190089746",
+        "in_reply_to_user_id": "1674536408470659074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933211257412464840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzmm05290711 （捏捏）😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933211243881574400"
+          ]
+        },
+        "author_id": "1674536408470659074",
+        "conversation_id": "1933211257412464840",
+        "created_at": "2025-06-12T17:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T18:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933211257412464840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrhLzSY355",
+              "end": 40,
+              "expanded_url": "https://x.com/zzmm05290711/status/1933211257412464840/video/1",
+              "media_key": "7_1933211243881574400",
+              "start": 17,
+              "url": "https://t.co/jrhLzSY355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933211257412464840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想让所有人都来捏一捏我软软的腿子 https://t.co/jrhLzSY355"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 1019,
+          "like_count": 26737,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 3433
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T21:53:03.000Z",
+        "description": "xyn🍥 ｜  hrt2023.9.1  \n06  ｜ 168cm  ｜ 52kg",
+        "id": "1674536408470659074",
+        "location": "广东佛山",
+        "name": "浮生十三梦🍥",
+        "pinned_tweet_id": "1923720441287565371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879681256079892480/G8pu8Ghi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 99,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 293
+        },
+        "username": "zzmm05290711",
+        "verified": false
+      }
+    ]
+  }
+}

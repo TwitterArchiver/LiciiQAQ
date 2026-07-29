@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1995091086369558626",
+    "created_at": "2025-11-30T15:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T16:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995157447372341370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972726684635086848",
+          "start": 0,
+          "username": "vip_91_1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995157447372341370",
+    "in_reply_to_user_id": "1972726684635086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 62,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995155331228512482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vip_91_1337 还真是🤓（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1995091086369558626",
+        "created_at": "2025-11-30T15:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995157447372341370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972726684635086848",
+              "start": 0,
+              "username": "vip_91_1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995157447372341370",
+        "in_reply_to_user_id": "1972726684635086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995155331228512482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vip_91_1337 还真是🤓（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972726684635086848",
+        "conversation_id": "1995091086369558626",
+        "created_at": "2025-11-30T15:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T16:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995155331228512482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995155331228512482",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995091086369558626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 安卓花为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 2086,
+          "like_count": 90216,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 7727
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T18:14:43.000Z",
+        "description": "在支高中生 难受了我就辱华。",
+        "id": "1972726684635086848",
+        "location": "earth",
+        "name": "VIP_91",
+        "pinned_tweet_id": "1993441762787180611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985658639890464770/HMKyp_Ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 175,
+          "like_count": 11280,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 396
+        },
+        "username": "vip_91_1337",
+        "verified": false
+      }
+    ]
+  }
+}

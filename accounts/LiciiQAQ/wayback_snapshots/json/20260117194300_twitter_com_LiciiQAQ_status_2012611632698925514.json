@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2012611632698925514",
+    "created_at": "2026-01-17T19:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T20:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012611632698925514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860742128688857088",
+          "start": 3,
+          "username": "zhouxuanjiu2"
+        },
+        {
+          "end": 29,
+          "id": "1695649420539219968",
+          "start": 20,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012611632698925514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012581828226625928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhouxuanjiu2: 爱你@LiciiQAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2012611632698925514",
+        "created_at": "2026-01-17T19:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012611632698925514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860742128688857088",
+              "start": 3,
+              "username": "zhouxuanjiu2"
+            },
+            {
+              "end": 29,
+              "id": "1695649420539219968",
+              "start": 20,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012611632698925514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012581828226625928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhouxuanjiu2: 爱你@LiciiQAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860742128688857088",
+        "conversation_id": "2012581828226625928",
+        "created_at": "2026-01-17T17:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012581828226625928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695649420539219968",
+              "start": 2,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012581828226625928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "爱你@LiciiQAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2443,
+          "following_count": 2105,
+          "like_count": 102608,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 8013
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "*我与我，周旋久*｜性格恶劣、情绪不稳定｜可以和我交朋友，顧某譞如是说｜爱人@LiciiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "LiciiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gmua"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "粥璇玖喵～🍥",
+        "pinned_tweet_id": "2012581005933285714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457468016099328/iv334UJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 183,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/QgNGK9gmua",
+        "username": "zhouxuanjiu2",
+        "verified": false
+      }
+    ]
+  }
+}

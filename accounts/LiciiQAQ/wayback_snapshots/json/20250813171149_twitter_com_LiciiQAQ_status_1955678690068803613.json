@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955448589972545536"
+      ],
+      "media_source_tweet_id": [
+        "1955448598239514728"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1955678690068803613",
+    "created_at": "2025-08-13T17:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T18:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955678690068803613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1788485889225834496",
+          "start": 3,
+          "username": "horizon_tem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ci2jhAWJFv",
+          "end": 56,
+          "expanded_url": "https://x.com/horizon_tem/status/1955448598239514728/photo/1",
+          "media_key": "3_1955448589972545536",
+          "start": 33,
+          "url": "https://t.co/ci2jhAWJFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955678690068803613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955448598239514728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horizon_tem: 蟹煲王的蟹黄是用什么做的😨😨🤯 https://t.co/ci2jhAWJFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_1955448589972545536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyMmIdXaIAAWZFP.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955448589972545536"
+          ],
+          "media_source_tweet_id": [
+            "1955448598239514728"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955678690068803613",
+        "created_at": "2025-08-13T17:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T18:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955678690068803613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788485889225834496",
+              "start": 3,
+              "username": "horizon_tem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ci2jhAWJFv",
+              "end": 56,
+              "expanded_url": "https://x.com/horizon_tem/status/1955448598239514728/photo/1",
+              "media_key": "3_1955448589972545536",
+              "start": 33,
+              "url": "https://t.co/ci2jhAWJFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955678690068803613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955448598239514728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horizon_tem: 蟹煲王的蟹黄是用什么做的😨😨🤯 https://t.co/ci2jhAWJFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955448589972545536"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955448598239514728",
+        "created_at": "2025-08-13T01:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955448598239514728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ci2jhAWJFv",
+              "end": 39,
+              "expanded_url": "https://x.com/horizon_tem/status/1955448598239514728/photo/1",
+              "media_key": "3_1955448589972545536",
+              "start": 16,
+              "url": "https://t.co/ci2jhAWJFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955448598239514728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9398,
+          "like_count": 195,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "蟹煲王的蟹黄是用什么做的😨😨🤯 https://t.co/ci2jhAWJFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1698,
+          "following_count": 1615,
+          "like_count": 51952,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 6109
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1954733640002519450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779629358043136/5W74ck-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 2323,
+          "like_count": 37873,
+          "listed_count": 10,
+          "media_count": 762,
+          "tweet_count": 11678
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

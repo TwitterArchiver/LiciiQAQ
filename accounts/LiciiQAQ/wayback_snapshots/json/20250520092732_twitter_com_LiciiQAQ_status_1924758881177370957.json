@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924758878237118464"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1924495661258674427",
+    "created_at": "2025-05-20T09:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T10:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924758881177370957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/URSpGJU7Sp",
+          "end": 40,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1924758881177370957/photo/1",
+          "media_key": "3_1924758878237118464",
+          "start": 17,
+          "url": "https://t.co/URSpGJU7Sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924758881177370957",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924495661258674427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao 贴贴 https://t.co/URSpGJU7Sp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1924758878237118464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrYeAH-aUAAuYes.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924758878237118464"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1924495661258674427",
+        "created_at": "2025-05-20T09:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924758881177370957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/URSpGJU7Sp",
+              "end": 40,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1924758881177370957/photo/1",
+              "media_key": "3_1924758878237118464",
+              "start": 17,
+              "url": "https://t.co/URSpGJU7Sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924758881177370957",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924495661258674427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao 贴贴 https://t.co/URSpGJU7Sp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683348184331059201",
+        "conversation_id": "1924495661258674427",
+        "created_at": "2025-05-19T16:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T17:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924495661258674427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924495661258674427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1023,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "520快乐兄弟们！\n（默默一个人在角落🥺）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 862,
+          "like_count": 17440,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 2523
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "pinned_tweet_id": "1918351859032723600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 448,
+          "like_count": 5774,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3061
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      }
+    ]
+  }
+}

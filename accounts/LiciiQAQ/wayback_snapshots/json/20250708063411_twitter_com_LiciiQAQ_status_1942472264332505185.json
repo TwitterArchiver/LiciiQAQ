@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942472255037976577"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942186649750053152",
+    "created_at": "2025-07-08T06:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942472264332505185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1549255213076254720",
+          "start": 0,
+          "username": "naipen1"
+        },
+        {
+          "end": 21,
+          "id": "1634940148147441667",
+          "start": 9,
+          "username": "emiya436900"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K91YCS9xES",
+          "end": 49,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1942472264332505185/photo/1",
+          "media_key": "3_1942472255037976577",
+          "start": 26,
+          "url": "https://t.co/K91YCS9xES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942472264332505185",
+    "in_reply_to_user_id": "1549255213076254720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942471535203131715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naipen1 @emiya436900 （点头 https://t.co/K91YCS9xES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1942472255037976577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUMOWuXMAEz8Bq.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942472255037976577"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942186649750053152",
+        "created_at": "2025-07-08T06:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942472264332505185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1549255213076254720",
+              "start": 0,
+              "username": "naipen1"
+            },
+            {
+              "end": 21,
+              "id": "1634940148147441667",
+              "start": 9,
+              "username": "emiya436900"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K91YCS9xES",
+              "end": 49,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1942472264332505185/photo/1",
+              "media_key": "3_1942472255037976577",
+              "start": 26,
+              "url": "https://t.co/K91YCS9xES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942472264332505185",
+        "in_reply_to_user_id": "1549255213076254720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942471535203131715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naipen1 @emiya436900 （点头 https://t.co/K91YCS9xES"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549255213076254720",
+        "conversation_id": "1942186649750053152",
+        "created_at": "2025-07-08T06:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942471535203131715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            },
+            {
+              "end": 22,
+              "id": "1634940148147441667",
+              "start": 10,
+              "username": "emiya436900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942471535203131715",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942385603229671539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ @emiya436900 夺少？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1297,
+          "like_count": 37740,
+          "listed_count": 4,
+          "media_count": 233,
+          "tweet_count": 4530
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T04:50:07.000Z",
+        "description": "喜欢lo 小裙子 可爱的",
+        "id": "1549255213076254720",
+        "name": "奶盆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550493176246308865/bK1BQQce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 730,
+          "like_count": 4651,
+          "listed_count": 9,
+          "media_count": 4,
+          "tweet_count": 3784
+        },
+        "username": "naipen1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 一个匿名提问箱https://t.co/qN5UYD3KGC\n#树洞\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 38,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 15,
+                "url": "https://t.co/qN5UYD3KGC"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1939306382228124070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 387,
+          "like_count": 1824,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2426
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914940544918413312",
+        "3_1914940544637394946",
+        "3_1914940544738058240",
+        "3_1914940544951967744"
+      ],
+      "media_source_tweet_id": [
+        "1914940548835942672",
+        "1914940548835942672",
+        "1914940548835942672",
+        "1914940548835942672"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1915288749899973071",
+    "created_at": "2025-04-24T06:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T07:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915288749899973071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TKq0vlaMva",
+          "end": 47,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+          "media_key": "3_1914940544918413312",
+          "start": 24,
+          "url": "https://t.co/TKq0vlaMva"
+        },
+        {
+          "display_url": "pic.x.com/TKq0vlaMva",
+          "end": 47,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+          "media_key": "3_1914940544637394946",
+          "start": 24,
+          "url": "https://t.co/TKq0vlaMva"
+        },
+        {
+          "display_url": "pic.x.com/TKq0vlaMva",
+          "end": 47,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+          "media_key": "3_1914940544738058240",
+          "start": 24,
+          "url": "https://t.co/TKq0vlaMva"
+        },
+        {
+          "display_url": "pic.x.com/TKq0vlaMva",
+          "end": 47,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+          "media_key": "3_1914940544951967744",
+          "start": 24,
+          "url": "https://t.co/TKq0vlaMva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915288749899973071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914940548835942672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: 結束バンド https://t.co/TKq0vlaMva"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2900,
+        "media_key": "3_1914940544918413312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM8R6Ha4AALbHX.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2900,
+        "media_key": "3_1914940544637394946",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM8R5Ea4AII_Pz.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2900,
+        "media_key": "3_1914940544738058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM8R5ca4AA3xb0.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2900,
+        "media_key": "3_1914940544951967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM8R6Pa4AAfQg4.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914940544918413312",
+            "3_1914940544637394946",
+            "3_1914940544738058240",
+            "3_1914940544951967744"
+          ],
+          "media_source_tweet_id": [
+            "1914940548835942672",
+            "1914940548835942672",
+            "1914940548835942672",
+            "1914940548835942672"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1915288749899973071",
+        "created_at": "2025-04-24T06:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T07:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915288749899973071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 47,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544918413312",
+              "start": 24,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 47,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544637394946",
+              "start": 24,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 47,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544738058240",
+              "start": 24,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 47,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544951967744",
+              "start": 24,
+              "url": "https://t.co/TKq0vlaMva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915288749899973071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914940548835942672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: 結束バンド https://t.co/TKq0vlaMva"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914940544918413312",
+            "3_1914940544637394946",
+            "3_1914940544738058240",
+            "3_1914940544951967744"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1914940548835942672",
+        "created_at": "2025-04-23T07:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914940548835942672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 29,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544918413312",
+              "start": 6,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 29,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544637394946",
+              "start": 6,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 29,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544738058240",
+              "start": 6,
+              "url": "https://t.co/TKq0vlaMva"
+            },
+            {
+              "display_url": "pic.x.com/TKq0vlaMva",
+              "end": 29,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1914940548835942672/photo/1",
+              "media_key": "3_1914940544951967744",
+              "start": 6,
+              "url": "https://t.co/TKq0vlaMva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914940548835942672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1329,
+          "impression_count": 192956,
+          "like_count": 14646,
+          "quote_count": 44,
+          "reply_count": 23,
+          "retweet_count": 2121
+        },
+        "reply_settings": "everyone",
+        "text": "結束バンド https://t.co/TKq0vlaMva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 674,
+          "like_count": 10184,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1463
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰\n     \n       ※イラストの商用利用は禁止",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1669238935007141888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893993268624478208/saa_9fza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98709,
+          "following_count": 225,
+          "like_count": 17569,
+          "listed_count": 497,
+          "media_count": 461,
+          "tweet_count": 10998
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

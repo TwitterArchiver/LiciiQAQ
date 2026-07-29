@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1903756697447076065",
+    "created_at": "2025-03-23T12:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T13:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903786518885421382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893623858911150080",
+          "start": 0,
+          "username": "Apatite98568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903786518885421382",
+    "in_reply_to_user_id": "1893623858911150080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903786133755961480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apatite98568 其实都有，只是高通的会方便些（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1903756697447076065",
+        "created_at": "2025-03-23T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903786518885421382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893623858911150080",
+              "start": 0,
+              "username": "Apatite98568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903786518885421382",
+        "in_reply_to_user_id": "1893623858911150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903786133755961480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apatite98568 其实都有，只是高通的会方便些（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893623858911150080",
+        "conversation_id": "1903756697447076065",
+        "created_at": "2025-03-23T12:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T13:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903786133755961480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903786133755961480",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903785952780149171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 草，不过9008是高通才有的吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 441,
+          "like_count": 3189,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 547
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:28:16.000Z",
+        "description": "鐵幕重重困青年。\n高中牲/福瑞控/航天/粥批/二次元/友跨友同🏳️‍⚧️🏳️‍🌈/轻中抑/ADHD/社民社自/大连/071209/想要挂的朋友🥺 @iranon_lcf @Topia_Urbica @TravelerNMRI @RusndageSNF @DraTohru_XLN @Inyuki_1014",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Topia_Urbica"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "TravelerNMRI"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "DraTohru_XLN"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "Inyuki_1014"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "biupiukiu.net",
+                "end": 23,
+                "expanded_url": "http://biupiukiu.net",
+                "start": 0,
+                "url": "https://t.co/a2fKnAmdyS"
+              }
+            ]
+          }
+        },
+        "id": "1893623858911150080",
+        "location": "在高潮的青年路",
+        "name": "湛陨封号归来版",
+        "pinned_tweet_id": "1902362142395003276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901233919368056832/WsjdtqWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 407,
+          "like_count": 4861,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/a2fKnAmdyS",
+        "username": "Apatite98568",
+        "verified": false
+      }
+    ]
+  }
+}

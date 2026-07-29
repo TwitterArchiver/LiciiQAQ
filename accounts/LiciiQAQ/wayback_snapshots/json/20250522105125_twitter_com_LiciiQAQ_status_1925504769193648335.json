@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1925358301329727598",
+    "created_at": "2025-05-22T10:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T11:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925504769193648335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462440567040712704",
+          "start": 0,
+          "username": "Severesese"
+        },
+        {
+          "end": 20,
+          "id": "1433678976564662273",
+          "start": 12,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925504769193648335",
+    "in_reply_to_user_id": "1462440567040712704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925477311614476556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Severesese @hsn8086 那很有生活了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "16_1925477302374412288",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GrirZ6casAA9jRw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GrirZ6casAA9jRw.mp4"
+          }
+        ],
+        "width": 362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1925358301329727598",
+        "created_at": "2025-05-22T10:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T11:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925504769193648335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462440567040712704",
+              "start": 0,
+              "username": "Severesese"
+            },
+            {
+              "end": 20,
+              "id": "1433678976564662273",
+              "start": 12,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925504769193648335",
+        "in_reply_to_user_id": "1462440567040712704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925477311614476556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Severesese @hsn8086 那很有生活了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1925477302374412288"
+          ]
+        },
+        "author_id": "1462440567040712704",
+        "conversation_id": "1925358301329727598",
+        "created_at": "2025-05-22T09:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925477311614476556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rvb76KBYQL",
+              "end": 43,
+              "expanded_url": "https://x.com/Severesese/status/1925477311614476556/photo/1",
+              "media_key": "16_1925477302374412288",
+              "start": 20,
+              "url": "https://t.co/Rvb76KBYQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925477311614476556",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925358301329727598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 做完发现结果要付费： https://t.co/Rvb76KBYQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 872,
+          "like_count": 18003,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 2598
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T15:19:47.000Z",
+        "description": "ALL FOR LOVE & ANONYMOUS",
+        "id": "1462440567040712704",
+        "name": "催去深枝",
+        "pinned_tweet_id": "1833565532731412713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700558987320602624/yXTGFgyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 935,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 381
+        },
+        "username": "Severesese",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70806,
+          "following_count": 965,
+          "like_count": 40163,
+          "listed_count": 157,
+          "media_count": 11430,
+          "tweet_count": 17733
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

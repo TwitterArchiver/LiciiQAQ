@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1952357611267121308",
+    "created_at": "2025-08-04T13:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T14:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952362264998375465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1867244970853466112",
+          "start": 0,
+          "username": "hyc945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952362264998375465",
+    "in_reply_to_user_id": "1867244970853466112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952357611267121308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyc945 别啊……🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38166,
+        "height": 1280,
+        "media_key": "7_1952357527943024640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952357527943024640/pu/img/T2jOQgfyUbQScwmy.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952357527943024640/pu/vid/avc1/320x568/D_DdfQh10o4r90FL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952357527943024640/pu/vid/avc1/480x852/vRo5I8cTDcBBkjwH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952357527943024640/pu/vid/avc1/720x1280/ExXVinoK1NFDivNE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952357527943024640/pu/pl/wG-ARJ9FSqffThLV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1952357611267121308",
+        "created_at": "2025-08-04T13:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952362264998375465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867244970853466112",
+              "start": 0,
+              "username": "hyc945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952362264998375465",
+        "in_reply_to_user_id": "1867244970853466112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952357611267121308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyc945 别啊……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952357527943024640"
+          ]
+        },
+        "author_id": "1867244970853466112",
+        "conversation_id": "1952357611267121308",
+        "created_at": "2025-08-04T13:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952357611267121308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2zYUyG5BJ",
+              "end": 83,
+              "expanded_url": "https://x.com/hyc945/status/1952357611267121308/video/1",
+              "media_key": "7_1952357527943024640",
+              "start": 60,
+              "url": "https://t.co/B2zYUyG5BJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952357611267121308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 171,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "动脉注射空气，终于能死了，只需200毫升或者100毫升，甚至说是50毫升就可以死亡。我身体这么差，估计30毫升就不行了 https://t.co/B2zYUyG5BJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1528,
+          "like_count": 48161,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5794
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "年龄17/身高178/体重124/社恐/孤独阴暗b/不擅长交流/主人 \n@Tang_1019/qq3997247387需要买凝胶，请加这个，是小号，可能有点新qq群305549628",
+        "id": "1867244970853466112",
+        "name": "怀愚痴🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1912073014117798032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949557459997323265/YWQSRJXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 44,
+          "like_count": 9,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 162
+        },
+        "username": "hyc945",
+        "verified": false
+      }
+    ]
+  }
+}

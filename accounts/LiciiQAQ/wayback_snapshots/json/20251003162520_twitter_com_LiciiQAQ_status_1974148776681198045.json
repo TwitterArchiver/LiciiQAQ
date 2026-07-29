@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1974111372683379181",
+    "created_at": "2025-10-03T16:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974148776681198045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936364417001852928",
+          "start": 0,
+          "username": "Your962497980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974148776681198045",
+    "in_reply_to_user_id": "1936364417001852928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974111372683379181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your962497980 那很ex了）\n拿去开药了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72353,
+        "height": 1280,
+        "media_key": "7_1974110873620017152",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974110873620017152/pu/img/vL6N8AvK3soymPg0.jpg",
+        "public_metrics": {
+          "view_count": 311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/320x710/1YrMuMdTx4Fa_9RC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/480x1066/WBJwJ0TNW6ejiFWe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/vid/avc1/576x1280/K7YkYXqHlWbiExJg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974110873620017152/pu/pl/k64ZPJxs9x7f2oPg.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1974111372683379181",
+        "created_at": "2025-10-03T16:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974148776681198045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936364417001852928",
+              "start": 0,
+              "username": "Your962497980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974148776681198045",
+        "in_reply_to_user_id": "1936364417001852928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974111372683379181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your962497980 那很ex了）\n拿去开药了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974110873620017152"
+          ]
+        },
+        "author_id": "1936364417001852928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1974111372683379181",
+        "created_at": "2025-10-03T13:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974111372683379181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hg56dRF3u3",
+              "end": 187,
+              "expanded_url": "https://x.com/Your962497980/status/1974111372683379181/video/1",
+              "media_key": "7_1974110873620017152",
+              "start": 164,
+              "url": "https://t.co/hg56dRF3u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974111372683379181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "首先您家孩子都20了肯定是有分辨能力的而且您家孩子的妈妈都同意她进行HRT了所以说您这是什么意思呢？\n威胁我是吗？那就奖励个户籍满天飞吧\n 姓名: 仲怀军\n身份证: 321023197909232017\n身份证归属地: 江苏省扬州市宝应县\n性别: 男\n生肖: 羊\n星座: 天蝎座\n年龄: 46\n出生日期: 1979年9月23日 https://t.co/hg56dRF3u3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1968,
+          "like_count": 70230,
+          "listed_count": 5,
+          "media_count": 340,
+          "tweet_count": 7122
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-21T10:03:56.000Z",
+        "description": "含🍬｜已出柜｜\n15岁｜HRT2025.6.23｜Your幽小乐｜\n可以叫我幽小乐或者Your｜\n170cm｜47kg｜\n家里蹲｜ISFP｜一般不会主动发信息｜不会聊天｜对象@langmobai嘿嘿｜好姐姐@qqnjjwb｜有能力的话咱幽会尽量帮助mtf的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "langmobai"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1936364417001852928",
+        "location": "河北省衡水市",
+        "name": "Your幽小乐🍥",
+        "pinned_tweet_id": "1957784906790236283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945580096670109696/ep695TGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 807,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 417
+        },
+        "username": "Your962497980",
+        "verified": false
+      }
+    ]
+  }
+}

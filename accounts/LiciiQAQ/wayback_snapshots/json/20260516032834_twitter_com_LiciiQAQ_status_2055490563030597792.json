@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055465725033332736"
+      ],
+      "media_source_tweet_id": [
+        "2055465740124442646"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2055490563030597792",
+    "created_at": "2026-05-16T03:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055490563030597792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 20,
+          "tag": "TogawaMedical"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "丰川药业"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "pr"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2054923972391940096",
+          "start": 3,
+          "username": "TogawaMedical1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DT8W6cEmoG",
+          "end": 68,
+          "expanded_url": "https://x.com/TogawaMedical1/status/2055465740124442646/photo/1",
+          "media_key": "3_2055465725033332736",
+          "start": 45,
+          "url": "https://t.co/DT8W6cEmoG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055490563030597792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055465740124442646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaMedical1: #TogawaMedical #丰川药业 #pr https://t.co/DT8W6cEmoG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2055465725033332736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZ7L8SaQAAmLaD.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055465725033332736"
+          ],
+          "media_source_tweet_id": [
+            "2055465740124442646"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2055490563030597792",
+        "created_at": "2026-05-16T03:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055490563030597792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "TogawaMedical"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "丰川药业"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "pr"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2054923972391940096",
+              "start": 3,
+              "username": "TogawaMedical1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT8W6cEmoG",
+              "end": 68,
+              "expanded_url": "https://x.com/TogawaMedical1/status/2055465740124442646/photo/1",
+              "media_key": "3_2055465725033332736",
+              "start": 45,
+              "url": "https://t.co/DT8W6cEmoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055490563030597792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055465740124442646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaMedical1: #TogawaMedical #丰川药业 #pr https://t.co/DT8W6cEmoG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055465725033332736"
+          ]
+        },
+        "author_id": "2054923972391940096",
+        "conversation_id": "2055465740124442646",
+        "created_at": "2026-05-16T01:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055465740124442646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "TogawaMedical"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "丰川药业"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT8W6cEmoG",
+              "end": 48,
+              "expanded_url": "https://x.com/TogawaMedical1/status/2055465740124442646/photo/1",
+              "media_key": "3_2055465725033332736",
+              "start": 25,
+              "url": "https://t.co/DT8W6cEmoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055465740124442646",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#TogawaMedical #丰川药业 #pr https://t.co/DT8W6cEmoG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@zhouxuanjiu2，姐姐：@Grinin_mark \n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 2212,
+          "like_count": 121086,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 8322
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T14:00:54.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 \n本处现提供可零售Androcur® (色普龙)、 富士 Progynon®-Depot（日雌）及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。\n商品发布频道：https://t.co/pHDbG6R6Vx\n更多内容详见下方频道和下链接😽",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TogawaMedical_…",
+                "end": 128,
+                "expanded_url": "https://t.me/TogawaMedical_Chanel",
+                "start": 105,
+                "url": "https://t.co/pHDbG6R6Vx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "https://doc.togawamedical.top/",
+                "start": 0,
+                "url": "https://t.co/NwVefJgZHX"
+              }
+            ]
+          }
+        },
+        "id": "2054923972391940096",
+        "name": "丰川药业_Official🍥（初号机）",
+        "pinned_tweet_id": "2054981023168123383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054949270634270721/aBUiBRS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/NwVefJgZHX",
+        "username": "TogawaMedical1",
+        "verified": false
+      }
+    ]
+  }
+}

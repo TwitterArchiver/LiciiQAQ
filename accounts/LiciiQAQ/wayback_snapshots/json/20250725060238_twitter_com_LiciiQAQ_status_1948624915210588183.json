@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948499462147522902",
+    "created_at": "2025-07-25T06:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T07:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948624915210588183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "46529201",
+          "start": 0,
+          "username": "y4006948"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948624915210588183",
+    "in_reply_to_user_id": "46529201",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948623047340294476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4006948 ……那很好了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948499462147522902",
+        "created_at": "2025-07-25T06:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T07:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948624915210588183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "46529201",
+              "start": 0,
+              "username": "y4006948"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948624915210588183",
+        "in_reply_to_user_id": "46529201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948623047340294476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4006948 ……那很好了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46529201",
+        "conversation_id": "1948499462147522902",
+        "created_at": "2025-07-25T05:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948623047340294476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948623047340294476",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948559944795480291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 回来了，还好这个医生也许对跨性别的经验不足，没往那方面去想😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 1434,
+          "like_count": 44391,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 5310
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T00:07:57.000Z",
+        "description": "09年xyn（2009.10.2）🏳️‍⚧️｜无证含糖🍥｜167cm 54kg｜HRT2025.1.12｜天赋（残缺）党+家长不管党｜选择性出柜｜性取向随意🏳️‍🌈｜精神还算正常｜常驻广东｜深圳初三已毕业｜推当朋友圈发｜门槛42（仅线上聊天无需🚪）｜提问箱👇，联系方式在置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y4006948",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y4006948",
+                "start": 0,
+                "url": "https://t.co/lDbig9xDOo"
+              }
+            ]
+          }
+        },
+        "id": "46529201",
+        "location": "南蛮地区",
+        "name": "(ᇂ_ᇂ|||)🍥",
+        "pinned_tweet_id": "1922306604575424852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923825224024064/pOQ8Mvt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 381,
+          "like_count": 16198,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/lDbig9xDOo",
+        "username": "y4006948",
+        "verified": false
+      }
+    ]
+  }
+}

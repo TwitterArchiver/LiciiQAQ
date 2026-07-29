@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1944857211286773880",
+    "created_at": "2025-07-14T23:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T00:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944898390996697385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896545514302443520",
+          "start": 0,
+          "username": "FengYinCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944898390996697385",
+    "in_reply_to_user_id": "1896545514302443520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944857211286773880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengYinCC 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1944857211286773880",
+        "created_at": "2025-07-14T23:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T00:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944898390996697385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896545514302443520",
+              "start": 0,
+              "username": "FengYinCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944898390996697385",
+        "in_reply_to_user_id": "1896545514302443520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944857211286773880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengYinCC 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896545514302443520",
+        "conversation_id": "1944857211286773880",
+        "created_at": "2025-07-14T20:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T21:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944857211286773880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944857211286773880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "- 只是在恰好的时间出现在了恰好的位置，用你那无用的所谓的「温柔」占据了本不属于你的好处，你真的有实质的吸引力吗？风吟？\n- 陪伴，除了陪伴，你还能做到什么？你不如把自己卖了跑个AI来做这件事呢，人家可细致多了。\n- 爱？那种东西你配吗？风吟？动动脑子🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 1337,
+          "like_count": 40356,
+          "listed_count": 4,
+          "media_count": 242,
+          "tweet_count": 4819
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:57:54.000Z",
+        "description": "请和我交朋友（注：是男生哦）（如果说话让您感到奇怪，还请告诉我，我很抱歉）",
+        "id": "1896545514302443520",
+        "name": "是风吟哦🍀",
+        "pinned_tweet_id": "1899366385337405562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935219395753820161/MqDR_nOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 146,
+          "like_count": 21838,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 2530
+        },
+        "username": "FengYinCC",
+        "verified": false
+      }
+    ]
+  }
+}

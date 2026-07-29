@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2042736833080234405",
+    "created_at": "2026-04-11T03:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042805936277065815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2042258265027772416",
+          "start": 0,
+          "username": "yyxx_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042805936277065815",
+    "in_reply_to_user_id": "2042258265027772416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042736833080234405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyxx_520 看看😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2042736833080234405",
+        "created_at": "2026-04-11T03:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042805936277065815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2042258265027772416",
+              "start": 0,
+              "username": "yyxx_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042805936277065815",
+        "in_reply_to_user_id": "2042258265027772416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042736833080234405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyxx_520 看看😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042258265027772416",
+        "conversation_id": "2042736833080234405",
+        "created_at": "2026-04-10T22:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T23:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042736833080234405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/2042675496484508063",
+              "start": 14,
+              "url": "https://t.co/l3nh2kmO3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042736833080234405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042675496484508063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我有资源....？:) https://t.co/l3nh2kmO3d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 2186,
+          "like_count": 118853,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 8245
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T15:08:29.000Z",
+        "description": "09 药娘 佛山 可约😭😭😭😭😭  巡回2800fo推号中 不od",
+        "id": "2042258265027772416",
+        "name": "yyxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042548496130310144/7Oh4wOmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "yyxx_520",
+        "verified": false
+      }
+    ]
+  }
+}

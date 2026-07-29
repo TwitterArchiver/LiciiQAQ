@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1923799138224963924",
+    "created_at": "2025-05-18T00:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T01:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923893315495395824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "46529201",
+          "start": 0,
+          "username": "y4006948_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923893315495395824",
+    "in_reply_to_user_id": "46529201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923882341153505488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y4006948_3 要的话现在就有捏，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1923799138224963924",
+        "created_at": "2025-05-18T00:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T01:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923893315495395824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "46529201",
+              "start": 0,
+              "username": "y4006948_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923893315495395824",
+        "in_reply_to_user_id": "46529201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923882341153505488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y4006948_3 要的话现在就有捏，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46529201",
+        "conversation_id": "1923799138224963924",
+        "created_at": "2025-05-17T23:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T00:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923882341153505488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923882341153505488",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923799138224963924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 想要，什么时候开卖？能这样买的整个推特药商基本没有…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 845,
+          "like_count": 16626,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 2412
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T00:07:57.000Z",
+        "description": "09年xyn（2009.10.2）🏳️‍⚧️｜无证含糖🍥｜167cm 51kg｜HRT2025.1.12｜天赋（不足）党+深柜党+中国国民党🇹🇼｜泛性恋｜日常推｜精神状态良好｜常驻粤港澳大湾区｜深圳初三牲｜门槛42🚪（仅线上聊天免过门）｜提问箱👇，联系方式看置顶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y4006948",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y4006948",
+                "start": 0,
+                "url": "https://t.co/lDbig9xDOo"
+              }
+            ]
+          }
+        },
+        "id": "46529201",
+        "location": "中华民国大陆沦陷区",
+        "name": "(ᇂ_ᇂ|||)",
+        "pinned_tweet_id": "1922306604575424852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921923825224024064/pOQ8Mvt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 180,
+          "like_count": 8657,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 403
+        },
+        "url": "https://t.co/lDbig9xDOo",
+        "username": "y4006948_3",
+        "verified": true
+      }
+    ]
+  }
+}

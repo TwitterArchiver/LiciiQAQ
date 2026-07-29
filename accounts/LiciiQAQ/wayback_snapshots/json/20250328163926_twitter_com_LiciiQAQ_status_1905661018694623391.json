@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1905596569916678481",
+    "created_at": "2025-03-28T16:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T17:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905661018694623391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807678557826797568",
+          "start": 0,
+          "username": "TeRiri141421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905661018694623391",
+    "in_reply_to_user_id": "1807678557826797568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905655092092731493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeRiri141421 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1905596569916678481",
+        "created_at": "2025-03-28T16:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T17:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905661018694623391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1807678557826797568",
+              "start": 0,
+              "username": "TeRiri141421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905661018694623391",
+        "in_reply_to_user_id": "1807678557826797568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905655092092731493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeRiri141421 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807678557826797568",
+        "conversation_id": "1905596569916678481",
+        "created_at": "2025-03-28T16:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T17:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905655092092731493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905655092092731493",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905596569916678481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 丰富多彩（🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 478,
+          "like_count": 4325,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 666
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T07:32:15.000Z",
+        "description": "阿巴阿巴……\n痴呆ㅇㅁㅇing……\n现在是~蜕变😋",
+        "id": "1807678557826797568",
+        "location": "Izena-son, Okinawa",
+        "name": "呼咻~（学习ing",
+        "pinned_tweet_id": "1821930143771979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874115211260813314/8cSsZofv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1867,
+          "like_count": 39176,
+          "listed_count": 2,
+          "media_count": 1082,
+          "tweet_count": 6187
+        },
+        "username": "TeRiri141421",
+        "verified": false
+      }
+    ]
+  }
+}

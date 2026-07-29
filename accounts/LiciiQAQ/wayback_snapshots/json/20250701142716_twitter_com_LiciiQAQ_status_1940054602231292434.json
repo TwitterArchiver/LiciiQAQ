@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939713133347742127",
+    "created_at": "2025-07-01T14:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T15:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940054602231292434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916183836079362048",
+          "start": 0,
+          "username": "Bainobxbai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940054602231292434",
+    "in_reply_to_user_id": "1916183836079362048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940049682983772307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bainobxbai 抱抱w🥺，不过窝父母好像早就猜到窝zc了，所以好像没那么激动（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939713133347742127",
+        "created_at": "2025-07-01T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940054602231292434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916183836079362048",
+              "start": 0,
+              "username": "Bainobxbai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940054602231292434",
+        "in_reply_to_user_id": "1916183836079362048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940049682983772307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bainobxbai 抱抱w🥺，不过窝父母好像早就猜到窝zc了，所以好像没那么激动（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916183836079362048",
+        "conversation_id": "1939713133347742127",
+        "created_at": "2025-07-01T14:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940049682983772307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940049682983772307",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939713133347742127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 我也被父母发现了，现在天天喊我去医院想让胳膊不留疤😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 1223,
+          "like_count": 35467,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 4211
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:33:32.000Z",
+        "description": "原号是@bainobaiBXbai｜生产日期：2009.06.23｜高一｜INFP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "bainobaiBXbai"
+              }
+            ]
+          }
+        },
+        "id": "1916183836079362048",
+        "location": "Nanking",
+        "name": "白诺Baino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916185382737350660/y2LI2YIy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 130,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 47
+        },
+        "username": "Bainobxbai",
+        "verified": false
+      }
+    ]
+  }
+}

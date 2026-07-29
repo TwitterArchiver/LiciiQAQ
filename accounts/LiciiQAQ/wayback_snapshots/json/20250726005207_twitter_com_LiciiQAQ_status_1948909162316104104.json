@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948909162316104104",
+    "created_at": "2025-07-26T00:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T01:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948909162316104104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diaolingshan42…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/diaolingshan428/status/1948847402318000146",
+          "start": 28,
+          "url": "https://t.co/XsVzkqVAh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948909162316104104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948847402318000146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要变成别人的玩具…什么都不用管…成为释放星宇的工具… https://t.co/XsVzkqVAh0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1948909162316104104",
+        "created_at": "2025-07-26T00:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T01:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948909162316104104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diaolingshan42…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/diaolingshan428/status/1948847402318000146",
+              "start": 28,
+              "url": "https://t.co/XsVzkqVAh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948909162316104104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948847402318000146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要变成别人的玩具…什么都不用管…成为释放星宇的工具… https://t.co/XsVzkqVAh0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922496146234077184",
+        "conversation_id": "1948847402318000146",
+        "created_at": "2025-07-25T20:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T21:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948847402318000146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948847402318000146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要变成别人的玩具…什么都不用管…成为释放星宇的工具…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1444,
+          "like_count": 45152,
+          "listed_count": 4,
+          "media_count": 263,
+          "tweet_count": 5368
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T03:36:25.000Z",
+        "description": "mtf/家长反对党/不可爱又不迷人/没有糖糖吃/现居浙江嘉兴嘉善/酒蒙子/没有零花钱/刚从扭转机构出来/疑似抑郁症？/家长连抑郁症都不带我去看党/自残/爱大家",
+        "id": "1922496146234077184",
+        "location": "浙江嘉兴嘉善",
+        "name": "凋零杉🍥",
+        "pinned_tweet_id": "1944054076821712919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944452675438821376/qrqjmwST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 45,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 268
+        },
+        "username": "diaolingshan428",
+        "verified": false
+      }
+    ]
+  }
+}

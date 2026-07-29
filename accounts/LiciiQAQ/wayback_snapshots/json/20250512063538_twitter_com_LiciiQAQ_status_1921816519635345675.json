@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1921713388779950080",
+    "created_at": "2025-05-12T06:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T07:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921816519635345675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1744970574269661184",
+          "start": 0,
+          "username": "0x70E_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921816519635345675",
+    "in_reply_to_user_id": "1744970574269661184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921713388779950080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0x70E_ 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1921713376516001792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqtMIl9aUAAuTWn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1921713388779950080",
+        "created_at": "2025-05-12T06:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T07:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921816519635345675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1744970574269661184",
+              "start": 0,
+              "username": "0x70E_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921816519635345675",
+        "in_reply_to_user_id": "1744970574269661184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921713388779950080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x70E_ 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921713376516001792"
+          ]
+        },
+        "author_id": "1744970574269661184",
+        "conversation_id": "1921713388779950080",
+        "created_at": "2025-05-11T23:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T00:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921713388779950080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xik542Qhjo",
+              "end": 27,
+              "expanded_url": "https://x.com/0x70E_/status/1921713388779950080/photo/1",
+              "media_key": "3_1921713376516001792",
+              "start": 4,
+              "url": "https://t.co/xik542Qhjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921713388779950080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "18了 https://t.co/xik542Qhjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 805,
+          "like_count": 15267,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 2203
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T06:33:10.000Z",
+        "description": "常驻深圳｜成分较复杂 | 守旧二次元 | 超级鹿乃厨 | 喜欢音游 | FPS低手 |  术力口厨\n愿望是世界和平，人与人之间少点争端❤\n求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+R9ber0URp6U2M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+R9ber0URp6U2Mjk1",
+                "start": 0,
+                "url": "https://t.co/eIy3JIop81"
+              }
+            ]
+          }
+        },
+        "id": "1744970574269661184",
+        "location": "末班电车",
+        "name": "0x70E",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907588693189341185/PE2bt5kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 950,
+          "like_count": 2203,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/eIy3JIop81",
+        "username": "0x70E_",
+        "verified": false
+      }
+    ]
+  }
+}

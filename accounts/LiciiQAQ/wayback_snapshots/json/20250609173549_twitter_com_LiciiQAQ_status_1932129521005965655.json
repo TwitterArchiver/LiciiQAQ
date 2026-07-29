@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1932124243380289710",
+    "created_at": "2025-06-09T17:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T18:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932129521005965655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 8,
+          "tag": "WWDC25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932129521005965655",
+    "in_reply_to_user_id": "1695649420539219968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932124243380289710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补个tag（）\n#WWDC25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1932124240247169024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtBIwnnaoAAIOi8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1932124243380289710",
+        "created_at": "2025-06-09T17:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932129521005965655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "WWDC25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932129521005965655",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932124243380289710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补个tag（）\n#WWDC25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932124240247169024"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1932124243380289710",
+        "created_at": "2025-06-09T17:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932124243380289710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvmk3crDCh",
+              "end": 50,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1932124243380289710/photo/1",
+              "media_key": "3_1932124240247169024",
+              "start": 27,
+              "url": "https://t.co/gvmk3crDCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932124243380289710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来iOS19真这样欸，\n好花里胡哨，但是好喜欢（？ https://t.co/gvmk3crDCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 1000,
+          "like_count": 25709,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3338
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1933482098272448932",
+    "created_at": "2025-06-13T12:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933500478522077253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750730166480125952",
+          "start": 0,
+          "username": "riyo490503"
+        },
+        {
+          "end": 25,
+          "id": "1815768206910668800",
+          "start": 12,
+          "username": "aoidailylife"
+        },
+        {
+          "end": 41,
+          "id": "1818920358403256320",
+          "start": 26,
+          "username": "xuanyu20240316"
+        },
+        {
+          "end": 54,
+          "id": "1788485889225834496",
+          "start": 42,
+          "username": "horizon_tem"
+        },
+        {
+          "end": 69,
+          "id": "4631285780",
+          "start": 55,
+          "username": "loveChina_liu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933500478522077253",
+    "in_reply_to_user_id": "1750730166480125952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933482098272448932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyo490503 @aoidailylife @xuanyu20240316 @horizon_tem @loveChina_liu 好欸🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1933482094430425088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtUbuIoakAAN1Ac.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1933482098272448932",
+        "created_at": "2025-06-13T12:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933500478522077253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750730166480125952",
+              "start": 0,
+              "username": "riyo490503"
+            },
+            {
+              "end": 25,
+              "id": "1815768206910668800",
+              "start": 12,
+              "username": "aoidailylife"
+            },
+            {
+              "end": 41,
+              "id": "1818920358403256320",
+              "start": 26,
+              "username": "xuanyu20240316"
+            },
+            {
+              "end": 54,
+              "id": "1788485889225834496",
+              "start": 42,
+              "username": "horizon_tem"
+            },
+            {
+              "end": 69,
+              "id": "4631285780",
+              "start": 55,
+              "username": "loveChina_liu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933500478522077253",
+        "in_reply_to_user_id": "1750730166480125952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933482098272448932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyo490503 @aoidailylife @xuanyu20240316 @horizon_tem @loveChina_liu 好欸🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933482094430425088"
+          ]
+        },
+        "author_id": "1750730166480125952",
+        "conversation_id": "1933482098272448932",
+        "created_at": "2025-06-13T11:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933482098272448932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1815768206910668800",
+              "start": 22,
+              "username": "aoidailylife"
+            },
+            {
+              "end": 51,
+              "id": "1818920358403256320",
+              "start": 36,
+              "username": "xuanyu20240316"
+            },
+            {
+              "end": 67,
+              "id": "1695649420539219968",
+              "start": 58,
+              "username": "LiciiQAQ"
+            },
+            {
+              "end": 86,
+              "id": "1788485889225834496",
+              "start": 74,
+              "username": "horizon_tem"
+            },
+            {
+              "end": 101,
+              "id": "4631285780",
+              "start": 87,
+              "username": "loveChina_liu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infinityweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1932818940662853635/YapPytQZ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1932818940662853635/YapPytQZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.me/family-tree?lang=zh",
+              "url": "https://t.co/VfwLePbtj3"
+            },
+            {
+              "display_url": "pic.x.com/KQ5IVnKLDm",
+              "end": 153,
+              "expanded_url": "https://x.com/riyo490503/status/1933482098272448932/photo/1",
+              "media_key": "3_1933482094430425088",
+              "start": 130,
+              "url": "https://t.co/KQ5IVnKLDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933482098272448932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @aoidailylife @xuanyu20240316\n👰 配偶: @LiciiQAQ\n👶 孩子: @horizon_tem @loveChina_liu\n\n➡️ https://t.co/VfwLePbtj3 https://t.co/KQ5IVnKLDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1021,
+          "like_count": 26927,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 3448
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T03:59:41.000Z",
+        "description": "09/INFP-T/初中已推荐生毕业/自我性别认知混乱中/日本語を勉強したい/ododod！！/友跨/喜欢一切可爱的事物\n\n我会成为一国之材，而非一党之豺",
+        "id": "1750730166480125952",
+        "location": "中国 山东 济南",
+        "name": "柚riyo",
+        "pinned_tweet_id": "1925578602026037453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824458538137292803/lKoKoKLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 344,
+          "like_count": 1702,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 384
+        },
+        "username": "riyo490503",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T15:17:41.000Z",
+        "description": "intp | 🏳️‍⚧️ | 无性恋 | 赛博猫猫 | 热爱探索一切未知的东西 | 兼职炼丹的三流魔法使 | 日本語の勉強をしています",
+        "id": "1815768206910668800",
+        "name": "aoi今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908049464939679744/Y6R33B7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 4466,
+          "like_count": 56396,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 1480
+        },
+        "username": "aoidailylife",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲/彩笔音游人（为什么你们都这么厉害呜呜呜）/精神状态随机",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "Chongqing ",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1906717866109419928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 2376,
+          "like_count": 13355,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "“那只不过是幻想，活着就是受苦，或者接受将来受苦的可能性。” 哲学导师 @KunaAkem1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "KunaAkem1"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "горизонт",
+        "pinned_tweet_id": "1932824438124523531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928069445269999616/H3guIJnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3289,
+          "following_count": 1896,
+          "like_count": 22032,
+          "listed_count": 5,
+          "media_count": 388,
+          "tweet_count": 8671
+        },
+        "username": "horizon_tem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-22T13:15:44.000Z",
+        "description": "额我",
+        "id": "4631285780",
+        "location": "Shandong",
+        "name": "众生度",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602012454116286464/p5i-s3No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 397,
+          "like_count": 2191,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 676
+        },
+        "username": "loveChina_liu",
+        "verified": false
+      }
+    ]
+  }
+}

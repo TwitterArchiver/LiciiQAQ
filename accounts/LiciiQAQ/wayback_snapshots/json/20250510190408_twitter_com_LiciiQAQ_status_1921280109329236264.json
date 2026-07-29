@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921130243051659264"
+      ],
+      "media_source_tweet_id": [
+        "1921130246012584017"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1921280109329236264",
+    "created_at": "2025-05-10T19:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T20:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921280109329236264"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 22,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1744393881486254080",
+          "start": 3,
+          "username": "sansyokugirl35"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIQtzbx4uh",
+          "end": 51,
+          "expanded_url": "https://x.com/sansyokugirl35/status/1921130246012584017/photo/1",
+          "media_key": "3_1921130243051659264",
+          "start": 28,
+          "url": "https://t.co/pIQtzbx4uh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921280109329236264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 520
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921130246012584017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sansyokugirl35: 嘘\n#重音テト https://t.co/pIQtzbx4uh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921130243051659264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqk5xwhaoAAudOr.jpg",
+        "width": 1352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921130243051659264"
+          ],
+          "media_source_tweet_id": [
+            "1921130246012584017"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1921280109329236264",
+        "created_at": "2025-05-10T19:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T20:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921280109329236264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1744393881486254080",
+              "start": 3,
+              "username": "sansyokugirl35"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIQtzbx4uh",
+              "end": 51,
+              "expanded_url": "https://x.com/sansyokugirl35/status/1921130246012584017/photo/1",
+              "media_key": "3_1921130243051659264",
+              "start": 28,
+              "url": "https://t.co/pIQtzbx4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921280109329236264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921130246012584017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sansyokugirl35: 嘘\n#重音テト https://t.co/pIQtzbx4uh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921130243051659264"
+          ]
+        },
+        "author_id": "1744393881486254080",
+        "conversation_id": "1921130246012584017",
+        "created_at": "2025-05-10T09:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921130246012584017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIQtzbx4uh",
+              "end": 31,
+              "expanded_url": "https://x.com/sansyokugirl35/status/1921130246012584017/photo/1",
+              "media_key": "3_1921130243051659264",
+              "start": 8,
+              "url": "https://t.co/pIQtzbx4uh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921130246012584017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 29746,
+          "like_count": 4665,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "嘘\n#重音テト https://t.co/pIQtzbx4uh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 792,
+          "like_count": 14865,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 2155
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T16:21:52.000Z",
+        "description": "🍫🌿党\n絵描く/ボカロ好き\n反応遅いです",
+        "id": "1744393881486254080",
+        "name": "三色団子女子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898680514799972352/0igzvF0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 40,
+          "like_count": 2835,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 374
+        },
+        "username": "sansyokugirl35",
+        "verified": false
+      }
+    ]
+  }
+}

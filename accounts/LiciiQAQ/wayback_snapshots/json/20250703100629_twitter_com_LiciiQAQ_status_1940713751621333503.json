@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940708925458043279",
+    "created_at": "2025-07-03T10:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940713751621333503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940713751621333503",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940708925458043279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 抱抱，一定会的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1940708925458043279",
+        "created_at": "2025-07-03T10:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940713751621333503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940713751621333503",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940708925458043279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 抱抱，一定会的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1940708925458043279",
+        "created_at": "2025-07-03T09:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T10:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940708925458043279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940708925458043279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布丁扎双马尾和布丁爸爸妈妈打视频电话啦\n什么时候才可以理解布丁呢\n爱是布丁一直在追求的\n布丁好需要爱呀\n源源不断的爱\n一定会好起来的对不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1240,
+          "like_count": 36147,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4293
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/Lesbian/可爱的mtf一只~🏳️‍⚧️/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵/最爱的笨蛋老公:@XXSHHZ8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "XXSHHZ8964"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 626,
+          "like_count": 7977,
+          "listed_count": 5,
+          "media_count": 600,
+          "tweet_count": 4824
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

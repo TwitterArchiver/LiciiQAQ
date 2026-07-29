@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941928572052205985",
+    "created_at": "2025-07-07T01:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T02:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942029572985532813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942029572985532813",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941928572052205985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 抱抱，爱你w🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941928572052205985",
+        "created_at": "2025-07-07T01:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T02:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942029572985532813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942029572985532813",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941928572052205985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 抱抱，爱你w🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921426104763682816",
+        "conversation_id": "1941928572052205985",
+        "created_at": "2025-07-06T18:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T19:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941928572052205985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941928572052205985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5407,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好累……\n中考前两天的时候我失去了我最好的朋友\n我不知道做错了什么 但我知道这绝对不能影响我 所以我用各种方法忘记 也算是成功了吧 但是今天收到录取结果的时候 我很无助 不知道跟谁分享这件事\n我已经能很容易忘记一个人了 但是孤独不行 我感觉跟每个人都有很远的距离……有没有人来爱我一下……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 1287,
+          "like_count": 37206,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4464
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y准男高/三次看黄男🚫/来找我玩 互关私信我ww",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1941704554388804094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 677,
+          "like_count": 16428,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2854
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

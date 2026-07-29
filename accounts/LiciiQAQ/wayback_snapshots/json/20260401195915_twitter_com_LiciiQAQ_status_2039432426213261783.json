@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2038975908233785733",
+    "created_at": "2026-04-01T19:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039432426213261783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617928806802808832",
+          "start": 0,
+          "username": "riceNorlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039432426213261783",
+    "in_reply_to_user_id": "1617928806802808832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039367560504946727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riceNorlin 记得是会影响些的…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2038975908233785733",
+        "created_at": "2026-04-01T19:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039432426213261783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617928806802808832",
+              "start": 0,
+              "username": "riceNorlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039432426213261783",
+        "in_reply_to_user_id": "1617928806802808832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039367560504946727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riceNorlin 记得是会影响些的…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617928806802808832",
+        "conversation_id": "2038975908233785733",
+        "created_at": "2026-04-01T15:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039367560504946727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039367560504946727",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038975908233785733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 真的假的？烟和抗雄对冲吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2643,
+          "following_count": 2179,
+          "like_count": 117819,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 8212
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T16:54:37.000Z",
+        "description": "诺麟，Norlin /07/传说米浴单推人/mtf？/Arknights /identity V /月に寄り/overwacth/LimbusCompany/jojo/rain world\n\nライスちゃん本当かわいいいいい！",
+        "id": "1617928806802808832",
+        "location": "トレセン学園",
+        "name": "诺麟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835951545411887104/ixz-YXp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 209,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 78
+        },
+        "username": "riceNorlin",
+        "verified": false
+      }
+    ]
+  }
+}

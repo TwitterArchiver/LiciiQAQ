@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2024913907132104766",
+    "created_at": "2026-02-21T12:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025190701219373352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1411354219802546178",
+          "start": 0,
+          "username": "RuriAkai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025190701219373352",
+    "in_reply_to_user_id": "1411354219802546178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024913907132104766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuriAkai 生日快乐🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2024913907132104766",
+        "created_at": "2026-02-21T12:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025190701219373352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1411354219802546178",
+              "start": 0,
+              "username": "RuriAkai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025190701219373352",
+        "in_reply_to_user_id": "1411354219802546178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024913907132104766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuriAkai 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411354219802546178",
+        "conversation_id": "2024913907132104766",
+        "created_at": "2026-02-20T18:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024913907132104766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024913907132104766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2572,
+          "following_count": 2146,
+          "like_count": 112983,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 8129
+        },
+        "username": "LiciiQAQ",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-03T16:01:04.000Z",
+        "description": "🏳️‍⚧️ 跨性别女孩 | 坐标 🇲🇴 大学生 | 头像是自设oc | 是小酒鬼，本命 Asahi 和 Strong Zero🍺 | 喜欢V家和摇滚 | 会在VRChat中寻找乐趣和安慰 | 喜欢小猫🐱和贴贴抱抱💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rurichan.work",
+                "end": 23,
+                "expanded_url": "https://rurichan.work",
+                "start": 0,
+                "url": "https://t.co/p2gr4L9TWx"
+              }
+            ]
+          }
+        },
+        "id": "1411354219802546178",
+        "location": "Macau",
+        "name": "赤井 瑠璃❄️🏳️‍⚧️🇲🇴",
+        "pinned_tweet_id": "1972562570025505204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794061156468027396/Lbb2M0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 246,
+          "like_count": 1684,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/p2gr4L9TWx",
+        "username": "RuriAkai",
+        "verified": false
+      }
+    ]
+  }
+}

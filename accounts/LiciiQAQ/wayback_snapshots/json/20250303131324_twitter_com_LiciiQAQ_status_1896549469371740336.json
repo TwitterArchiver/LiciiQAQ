@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1895843561515741265",
+    "created_at": "2025-03-03T13:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T14:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896549469371740336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317393365382483970",
+          "start": 0,
+          "username": "Just_A_Mumei"
+        },
+        {
+          "end": 29,
+          "id": "954724026806448128",
+          "start": 14,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896549469371740336",
+    "in_reply_to_user_id": "1317393365382483970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895843759876972898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Just_A_Mumei @libertyelysium 那很有生活了（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1895843561515741265",
+        "created_at": "2025-03-03T13:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896549469371740336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317393365382483970",
+              "start": 0,
+              "username": "Just_A_Mumei"
+            },
+            {
+              "end": 29,
+              "id": "954724026806448128",
+              "start": 14,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896549469371740336",
+        "in_reply_to_user_id": "1317393365382483970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895843759876972898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Just_A_Mumei @libertyelysium 那很有生活了（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317393365382483970",
+        "conversation_id": "1895843561515741265",
+        "created_at": "2025-03-01T14:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T15:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895843759876972898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895843759876972898",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17987,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895843561515741265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 这玩意不能直接拔下来 之前把我额头上吸出一个红印子 一定要注意⚠️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 77,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 82
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-17T09:13:58.000Z",
+        "description": "一条肥狗",
+        "id": "1317393365382483970",
+        "location": "Somewhere",
+        "name": "無名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896509972613378048/1TopRTRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 508,
+          "like_count": 11941,
+          "listed_count": 9,
+          "media_count": 250,
+          "tweet_count": 5907
+        },
+        "username": "Just_A_Mumei",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90的忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895460197084368896/mYpdgMzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8619,
+          "following_count": 590,
+          "like_count": 72044,
+          "listed_count": 27,
+          "media_count": 1666,
+          "tweet_count": 26589
+        },
+        "username": "libertyelysium",
+        "verified": true
+      }
+    ]
+  }
+}

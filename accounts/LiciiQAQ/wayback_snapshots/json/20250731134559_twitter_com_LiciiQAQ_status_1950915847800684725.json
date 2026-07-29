@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1950914367823794524",
+    "created_at": "2025-07-31T13:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T14:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950915847800684725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "Gotousugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950915847800684725",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950915664845418585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gotousugi 草草泥😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1950914367823794524",
+        "created_at": "2025-07-31T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950915847800684725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "Gotousugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950915847800684725",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950915664845418585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gotousugi 草草泥😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752528596718211072",
+        "conversation_id": "1950914367823794524",
+        "created_at": "2025-07-31T13:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950915664845418585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950915664845418585",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950914367823794524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 我要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 1515,
+          "like_count": 47165,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 5649
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09年/准高一/友跨🏳️‍⚧️/MtX(F)倾向🍥（hrt2025.7.15）/坐标上海/小号@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcna.kp/kp",
+                "end": 23,
+                "expanded_url": "http://www.kcna.kp/kp",
+                "start": 0,
+                "url": "https://t.co/3zRMUL1t7b"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "⛩️後藤 스기🍥🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 2383,
+          "like_count": 34933,
+          "listed_count": 2,
+          "media_count": 1039,
+          "tweet_count": 18434
+        },
+        "url": "https://t.co/3zRMUL1t7b",
+        "username": "Gotousugi",
+        "verified": false
+      }
+    ]
+  }
+}

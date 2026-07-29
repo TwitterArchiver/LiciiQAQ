@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948217046829056000"
+      ],
+      "media_source_tweet_id": [
+        "1948217049546670125"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1948534216913981836",
+    "created_at": "2025-07-25T00:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T01:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948534216913981836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684788633797287936",
+          "start": 3,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8lgFUfTMD7",
+          "end": 52,
+          "expanded_url": "https://x.com/Moningmeng/status/1948217049546670125/photo/1",
+          "media_key": "3_1948217046829056000",
+          "start": 29,
+          "url": "https://t.co/8lgFUfTMD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948534216913981836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948217049546670125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Moningmeng: 《推特女装常用姿势指南》 https://t.co/8lgFUfTMD7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1948534216913981836].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1948534216913981836",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1948534216913981836"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1948217046829056000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwl1FP2bQAAB6VB.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948217046829056000"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "conversation_id": "1948217049546670125",
+        "created_at": "2025-07-24T03:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T04:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948217049546670125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lgFUfTMD7",
+              "end": 36,
+              "expanded_url": "https://x.com/Moningmeng/status/1948217049546670125/photo/1",
+              "media_key": "3_1948217046829056000",
+              "start": 13,
+              "url": "https://t.co/8lgFUfTMD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948217049546670125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3027,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "《推特女装常用姿势指南》 https://t.co/8lgFUfTMD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 1434,
+          "like_count": 44323,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 5298
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🌌 | 🩷🩵🏳️‍⚧️ | 萌新木桶饭 | 家长反对党 | 在留头发 | HRT→future🍥（怕被家里发现 | 跨跨帮助跨跨 | 挚爱 @Sakura_mo_yu | 最好的姐妹 @wflmyblj @Livedeath750122",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Sakura_mo_yu"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wflmyblj"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Livedeath750122"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Muoujiang__?t=…",
+                "end": 23,
+                "expanded_url": "https://x.com/Muoujiang__?t=wksvJV8Eba0OwfH6Jb0FWw&s=09",
+                "start": 0,
+                "url": "https://t.co/gWovYpo3Kl"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Nod-Krai, Snezhnaya",
+        "name": "🧊沫柠～🍋🍥",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944698823730700289/9KodktqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21642,
+          "following_count": 10860,
+          "like_count": 80632,
+          "listed_count": 76,
+          "media_count": 3942,
+          "tweet_count": 14588
+        },
+        "url": "https://t.co/gWovYpo3Kl",
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

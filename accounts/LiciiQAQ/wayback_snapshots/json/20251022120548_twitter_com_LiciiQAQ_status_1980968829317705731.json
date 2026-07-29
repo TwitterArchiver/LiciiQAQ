@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980604003214888960"
+      ],
+      "media_source_tweet_id": [
+        "1980604005975019944"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1980968829317705731",
+    "created_at": "2025-10-22T12:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T13:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980968829317705731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975075002182717440",
+          "start": 3,
+          "username": "0ox__muu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hiaeU7GSJy",
+          "end": 61,
+          "expanded_url": "https://x.com/0ox__muu/status/1980604005975019944/photo/1",
+          "media_key": "3_1980604003214888960",
+          "start": 38,
+          "url": "https://t.co/hiaeU7GSJy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980968829317705731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 847
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980604005975019944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0ox__muu: need this (⁠ ⁠╹⁠▽⁠╹⁠ ⁠) https://t.co/hiaeU7GSJy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1980604003214888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yE2ORXEAAAd8z.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980604003214888960"
+          ],
+          "media_source_tweet_id": [
+            "1980604005975019944"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1980968829317705731",
+        "created_at": "2025-10-22T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980968829317705731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975075002182717440",
+              "start": 3,
+              "username": "0ox__muu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiaeU7GSJy",
+              "end": 61,
+              "expanded_url": "https://x.com/0ox__muu/status/1980604005975019944/photo/1",
+              "media_key": "3_1980604003214888960",
+              "start": 38,
+              "url": "https://t.co/hiaeU7GSJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980968829317705731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 847
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980604005975019944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0ox__muu: need this (⁠ ⁠╹⁠▽⁠╹⁠ ⁠) https://t.co/hiaeU7GSJy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980604003214888960"
+          ]
+        },
+        "author_id": "1975075002182717440",
+        "conversation_id": "1980604005975019944",
+        "created_at": "2025-10-21T11:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980604005975019944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiaeU7GSJy",
+              "end": 47,
+              "expanded_url": "https://x.com/0ox__muu/status/1980604005975019944/photo/1",
+              "media_key": "3_1980604003214888960",
+              "start": 24,
+              "url": "https://t.co/hiaeU7GSJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980604005975019944",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 43682,
+          "like_count": 7837,
+          "quote_count": 29,
+          "reply_count": 29,
+          "retweet_count": 847
+        },
+        "reply_settings": "everyone",
+        "text": "need this (⁠ ⁠╹⁠▽⁠╹⁠ ⁠) https://t.co/hiaeU7GSJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 2043,
+          "like_count": 78298,
+          "listed_count": 4,
+          "media_count": 360,
+          "tweet_count": 7415
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T05:46:03.000Z",
+        "description": "୨୧‍ ּ ֶָ֢. 到处都是血。",
+        "id": "1975075002182717440",
+        "location": "ೀ　17　𓏏𓏏　相里要's arms .　𝜗ৎ",
+        "name": "ೀ　𝓶uu/𝓶oa ❤︎",
+        "pinned_tweet_id": "1979085989843996697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975335334096322560/zGouEIKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 336,
+          "like_count": 1466,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 313
+        },
+        "username": "0ox__muu",
+        "verified": false
+      }
+    ]
+  }
+}

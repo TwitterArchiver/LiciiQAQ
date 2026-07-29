@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2054610548613091328"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2054611034800095361",
+    "created_at": "2026-05-13T17:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054611034800095361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2038683521078681600",
+          "start": 3,
+          "username": "TogawaMedical0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054611034800095361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054610550198567026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaMedical0: 近期正在计划新增普瑞巴林胶囊的售卖，tomorin想大调查下泥萌更倾向于哪种数量及规格x👀"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 5760,
+        "end_datetime": "2026-05-17T17:11:42.000Z",
+        "id": "2054610548613091328",
+        "options": [
+          {
+            "label": "150mg*30-32t较少数量",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "150mg*40-45t较多数量",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "单粒300mg等更大规格",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不需要普瑞巴林（",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054610548613091328"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2054611034800095361",
+        "created_at": "2026-05-13T17:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054611034800095361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2038683521078681600",
+              "start": 3,
+              "username": "TogawaMedical0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054611034800095361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054610550198567026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaMedical0: 近期正在计划新增普瑞巴林胶囊的售卖，tomorin想大调查下泥萌更倾向于哪种数量及规格x👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054610548613091328"
+          ]
+        },
+        "author_id": "2038683521078681600",
+        "conversation_id": "2054610550198567026",
+        "created_at": "2026-05-13T17:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054610550198567026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054610550198567026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "近期正在计划新增普瑞巴林胶囊的售卖，tomorin想大调查下泥萌更倾向于哪种数量及规格x👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@zhouxuanjiu2，姐姐：@Grinin_mark \n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2052135122682696123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 2208,
+          "like_count": 120968,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 8316
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T18:23:43.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 \n本处现提供可零售Androcur® (色普龙)、 富士 Progynon®-Depot（日雌）及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。\n客服邮箱：support@togawamedical.top，具体商品、帮助、更多联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "http://doc.togawamedical.top",
+                "start": 0,
+                "url": "https://t.co/cFZ49O5kT1"
+              }
+            ]
+          }
+        },
+        "id": "2038683521078681600",
+        "name": "丰川药业_Official🍥（重生版）",
+        "pinned_tweet_id": "2052080553189585339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038684081601544192/51tBhCnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 144,
+          "like_count": 1715,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/cFZ49O5kT1",
+        "username": "TogawaMedical0",
+        "verified": true
+      }
+    ]
+  }
+}

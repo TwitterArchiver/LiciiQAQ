@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1910945577627418885",
+    "created_at": "2025-04-12T07:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T08:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910957535705940281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608989725528059904",
+          "start": 0,
+          "username": "kirameow233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910957535705940281",
+    "in_reply_to_user_id": "1608989725528059904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910945577627418885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirameow233 甚至云游戏（？\n那很有实力了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1910945573663899648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUK3-dXgAAj574.jpg",
+        "width": 1466
+      },
+      {
+        "height": 82,
+        "media_key": "3_1910945574288855040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUK4AyXkAALP-x.jpg",
+        "width": 154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1910945577627418885",
+        "created_at": "2025-04-12T07:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T08:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910957535705940281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608989725528059904",
+              "start": 0,
+              "username": "kirameow233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910957535705940281",
+        "in_reply_to_user_id": "1608989725528059904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910945577627418885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirameow233 甚至云游戏（？\n那很有实力了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910945573663899648",
+            "3_1910945574288855040"
+          ]
+        },
+        "author_id": "1608989725528059904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105532158465040384",
+              "name": "Identity V"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "1910945577627418885",
+        "created_at": "2025-04-12T06:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T07:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910945577627418885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuWsda5ISD",
+              "end": 93,
+              "expanded_url": "https://x.com/kirameow233/status/1910945577627418885/photo/1",
+              "media_key": "3_1910945573663899648",
+              "start": 70,
+              "url": "https://t.co/TuWsda5ISD"
+            },
+            {
+              "display_url": "pic.x.com/TuWsda5ISD",
+              "end": 93,
+              "expanded_url": "https://x.com/kirameow233/status/1910945577627418885/photo/1",
+              "media_key": "3_1910945574288855040",
+              "start": 70,
+              "url": "https://t.co/TuWsda5ISD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910945577627418885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不好我的百胜，，，\n（只是低阶局而已对不起，因为连续打了三小时第五人格头昏眼花导致出现了最近两天唯一一把输掉的对局，100%没有了很伤心） https://t.co/TuWsda5ISD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 577,
+          "like_count": 7708,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1029
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-31T00:54:01.000Z",
+        "description": "INFP-T/友🏳️‍🌈🏳️‍⚧️/互联网重度依赖/对音乐感兴趣，学习乐理中(^^♪/打算买电钢琴/超重度拖延症/每天都很空洞/从不鉴证\n希望大家都能和睦相处",
+        "id": "1608989725528059904",
+        "location": "Kumamoto-ken, Japan",
+        "name": "Amia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866098863825989632/yulpGtap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 271,
+          "like_count": 25200,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 586
+        },
+        "username": "kirameow233",
+        "verified": false
+      }
+    ]
+  }
+}

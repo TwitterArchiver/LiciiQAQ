@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2049100113935736897",
+    "created_at": "2026-04-28T12:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049100113935736897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860742128688857088",
+          "start": 3,
+          "username": "zhouxuanjiu2"
+        },
+        {
+          "end": 40,
+          "id": "1695649420539219968",
+          "start": 31,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049100113935736897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049077683137696148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhouxuanjiu2: 100Days 感谢关照 @LiciiQAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2049100113935736897",
+        "created_at": "2026-04-28T12:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049100113935736897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860742128688857088",
+              "start": 3,
+              "username": "zhouxuanjiu2"
+            },
+            {
+              "end": 40,
+              "id": "1695649420539219968",
+              "start": 31,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049100113935736897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049077683137696148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhouxuanjiu2: 100Days 感谢关照 @LiciiQAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860742128688857088",
+        "conversation_id": "2049077683137696148",
+        "created_at": "2026-04-28T10:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049077683137696148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1695649420539219968",
+              "start": 13,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049077683137696148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "100Days 感谢关照 @LiciiQAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2690,
+          "following_count": 2209,
+          "like_count": 119780,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 8298
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "",
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "仿生野草会梦见电子锈病萱草花吗",
+        "pinned_tweet_id": "2044683996882468937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455834787024896/obrN0Syw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 444,
+          "like_count": 2271,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 926
+        },
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

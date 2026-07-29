@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1933921029908505081",
+    "created_at": "2025-06-15T02:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T03:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934071417613746509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3askura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934071417613746509",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933921029908505081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3askura 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1933921027274510336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtaq7Y5bEAApSji.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1933921029908505081",
+        "created_at": "2025-06-15T02:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934071417613746509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3askura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934071417613746509",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933921029908505081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3askura 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933921027274510336"
+          ]
+        },
+        "author_id": "1502290571833995266",
+        "conversation_id": "1933921029908505081",
+        "created_at": "2025-06-14T16:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933921029908505081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmMwz1vZ8S",
+              "end": 34,
+              "expanded_url": "https://x.com/3askura/status/1933921029908505081/photo/1",
+              "media_key": "3_1933921027274510336",
+              "start": 11,
+              "url": "https://t.co/XmMwz1vZ8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933921029908505081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是抢到卧铺了姐妹们 https://t.co/XmMwz1vZ8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 1027,
+          "like_count": 27174,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 3487
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "les/Hatsune Miku\n老婆大人💕 @shana_yowaino/\n教主 @aspishiguro/\n笨蛋鸦鸦姐姐 @yanyan2567/\n二号姐姐 @zzzkonstrky/\n三号姐姐 @Luo_yiyu/\n五号妹妹 @Zero_158_Kana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "shana_yowaino"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aspishiguro"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "zzzkonstrky"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Luo_yiyu"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "location": "蝴蝶姐姐的怀里",
+        "name": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755697448837120/swM5XmvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 235,
+          "like_count": 16065,
+          "listed_count": 1,
+          "media_count": 2559,
+          "tweet_count": 7888
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3askura",
+        "verified": false
+      }
+    ]
+  }
+}

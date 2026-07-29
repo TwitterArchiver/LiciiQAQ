@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1926329833551749518",
+    "created_at": "2025-05-25T02:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T03:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926465958295585190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926465958295585190",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926329833551749518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu awmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10854,
+        "height": 1560,
+        "media_key": "7_1926329785715744768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1926329785715744768/pu/img/zcSvbIT-YLmOWr1-.jpg",
+        "public_metrics": {
+          "view_count": 1750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926329785715744768/pu/vid/avc1/320x692/uXs9Beu1uYeyH8Cb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926329785715744768/pu/vid/avc1/480x1040/FRx0JP4Y8Adfux0-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926329785715744768/pu/vid/avc1/720x1560/z88mMzFjpn6vvkLr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1926329785715744768/pu/pl/nHQY75Bpls71yJnT.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1926329833551749518",
+        "created_at": "2025-05-25T02:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T03:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926465958295585190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926465958295585190",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926329833551749518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1926329785715744768"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1926329833551749518",
+        "created_at": "2025-05-24T17:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926329833551749518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgrLXtU5wm",
+              "end": 44,
+              "expanded_url": "https://x.com/AcboxLiu/status/1926329833551749518/video/1",
+              "media_key": "7_1926329785715744768",
+              "start": 21,
+              "url": "https://t.co/YgrLXtU5wm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926329833551749518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3365,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "在酒吧被灌醉之后的箱子对着酒柜出勤实录: https://t.co/YgrLXtU5wm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 887,
+          "like_count": 18921,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 2698
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/16岁/全职开发EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/🇭🇰A-level&IELTS/🏳️‍⚧️/🧭@sciuxkit @bugduckteam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 127,
+                "start": 118,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "bugduckteam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acbox.lol",
+                "end": 23,
+                "expanded_url": "https://acbox.lol",
+                "start": 0,
+                "url": "https://t.co/kJvOSjAt1j"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1925115627330839030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4573,
+          "following_count": 2922,
+          "like_count": 2251,
+          "listed_count": 16,
+          "media_count": 703,
+          "tweet_count": 3687
+        },
+        "url": "https://t.co/kJvOSjAt1j",
+        "username": "AcboxLiu",
+        "verified": false
+      }
+    ]
+  }
+}

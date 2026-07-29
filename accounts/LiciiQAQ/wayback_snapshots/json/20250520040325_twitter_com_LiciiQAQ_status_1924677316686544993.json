@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924654954121461762"
+      ],
+      "media_source_tweet_id": [
+        "1924654960899473772"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1924677316686544993",
+    "created_at": "2025-05-20T04:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924677316686544993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "sxshuishuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3YcSqossxo",
+          "end": 42,
+          "expanded_url": "https://x.com/sxshuishuimao/status/1924654960899473772/photo/1",
+          "media_key": "3_1924654954121461762",
+          "start": 19,
+          "url": "https://t.co/3YcSqossxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924677316686544993",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924654960899473772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sxshuishuimao: https://t.co/3YcSqossxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_1924654954121461762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrW_e8ebAAIya5B.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924654954121461762"
+          ],
+          "media_source_tweet_id": [
+            "1924654960899473772"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1924677316686544993",
+        "created_at": "2025-05-20T04:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924677316686544993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "sxshuishuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YcSqossxo",
+              "end": 42,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1924654960899473772/photo/1",
+              "media_key": "3_1924654954121461762",
+              "start": 19,
+              "url": "https://t.co/3YcSqossxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924677316686544993",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924654960899473772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sxshuishuimao: https://t.co/3YcSqossxo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924654954121461762"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1924654960899473772",
+        "created_at": "2025-05-20T02:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T03:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924654960899473772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YcSqossxo",
+              "end": 23,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1924654960899473772/photo/1",
+              "media_key": "3_1924654954121461762",
+              "start": 0,
+              "url": "https://t.co/3YcSqossxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924654960899473772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3YcSqossxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 861,
+          "like_count": 17332,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2505
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜互fo｜HRT咨询｜提问箱链接↓｜拼图积木代拼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B42",
+                "start": 0,
+                "url": "https://t.co/WhstBgh4oE"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你1.7km",
+        "name": "神仙水水猫🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922116318553141248/h-kb4WKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 716,
+          "like_count": 198,
+          "listed_count": 3,
+          "media_count": 827,
+          "tweet_count": 4934
+        },
+        "url": "https://t.co/WhstBgh4oE",
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

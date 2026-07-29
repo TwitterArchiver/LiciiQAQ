@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1901216869908193753",
+    "created_at": "2025-03-16T12:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T13:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901245399622619292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        },
+        {
+          "end": 24,
+          "id": "1512976991976402949",
+          "start": 16,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901245399622619292",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901242595499708658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd @bghtnya 我也是，好怪（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1901216869908193753",
+        "created_at": "2025-03-16T12:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901245399622619292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            },
+            {
+              "end": 24,
+              "id": "1512976991976402949",
+              "start": 16,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901245399622619292",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901242595499708658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd @bghtnya 我也是，好怪（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1901216869908193753",
+        "created_at": "2025-03-16T12:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901242595499708658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901242595499708658",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901216869908193753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 羡慕深度睡眠，吃糖以后我憋不住尿老是半夜上厕所（吃的是色不是螺，不知道为什么会憋不住尿）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 405,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 373
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 77,
+          "like_count": 816,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1168
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5777,
+          "following_count": 1837,
+          "like_count": 124936,
+          "listed_count": 13,
+          "media_count": 2242,
+          "tweet_count": 31510
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

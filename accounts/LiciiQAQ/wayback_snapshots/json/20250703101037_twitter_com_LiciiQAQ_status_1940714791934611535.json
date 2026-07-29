@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940352225156513792",
+        "3_1940352225189990401",
+        "3_1940352225181581312",
+        "3_1940352225152217088"
+      ],
+      "media_source_tweet_id": [
+        "1940352235751584088",
+        "1940352235751584088",
+        "1940352235751584088",
+        "1940352235751584088"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940714791934611535",
+    "created_at": "2025-07-03T10:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940714791934611535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "门槛"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "求包养"
+        },
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "反差女大"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "非绿"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "线下"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "白虎"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "圆角"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "巨乳"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907384022655004672",
+          "start": 3,
+          "username": "susukax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ojbmmyZVMI",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+          "media_key": "3_1940352225156513792",
+          "start": 117,
+          "url": "https://t.co/ojbmmyZVMI"
+        },
+        {
+          "display_url": "pic.x.com/ojbmmyZVMI",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+          "media_key": "3_1940352225189990401",
+          "start": 117,
+          "url": "https://t.co/ojbmmyZVMI"
+        },
+        {
+          "display_url": "pic.x.com/ojbmmyZVMI",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+          "media_key": "3_1940352225181581312",
+          "start": 117,
+          "url": "https://t.co/ojbmmyZVMI"
+        },
+        {
+          "display_url": "pic.x.com/ojbmmyZVMI",
+          "end": 140,
+          "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+          "media_key": "3_1940352225152217088",
+          "start": 117,
+          "url": "https://t.co/ojbmmyZVMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940714791934611535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940352235751584088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @susukax: 这里是苏苏置顶🔝\n请不要乱开玩笑！\n只是一个希望哥哥入🚪的小女生！\n欢迎真心入🚪的哥哥！\n女宝快来找我互推互fo～\n#门槛妹 #门槛 #金主爸爸 #求包养 #反差女大 #非绿 #线下 #白虎 #圆角 #巨乳 https://t.co/ojbmmyZVMI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940714791934611535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940714791934611535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940714791934611535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_1940352225156513792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2EEX-XwAAu_pb.jpg",
+        "width": 1231
+      },
+      {
+        "height": 1557,
+        "media_key": "3_1940352225189990401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2EEYGWkAETEo_.jpg",
+        "width": 1145
+      },
+      {
+        "height": 1121,
+        "media_key": "3_1940352225181581312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2EEYEWQAALpOj.jpg",
+        "width": 1284
+      },
+      {
+        "height": 890,
+        "media_key": "3_1940352225152217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2EEX9WMAA0c5a.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940352225156513792",
+            "3_1940352225189990401",
+            "3_1940352225181581312",
+            "3_1940352225152217088"
+          ]
+        },
+        "author_id": "1907384022655004672",
+        "conversation_id": "1940352235751584088",
+        "created_at": "2025-07-02T10:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T11:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940352235751584088"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "门槛"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "求包养"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "反差女大"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "非绿"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "线下"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "白虎"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "圆角"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "巨乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojbmmyZVMI",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+              "media_key": "3_1940352225156513792",
+              "start": 104,
+              "url": "https://t.co/ojbmmyZVMI"
+            },
+            {
+              "display_url": "pic.x.com/ojbmmyZVMI",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+              "media_key": "3_1940352225189990401",
+              "start": 104,
+              "url": "https://t.co/ojbmmyZVMI"
+            },
+            {
+              "display_url": "pic.x.com/ojbmmyZVMI",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+              "media_key": "3_1940352225181581312",
+              "start": 104,
+              "url": "https://t.co/ojbmmyZVMI"
+            },
+            {
+              "display_url": "pic.x.com/ojbmmyZVMI",
+              "end": 127,
+              "expanded_url": "https://x.com/susukax/status/1940352235751584088/photo/1",
+              "media_key": "3_1940352225152217088",
+              "start": 104,
+              "url": "https://t.co/ojbmmyZVMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940352235751584088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这里是苏苏置顶🔝\n请不要乱开玩笑！\n只是一个希望哥哥入🚪的小女生！\n欢迎真心入🚪的哥哥！\n女宝快来找我互推互fo～\n#门槛妹 #门槛 #金主爸爸 #求包养 #反差女大 #非绿 #线下 #白虎 #圆角 #巨乳 https://t.co/ojbmmyZVMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1240,
+          "like_count": 36151,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4294
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T10:46:11.000Z",
+        "description": "欢迎喜欢我的哥哥入🚪，只回复口令哟～（坐标验证20r精准到区），喜欢爽快的哥哥～欢迎女宝互推互fo～",
+        "id": "1907384022655004672",
+        "name": "苏su",
+        "pinned_tweet_id": "1940352235751584088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924503493358043136/2eBrHagb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 79,
+          "like_count": 398,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 406
+        },
+        "username": "susukax",
+        "verified": false
+      }
+    ]
+  }
+}

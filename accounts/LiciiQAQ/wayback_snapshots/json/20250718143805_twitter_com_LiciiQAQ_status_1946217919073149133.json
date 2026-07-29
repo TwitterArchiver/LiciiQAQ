@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946085449346514944"
+      ],
+      "media_source_tweet_id": [
+        "1946085453142339626"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1946217919073149133",
+    "created_at": "2025-07-18T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946217919073149133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Yujiudu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TumkevX4IF",
+          "end": 95,
+          "expanded_url": "https://x.com/Yujiudu/status/1946085453142339626/photo/1",
+          "media_key": "3_1946085449346514944",
+          "start": 72,
+          "url": "https://t.co/TumkevX4IF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946217919073149133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946085453142339626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yujiudu: 南京人在外滩吃鸭血粉丝汤被发现了，东方明珠变成防御塔攻击我，还好我是南京人，召唤出台北101反击，然后骑上鸭子就跑了 https://t.co/TumkevX4IF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1946085449346514944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHiZ8bbAAA_tAD.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946085449346514944"
+          ],
+          "media_source_tweet_id": [
+            "1946085453142339626"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1946217919073149133",
+        "created_at": "2025-07-18T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946217919073149133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Yujiudu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TumkevX4IF",
+              "end": 95,
+              "expanded_url": "https://x.com/Yujiudu/status/1946085453142339626/photo/1",
+              "media_key": "3_1946085449346514944",
+              "start": 72,
+              "url": "https://t.co/TumkevX4IF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946217919073149133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946085453142339626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yujiudu: 南京人在外滩吃鸭血粉丝汤被发现了，东方明珠变成防御塔攻击我，还好我是南京人，召唤出台北101反击，然后骑上鸭子就跑了 https://t.co/TumkevX4IF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946085449346514944"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "1946085453142339626",
+        "created_at": "2025-07-18T05:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T06:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946085453142339626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TumkevX4IF",
+              "end": 82,
+              "expanded_url": "https://x.com/Yujiudu/status/1946085453142339626/photo/1",
+              "media_key": "3_1946085449346514944",
+              "start": 59,
+              "url": "https://t.co/TumkevX4IF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946085453142339626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南京人在外滩吃鸭血粉丝汤被发现了，东方明珠变成防御塔攻击我，还好我是南京人，召唤出台北101反击，然后骑上鸭子就跑了 https://t.co/TumkevX4IF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1365,
+          "like_count": 41103,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4941
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "千江有水映月光  風拂君襟侧挽袖\n最是浮莲胸欲漾  自由心自在天宵",
+        "id": "1593799138893873152",
+        "location": "浙江",
+        "name": "Yujiudu_千江風月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922026234634182656/rMjrx4Fz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3211,
+          "following_count": 3100,
+          "like_count": 27722,
+          "listed_count": 8,
+          "media_count": 950,
+          "tweet_count": 5961
+        },
+        "username": "Yujiudu",
+        "verified": false
+      }
+    ]
+  }
+}

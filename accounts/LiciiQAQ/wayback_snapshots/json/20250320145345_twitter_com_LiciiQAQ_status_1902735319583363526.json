@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1902629148428005796",
+    "created_at": "2025-03-20T14:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T15:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902735319583363526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812559263371591680",
+          "start": 0,
+          "username": "huamingyouqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902735319583363526",
+    "in_reply_to_user_id": "1812559263371591680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902629148428005796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huamingyouqi 是点开买了之后才会通过认证的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902629123840995329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmd_G4na8AEyU5S.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1902629148428005796",
+        "created_at": "2025-03-20T14:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T15:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902735319583363526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812559263371591680",
+              "start": 0,
+              "username": "huamingyouqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902735319583363526",
+        "in_reply_to_user_id": "1812559263371591680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902629148428005796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huamingyouqi 是点开买了之后才会通过认证的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902629123840995329"
+          ]
+        },
+        "author_id": "1812559263371591680",
+        "conversation_id": "1902629148428005796",
+        "created_at": "2025-03-20T07:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T08:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902629148428005796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W5YBafum5e",
+              "end": 54,
+              "expanded_url": "https://x.com/huamingyouqi/status/1902629148428005796/photo/1",
+              "media_key": "3_1902629123840995329",
+              "start": 31,
+              "url": "https://t.co/W5YBafum5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902629148428005796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 549,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊嘞？\n啊嘞嘞？\n什么时候通过认证了( ❛⃘ ∨ ❜⃘⃘ ) https://t.co/W5YBafum5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 428,
+          "like_count": 2408,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 481
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T18:46:40.000Z",
+        "description": "三观崩坏｜全天发癫｜不是男娘｜私信会回｜会回fo｜被我发现会被一直视奸｜喜欢可爱的事物｜INFP｜https://t.co/MXlE1k8KRa\n匿名提问≡ω≡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huamingyouqi/",
+                "end": 72,
+                "expanded_url": "http://ngl.link/huamingyouqi/",
+                "start": 49,
+                "url": "https://t.co/MXlE1k8KRa"
+              }
+            ]
+          }
+        },
+        "id": "1812559263371591680",
+        "location": "世界尽头",
+        "name": "花名有琦",
+        "pinned_tweet_id": "1899353335301361951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895039845816242176/dsjw8pzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 703,
+          "like_count": 9578,
+          "listed_count": 5,
+          "media_count": 482,
+          "tweet_count": 4103
+        },
+        "username": "huamingyouqi",
+        "verified": false
+      }
+    ]
+  }
+}

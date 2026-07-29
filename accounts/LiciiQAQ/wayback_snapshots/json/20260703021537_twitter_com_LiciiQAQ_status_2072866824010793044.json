@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072866818382065664"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2072866824010793044",
+    "created_at": "2026-07-03T02:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072866824010793044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/auqmYYU3ZV",
+          "end": 35,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2072866824010793044/photo/1",
+          "media_key": "3_2072866818382065664",
+          "start": 12,
+          "url": "https://t.co/auqmYYU3ZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072866824010793044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难蚌十字架改成红星😅（ https://t.co/auqmYYU3ZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072866818382065664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRNY4hbcAARaIP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072866818382065664"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2072866824010793044",
+        "created_at": "2026-07-03T02:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072866824010793044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auqmYYU3ZV",
+              "end": 35,
+              "expanded_url": "https://x.com/LiciiQAQ/status/2072866824010793044/photo/1",
+              "media_key": "3_2072866818382065664",
+              "start": 12,
+              "url": "https://t.co/auqmYYU3ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072866824010793044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难蚌十字架改成红星😅（ https://t.co/auqmYYU3ZV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@Grinin_mark，♥️姐姐：@kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 2179,
+          "like_count": 121439,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 8340
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941417036263088240",
+    "created_at": "2025-07-05T11:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941454267216429086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684811789664489472",
+          "start": 0,
+          "username": "CharcsDay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941454267216429086",
+    "in_reply_to_user_id": "1684811789664489472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941430916167217420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharcsDay 好w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941417036263088240",
+        "created_at": "2025-07-05T11:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941454267216429086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684811789664489472",
+              "start": 0,
+              "username": "CharcsDay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941454267216429086",
+        "in_reply_to_user_id": "1684811789664489472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941430916167217420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharcsDay 好w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684811789664489472",
+        "conversation_id": "1941417036263088240",
+        "created_at": "2025-07-05T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941430916167217420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941430916167217420",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941417036263088240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 不要灰心哦，职高也是很棒的选择哦~  ଘ(੭ˊ꒳ˋ)੭♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yyc20090"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 1264,
+          "like_count": 36903,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4409
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T06:23:28.000Z",
+        "description": "無限製詞AI智能體，定製你的智能伴侶，擁有多種自定義模式。\n盡情探索各種角色扮演，從空姐到護士，從女仆到人妻，數十種角色等待你的選擇。\n我們提供自然流暢的語音模型，無限製詞，可玩劇情文曖。\n下載地址：https://t.co/QNVadKCBF9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shareflai.com/s/6b6e3c",
+                "end": 123,
+                "expanded_url": "https://shareflai.com/s/6b6e3c",
+                "start": 100,
+                "url": "https://t.co/QNVadKCBF9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shareflai.com/s/6b6e3c",
+                "end": 23,
+                "expanded_url": "https://shareflai.com/s/6b6e3c",
+                "start": 0,
+                "url": "https://t.co/QNVadKCBF9"
+              }
+            ]
+          }
+        },
+        "id": "1684811789664489472",
+        "name": "ai聊天可瑟瑟軟件",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816510931356237824/nnjr14Xp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1222,
+          "like_count": 7092,
+          "listed_count": 1,
+          "media_count": 762,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/QNVadKCBF9",
+        "username": "CharcsDay",
+        "verified": false
+      }
+    ]
+  }
+}

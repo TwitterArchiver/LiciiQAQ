@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1945866130972934546",
+    "created_at": "2025-07-18T03:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T04:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946054202632933406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1521848491932536832",
+          "start": 0,
+          "username": "nyatabobo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946054202632933406",
+    "in_reply_to_user_id": "1521848491932536832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945866130972934546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyatabobo 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1172,
+        "media_key": "3_1945866122168840193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwEa7bBXMAE-etz.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1945866130972934546",
+        "created_at": "2025-07-18T03:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T04:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946054202632933406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1521848491932536832",
+              "start": 0,
+              "username": "nyatabobo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946054202632933406",
+        "in_reply_to_user_id": "1521848491932536832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945866130972934546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyatabobo 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945866122168840193"
+          ]
+        },
+        "author_id": "1521848491932536832",
+        "conversation_id": "1945866130972934546",
+        "created_at": "2025-07-17T15:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945866130972934546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scsFECcyJI",
+              "end": 32,
+              "expanded_url": "https://x.com/nyatabobo/status/1945866130972934546/photo/1",
+              "media_key": "3_1945866122168840193",
+              "start": 9,
+              "url": "https://t.co/scsFECcyJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945866130972934546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天窩生日 哇呼 https://t.co/scsFECcyJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 1340,
+          "like_count": 40856,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 4905
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:46:04.000Z",
+        "description": "哈囉 我是波波 Vtuber個人勢 我4小盆友 永遠的3歲 喜歡聊天玩遊戲跟畫畫 都給我來看台聊天 喵喵咪:P FanName ‣ 小盆友 FanArt ‣ #boboair",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "boboair"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/kamijo11298",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/kamijo11298",
+                "start": 0,
+                "url": "https://t.co/9keC6iCwew"
+              }
+            ]
+          }
+        },
+        "id": "1521848491932536832",
+        "name": "喵塔波波💙",
+        "pinned_tweet_id": "1658886540158976000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522072099200040960/IqQdVuo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 1544,
+          "like_count": 3018,
+          "listed_count": 5,
+          "media_count": 89,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/9keC6iCwew",
+        "username": "nyatabobo",
+        "verified": false
+      }
+    ]
+  }
+}

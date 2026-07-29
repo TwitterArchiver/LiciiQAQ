@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1931573919427014668",
+    "created_at": "2025-06-08T09:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T10:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931643123773632643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931643123773632643",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931634410220409152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931634410220409152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931634410220409152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931634410220409152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1931573919427014668",
+        "created_at": "2025-06-08T09:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T10:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931643123773632643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931643123773632643",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931634410220409152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 988,
+          "like_count": 25104,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 3283
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东初三生|不b任何人|坚持对任何人友好原则|是岁静人|互fo以及回复评论的时候，可能不及时，因为上学，请你置顶留言哦\n好宝宝😘@1ka16103257",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "1ka16103257"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/stoKZFmhvd"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳|第二转世|推友巡回",
+        "pinned_tweet_id": "1915791319613808730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 508,
+          "like_count": 1516,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/stoKZFmhvd",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

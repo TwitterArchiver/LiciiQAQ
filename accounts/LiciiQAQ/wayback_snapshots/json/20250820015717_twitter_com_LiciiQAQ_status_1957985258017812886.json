@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1957831746705375424",
+    "created_at": "2025-08-20T01:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T02:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957985258017812886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662474877000118272",
+          "start": 0,
+          "username": "ruiximtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957985258017812886",
+    "in_reply_to_user_id": "1662474877000118272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957831746705375424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiximtf 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1957831741512798208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyudmIra0AArjis.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1957831746705375424",
+        "created_at": "2025-08-20T01:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957985258017812886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662474877000118272",
+              "start": 0,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957985258017812886",
+        "in_reply_to_user_id": "1662474877000118272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957831746705375424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiximtf 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957831741512798208"
+          ]
+        },
+        "author_id": "1662474877000118272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1957831746705375424",
+        "created_at": "2025-08-19T15:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957831746705375424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/NufLGhrquo"
+            },
+            {
+              "display_url": "pic.x.com/YajkHd25gj",
+              "end": 64,
+              "expanded_url": "https://x.com/ruiximtf/status/1957831746705375424/photo/1",
+              "media_key": "3_1957831741512798208",
+              "start": 41,
+              "url": "https://t.co/YajkHd25gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957831746705375424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/NufLGhrquo https://t.co/YajkHd25gj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 1712,
+          "like_count": 54653,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 6335
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:04:50.000Z",
+        "description": "一个宅在家里的线虫/09休学中/好孤独呀欢迎来聊天互fo/日语学习ing！/看番和玩二游（原神/崩铁/啤酒烧烤/光遇…）来个人和喔说说话吧太无聊咯逃生舱@xi_ruiaha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "xi_ruiaha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ahamisaka",
+                "end": 23,
+                "expanded_url": "https://t.me/ahamisaka",
+                "start": 0,
+                "url": "https://t.co/SJMiqGcex1"
+              }
+            ]
+          }
+        },
+        "id": "1662474877000118272",
+        "location": "Tokyo-to, Japan",
+        "name": "荠aha🍥",
+        "pinned_tweet_id": "1908938007543169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882367615483731968/XaRhmnsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 564,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/SJMiqGcex1",
+        "username": "ruiximtf",
+        "verified": true
+      }
+    ]
+  }
+}

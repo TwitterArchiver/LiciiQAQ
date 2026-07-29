@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896900568691752960",
+        "3_1896900609888153600",
+        "3_1896900645031915520"
+      ],
+      "media_source_tweet_id": [
+        "1896900792143253594",
+        "1896900792143253594",
+        "1896900792143253594"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1898652106745373068",
+    "created_at": "2025-03-09T08:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T09:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898652106745373068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769557732124762113",
+          "start": 3,
+          "username": "loj131588"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xu4LwdIOvX",
+          "end": 106,
+          "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+          "media_key": "3_1896900568691752960",
+          "start": 83,
+          "url": "https://t.co/xu4LwdIOvX"
+        },
+        {
+          "display_url": "pic.x.com/xu4LwdIOvX",
+          "end": 106,
+          "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+          "media_key": "3_1896900609888153600",
+          "start": 83,
+          "url": "https://t.co/xu4LwdIOvX"
+        },
+        {
+          "display_url": "pic.x.com/xu4LwdIOvX",
+          "end": 106,
+          "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+          "media_key": "3_1896900645031915520",
+          "start": 83,
+          "url": "https://t.co/xu4LwdIOvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898652106745373068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896900792143253594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @loj131588: 没钱od了，又来卖了\n🚪30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘\n放几张自推的cos喵 https://t.co/xu4LwdIOvX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1898652106745373068].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1898652106745373068",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1898652106745373068"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1661,
+        "media_key": "3_1896900568691752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMlBFsbwAAYvMW.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1923,
+        "media_key": "3_1896900609888153600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMlDfKa8AAJusl.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1685,
+        "media_key": "3_1896900645031915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMlFiFWMAAW3HT.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896900568691752960",
+            "3_1896900609888153600",
+            "3_1896900645031915520"
+          ]
+        },
+        "author_id": "1769557732124762113",
+        "conversation_id": "1896900792143253594",
+        "created_at": "2025-03-04T12:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896900792143253594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xu4LwdIOvX",
+              "end": 91,
+              "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+              "media_key": "3_1896900568691752960",
+              "start": 68,
+              "url": "https://t.co/xu4LwdIOvX"
+            },
+            {
+              "display_url": "pic.x.com/xu4LwdIOvX",
+              "end": 91,
+              "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+              "media_key": "3_1896900609888153600",
+              "start": 68,
+              "url": "https://t.co/xu4LwdIOvX"
+            },
+            {
+              "display_url": "pic.x.com/xu4LwdIOvX",
+              "end": 91,
+              "expanded_url": "https://x.com/loj131588/status/1896900792143253594/photo/1",
+              "media_key": "3_1896900645031915520",
+              "start": 68,
+              "url": "https://t.co/xu4LwdIOvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896900792143253594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15094,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "没钱od了，又来卖了\n🚪30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘\n放几张自推的cos喵 https://t.co/xu4LwdIOvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 319,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 224
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T02:53:43.000Z",
+        "description": "没钱od了，又来卖了\n🚪30好友位/80陪聊/150线下纯绿半绿/300线下非绿/600包养，线下做你的电子猫娘\n放几张自推的cos喵",
+        "id": "1769557732124762113",
+        "location": "过门请发口令红包",
+        "name": "清瑶",
+        "pinned_tweet_id": "1896900792143253594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801216619517235200/3MLF4YOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 315,
+          "like_count": 191,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 294
+        },
+        "username": "loj131588",
+        "verified": false
+      }
+    ]
+  }
+}

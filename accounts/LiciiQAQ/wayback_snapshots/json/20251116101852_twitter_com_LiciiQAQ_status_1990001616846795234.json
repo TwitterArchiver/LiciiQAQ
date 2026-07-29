@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990001613545803776"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1989715063113224521",
+    "created_at": "2025-11-16T10:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T11:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990001616846795234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        },
+        {
+          "end": 25,
+          "id": "1821089011727003649",
+          "start": 11,
+          "username": "arrco_justin2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yuUesoFy9M",
+          "end": 53,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1990001616846795234/photo/1",
+          "media_key": "3_1990001613545803776",
+          "start": 30,
+          "url": "https://t.co/yuUesoFy9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990001616846795234",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990000919120167024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori @arrco_justin2 欸…？ https://t.co/yuUesoFy9M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 535,
+        "media_key": "3_1990001613545803776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53n7I3aEAATeXg.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990001613545803776"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1989715063113224521",
+        "created_at": "2025-11-16T10:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990001616846795234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            },
+            {
+              "end": 25,
+              "id": "1821089011727003649",
+              "start": 11,
+              "username": "arrco_justin2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuUesoFy9M",
+              "end": 53,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1990001616846795234/photo/1",
+              "media_key": "3_1990001613545803776",
+              "start": 30,
+              "url": "https://t.co/yuUesoFy9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990001616846795234",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990000919120167024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori @arrco_justin2 欸…？ https://t.co/yuUesoFy9M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "1989715063113224521",
+        "created_at": "2025-11-16T10:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990000919120167024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            },
+            {
+              "end": 24,
+              "id": "1695649420539219968",
+              "start": 15,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990000919120167024",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989715063113224521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 @LiciiQAQ 生意来了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 2080,
+          "like_count": 86487,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 7609
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "pinned_tweet_id": "1981839564122804621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941716374922956800/3-1oxPdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1607,
+          "like_count": 10987,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个13岁的小屁孩！(25.10.20)\n不会翻车！！！！！！！！！！！！\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通喵\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN @sanyunhuan\nemail:argcxkoff13hn@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "ARRCO_JUSTIN"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "sanyunhuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.wuaze.com",
+                "end": 23,
+                "expanded_url": "https://arrco.wuaze.com",
+                "start": 0,
+                "url": "https://t.co/HdWVMTf3oj"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "请先授权「X」定位权限",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984409058250784768/m45mrnPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 924,
+          "like_count": 12888,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/HdWVMTf3oj",
+        "username": "arrco_justin2",
+        "verified": false
+      }
+    ]
+  }
+}

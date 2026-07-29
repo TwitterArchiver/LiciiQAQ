@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1974512220857041156",
+    "created_at": "2025-10-04T16:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974518485020704916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1769594666977210368",
+          "start": 0,
+          "username": "aiaijiango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974518485020704916",
+    "in_reply_to_user_id": "1769594666977210368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974512220857041156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiaijiango 好可爱w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5766,
+        "height": 720,
+        "media_key": "13_1974512144571133952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974512144571133952/img/axN0WIw5dilrZKu5.jpg",
+        "public_metrics": {
+          "view_count": 21
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974512144571133952/vid/avc1/320x426/gqIY27lMf65DKp7n.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974512144571133952/vid/avc1/480x640/d6PDuWzGXniKYD7j.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974512144571133952/vid/avc1/540x720/yKmemrOHHM_VAlqc.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974512144571133952/pl/R-w7-KyzuDUaP3T6.m3u8?tag=16"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1974512220857041156",
+        "created_at": "2025-10-04T16:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974518485020704916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1769594666977210368",
+              "start": 0,
+              "username": "aiaijiango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974518485020704916",
+        "in_reply_to_user_id": "1769594666977210368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974512220857041156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiaijiango 好可爱w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974512144571133952"
+          ]
+        },
+        "author_id": "1769594666977210368",
+        "conversation_id": "1974512220857041156",
+        "created_at": "2025-10-04T16:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974512220857041156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJdtNe06y5",
+              "end": 57,
+              "expanded_url": "https://x.com/aiaijiango/status/1974512220857041156/video/1",
+              "media_key": "13_1974512144571133952",
+              "start": 34,
+              "url": "https://t.co/jJdtNe06y5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974512220857041156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "火车上的男人怎么都用异样的眼光盯着我看🤓👆，感觉这些男人全都想操我 https://t.co/jJdtNe06y5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 1975,
+          "like_count": 70965,
+          "listed_count": 5,
+          "media_count": 340,
+          "tweet_count": 7151
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T05:21:16.000Z",
+        "description": "无证含糖已炸柜 肉肉系 偏4i/INTJ药娘，攒钱做srs，绝赞私信请直接入门 不过🚪不回 私信过🚪128口令红包 支持usdt",
+        "id": "1769594666977210368",
+        "location": "🚪128❤️",
+        "name": "爱爱酱🍥🏳️‍⚧",
+        "pinned_tweet_id": "1913106725940695531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893620196599881728/7N6JyNGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8764,
+          "following_count": 136,
+          "like_count": 343,
+          "listed_count": 31,
+          "media_count": 110,
+          "tweet_count": 864
+        },
+        "username": "aiaijiango",
+        "verified": true
+      }
+    ]
+  }
+}

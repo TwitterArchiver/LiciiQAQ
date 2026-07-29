@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1925662900204576979",
+    "created_at": "2025-05-22T23:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T00:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925694722628002076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818678630824001538",
+          "start": 0,
+          "username": "Misako_25ji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925694722628002076",
+    "in_reply_to_user_id": "1818678630824001538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925662900204576979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misako_25ji 抱抱…别似啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1925662900204576979",
+        "created_at": "2025-05-22T23:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T00:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925694722628002076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818678630824001538",
+              "start": 0,
+              "username": "Misako_25ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925694722628002076",
+        "in_reply_to_user_id": "1818678630824001538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925662900204576979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misako_25ji 抱抱…别似啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818678630824001538",
+        "conversation_id": "1925662900204576979",
+        "created_at": "2025-05-22T21:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T22:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925662900204576979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925662900204576979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想再活着了\n要是能把一切交给星理我就能走了吧\n他最近上线也越来越多了啊 很多记忆我也不知道了\n没关系了 以后慢慢把自己杀了吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 872,
+          "like_count": 18225,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2626
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "She/Her/Trans｜好き@Cano_3118｜妹妹@koharu070210｜小狗@Silicium_28 @Ripperdoc2034｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "koharu070210"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Ripperdoc2034"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 811,
+          "like_count": 855,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

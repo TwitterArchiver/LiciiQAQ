@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979702621326753792"
+      ],
+      "media_source_tweet_id": [
+        "1979702651580461414"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1979702788012802256",
+    "created_at": "2025-10-19T00:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T01:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979702788012802256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1967080764119678976",
+          "start": 3,
+          "username": "rccn2501"
+        },
+        {
+          "end": 25,
+          "id": "1695649420539219968",
+          "start": 16,
+          "username": "LiciiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKbJjpliA3",
+          "end": 73,
+          "expanded_url": "https://x.com/rccn2501/status/1979702651580461414/photo/1",
+          "media_key": "3_1979702621326753792",
+          "start": 50,
+          "url": "https://t.co/GKbJjpliA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979702788012802256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979702651580461414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rccn2501: 感谢@LIciiQAQ的色普龙 非常便宜喵 救急力 ~买到散色不容易😭 https://t.co/GKbJjpliA3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979702621326753792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3lRC5EXQAAncxm.jpg",
+        "width": 1878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979702621326753792"
+          ],
+          "media_source_tweet_id": [
+            "1979702651580461414"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1979702788012802256",
+        "created_at": "2025-10-19T00:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T01:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979702788012802256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967080764119678976",
+              "start": 3,
+              "username": "rccn2501"
+            },
+            {
+              "end": 25,
+              "id": "1695649420539219968",
+              "start": 16,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKbJjpliA3",
+              "end": 73,
+              "expanded_url": "https://x.com/rccn2501/status/1979702651580461414/photo/1",
+              "media_key": "3_1979702621326753792",
+              "start": 50,
+              "url": "https://t.co/GKbJjpliA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979702788012802256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979702651580461414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rccn2501: 感谢@LIciiQAQ的色普龙 非常便宜喵 救急力 ~买到散色不容易😭 https://t.co/GKbJjpliA3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979702621326753792"
+          ]
+        },
+        "author_id": "1967080764119678976",
+        "conversation_id": "1979702651580461414",
+        "created_at": "2025-10-19T00:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T01:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979702651580461414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695649420539219968",
+              "start": 2,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKbJjpliA3",
+              "end": 59,
+              "expanded_url": "https://x.com/rccn2501/status/1979702651580461414/photo/1",
+              "media_key": "3_1979702621326753792",
+              "start": 36,
+              "url": "https://t.co/GKbJjpliA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979702651580461414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@LIciiQAQ的色普龙 非常便宜喵 救急力 ~买到散色不容易😭 https://t.co/GKbJjpliA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 2022,
+          "like_count": 77112,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 7361
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T04:19:50.000Z",
+        "description": "医疗急救/RCS of the ROC/❤️愛人@LokeeR25 /民国99年-10年出廠/178cm ?kg/中華民國台灣派/不涉政/無證含糖/MTF🍥🏳‍⚧ /hrt:民国114年-25年 10.10 /关注大概率会回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "LokeeR25"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "redcross.org.tw",
+                "end": 23,
+                "expanded_url": "https://www.redcross.org.tw",
+                "start": 0,
+                "url": "https://t.co/9rfNWvR0qi"
+              }
+            ]
+          }
+        },
+        "id": "1967080764119678976",
+        "location": "朝鮮民主主義人民共和國-平安北道-新義州特別行政區",
+        "name": "安卡睡不醒RCROC🏳‍⚧🍥",
+        "pinned_tweet_id": "1977760293947122070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977317401336410112/DOi4ABUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 191,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/9rfNWvR0qi",
+        "username": "rccn2501",
+        "verified": false
+      }
+    ]
+  }
+}

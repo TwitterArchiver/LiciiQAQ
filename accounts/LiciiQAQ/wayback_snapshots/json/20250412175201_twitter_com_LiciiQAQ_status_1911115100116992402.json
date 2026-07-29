@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1911052188060623214",
+    "created_at": "2025-04-12T17:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T18:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911115100116992402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "855300206086168576",
+          "start": 0,
+          "username": "HumansNoContext"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911115100116992402",
+    "in_reply_to_user_id": "855300206086168576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911052188060623214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HumansNoContext 是这样的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1911052183627321344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVr1fhXUAAufQR.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1911052188060623214",
+        "created_at": "2025-04-12T17:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T18:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911115100116992402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "855300206086168576",
+              "start": 0,
+              "username": "HumansNoContext"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911115100116992402",
+        "in_reply_to_user_id": "855300206086168576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911052188060623214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HumansNoContext 是这样的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911052183627321344"
+          ]
+        },
+        "author_id": "855300206086168576",
+        "conversation_id": "1911052188060623214",
+        "created_at": "2025-04-12T13:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T14:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911052188060623214"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Pocket",
+              "probability": 0.7075,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Right Pocket",
+              "probability": 0.7869,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDzwnRwBt7",
+              "end": 51,
+              "expanded_url": "https://x.com/HumansNoContext/status/1911052188060623214/photo/1",
+              "media_key": "3_1911052183627321344",
+              "start": 28,
+              "url": "https://t.co/SDzwnRwBt7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911052188060623214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 96016,
+          "like_count": 1393,
+          "quote_count": 14,
+          "reply_count": 99,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "Left Pocket vs Right Pocket https://t.co/SDzwnRwBt7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 580,
+          "like_count": 7785,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1051
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-21T06:00:34.000Z",
+        "description": "humans being humans",
+        "id": "855300206086168576",
+        "name": "NO CONTEXT HUMANS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833050358479826944/A2qj0e6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737629,
+          "following_count": 0,
+          "like_count": 2086,
+          "listed_count": 12927,
+          "media_count": 33735,
+          "tweet_count": 36372
+        },
+        "username": "HumansNoContext",
+        "verified": true
+      }
+    ]
+  }
+}

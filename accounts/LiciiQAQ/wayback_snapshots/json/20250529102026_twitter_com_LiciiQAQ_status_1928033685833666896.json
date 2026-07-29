@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1928025969798885680",
+    "created_at": "2025-05-29T10:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T11:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928033685833666896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928033685833666896",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928025969798885680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry 恭喜喵🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2052,
+        "media_key": "3_1928025965768364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsG5ZpdaUAAtRys.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1928025969798885680",
+        "created_at": "2025-05-29T10:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928033685833666896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928033685833666896",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928025969798885680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry 恭喜喵🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928025965768364032"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "1928025969798885680",
+        "created_at": "2025-05-29T09:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T10:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928025969798885680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgKtSRWTO6",
+              "end": 41,
+              "expanded_url": "https://x.com/AutismBerry/status/1928025969798885680/photo/1",
+              "media_key": "3_1928025965768364032",
+              "start": 18,
+              "url": "https://t.co/tgKtSRWTO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928025969798885680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜自己1K Followers🎉 https://t.co/tgKtSRWTO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 928,
+          "like_count": 21182,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2924
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "Depression//Social Anxiety Disorder丨跨性别友好🏳️‍⚧️丨不介意私聊丨Telegram: https://t.co/LOY0rE9FR7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+rhFVzMLCYsw2M…",
+                "end": 86,
+                "expanded_url": "https://t.me/+rhFVzMLCYsw2MDI1",
+                "start": 63,
+                "url": "https://t.co/LOY0rE9FR7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BgYtllH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BgYtllH",
+                "start": 0,
+                "url": "https://t.co/W4UmUAk9cg"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Nakano-ku, Tokyo",
+        "name": "奶莓Berry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 927,
+          "like_count": 10143,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/W4UmUAk9cg",
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

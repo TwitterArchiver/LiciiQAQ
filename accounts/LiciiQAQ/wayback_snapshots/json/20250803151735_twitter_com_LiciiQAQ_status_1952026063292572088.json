@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1951942889325433043",
+    "created_at": "2025-08-03T15:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952026063292572088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792945510976008192",
+          "start": 0,
+          "username": "QAQfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952026063292572088",
+    "in_reply_to_user_id": "1792945510976008192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951942889325433043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQfulan 羡慕了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1951942795134210048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxaxoV3bkAAkcQi.jpg",
+        "width": 1920
+      },
+      {
+        "duration_ms": 54981,
+        "height": 692,
+        "media_key": "7_1951942819968638976",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1951942819968638976/pu/img/kxGkh4kuXbjC2AaJ.jpg",
+        "public_metrics": {
+          "view_count": 432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951942819968638976/pu/vid/avc1/498x270/kU40n1UbckzawZZE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951942819968638976/pu/vid/avc1/664x360/-Hv3w8ZzoKKpFH3B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1951942819968638976/pu/vid/avc1/1280x692/4HKjH5W4S9AQP_r0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1951942819968638976/pu/pl/Zdhfmlfvyrq79RPi.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 768,
+        "media_key": "3_1951942820283273216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxaxpzjb0AA1Del.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1951942820891443201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxaxp10bwAE80Ww.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1951942889325433043",
+        "created_at": "2025-08-03T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952026063292572088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792945510976008192",
+              "start": 0,
+              "username": "QAQfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952026063292572088",
+        "in_reply_to_user_id": "1792945510976008192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951942889325433043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQfulan 羡慕了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951942795134210048",
+            "7_1951942819968638976",
+            "3_1951942820283273216",
+            "3_1951942820891443201"
+          ]
+        },
+        "author_id": "1792945510976008192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951942889325433043",
+        "created_at": "2025-08-03T09:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951942889325433043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U8g3atRr7c",
+              "end": 173,
+              "expanded_url": "https://x.com/QAQfulan/status/1951942889325433043/video/1",
+              "media_key": "3_1951942795134210048",
+              "start": 150,
+              "url": "https://t.co/U8g3atRr7c"
+            },
+            {
+              "display_url": "pic.x.com/U8g3atRr7c",
+              "end": 173,
+              "expanded_url": "https://x.com/QAQfulan/status/1951942889325433043/video/1",
+              "media_key": "7_1951942819968638976",
+              "start": 150,
+              "url": "https://t.co/U8g3atRr7c"
+            },
+            {
+              "display_url": "pic.x.com/U8g3atRr7c",
+              "end": 173,
+              "expanded_url": "https://x.com/QAQfulan/status/1951942889325433043/video/1",
+              "media_key": "3_1951942820283273216",
+              "start": 150,
+              "url": "https://t.co/U8g3atRr7c"
+            },
+            {
+              "display_url": "pic.x.com/U8g3atRr7c",
+              "end": 173,
+              "expanded_url": "https://x.com/QAQfulan/status/1951942889325433043/video/1",
+              "media_key": "3_1951942820891443201",
+              "start": 150,
+              "url": "https://t.co/U8g3atRr7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951942889325433043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1805,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "到陆家嘴就撒娇喊饿惹w\n班尼迪克🥚后进江景房\n大大漂亮超舒服^▽^\n小情侣缠绵共睡涩涩❤️共享浪漫西餐\n要我穿情趣内衣涩涩～口交让他爽飞❤️\n被窝睡觉时不时摸到他硬了～\n“那么欠操是吧👿看来今晚必须操你了”\n被狠狠操的神志不清只能淫叫好爽🥺\n一早模仿各种动漫姿势猛操\n还要咱忍耐不许发声～\n一滩污渍 https://t.co/U8g3atRr7c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1529,
+          "like_count": 47889,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5758
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:49:10.000Z",
+        "description": "梦想变成可爱漂亮的女孩子，尽力帮助一切善良的人，又涩又馋又受的家伙，受够痛苦，人心和生存和帮助重要人们的压力，尽量不用不正常状态打扰大家痛苦而不容易的生活，最讨厌说谎的家伙，希望大家都能感受到多一点真心qwq 可互fo ❗接线下❗门槛🚪40解锁脸涩涩等欢迎小可爱贴贴～\n转帖真实性不定请谨慎辨别",
+        "id": "1792945510976008192",
+        "name": "芙兰🍥",
+        "pinned_tweet_id": "1951942889325433043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793179933138948096/IgLUNsro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 377,
+          "like_count": 2143,
+          "listed_count": 31,
+          "media_count": 147,
+          "tweet_count": 2245
+        },
+        "username": "QAQfulan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1929218011354816919",
+    "created_at": "2025-06-01T16:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T17:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929220607633224029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883158410700746752",
+          "start": 0,
+          "username": "alienwuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929220607633224029",
+    "in_reply_to_user_id": "1883158410700746752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929218011354816919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alienwuwu 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1929218011354816919",
+        "created_at": "2025-06-01T16:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929220607633224029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883158410700746752",
+              "start": 0,
+              "username": "alienwuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929220607633224029",
+        "in_reply_to_user_id": "1883158410700746752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929218011354816919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alienwuwu 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883158410700746752",
+        "conversation_id": "1929218011354816919",
+        "created_at": "2025-06-01T16:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T17:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929218011354816919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929218011354816919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备睡觉惹，推友们晚安哦💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 966,
+          "like_count": 23016,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 3119
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:22:26.000Z",
+        "description": "说一些悄悄话+反思：@productivewuwu\nngl link (匿名信箱）: https://t.co/ggQNCRoZUo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "productivewuwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wsyzts",
+                "end": 66,
+                "expanded_url": "https://ngl.link/wsyzts",
+                "start": 43,
+                "url": "https://t.co/ggQNCRoZUo"
+              }
+            ]
+          }
+        },
+        "id": "1883158410700746752",
+        "location": "Moon",
+        "name": "呜呜",
+        "pinned_tweet_id": "1914306741074039164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912889755064532993/4mgitBN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 559,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1471
+        },
+        "username": "alienwuwu",
+        "verified": true
+      }
+    ]
+  }
+}

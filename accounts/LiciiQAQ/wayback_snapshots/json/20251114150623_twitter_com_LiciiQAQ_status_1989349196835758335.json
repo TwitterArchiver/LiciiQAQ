@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1989344872256692406",
+    "created_at": "2025-11-14T15:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989349196835758335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989349196835758335",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989344872256692406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai 抱抱…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1989344872256692406",
+        "created_at": "2025-11-14T15:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989349196835758335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989349196835758335",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989344872256692406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai 抱抱…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870078920621731842",
+        "conversation_id": "1989344872256692406",
+        "created_at": "2025-11-14T14:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989344872256692406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989344872256692406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "躯体化呕吐了。哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 2078,
+          "like_count": 86048,
+          "listed_count": 4,
+          "media_count": 373,
+          "tweet_count": 7597
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "Chinese | 男の娘 ♂ | 性別流動 | OD 斷藥中| 卒業Vtuber | 私はうつ病と不安障害を抱えてるの | 趣味東方Project | Cosplay、メイド服 王子系ロリータ服 天使界隈| DM ⭕ | 妹→ @Bronbangbangbon 🚪88 欢迎私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "Bronbangbangbon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/reisuimirai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/reisuimirai",
+                "start": 0,
+                "url": "https://t.co/LUSNj7zvsF"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "靈水未来",
+        "pinned_tweet_id": "1981371298355040505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983934052429393920/i5HjKjxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 414,
+          "like_count": 19640,
+          "listed_count": 9,
+          "media_count": 337,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/LUSNj7zvsF",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

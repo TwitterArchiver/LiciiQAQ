@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1933540192079786274",
+    "created_at": "2025-06-14T12:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T13:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933867626587161019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1923701260487958528",
+          "start": 0,
+          "username": "choco_synapse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933867626587161019",
+    "in_reply_to_user_id": "1923701260487958528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933862384487338212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@choco_synapse 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1933540192079786274",
+        "created_at": "2025-06-14T12:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933867626587161019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1923701260487958528",
+              "start": 0,
+              "username": "choco_synapse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933867626587161019",
+        "in_reply_to_user_id": "1923701260487958528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933862384487338212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@choco_synapse 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923701260487958528",
+        "conversation_id": "1933540192079786274",
+        "created_at": "2025-06-14T12:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933862384487338212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933862384487338212",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933540192079786274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 15116666166161161611616161611679"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1023,
+          "like_count": 27204,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 3483
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T11:25:03.000Z",
+        "description": "请救救我 我好幸福",
+        "id": "1923701260487958528",
+        "name": "落落晚🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1931735311362691179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930179439037755392/TBsgKPin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 125,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "choco_synapse",
+        "verified": false
+      }
+    ]
+  }
+}

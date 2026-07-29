@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1969050063977562520",
+    "created_at": "2025-09-19T15:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T16:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969056564611842289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760890372585037824",
+          "start": 0,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969056564611842289",
+    "in_reply_to_user_id": "1760890372585037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969050063977562520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puddings00 晚安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1969050063977562520",
+        "created_at": "2025-09-19T15:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969056564611842289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760890372585037824",
+              "start": 0,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969056564611842289",
+        "in_reply_to_user_id": "1760890372585037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969050063977562520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puddings00 晚安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760890372585037824",
+        "conversation_id": "1969050063977562520",
+        "created_at": "2025-09-19T14:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969050063977562520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969050063977562520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 1882,
+          "like_count": 65837,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 6889
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "🌈童话说雨后会有一道彩虹 我看见希望闪耀在虹之间/zh-CN&en-US/希望你可以喜欢我哦🍬/小只软妹🎀/变得越来越可爱啦🥰/158cm＆40kg/Lesbian🩷/infp-t/喜欢贴贴🌟/美食鉴赏家🤤/同频的小可爱欢迎互fo喵🐢♥️/里推:@puddings0_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "puddings0_0"
+              }
+            ]
+          }
+        },
+        "id": "1760890372585037824",
+        "location": "In your heart♥️",
+        "name": "†布丁喵呜🍮†",
+        "pinned_tweet_id": "1948409462303117785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964270189869961216/_7wYoKWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3699,
+          "following_count": 585,
+          "like_count": 9533,
+          "listed_count": 7,
+          "media_count": 802,
+          "tweet_count": 5841
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

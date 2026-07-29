@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1924262309884842227",
+    "created_at": "2025-05-19T00:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T01:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924262309884842227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LiciiQAQ/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/LiciiQAQ/status/1924131035899670600",
+          "start": 26,
+          "url": "https://t.co/hU9xJLt7yU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924262309884842227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924131035899670600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "布豪，马上要上课了好像药效还没结束，头有些晕晕嘟😧 https://t.co/hU9xJLt7yU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924131031818362880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPi-pzW4AAApI0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1924131030258077696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPi-j_W0AAGRmz.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1924262309884842227",
+        "created_at": "2025-05-19T00:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T01:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924262309884842227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1924131035899670600",
+              "start": 26,
+              "url": "https://t.co/hU9xJLt7yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924262309884842227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924131035899670600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "布豪，马上要上课了好像药效还没结束，头有些晕晕嘟😧 https://t.co/hU9xJLt7yU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924131031818362880",
+            "3_1924131030258077696"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1924131035899670600",
+        "created_at": "2025-05-18T15:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924131035899670600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cGnJ3eqeE",
+              "end": 35,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1924131035899670600/photo/1",
+              "media_key": "3_1924131031818362880",
+              "start": 12,
+              "url": "https://t.co/7cGnJ3eqeE"
+            },
+            {
+              "display_url": "pic.x.com/7cGnJ3eqeE",
+              "end": 35,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1924131035899670600/photo/1",
+              "media_key": "3_1924131030258077696",
+              "start": 12,
+              "url": "https://t.co/7cGnJ3eqeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924131035899670600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逝逝2t pr80（） https://t.co/7cGnJ3eqeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 851,
+          "like_count": 16954,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 2452
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

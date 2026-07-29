@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1972303147805892697",
+    "created_at": "2025-09-28T18:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T19:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972361563417022733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Distorted_ming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972361563417022733",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972303147805892697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Distorted_ming 抄抄泥的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1972303147805892697",
+        "created_at": "2025-09-28T18:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T19:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972361563417022733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Distorted_ming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972361563417022733",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972303147805892697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Distorted_ming 抄抄泥的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "1972303147805892697",
+        "created_at": "2025-09-28T14:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972303147805892697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972303147805892697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1742,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "物理小考 班上一大半都想抄我（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1952,
+          "like_count": 68247,
+          "listed_count": 5,
+          "media_count": 334,
+          "tweet_count": 7032
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "最爱千世了💙💙💙/喜欢听HDM/TANO*C👊👊👊/Kobaryo爽💜💜💜/音游人/技术相关/老公 @horizon_tem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 50,
+                "username": "horizon_tem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1244050722",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1244050722",
+                "start": 0,
+                "url": "https://t.co/TmZUNOzZUs"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "在你附近",
+        "name": "拧巴的命",
+        "pinned_tweet_id": "1972089445404103176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 624,
+          "like_count": 3764,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/TmZUNOzZUs",
+        "username": "Distorted_ming",
+        "verified": false
+      }
+    ]
+  }
+}

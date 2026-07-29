@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940298143104659806",
+    "created_at": "2025-07-02T07:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T08:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940310411661988231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1582420236329840642",
+          "start": 0,
+          "username": "Coldtea2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940310411661988231",
+    "in_reply_to_user_id": "1582420236329840642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940298143104659806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coldtea2025 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940298127254163456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1S3dlXEAACAE1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1940298143104659806",
+        "created_at": "2025-07-02T07:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T08:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940310411661988231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1582420236329840642",
+              "start": 0,
+              "username": "Coldtea2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940310411661988231",
+        "in_reply_to_user_id": "1582420236329840642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940298143104659806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coldtea2025 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940298127254163456"
+          ]
+        },
+        "author_id": "1582420236329840642",
+        "conversation_id": "1940298143104659806",
+        "created_at": "2025-07-02T06:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940298143104659806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo1iUrPIEy",
+              "end": 30,
+              "expanded_url": "https://x.com/Coldtea2025/status/1940298143104659806/photo/1",
+              "media_key": "3_1940298127254163456",
+              "start": 7,
+              "url": "https://t.co/Zo1iUrPIEy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940298143104659806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐 https://t.co/Zo1iUrPIEy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 1226,
+          "like_count": 35718,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 4246
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-18T17:16:15.000Z",
+        "description": "《退药坑🍥🏳️‍⚧️》90后老古董已从良/身高181cm 体重60kg 🤪在现实的泥潭里疯狂挣扎🫠/愿意倾听，善于理解🤗/欢迎互fo🥳/最爱的老婆酱@HFLMTF🤬/三流影视工业末梢人事🎥/摄影剪辑📸/短视频运营📺/玩车一族（赛道）🏎/业余胶佬💸/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "HFLMTF"
+              }
+            ]
+          }
+        },
+        "id": "1582420236329840642",
+        "location": "海浮林的被窝里❤️",
+        "name": "Coldtea",
+        "pinned_tweet_id": "1909294139008860194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076126364794880/2NOOuDNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 541,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1523
+        },
+        "username": "Coldtea2025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1898710006582898718",
+    "created_at": "2025-03-10T13:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T14:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899090348837945442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3223080709",
+          "start": 0,
+          "username": "maid___m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899090348837945442",
+    "in_reply_to_user_id": "3223080709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899078707328790727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maid___m 不过师傅貌似不分性别🤔（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1898710006582898718",
+        "created_at": "2025-03-10T13:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T14:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899090348837945442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3223080709",
+              "start": 0,
+              "username": "maid___m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899090348837945442",
+        "in_reply_to_user_id": "3223080709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899078707328790727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maid___m 不过师傅貌似不分性别🤔（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3223080709",
+        "conversation_id": "1898710006582898718",
+        "created_at": "2025-03-10T12:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899078707328790727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899078707328790727",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898710006582898718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 我今天散步被叫师傅了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 345,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 248
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "我叫妹抖  想交很多的朋友  社交不敢踏出第一步  180cm 59kg  正在在减肥  是笨蛋(坐地铁经常撞到头) 不知道怎么写简介",
+        "id": "3223080709",
+        "location": "武汉",
+        "name": "aimaid",
+        "pinned_tweet_id": "1898903289191878937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639892472406106115/t0dEmudD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 155
+        },
+        "username": "maid___m",
+        "verified": false
+      }
+    ]
+  }
+}

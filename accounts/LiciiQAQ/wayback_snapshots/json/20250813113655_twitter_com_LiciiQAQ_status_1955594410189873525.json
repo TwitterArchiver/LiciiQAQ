@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1955594410189873525",
+    "created_at": "2025-08-13T11:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955594410189873525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918295029757759488",
+          "start": 3,
+          "username": "ffzzovo"
+        },
+        {
+          "end": 24,
+          "id": "1695649420539219968",
+          "start": 15,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955594410189873525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955591536823189955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffzzovo: 是从@liciiqaq买的凝胶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1955594410189873525",
+        "created_at": "2025-08-13T11:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955594410189873525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918295029757759488",
+              "start": 3,
+              "username": "ffzzovo"
+            },
+            {
+              "end": 24,
+              "id": "1695649420539219968",
+              "start": 15,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955594410189873525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955591536823189955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffzzovo: 是从@liciiqaq买的凝胶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918295029757759488",
+        "conversation_id": "1955591536823189955",
+        "created_at": "2025-08-13T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955591536823189955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695649420539219968",
+              "start": 2,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ffzzovo/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ffzzovo/status/1955591137529606377",
+              "start": 16,
+              "url": "https://t.co/ojN77FFlCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955591536823189955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955591137529606377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是从@liciiqaq买的凝胶 https://t.co/ojN77FFlCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 1615,
+          "like_count": 51940,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 6108
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T13:22:41.000Z",
+        "description": "2010.11.10🍰 | \n183/57🌳 | \nShanghai📍| \n2025.5.8🍥 | \nMtX❤️ | \n使命召唤🤜 phigros👆👆 |\nfo窝的人都变美/变帅/变可爱",
+        "id": "1918295029757759488",
+        "location": "中国上海",
+        "name": "ffzz🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954933271055486976/QIuiQ5DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 442,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 244
+        },
+        "username": "ffzzovo",
+        "verified": false
+      }
+    ]
+  }
+}

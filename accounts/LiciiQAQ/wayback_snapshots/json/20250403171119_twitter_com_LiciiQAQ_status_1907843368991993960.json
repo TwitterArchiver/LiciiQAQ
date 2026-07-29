@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1907567341212414202",
+    "created_at": "2025-04-03T17:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T18:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907843368991993960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818920358403256320",
+          "start": 0,
+          "username": "xuanyu20240316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907843368991993960",
+    "in_reply_to_user_id": "1818920358403256320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907567341212414202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuanyu20240316 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1907567338561613824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnkKY0AaMAAhk9K.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1907567341212414202",
+        "created_at": "2025-04-03T17:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907843368991993960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818920358403256320",
+              "start": 0,
+              "username": "xuanyu20240316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907843368991993960",
+        "in_reply_to_user_id": "1818920358403256320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907567341212414202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuanyu20240316 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907567338561613824"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1907567341212414202",
+        "created_at": "2025-04-02T22:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T23:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907567341212414202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1906251370073927680/R8ipQ7fc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/y8aFNRVEkp"
+            },
+            {
+              "display_url": "pic.x.com/B85CH0Xy9o",
+              "end": 64,
+              "expanded_url": "https://x.com/xuanyu20240316/status/1907567341212414202/photo/1",
+              "media_key": "3_1907567338561613824",
+              "start": 41,
+              "url": "https://t.co/B85CH0Xy9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907567341212414202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1082,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/y8aFNRVEkp https://t.co/B85CH0Xy9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 502,
+          "like_count": 5681,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 779
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "重庆",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1906717866109419928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 2000,
+          "like_count": 8737,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913480625581117440"
+      ],
+      "media_source_tweet_id": [
+        "1913480633793593795"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1913871463452688692",
+    "created_at": "2025-04-20T08:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T09:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913871463452688692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1718355162467885056",
+          "start": 3,
+          "username": "kurocatftm"
+        },
+        {
+          "end": 24,
+          "id": "1025546987578556417",
+          "start": 16,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ac9WKFqacJ",
+          "end": 48,
+          "expanded_url": "https://x.com/kurocatftm/status/1913480633793593795/photo/1",
+          "media_key": "3_1913480625581117440",
+          "start": 25,
+          "url": "https://t.co/Ac9WKFqacJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913871463452688692",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913480633793593795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurocatftm: @FTMiaoX https://t.co/Ac9WKFqacJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_1913480625581117440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go4Mfaxa0AAzc86.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913480625581117440"
+          ],
+          "media_source_tweet_id": [
+            "1913480633793593795"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1913871463452688692",
+        "created_at": "2025-04-20T08:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T09:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913871463452688692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1718355162467885056",
+              "start": 3,
+              "username": "kurocatftm"
+            },
+            {
+              "end": 24,
+              "id": "1025546987578556417",
+              "start": 16,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ac9WKFqacJ",
+              "end": 48,
+              "expanded_url": "https://x.com/kurocatftm/status/1913480633793593795/photo/1",
+              "media_key": "3_1913480625581117440",
+              "start": 25,
+              "url": "https://t.co/Ac9WKFqacJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913871463452688692",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913480633793593795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurocatftm: @FTMiaoX https://t.co/Ac9WKFqacJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913480625581117440"
+          ]
+        },
+        "author_id": "1718355162467885056",
+        "conversation_id": "1913474691789889888",
+        "created_at": "2025-04-19T06:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T07:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913480633793593795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1025546987578556417",
+              "start": 0,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ac9WKFqacJ",
+              "end": 32,
+              "expanded_url": "https://x.com/kurocatftm/status/1913480633793593795/photo/1",
+              "media_key": "3_1913480625581117440",
+              "start": 9,
+              "url": "https://t.co/Ac9WKFqacJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913480633793593795",
+        "in_reply_to_user_id": "1025546987578556417",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9053,
+          "like_count": 400,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913474691789889888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FTMiaoX https://t.co/Ac9WKFqacJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 645,
+          "like_count": 9178,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1286
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T19:53:01.000Z",
+        "description": "友顺跨男",
+        "id": "1718355162467885056",
+        "location": "距您0.6公里，大约需要1小时20分钟",
+        "name": "🌈 KuroCat🏳️‍⚧️",
+        "pinned_tweet_id": "1804873967360217233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797109728113561600/uEUV3gAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 559,
+          "like_count": 2658,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 852
+        },
+        "username": "kurocatftm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 132,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6499,
+          "following_count": 3138,
+          "like_count": 157713,
+          "listed_count": 17,
+          "media_count": 2602,
+          "tweet_count": 26333
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

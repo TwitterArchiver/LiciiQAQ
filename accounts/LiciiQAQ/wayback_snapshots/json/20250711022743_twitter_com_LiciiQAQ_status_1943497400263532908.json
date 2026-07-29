@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943352489207828482"
+      ],
+      "media_source_tweet_id": [
+        "1943352493926428952"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1943497400263532908",
+    "created_at": "2025-07-11T02:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T03:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943497400263532908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804154448215969795",
+          "start": 3,
+          "username": "bushi_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgffyNpveb",
+          "end": 39,
+          "expanded_url": "https://x.com/bushi_8964/status/1943352493926428952/photo/1",
+          "media_key": "3_1943352489207828482",
+          "start": 16,
+          "url": "https://t.co/hgffyNpveb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943497400263532908",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943352493926428952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_8964: https://t.co/hgffyNpveb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_1943352489207828482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgsyuiakAItAZB.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943352489207828482"
+          ],
+          "media_source_tweet_id": [
+            "1943352493926428952"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1943497400263532908",
+        "created_at": "2025-07-11T02:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T03:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943497400263532908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804154448215969795",
+              "start": 3,
+              "username": "bushi_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgffyNpveb",
+              "end": 39,
+              "expanded_url": "https://x.com/bushi_8964/status/1943352493926428952/photo/1",
+              "media_key": "3_1943352489207828482",
+              "start": 16,
+              "url": "https://t.co/hgffyNpveb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943497400263532908",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943352493926428952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_8964: https://t.co/hgffyNpveb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943352489207828482"
+          ]
+        },
+        "author_id": "1804154448215969795",
+        "conversation_id": "1943352493926428952",
+        "created_at": "2025-07-10T16:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943352493926428952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgffyNpveb",
+              "end": 23,
+              "expanded_url": "https://x.com/bushi_8964/status/1943352493926428952/photo/1",
+              "media_key": "3_1943352489207828482",
+              "start": 0,
+              "url": "https://t.co/hgffyNpveb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943352493926428952",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hgffyNpveb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1312,
+          "like_count": 38958,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 4627
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜坐标天津｜喜欢推油们😘｜淡推ing｜成分复杂｜mtf/x｜最爱的@Benji_Dune｜好姐妹 @Moningmeng｜好朋友@mizuki_bot ｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Benji_Dune"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵⛩️ (贴贴bot)",
+        "pinned_tweet_id": "1941796462419206388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942494297535692801/PQlihxX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 1017,
+          "like_count": 5888,
+          "listed_count": 2,
+          "media_count": 244,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": false
+      }
+    ]
+  }
+}

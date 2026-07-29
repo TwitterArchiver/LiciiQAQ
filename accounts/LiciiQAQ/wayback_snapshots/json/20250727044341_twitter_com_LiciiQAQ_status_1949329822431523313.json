@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948992761073451008"
+      ],
+      "media_source_tweet_id": [
+        "1948992765846593662"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1949329822431523313",
+    "created_at": "2025-07-27T04:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T05:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949329822431523313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778600109154172928",
+          "start": 3,
+          "username": "KMS_PzEUGIN_III"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zNmJeOGryX",
+          "end": 47,
+          "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/1948992765846593662/photo/1",
+          "media_key": "3_1948992761073451008",
+          "start": 24,
+          "url": "https://t.co/zNmJeOGryX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949329822431523313",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948992765846593662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KMS_PzEUGIN_III: 🤓👆 https://t.co/zNmJeOGryX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_1948992761073451008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gww2lwmXQAA8dD4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948992761073451008"
+          ],
+          "media_source_tweet_id": [
+            "1948992765846593662"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1949329822431523313",
+        "created_at": "2025-07-27T04:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949329822431523313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778600109154172928",
+              "start": 3,
+              "username": "KMS_PzEUGIN_III"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNmJeOGryX",
+              "end": 47,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/1948992765846593662/photo/1",
+              "media_key": "3_1948992761073451008",
+              "start": 24,
+              "url": "https://t.co/zNmJeOGryX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949329822431523313",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948992765846593662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KMS_PzEUGIN_III: 🤓👆 https://t.co/zNmJeOGryX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948992761073451008"
+          ]
+        },
+        "author_id": "1778600109154172928",
+        "conversation_id": "1948992765846593662",
+        "created_at": "2025-07-26T06:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948992765846593662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNmJeOGryX",
+              "end": 26,
+              "expanded_url": "https://x.com/KMS_PzEUGIN_III/status/1948992765846593662/photo/1",
+              "media_key": "3_1948992761073451008",
+              "start": 3,
+              "url": "https://t.co/zNmJeOGryX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948992765846593662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5313,
+          "like_count": 129,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🤓👆 https://t.co/zNmJeOGryX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 1458,
+          "like_count": 45898,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 5450
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "死人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "1943389207017275820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 1681,
+          "like_count": 13068,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 4962
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      }
+    ]
+  }
+}

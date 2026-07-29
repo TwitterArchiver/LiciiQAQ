@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1907338867566641482",
+    "created_at": "2025-04-02T17:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907492727362826667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594961815963738114",
+          "start": 0,
+          "username": "AlivicEbey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907492727362826667",
+    "in_reply_to_user_id": "1594961815963738114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907338867566641482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlivicEbey 想吃紫蛋了是吧👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25820,
+        "height": 854,
+        "media_key": "7_1907338804857589760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907338804857589760/pu/img/SauyRvv7H0nC5op0.jpg",
+        "public_metrics": {
+          "view_count": 386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907338804857589760/pu/vid/avc1/320x568/r6DoPO71mCpe4Cxw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907338804857589760/pu/vid/avc1/480x854/U9eKE91y_Hoqq2MH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907338804857589760/pu/pl/SljbCxklOnMu3hJ5.m3u8?tag=12"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1907338867566641482",
+        "created_at": "2025-04-02T17:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907492727362826667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594961815963738114",
+              "start": 0,
+              "username": "AlivicEbey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907492727362826667",
+        "in_reply_to_user_id": "1594961815963738114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907338867566641482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlivicEbey 想吃紫蛋了是吧👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907338804857589760"
+          ]
+        },
+        "author_id": "1594961815963738114",
+        "conversation_id": "1907338867566641482",
+        "created_at": "2025-04-02T07:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T08:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907338867566641482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9y6nzvAdz6",
+              "end": 30,
+              "expanded_url": "https://x.com/AlivicEbey/status/1907338867566641482/video/1",
+              "media_key": "7_1907338804857589760",
+              "start": 7,
+              "url": "https://t.co/9y6nzvAdz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907338867566641482",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1057,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😍😍😍🥵🥵🥵 https://t.co/9y6nzvAdz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 493,
+          "like_count": 5503,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 767
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T07:51:53.000Z",
+        "description": "普通大学生一个",
+        "id": "1594961815963738114",
+        "location": "距你0km",
+        "name": "玖隗👊🚚🔥（AAA大运重卡国道玖师傅）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903359210399879168/Xkyhvy49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 359,
+          "like_count": 23091,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 3829
+        },
+        "username": "AlivicEbey",
+        "verified": false
+      }
+    ]
+  }
+}

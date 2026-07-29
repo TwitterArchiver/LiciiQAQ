@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896934690306818049"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1896934693372846589",
+    "created_at": "2025-03-04T14:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T15:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896934693372846589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqXB6KASmu",
+          "end": 54,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1896934693372846589/photo/1",
+          "media_key": "3_1896934690306818049",
+          "start": 31,
+          "url": "https://t.co/AqXB6KASmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896934693372846589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.5w，流量最高的一集（）\n…不过咱别的推文流量是真惨淡😭 https://t.co/AqXB6KASmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896934690306818049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNEDOnagAEsI7n.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896934690306818049"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1896934693372846589",
+        "created_at": "2025-03-04T14:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896934693372846589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqXB6KASmu",
+              "end": 54,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1896934693372846589/photo/1",
+              "media_key": "3_1896934690306818049",
+              "start": 31,
+              "url": "https://t.co/AqXB6KASmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896934693372846589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.5w，流量最高的一集（）\n…不过咱别的推文流量是真惨淡😭 https://t.co/AqXB6KASmu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 83,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 96
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

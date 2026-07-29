@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905596556616814592"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1905596569916678481",
+    "created_at": "2025-03-28T12:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T13:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905596569916678481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7UdczXaVA",
+          "end": 34,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1905596569916678481/photo/1",
+          "media_key": "3_1905596556616814592",
+          "start": 11,
+          "url": "https://t.co/z7UdczXaVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905596569916678481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉…真是这样就好了🥹 https://t.co/z7UdczXaVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "初中毕业自评评语草稿的一部分",
+        "height": 220,
+        "media_key": "3_1905596556616814592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnIJ-NJaUAA5srC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905596556616814592"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1905596569916678481",
+        "created_at": "2025-03-28T12:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T13:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905596569916678481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7UdczXaVA",
+              "end": 34,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1905596569916678481/photo/1",
+              "media_key": "3_1905596556616814592",
+              "start": 11,
+              "url": "https://t.co/z7UdczXaVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905596569916678481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉…真是这样就好了🥹 https://t.co/z7UdczXaVA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 477,
+          "like_count": 4240,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 656
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

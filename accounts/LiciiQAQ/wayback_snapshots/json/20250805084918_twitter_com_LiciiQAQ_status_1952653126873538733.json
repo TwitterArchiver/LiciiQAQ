@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952344122129547264"
+      ],
+      "media_source_tweet_id": [
+        "1952344125837312431"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1952653126873538733",
+    "created_at": "2025-08-05T08:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952653126873538733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750804799031824384",
+          "start": 3,
+          "username": "lizi5202"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lWsJFUGePS",
+          "end": 41,
+          "expanded_url": "https://x.com/lizi5202/status/1952344125837312431/photo/1",
+          "media_key": "3_1952344122129547264",
+          "start": 18,
+          "url": "https://t.co/lWsJFUGePS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952653126873538733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952344125837312431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lizi5202: 何意味 https://t.co/lWsJFUGePS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1952344122129547264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgeopbagAAYj0V.jpg",
+        "width": 2133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952344122129547264"
+          ],
+          "media_source_tweet_id": [
+            "1952344125837312431"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952653126873538733",
+        "created_at": "2025-08-05T08:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952653126873538733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750804799031824384",
+              "start": 3,
+              "username": "lizi5202"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWsJFUGePS",
+              "end": 41,
+              "expanded_url": "https://x.com/lizi5202/status/1952344125837312431/photo/1",
+              "media_key": "3_1952344122129547264",
+              "start": 18,
+              "url": "https://t.co/lWsJFUGePS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952653126873538733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952344125837312431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lizi5202: 何意味 https://t.co/lWsJFUGePS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952344122129547264"
+          ]
+        },
+        "author_id": "1750804799031824384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952344125837312431",
+        "created_at": "2025-08-04T12:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952344125837312431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWsJFUGePS",
+              "end": 27,
+              "expanded_url": "https://x.com/lizi5202/status/1952344125837312431/photo/1",
+              "media_key": "3_1952344122129547264",
+              "start": 4,
+              "url": "https://t.co/lWsJFUGePS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952344125837312431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 206965,
+          "like_count": 2554,
+          "quote_count": 11,
+          "reply_count": 55,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/lWsJFUGePS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1530,
+          "like_count": 48317,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5817
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "枫糖小漓莫",
+        "pinned_tweet_id": "1941489600012448048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1496,
+          "following_count": 1388,
+          "like_count": 15135,
+          "listed_count": 3,
+          "media_count": 558,
+          "tweet_count": 6205
+        },
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

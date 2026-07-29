@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2048879901709934747",
+    "created_at": "2026-04-27T21:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T22:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048879901709934747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929416262989557760",
+          "start": 3,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048879901709934747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048800416985759946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @maoxian1527: 给大家翻墙的技巧，绝对容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048879901709934747",
+        "created_at": "2026-04-27T21:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T22:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048879901709934747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929416262989557760",
+              "start": 3,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048879901709934747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048800416985759946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @maoxian1527: 给大家翻墙的技巧，绝对容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048800416985759946",
+        "created_at": "2026-04-27T16:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048800416985759946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/airdropalchemi…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/airdropalchemis/status/2048607223308562795",
+              "start": 159,
+              "url": "https://t.co/y8MSRtXrpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800416985759946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "给大家翻墙的技巧，绝对容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码\n6️⃣在推特上大放厥词，关注建政博主\n7️⃣一定要在小县城翻，别去大城市里\n\n完成后你再也不用不怕被叫喝茶了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048607223308562795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "给大家翻墙的技巧，绝对容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码\n6️⃣在推特上大放厥词，关注建政博主\n7️⃣一定要在小县城翻，别去大城市里 https://t.co/y8MSRtXrpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 2206,
+          "like_count": 119762,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 8297
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 | kitty live system | 碎碎念 | 🏳️‍⚧️友好 | 看心情互fo | 防走丢@maoxiansql | 诡秘@zqtlovekris99 | 白虚@Acmduemsks | 姐姐@OuO_QwQg | 狗狗@Meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "maoxiansql"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "Acmduemsks"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "Meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "距离你5.2km",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2047637386344243337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046150580238946304/KuhEOFBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 268,
+          "like_count": 3810,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": true
+      }
+    ]
+  }
+}

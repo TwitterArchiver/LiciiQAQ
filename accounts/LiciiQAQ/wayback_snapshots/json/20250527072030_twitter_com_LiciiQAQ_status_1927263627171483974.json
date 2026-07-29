@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1927263627171483974",
+    "created_at": "2025-05-27T07:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927263627171483974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jinsenala/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/jinsenala/status/1927231585209749670",
+          "start": 23,
+          "url": "https://t.co/evph94lqIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927263627171483974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927231585209749670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马上端午节了，我要被五彩绳绑成粽子，我要艾草 https://t.co/evph94lqIp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1927263627171483974",
+        "created_at": "2025-05-27T07:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T08:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927263627171483974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinsenala/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/jinsenala/status/1927231585209749670",
+              "start": 23,
+              "url": "https://t.co/evph94lqIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927263627171483974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927231585209749670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马上端午节了，我要被五彩绳绑成粽子，我要艾草 https://t.co/evph94lqIp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620322708994068481",
+        "conversation_id": "1927231585209749670",
+        "created_at": "2025-05-27T05:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T06:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927231585209749670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927231585209749670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "马上端午节了，我要被五彩绳绑成粽子，我要艾草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 904,
+          "like_count": 20003,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 2816
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷｜\n对那菈最好最好超级好的姐姐！@Puddingbs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Puddingbs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1911884117454819689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 561,
+          "like_count": 1953,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

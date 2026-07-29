@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953133562984841217"
+      ],
+      "media_source_tweet_id": [
+        "1953133596920664222"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1953152260424516018",
+    "created_at": "2025-08-06T17:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T18:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953152260424516018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xWUdZ9D7Y",
+          "end": 47,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1953133596920664222/photo/1",
+          "media_key": "3_1953133562984841217",
+          "start": 24,
+          "url": "https://t.co/1xWUdZ9D7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953152260424516018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953133596920664222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 还真是 https://t.co/1xWUdZ9D7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 295,
+        "media_key": "3_1953133562984841217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrsoJyawAEQjeL.png",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953133562984841217"
+          ],
+          "media_source_tweet_id": [
+            "1953133596920664222"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1953152260424516018",
+        "created_at": "2025-08-06T17:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953152260424516018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xWUdZ9D7Y",
+              "end": 47,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1953133596920664222/photo/1",
+              "media_key": "3_1953133562984841217",
+              "start": 24,
+              "url": "https://t.co/1xWUdZ9D7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953152260424516018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953133596920664222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 还真是 https://t.co/1xWUdZ9D7Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953133562984841217"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1953133596920664222",
+        "created_at": "2025-08-06T16:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953133596920664222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xWUdZ9D7Y",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1953133596920664222/photo/1",
+              "media_key": "3_1953133562984841217",
+              "start": 4,
+              "url": "https://t.co/1xWUdZ9D7Y"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1953133596920664222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 590,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/1xWUdZ9D7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1532,
+          "like_count": 49064,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5863
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5088,
+          "following_count": 5331,
+          "like_count": 18712,
+          "listed_count": 8,
+          "media_count": 3485,
+          "tweet_count": 26677
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

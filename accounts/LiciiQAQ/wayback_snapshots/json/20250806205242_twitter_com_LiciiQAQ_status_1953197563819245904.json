@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952580824915693568"
+      ],
+      "media_source_tweet_id": [
+        "1952580828241776978"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1953197563819245904",
+    "created_at": "2025-08-06T20:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T21:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953197563819245904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "25950119",
+          "start": 3,
+          "username": "not_2b_or_2b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kW9IM5m2L5",
+          "end": 46,
+          "expanded_url": "https://x.com/not_2b_or_2b/status/1952580828241776978/photo/1",
+          "media_key": "3_1952580824915693568",
+          "start": 23,
+          "url": "https://t.co/kW9IM5m2L5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953197563819245904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952580828241776978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @not_2b_or_2b: 很形象😂 https://t.co/kW9IM5m2L5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_1952580824915693568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxj16kBW0AAsegZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952580824915693568"
+          ],
+          "media_source_tweet_id": [
+            "1952580828241776978"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1953197563819245904",
+        "created_at": "2025-08-06T20:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T21:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953197563819245904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "25950119",
+              "start": 3,
+              "username": "not_2b_or_2b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kW9IM5m2L5",
+              "end": 46,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1952580828241776978/photo/1",
+              "media_key": "3_1952580824915693568",
+              "start": 23,
+              "url": "https://t.co/kW9IM5m2L5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953197563819245904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952580828241776978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @not_2b_or_2b: 很形象😂 https://t.co/kW9IM5m2L5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952580824915693568"
+          ]
+        },
+        "author_id": "25950119",
+        "conversation_id": "1952580828241776978",
+        "created_at": "2025-08-05T04:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952580828241776978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kW9IM5m2L5",
+              "end": 28,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1952580828241776978/photo/1",
+              "media_key": "3_1952580824915693568",
+              "start": 5,
+              "url": "https://t.co/kW9IM5m2L5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952580828241776978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 387966,
+          "like_count": 3130,
+          "quote_count": 25,
+          "reply_count": 139,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "很形象😂 https://t.co/kW9IM5m2L5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1532,
+          "like_count": 49129,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5866
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37742,
+          "following_count": 178,
+          "like_count": 119,
+          "listed_count": 221,
+          "media_count": 7293,
+          "tweet_count": 12029
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

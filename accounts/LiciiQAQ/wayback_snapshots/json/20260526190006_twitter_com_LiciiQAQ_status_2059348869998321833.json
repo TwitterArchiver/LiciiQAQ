@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2059348869998321833",
+    "created_at": "2026-05-26T19:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059348869998321833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1840008766135103488",
+          "start": 3,
+          "username": "nande198900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059348869998321833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059188264125317527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nande198900: 泰国真的很危险的。我有一个网友，他五一假期去泰国旅游，结果身上被开了一个大洞还被活摘了器官。好在人没有大碍，刚刚回国。\n祝愿她余生幸福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2059348869998321833",
+        "created_at": "2026-05-26T19:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059348869998321833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1840008766135103488",
+              "start": 3,
+              "username": "nande198900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059348869998321833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188264125317527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nande198900: 泰国真的很危险的。我有一个网友，他五一假期去泰国旅游，结果身上被开了一个大洞还被活摘了器官。好在人没有大碍，刚刚回国。\n祝愿她余生幸福。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840008766135103488",
+        "conversation_id": "2059188264125317527",
+        "created_at": "2026-05-26T08:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059188264125317527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059188264125317527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 32833,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "泰国真的很危险的。我有一个网友，他五一假期去泰国旅游，结果身上被开了一个大洞还被活摘了器官。好在人没有大碍，刚刚回国。\n祝愿她余生幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@eledaylily，姐姐：@Grinin_mark @kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "eledaylily"
+              },
+              {
+                "end": 81,
+                "start": 69,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 2194,
+          "like_count": 121638,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 8328
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T12:41:00.000Z",
+        "description": "🍊- 蓝v互关必回 - He/him Femboy/boy. 🤍RT 4 RT - 男娘捏- 🇨🇳🇨🇭",
+        "id": "1840008766135103488",
+        "name": "某人的第五个号",
+        "pinned_tweet_id": "2053170473484370330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022830944953212929/1PF9XsE2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24895,
+          "following_count": 3759,
+          "like_count": 8947,
+          "listed_count": 104,
+          "media_count": 1582,
+          "tweet_count": 21277
+        },
+        "username": "nande198900",
+        "verified": true
+      }
+    ]
+  }
+}

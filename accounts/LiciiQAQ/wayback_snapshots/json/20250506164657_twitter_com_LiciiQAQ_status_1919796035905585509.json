@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919794257390383431",
+    "created_at": "2025-05-06T16:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T17:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919796035905585509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1553557029121576960",
+          "start": 0,
+          "username": "kuukichan0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919796035905585509",
+    "in_reply_to_user_id": "1553557029121576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919794257390383431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukichan0327 可能我经常熬夜会高血压，然后螺有压回去了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919794257390383431",
+        "created_at": "2025-05-06T16:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919796035905585509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1553557029121576960",
+              "start": 0,
+              "username": "kuukichan0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919796035905585509",
+        "in_reply_to_user_id": "1553557029121576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919794257390383431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukichan0327 可能我经常熬夜会高血压，然后螺有压回去了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553557029121576960",
+        "conversation_id": "1919794257390383431",
+        "created_at": "2025-05-06T16:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T17:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919794257390383431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1919417124621316581",
+              "start": 19,
+              "url": "https://t.co/PBOqPL5Xl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919794257390383431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919417124621316581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃螺那几个月我感觉我走路都快走不了了 https://t.co/PBOqPL5Xl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 758,
+          "like_count": 13393,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1998
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T01:44:21.000Z",
+        "description": "09 | enby (HRT since 2023.5.30) | 英文会说 日文N2 | 会作编曲、混音后制 | 新工作号 @1000enchoudai | 算是半个交通迷 | 喜欢精神病和Vocaloid | 有主人 @ShaDow_0528",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 63,
+                "username": "1000enchoudai"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "ShaDow_0528"
+              }
+            ]
+          }
+        },
+        "id": "1553557029121576960",
+        "location": "羽久樺神宮",
+        "name": "空気醬🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853497382199304193/raQjHJtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 740,
+          "like_count": 8104,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 2239
+        },
+        "username": "kuukichan0327",
+        "verified": false
+      }
+    ]
+  }
+}

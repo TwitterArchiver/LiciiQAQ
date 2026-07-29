@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1951994634374381654",
+    "created_at": "2025-08-03T15:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952023803472859642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1867244970853466112",
+          "start": 0,
+          "username": "hyc945"
+        },
+        {
+          "end": 18,
+          "id": "1924965014831824896",
+          "start": 8,
+          "username": "Tang_1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952023803472859642",
+    "in_reply_to_user_id": "1867244970853466112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951994634374381654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyc945 @Tang_1019 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1951994634374381654",
+        "created_at": "2025-08-03T15:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952023803472859642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1867244970853466112",
+              "start": 0,
+              "username": "hyc945"
+            },
+            {
+              "end": 18,
+              "id": "1924965014831824896",
+              "start": 8,
+              "username": "Tang_1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952023803472859642",
+        "in_reply_to_user_id": "1867244970853466112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951994634374381654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyc945 @Tang_1019 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867244970853466112",
+        "conversation_id": "1951994634374381654",
+        "created_at": "2025-08-03T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951994634374381654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1924965014831824896",
+              "start": 72,
+              "username": "Tang_1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951994634374381654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骗子全是骗子，凭什么让我信你，凭24小时不到就分手，然后说你被调好爽然后要和他谈对象了你让我怎么信你？我问你，小布我现在都不信了你让我怎么信你，@Tang_1019"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1529,
+          "like_count": 47885,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5757
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "年龄17/身高178/体重124/社恐/孤独阴暗b/不擅长交流/主人 \n@Tang_1019/qq3997247387需要买凝胶，请加这个，是小号，可能有点新qq群305549628",
+        "id": "1867244970853466112",
+        "name": "怀愚痴🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1912073014117798032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949557459997323265/YWQSRJXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 42,
+          "like_count": 9,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 148
+        },
+        "username": "hyc945",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "19th.10.2009 Made in PRC/14岁\n我爱大家\n交朋友🚪无，但是考验人品道德三观\n里推:@familyGZTY\n反跨，不接线下\n超偶尔发黄，一般是日常和碎碎念\n对了，也特别喜欢\n老婆是 @zhishi_cook\n狗子是 @wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "familyGZTY"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 128,
+                "start": 120,
+                "username": "wowo_yz"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "猫本",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1951457965560525001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 486,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1979
+        },
+        "username": "Tang_1019",
+        "verified": true
+      }
+    ]
+  }
+}

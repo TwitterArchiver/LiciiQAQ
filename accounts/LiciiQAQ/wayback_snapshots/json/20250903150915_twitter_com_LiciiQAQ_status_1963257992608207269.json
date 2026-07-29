@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1963193579540787367",
+    "created_at": "2025-09-03T15:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T16:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963257992608207269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1705963648236011520",
+          "start": 0,
+          "username": "Tien__zih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963257992608207269",
+    "in_reply_to_user_id": "1705963648236011520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963255090308858264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tien__zih 煮波没钱😭（大悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1963193579540787367",
+        "created_at": "2025-09-03T15:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963257992608207269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1705963648236011520",
+              "start": 0,
+              "username": "Tien__zih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963257992608207269",
+        "in_reply_to_user_id": "1705963648236011520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963255090308858264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tien__zih 煮波没钱😭（大悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705963648236011520",
+        "conversation_id": "1963193579540787367",
+        "created_at": "2025-09-03T14:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T15:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963255090308858264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963255090308858264",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963193579540787367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 有钱的话可以去动手术"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 1797,
+          "like_count": 60748,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 6657
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:13:39.000Z",
+        "description": "性别沃尔玛塑料袋。年龄114514。日常办事。",
+        "id": "1705963648236011520",
+        "location": "无",
+        "name": "天",
+        "pinned_tweet_id": "1797014825593090521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958082231831863296/T20xcKza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 184,
+          "like_count": 5361,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 5857
+        },
+        "username": "Tien__zih",
+        "verified": false
+      }
+    ]
+  }
+}

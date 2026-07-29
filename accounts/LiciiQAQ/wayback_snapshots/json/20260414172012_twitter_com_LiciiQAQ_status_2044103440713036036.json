@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044093035211042819",
+        "3_2044093069646340096"
+      ],
+      "media_source_tweet_id": [
+        "2044093502473285824",
+        "2044093502473285824"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2044103440713036036",
+    "created_at": "2026-04-14T17:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044103440713036036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2038683521078681600",
+          "start": 3,
+          "username": "TogawaMedical0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sBGYzVZ6Hh",
+          "end": 50,
+          "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+          "media_key": "3_2044093035211042819",
+          "start": 27,
+          "url": "https://t.co/sBGYzVZ6Hh"
+        },
+        {
+          "display_url": "pic.x.com/sBGYzVZ6Hh",
+          "end": 50,
+          "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+          "media_key": "3_2044093069646340096",
+          "start": 27,
+          "url": "https://t.co/sBGYzVZ6Hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044103440713036036",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044093502473285824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaMedical0: hyw🫪（x https://t.co/sBGYzVZ6Hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 61,
+        "media_key": "3_2044093035211042819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4TyROasAMqyaz.png",
+        "width": 427
+      },
+      {
+        "height": 201,
+        "media_key": "3_2044093069646340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4T0RgboAAodBE.png",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044093035211042819",
+            "3_2044093069646340096"
+          ],
+          "media_source_tweet_id": [
+            "2044093502473285824",
+            "2044093502473285824"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2044103440713036036",
+        "created_at": "2026-04-14T17:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044103440713036036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2038683521078681600",
+              "start": 3,
+              "username": "TogawaMedical0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBGYzVZ6Hh",
+              "end": 50,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+              "media_key": "3_2044093035211042819",
+              "start": 27,
+              "url": "https://t.co/sBGYzVZ6Hh"
+            },
+            {
+              "display_url": "pic.x.com/sBGYzVZ6Hh",
+              "end": 50,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+              "media_key": "3_2044093069646340096",
+              "start": 27,
+              "url": "https://t.co/sBGYzVZ6Hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044103440713036036",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044093502473285824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaMedical0: hyw🫪（x https://t.co/sBGYzVZ6Hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044093035211042819",
+            "3_2044093069646340096"
+          ]
+        },
+        "author_id": "2038683521078681600",
+        "conversation_id": "2044093502473285824",
+        "created_at": "2026-04-14T16:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044093502473285824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBGYzVZ6Hh",
+              "end": 30,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+              "media_key": "3_2044093035211042819",
+              "start": 7,
+              "url": "https://t.co/sBGYzVZ6Hh"
+            },
+            {
+              "display_url": "pic.x.com/sBGYzVZ6Hh",
+              "end": 30,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2044093502473285824/photo/1",
+              "media_key": "3_2044093069646340096",
+              "start": 7,
+              "url": "https://t.co/sBGYzVZ6Hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044093502473285824",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "hyw🫪（x https://t.co/sBGYzVZ6Hh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 2183,
+          "like_count": 119128,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 8256
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T18:23:43.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 本处现提供 Androcur® (色普龙) 零售及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。客服邮箱：support@togawamedical.top，具体商品、帮助、更多联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "http://doc.togawamedical.top",
+                "start": 0,
+                "url": "https://t.co/cFZ49O5kT1"
+              }
+            ]
+          }
+        },
+        "id": "2038683521078681600",
+        "name": "丰川药业_Official🍥（重生版）",
+        "pinned_tweet_id": "2038699410033696838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038684081601544192/51tBhCnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 91,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/cFZ49O5kT1",
+        "username": "TogawaMedical0",
+        "verified": true
+      }
+    ]
+  }
+}

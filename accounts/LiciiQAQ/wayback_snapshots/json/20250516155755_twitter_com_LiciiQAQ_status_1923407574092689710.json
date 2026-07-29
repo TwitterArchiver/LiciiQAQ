@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1923262994387009551",
+    "created_at": "2025-05-16T15:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923407574092689710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1606690184564985856",
+          "start": 0,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923407574092689710",
+    "in_reply_to_user_id": "1606690184564985856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923375581451763922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgsbtin_nisaki 可以网上看看（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1923262994387009551",
+        "created_at": "2025-05-16T15:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923407574092689710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1606690184564985856",
+              "start": 0,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923407574092689710",
+        "in_reply_to_user_id": "1606690184564985856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923375581451763922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgsbtin_nisaki 可以网上看看（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606690184564985856",
+        "conversation_id": "1923262994387009551",
+        "created_at": "2025-05-16T13:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923375581451763922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923375581451763922",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923370431588737332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 找不到有买的地方喵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 837,
+          "like_count": 16434,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 2377
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜N1考取中｜🏳️‍⚧️同类互fo｜@WangPu90983",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WangPu90983"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 338,
+          "like_count": 2666,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 380
+        },
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

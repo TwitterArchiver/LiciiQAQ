@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919702268624175129",
+    "created_at": "2025-05-07T01:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T02:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919933382441517225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901326914750738432",
+          "start": 0,
+          "username": "qingmengxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919933382441517225",
+    "in_reply_to_user_id": "1901326914750738432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919702268624175129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingmengxyn 抱抱w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919702268624175129",
+        "created_at": "2025-05-07T01:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919933382441517225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901326914750738432",
+              "start": 0,
+              "username": "qingmengxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919933382441517225",
+        "in_reply_to_user_id": "1901326914750738432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919702268624175129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingmengxyn 抱抱w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901326914750738432",
+        "conversation_id": "1919702268624175129",
+        "created_at": "2025-05-06T10:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919702268624175129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qingmengxyn/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/qingmengxyn/status/1919701617814995022",
+              "start": 91,
+              "url": "https://t.co/cvDZ6hx64N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919702268624175129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919701617814995022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在那里的一年里，我努力装作没病的样子，自以为可以早点离开，结果还是被关了一年\n一整年\n不过，在这一年我学会了忍耐\n可以抱住被子硬生生挺过躯体化而不吃一片药\n我还是很厉害的对吧\n嘻嘻 https://t.co/cvDZ6hx64N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 760,
+          "like_count": 13470,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 2007
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T17:37:32.000Z",
+        "description": "咱咱咱 是一只神奇的木...木饭桶！\n                                                         唔...咱脑子超级灵光的！都不许嘲笑咱(ﾉ｀⊿´)ﾉ",
+        "id": "1901326914750738432",
+        "location": "鲨鲨城鲨鲨区新鲨小区 10086 号",
+        "name": "清梦呀🍥（潜力无限版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903614475594588160/boAd6fb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 419,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 364
+        },
+        "username": "qingmengxyn",
+        "verified": false
+      }
+    ]
+  }
+}

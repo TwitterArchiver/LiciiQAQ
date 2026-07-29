@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2054982405451313152"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2054986247614218474",
+    "created_at": "2026-05-14T18:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054986247614218474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031849359781085184",
+          "start": 3,
+          "username": "TogawaLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054986247614218474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054982407049339279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaLab: 丰川家近期正在计划新增普瑞胶囊的售卖，Anon酱想大调查下泥萌更倾向于哪种数量及规格x"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-05-21T17:49:19.000Z",
+        "id": "2054982405451313152",
+        "options": [
+          {
+            "label": "150mg-30/36t（小包装）",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "150mg-40/50t（一次买够）",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "300mg+较大规格（超大杯）",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "我不需要普瑞",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054982405451313152"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2054986247614218474",
+        "created_at": "2026-05-14T18:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054986247614218474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031849359781085184",
+              "start": 3,
+              "username": "TogawaLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054986247614218474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054982407049339279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaLab: 丰川家近期正在计划新增普瑞胶囊的售卖，Anon酱想大调查下泥萌更倾向于哪种数量及规格x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2054982405451313152"
+          ]
+        },
+        "author_id": "2031849359781085184",
+        "conversation_id": "2054982407049339279",
+        "created_at": "2026-05-14T17:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054982407049339279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054982407049339279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "丰川家近期正在计划新增普瑞胶囊的售卖，Anon酱想大调查下泥萌更倾向于哪种数量及规格x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@zhouxuanjiu2，姐姐：@Grinin_mark \n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Grinin_mark"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 2208,
+          "like_count": 121032,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 8318
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T21:47:47.000Z",
+        "description": "ご機嫌よう、承蒙厚愛。\n本处现提供hrt药物购买及咨询，以及丰川家衍生产品销售；官方频道：https://t.co/i4UoVZ4PTF\n具体商品、帮助文档、联系方式详见下方链接。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TogawaMedical_…",
+                "end": 68,
+                "expanded_url": "https://t.me/TogawaMedical_Chanel",
+                "start": 45,
+                "url": "https://t.co/i4UoVZ4PTF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "http://doc.togawamedical.top",
+                "start": 0,
+                "url": "https://t.co/1tgQCgssix"
+              }
+            ]
+          }
+        },
+        "id": "2031849359781085184",
+        "name": "丰川药业_Official🍥（二号机）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054902894244343808/jJ3OF98v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/1tgQCgssix",
+        "username": "TogawaLab",
+        "verified": false
+      }
+    ]
+  }
+}

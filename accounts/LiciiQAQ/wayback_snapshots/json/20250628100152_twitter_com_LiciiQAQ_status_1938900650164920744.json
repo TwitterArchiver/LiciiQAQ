@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938647901296828835",
+    "created_at": "2025-06-28T10:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938900650164920744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324190854085369857",
+          "start": 0,
+          "username": "2541404751Hiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938900650164920744",
+    "in_reply_to_user_id": "1324190854085369857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938854113510662307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2541404751Hiko 那很好了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938647901296828835",
+        "created_at": "2025-06-28T10:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938900650164920744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324190854085369857",
+              "start": 0,
+              "username": "2541404751Hiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938900650164920744",
+        "in_reply_to_user_id": "1324190854085369857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938854113510662307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2541404751Hiko 那很好了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324190854085369857",
+        "conversation_id": "1938647901296828835",
+        "created_at": "2025-06-28T06:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938854113510662307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938854113510662307",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938647901296828835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 我是拆了一盒没做任何思考塞嘴里就喝水赶紧咽了，没尝到啥苦味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 1193,
+          "like_count": 34115,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 4047
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:24:51.000Z",
+        "description": "过去的hiko应该是回不来了\n双向转重度抑郁焦虑\nhiko会尽量坚持下去的\n已离家一年，但是家长党\nhrt2025 5 18🍥\n爱的人@XIAOAOBI2002\n别问政治立场，因为我不知道我算是啥\n不想再看到任何人离开了\n如果有什么困难的话找我吧\n求同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "XIAOAOBI2002"
+              }
+            ]
+          }
+        },
+        "id": "1324190854085369857",
+        "location": "南阳/西安/北京",
+        "name": "Hiko🏳️‍⚧️🍥（右美沙芬的救赎）",
+        "pinned_tweet_id": "1934218875966722200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937165068979904513/qetGv_L__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 54,
+          "like_count": 53,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "username": "2541404751Hiko",
+        "verified": false
+      }
+    ]
+  }
+}

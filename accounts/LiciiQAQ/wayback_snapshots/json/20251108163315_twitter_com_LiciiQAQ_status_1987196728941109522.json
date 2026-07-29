@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1987180534917890539",
+    "created_at": "2025-11-08T16:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987196728941109522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987196728941109522",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987180534917890539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1987180534917890539",
+        "created_at": "2025-11-08T16:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987196728941109522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987196728941109522",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987180534917890539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1987180534917890539",
+        "created_at": "2025-11-08T15:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987180534917890539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TangYuwenMTF/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/TangYuwenMTF/status/1987175945581830235",
+              "start": 9,
+              "url": "https://t.co/rB9LFWUpg8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987180534917890539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1953,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987175945581830235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕一切有对象的 https://t.co/rB9LFWUpg8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 2077,
+          "like_count": 83745,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 7561
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "喵",
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（思念晚安版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 799,
+          "like_count": 2564,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1286
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1915437762028941542",
+    "created_at": "2025-04-25T13:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T14:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915758589253456371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1573663582994444289",
+          "start": 0,
+          "username": "guojiazongshuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915758589253456371",
+    "in_reply_to_user_id": "1695649420539219968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915756641112506592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guojiazongshuji …对了，当时貌似用的还是华为（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1915437762028941542",
+        "created_at": "2025-04-25T13:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915758589253456371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915758589253456371",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915756641112506592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji …对了，当时貌似用的还是华为（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1915437762028941542",
+        "created_at": "2025-04-25T13:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915756641112506592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1573663582994444289",
+              "start": 0,
+              "username": "guojiazongshuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915756641112506592",
+        "in_reply_to_user_id": "1573663582994444289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915437762028941542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guojiazongshuji 笑不出来，窝很早之前还真用过老王VPN＋qq邮箱上推（当然不是这个号）， 还被晶哥打过电话说注意放诈骗（？💦😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 678,
+          "like_count": 10476,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1507
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "满洲国出身 / 国歌《南蛮大布》/满洲第一厨师老八 / 外交部发言人黑手哥 / 一级上将宇将军 / 传统运动项目海兰泡冬泳大赛 / 信仰李洪志《转法轮》/ 满洲国传统美食桌饺🥟大酱、西安猪臊子/自用🪜👉https://t.co/uBlodabRgZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "susu.cheapestizi.top/#/register?cod…",
+                "end": 124,
+                "expanded_url": "https://susu.cheapestizi.top/#/register?code=p3VhqxV5",
+                "start": 101,
+                "url": "https://t.co/uBlodabRgZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html?spm=C73544894212.P59511941341.0.0",
+                "start": 0,
+                "url": "https://t.co/Y7VxXFnuyj"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "符拉迪沃斯托克—满俄奥运会现场",
+        "name": "狐仙苏苏",
+        "pinned_tweet_id": "1790949934688268776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10300,
+          "following_count": 568,
+          "like_count": 56997,
+          "listed_count": 24,
+          "media_count": 325,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/Y7VxXFnuyj",
+        "username": "guojiazongshuji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1961246115195732292",
+    "created_at": "2025-08-29T01:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T02:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961246236368887907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        },
+        {
+          "end": 19,
+          "id": "1763577841588056064",
+          "start": 10,
+          "username": "yxrchina"
+        },
+        {
+          "end": 34,
+          "id": "1677270742705270784",
+          "start": 20,
+          "username": "GEACPS1940629"
+        },
+        {
+          "end": 48,
+          "id": "1688215989970968576",
+          "start": 35,
+          "username": "mizuki_liang"
+        },
+        {
+          "end": 65,
+          "id": "1782463420631220227",
+          "start": 49,
+          "username": "wsmwsmwuwuwu555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961246236368887907",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961246115195732292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 @yxrchina @GEACPS1940629 @mizuki_liang @wsmwsmwuwuwu555 妈妈……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1961246112188436483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gze-8qobkAMT3d7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1961246115195732292",
+        "created_at": "2025-08-29T01:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961246236368887907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            },
+            {
+              "end": 19,
+              "id": "1763577841588056064",
+              "start": 10,
+              "username": "yxrchina"
+            },
+            {
+              "end": 34,
+              "id": "1677270742705270784",
+              "start": 20,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 48,
+              "id": "1688215989970968576",
+              "start": 35,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 65,
+              "id": "1782463420631220227",
+              "start": 49,
+              "username": "wsmwsmwuwuwu555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961246236368887907",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961246115195732292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 @yxrchina @GEACPS1940629 @mizuki_liang @wsmwsmwuwuwu555 妈妈……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961246112188436483"
+          ]
+        },
+        "author_id": "1884536290005368832",
+        "conversation_id": "1961246115195732292",
+        "created_at": "2025-08-29T01:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961246115195732292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1763577841588056064",
+              "start": 22,
+              "username": "yxrchina"
+            },
+            {
+              "end": 46,
+              "id": "1677270742705270784",
+              "start": 32,
+              "username": "GEACPS1940629"
+            },
+            {
+              "end": 66,
+              "id": "1688215989970968576",
+              "start": 53,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 89,
+              "id": "1782463420631220227",
+              "start": 73,
+              "username": "wsmwsmwuwuwu555"
+            },
+            {
+              "end": 99,
+              "id": "1695649420539219968",
+              "start": 90,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 127,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1960987517026754560/u3nrRQsC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1960987517026754560/u3nrRQsC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/ZlmyPe4lkQ"
+            },
+            {
+              "display_url": "pic.x.com/6ryhh2CWRa",
+              "end": 151,
+              "expanded_url": "https://x.com/FGfr_218/status/1961246115195732292/photo/1",
+              "media_key": "3_1961246112188436483",
+              "start": 128,
+              "url": "https://t.co/6ryhh2CWRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961246115195732292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @yxrchina @GEACPS1940629\n👰 配偶: @mizuki_liang\n👶 孩子: @wsmwsmwuwuwu555 @LiciiQAQ\n\n➡️ https://t.co/ZlmyPe4lkQ https://t.co/6ryhh2CWRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 1768,
+          "like_count": 58558,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 6565
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "雯菓ふわり🏳️‍⚧️🍬/07年/重度社恐/重度性别.容貌焦虑/双性恋/无证含糖/二次元/coser/暂时无🚪/目标赚够手术费/戒od中/加油加油gogogo",
+        "id": "1884536290005368832",
+        "name": "雯老师不是吻老师🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957672167564537862/lXI4Zis3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 131,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 199
+        },
+        "username": "FGfr_218",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "可以叫咱夕妍｜MtF🏳️‍⚧️｜2011.08.15｜HRT 2025.08.11｜BPD / 双相｜OverDose｜极度社恐 / 社会化失败者｜前一秒想你 下一秒想死｜活着是技术活 / 正在失败中｜https://t.co/k5j66YGHIK｜With you, through all.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ddnsy.fun",
+                "end": 124,
+                "expanded_url": "http://ddnsy.fun",
+                "start": 101,
+                "url": "https://t.co/k5j66YGHIK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ddnsy.fun",
+                "end": 23,
+                "expanded_url": "http://ddnsy.fun",
+                "start": 0,
+                "url": "https://t.co/k5j66YGHIK"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "‌‍‎                        ‌‍‎",
+        "name": "Sy Yann",
+        "pinned_tweet_id": "1961099619758408176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956335627806674945/huuNrNZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 993,
+          "like_count": 5897,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 4082
+        },
+        "url": "https://t.co/k5j66YGHIK",
+        "username": "yxrchina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/2CsWnNhq0f"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "name": "Mr.湯普尼",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881742183369220096/e-AyMgBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 2103,
+          "like_count": 30281,
+          "listed_count": 2,
+          "media_count": 1194,
+          "tweet_count": 3257
+        },
+        "url": "https://t.co/2CsWnNhq0f",
+        "username": "GEACPS1940629",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 最可爱的妹妹@LingRuoovo | 欢迎互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "LingRuoovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 686,
+          "like_count": 3108,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T17:36:21.000Z",
+        "description": "绿豆糕绿豆糕绿豆糕绿豆糕绿豆糕\n糕糕糕糕糕糕糕糕糕糕糕糕糕糕糕",
+        "id": "1782463420631220227",
+        "location": "绿豆糕星球",
+        "name": "绿豆糕糕",
+        "pinned_tweet_id": "1944709893430317426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886824583879340032/qInsLAxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 852,
+          "like_count": 77253,
+          "listed_count": 2,
+          "media_count": 221,
+          "tweet_count": 2254
+        },
+        "username": "wsmwsmwuwuwu555",
+        "verified": false
+      }
+    ]
+  }
+}

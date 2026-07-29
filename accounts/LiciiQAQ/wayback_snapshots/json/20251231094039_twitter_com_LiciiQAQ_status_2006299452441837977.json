@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005942938887675905"
+      ],
+      "media_source_tweet_id": [
+        "2005942946256834584"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006299452441837977",
+    "created_at": "2025-12-31T09:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T10:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006299452441837977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748762441763463168",
+          "start": 3,
+          "username": "125748c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IJPPS7QkpN",
+          "end": 47,
+          "expanded_url": "https://x.com/125748c/status/2005942946256834584/photo/1",
+          "media_key": "3_2005942938887675905",
+          "start": 24,
+          "url": "https://t.co/IJPPS7QkpN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006299452441837977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 533
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005942946256834584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @125748c: どこに男がいるんだよ https://t.co/IJPPS7QkpN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2005942938887675905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aKeZgaYAE4GO4.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005942938887675905"
+          ],
+          "media_source_tweet_id": [
+            "2005942946256834584"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006299452441837977",
+        "created_at": "2025-12-31T09:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006299452441837977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748762441763463168",
+              "start": 3,
+              "username": "125748c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJPPS7QkpN",
+              "end": 47,
+              "expanded_url": "https://x.com/125748c/status/2005942946256834584/photo/1",
+              "media_key": "3_2005942938887675905",
+              "start": 24,
+              "url": "https://t.co/IJPPS7QkpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006299452441837977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 533
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005942946256834584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @125748c: どこに男がいるんだよ https://t.co/IJPPS7QkpN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005942938887675905"
+          ]
+        },
+        "author_id": "1748762441763463168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005942946256834584",
+        "created_at": "2025-12-30T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005942946256834584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJPPS7QkpN",
+              "end": 34,
+              "expanded_url": "https://x.com/125748c/status/2005942946256834584/photo/1",
+              "media_key": "3_2005942938887675905",
+              "start": 11,
+              "url": "https://t.co/IJPPS7QkpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005942946256834584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 533631,
+          "like_count": 4564,
+          "quote_count": 115,
+          "reply_count": 160,
+          "retweet_count": 533
+        },
+        "reply_settings": "everyone",
+        "text": "どこに男がいるんだよ https://t.co/IJPPS7QkpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 2097,
+          "like_count": 98410,
+          "listed_count": 4,
+          "media_count": 410,
+          "tweet_count": 7957
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:40:41.000Z",
+        "description": "DMで画像募集中 オリジナルのものでお願いしますこっちも提供お願いします",
+        "id": "1748762441763463168",
+        "location": "採用→👍不採用→👎保留→🔥",
+        "name": "ネットの話題ツイ図鑑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005118674882228224/BHhnbKeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119203,
+          "following_count": 10,
+          "like_count": 75,
+          "listed_count": 98,
+          "media_count": 969,
+          "tweet_count": 981
+        },
+        "username": "125748c",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1952239924364935608",
+    "created_at": "2025-08-04T06:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T07:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952262497337233492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952262497337233492",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952239924364935608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 恭喜喵🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952239868047978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxe_0Qta8AA5TM-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952239868056330240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxe_0QvaYAAoC1c.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952239868131917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxe_0RBbwAAgnG3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1952239868161261568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxe_0RIbgAArXj-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1952239924364935608",
+        "created_at": "2025-08-04T06:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952262497337233492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952262497337233492",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952239924364935608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 恭喜喵🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952239868047978496",
+            "3_1952239868056330240",
+            "3_1952239868131917824",
+            "3_1952239868161261568"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952239924364935608",
+        "created_at": "2025-08-04T05:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T06:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952239924364935608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtg9eE6TPJ",
+              "end": 148,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1952239924364935608/photo/1",
+              "media_key": "3_1952239868047978496",
+              "start": 125,
+              "url": "https://t.co/wtg9eE6TPJ"
+            },
+            {
+              "display_url": "pic.x.com/wtg9eE6TPJ",
+              "end": 148,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1952239924364935608/photo/1",
+              "media_key": "3_1952239868056330240",
+              "start": 125,
+              "url": "https://t.co/wtg9eE6TPJ"
+            },
+            {
+              "display_url": "pic.x.com/wtg9eE6TPJ",
+              "end": 148,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1952239924364935608/photo/1",
+              "media_key": "3_1952239868131917824",
+              "start": 125,
+              "url": "https://t.co/wtg9eE6TPJ"
+            },
+            {
+              "display_url": "pic.x.com/wtg9eE6TPJ",
+              "end": 148,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1952239924364935608/photo/1",
+              "media_key": "3_1952239868161261568",
+              "start": 125,
+              "url": "https://t.co/wtg9eE6TPJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952239924364935608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 45,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "5000fo啦\n好耶\n那么咱可是要搞个抽奖活动了qwq\n那么\n一等奖是这只龙泡泡（可折现98\n二等奖是这一只山山兔（可折现58\n三等奖抽5个可爱的推油去吃疯狂星期四（50\n关注点赞转发评论即可参与\n那么就周四开奖咯！\n感谢一路上大家对咱的支持QWQ https://t.co/wtg9eE6TPJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1527,
+          "like_count": 48049,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 5782
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5022,
+          "following_count": 5271,
+          "like_count": 18344,
+          "listed_count": 8,
+          "media_count": 3436,
+          "tweet_count": 26160
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

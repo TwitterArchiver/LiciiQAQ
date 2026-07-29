@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1958341425432814051",
+    "created_at": "2025-08-21T05:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T06:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958395669355659751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902700598321135616",
+          "start": 0,
+          "username": "Yanluo1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958395669355659751",
+    "in_reply_to_user_id": "1902700598321135616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958341425432814051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo1019 互fo喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1958341425432814051",
+        "created_at": "2025-08-21T05:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958395669355659751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902700598321135616",
+              "start": 0,
+              "username": "Yanluo1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958395669355659751",
+        "in_reply_to_user_id": "1902700598321135616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958341425432814051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo1019 互fo喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902700598321135616",
+        "conversation_id": "1958341425432814051",
+        "created_at": "2025-08-21T01:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T02:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958341425432814051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958341425432814051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要扩列互关，只要xyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 1723,
+          "like_count": 55075,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 6377
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "我的名字是唐毓文\n爱人@Zhishi_cook\n狗子@wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "Zhishi_cook"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.com",
+                "end": 23,
+                "expanded_url": "http://NoMTF.com",
+                "start": 0,
+                "url": "https://t.co/kj7dZuDfkd"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "在迪肯大学看迪肯吃迪肯的迪克",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927264142831865856/oGUnMA-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 136,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/kj7dZuDfkd",
+        "username": "Yanluo1019",
+        "verified": true
+      }
+    ]
+  }
+}

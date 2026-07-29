@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940290991870636032"
+      ],
+      "media_source_tweet_id": [
+        "1940291034774479002"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940441136189050959",
+    "created_at": "2025-07-02T16:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T17:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940441136189050959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HtOYCz4oby",
+          "end": 59,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1940291034774479002/photo/1",
+          "media_key": "3_1940290991870636032",
+          "start": 36,
+          "url": "https://t.co/HtOYCz4oby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940441136189050959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940291034774479002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 蚊子你啥意思，我真没空陪你闹了 https://t.co/HtOYCz4oby"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1940290991870636032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu1MYINW8AAPwiI.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940290991870636032"
+          ],
+          "media_source_tweet_id": [
+            "1940291034774479002"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1940441136189050959",
+        "created_at": "2025-07-02T16:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940441136189050959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtOYCz4oby",
+              "end": 59,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1940291034774479002/photo/1",
+              "media_key": "3_1940290991870636032",
+              "start": 36,
+              "url": "https://t.co/HtOYCz4oby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940441136189050959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940291034774479002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 蚊子你啥意思，我真没空陪你闹了 https://t.co/HtOYCz4oby"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940290991870636032"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1940291034774479002",
+        "created_at": "2025-07-02T06:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940291034774479002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtOYCz4oby",
+              "end": 39,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1940291034774479002/photo/1",
+              "media_key": "3_1940290991870636032",
+              "start": 16,
+              "url": "https://t.co/HtOYCz4oby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940291034774479002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1558,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "蚊子你啥意思，我真没空陪你闹了 https://t.co/HtOYCz4oby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 1229,
+          "like_count": 35864,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 4258
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628,
+          "following_count": 4502,
+          "like_count": 14355,
+          "listed_count": 6,
+          "media_count": 2489,
+          "tweet_count": 19935
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

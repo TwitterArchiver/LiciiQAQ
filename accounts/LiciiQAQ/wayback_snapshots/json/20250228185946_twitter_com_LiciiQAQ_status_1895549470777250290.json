@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895549468528742400"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1895549470777250290",
+    "created_at": "2025-02-28T18:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T19:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895549470777250290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1Zkb6EGq9",
+          "end": 47,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1895549470777250290/photo/1",
+          "media_key": "3_1895549468528742400",
+          "start": 24,
+          "url": "https://t.co/y1Zkb6EGq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895549470777250290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刷推久了我的常用emoji belike（）： https://t.co/y1Zkb6EGq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 954,
+        "media_key": "3_1895549468528742400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk5YMtXWEAAlY51.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895549468528742400"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1895549470777250290",
+        "created_at": "2025-02-28T18:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T19:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895549470777250290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1Zkb6EGq9",
+              "end": 47,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1895549470777250290/photo/1",
+              "media_key": "3_1895549468528742400",
+              "start": 24,
+              "url": "https://t.co/y1Zkb6EGq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895549470777250290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推久了我的常用emoji belike（）： https://t.co/y1Zkb6EGq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 63,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 67
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

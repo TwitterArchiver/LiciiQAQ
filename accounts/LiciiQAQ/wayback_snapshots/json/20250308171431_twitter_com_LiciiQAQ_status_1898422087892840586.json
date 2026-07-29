@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1898416683968270441",
+    "created_at": "2025-03-08T17:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T18:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898422087892840586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809505950057005056",
+          "start": 0,
+          "username": "Cd37Swan00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898422087892840586",
+    "in_reply_to_user_id": "1809505950057005056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898421157730172929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cd37Swan00 谢谢捏🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1898416683968270441",
+        "created_at": "2025-03-08T17:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T18:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898422087892840586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809505950057005056",
+              "start": 0,
+              "username": "Cd37Swan00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898422087892840586",
+        "in_reply_to_user_id": "1809505950057005056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898421157730172929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cd37Swan00 谢谢捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809505950057005056",
+        "conversation_id": "1898416683968270441",
+        "created_at": "2025-03-08T17:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T18:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898421157730172929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898421157730172929",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898416683968270441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 有俺的一份🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 252,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:33:45.000Z",
+        "description": "小受一枚，00年，176cm，57kg，位置0931。想在这个平台结交姐妹做闺蜜，一起交流学习和伪街₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1809505950057005056",
+        "name": "Cd蘭潟柚子🦢",
+        "pinned_tweet_id": "1817141889524461817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823216060419407872/hSTQI-fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 148,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 52
+        },
+        "username": "Cd37Swan00",
+        "verified": false
+      }
+    ]
+  }
+}

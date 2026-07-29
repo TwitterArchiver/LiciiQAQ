@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2038699997915754976",
+    "created_at": "2026-03-30T19:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T20:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038699997915754976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2038683521078681600",
+          "start": 3,
+          "username": "TogawaMedical0"
+        },
+        {
+          "end": 84,
+          "id": "1904872455229104129",
+          "start": 70,
+          "username": "TogawaMedical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038699997915754976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038699410033696838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TogawaMedical0: 窝素tomorin，该帐号前世被奸人所害，惨遭msk大手发力，故重建新号，烦请各位移步至此。\n前世：@TogawaMedical\n目前现货提供:\n🍥自制改良款凝胶\n🍥零售及整盒色普龙(CPA/土色)\n产品图如图(可选贴标服务)\n若有任何疑…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [TogawaMedical].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "TogawaMedical",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "TogawaMedical"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2038699405734445056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErqTtqaAAAMmeY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038699406875357184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErqTx6a8AAwgmg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2038699997915754976",
+        "created_at": "2026-03-30T19:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038699997915754976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2038683521078681600",
+              "start": 3,
+              "username": "TogawaMedical0"
+            },
+            {
+              "end": 84,
+              "id": "1904872455229104129",
+              "start": 70,
+              "username": "TogawaMedical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038699997915754976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038699410033696838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TogawaMedical0: 窝素tomorin，该帐号前世被奸人所害，惨遭msk大手发力，故重建新号，烦请各位移步至此。\n前世：@TogawaMedical\n目前现货提供:\n🍥自制改良款凝胶\n🍥零售及整盒色普龙(CPA/土色)\n产品图如图(可选贴标服务)\n若有任何疑…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038699405734445056",
+            "3_2038699406875357184"
+          ]
+        },
+        "author_id": "2038683521078681600",
+        "conversation_id": "2038699410033696838",
+        "created_at": "2026-03-30T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038699410033696838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 164,
+              "start": 150,
+              "tag": "TogawaMedical"
+            },
+            {
+              "end": 170,
+              "start": 165,
+              "tag": "丰川药业"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1904872455229104129",
+              "start": 50,
+              "username": "TogawaMedical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQlyqbK6jg",
+              "end": 194,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2038699410033696838/photo/1",
+              "media_key": "3_2038699405734445056",
+              "start": 171,
+              "url": "https://t.co/eQlyqbK6jg"
+            },
+            {
+              "display_url": "pic.x.com/eQlyqbK6jg",
+              "end": 194,
+              "expanded_url": "https://x.com/TogawaMedical0/status/2038699410033696838/photo/1",
+              "media_key": "3_2038699406875357184",
+              "start": 171,
+              "url": "https://t.co/eQlyqbK6jg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038699410033696838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝素tomorin，该帐号前世被奸人所害，惨遭msk大手发力，故重建新号，烦请各位移步至此。\n前世：@TogawaMedical\n目前现货提供:\n🍥自制改良款凝胶\n🍥零售及整盒色普龙(CPA/土色)\n产品图如图(可选贴标服务)\n若有任何疑惑,我处诚挚期待您的垂询。\ntomorin已经力竭了…orz\n#TogawaMedical #丰川药业 https://t.co/eQlyqbK6jg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 2177,
+          "like_count": 117563,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 8199
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T18:23:43.000Z",
+        "description": "ご機嫌よう，承蒙厚爱。🌸 本处现提供 Androcur® (色普龙) 零售及自制雌二醇凝胶；提供少量免费心理咨询服务。愿能为您带来些许微薄的帮助。客服邮箱：support@togawamedical.top，具体商品、帮助、更多联系方式及更多文档见下方链接。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "doc.togawamedical.top",
+                "end": 23,
+                "expanded_url": "http://doc.togawamedical.top",
+                "start": 0,
+                "url": "https://t.co/cFZ49O5kT1"
+              }
+            ]
+          }
+        },
+        "id": "2038683521078681600",
+        "name": "丰川药业_Official🍥（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038684081601544192/51tBhCnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/cFZ49O5kT1",
+        "username": "TogawaMedical0",
+        "verified": false
+      }
+    ]
+  }
+}

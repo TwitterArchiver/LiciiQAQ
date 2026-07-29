@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1957037286564257940",
+    "created_at": "2025-08-17T12:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T13:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957050260532166888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1453347244401430528",
+          "start": 0,
+          "username": "jingxiaxin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957050260532166888",
+    "in_reply_to_user_id": "1453347244401430528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957037286564257940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingxiaxin1 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1957037282915196928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjLCjxbIAAdpXZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1957037286564257940",
+        "created_at": "2025-08-17T12:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T13:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957050260532166888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1453347244401430528",
+              "start": 0,
+              "username": "jingxiaxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957050260532166888",
+        "in_reply_to_user_id": "1453347244401430528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957037286564257940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingxiaxin1 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957037282915196928"
+          ]
+        },
+        "author_id": "1453347244401430528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1957037286564257940",
+        "created_at": "2025-08-17T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957037286564257940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955475092483497984/9U44WZM1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/HWTi3EOqdB"
+            },
+            {
+              "display_url": "pic.x.com/awl7niiH4E",
+              "end": 64,
+              "expanded_url": "https://x.com/jingxiaxin1/status/1957037286564257940/photo/1",
+              "media_key": "3_1957037282915196928",
+              "start": 41,
+              "url": "https://t.co/awl7niiH4E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957037286564257940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/HWTi3EOqdB https://t.co/awl7niiH4E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 1682,
+          "like_count": 53369,
+          "listed_count": 4,
+          "media_count": 291,
+          "tweet_count": 6256
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T13:06:09.000Z",
+        "description": "06年｜isfp-t｜175 55｜家长党｜持证含糖 HRT25.6.22🏳️‍⚧️｜中度焦虑 重度抑郁 每时每刻都相似｜轨交｜化学｜医学｜数码｜swift｜MTR｜Apple fans｜杭州、武汉随机掉落，可以来抓我｜call me小林plz｜不pass，努力变好看中｜羡慕健全mtf的每一天",
+        "id": "1453347244401430528",
+        "location": "London, England",
+        "name": "Rainb🍥w_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955561310017753088/SDZwZ7sH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 408,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 411
+        },
+        "username": "jingxiaxin1",
+        "verified": false
+      }
+    ]
+  }
+}

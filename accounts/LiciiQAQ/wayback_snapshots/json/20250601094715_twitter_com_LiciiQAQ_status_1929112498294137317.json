@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1929110899937443969",
+    "created_at": "2025-06-01T09:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T10:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929112498294137317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780642673713356800",
+          "start": 0,
+          "username": "zhsy211427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929112498294137317",
+    "in_reply_to_user_id": "1780642673713356800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929110899937443969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsy211427 儿童节快乐喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16083,
+        "height": 1080,
+        "media_key": "13_1929110730554609664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929110730554609664/img/xqtzugU5QGBCcav1.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929110730554609664/vid/avc1/480x270/P3ItqK6zBSieS9i3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929110730554609664/vid/avc1/640x360/uI-_7ILKJ0J_WH1b.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929110730554609664/vid/avc1/1280x720/ZoW1uEMJ2WG3xx85.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929110730554609664/pl/FOPCcuLsq_xBnj-o.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1929110899937443969",
+        "created_at": "2025-06-01T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929112498294137317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780642673713356800",
+              "start": 0,
+              "username": "zhsy211427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929112498294137317",
+        "in_reply_to_user_id": "1780642673713356800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929110899937443969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsy211427 儿童节快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929110730554609664"
+          ]
+        },
+        "author_id": "1780642673713356800",
+        "conversation_id": "1929110899937443969",
+        "created_at": "2025-06-01T09:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929110899937443969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yusxg1Jjog",
+              "end": 46,
+              "expanded_url": "https://x.com/zhsy211427/status/1929110899937443969/video/1",
+              "media_key": "13_1929110730554609664",
+              "start": 23,
+              "url": "https://t.co/yusxg1Jjog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929110899937443969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个小玩具!!!儿童节快乐呀☺️☺️☺️ https://t.co/yusxg1Jjog"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 962,
+          "like_count": 22697,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 3079
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T17:01:27.000Z",
+        "description": "大一动画在读，很纠结的一个人，这里算是自己的一个小树洞吧，含🏳️‍⚧️两个月的小菜鸡🍥｜爱好各种三维软件｜无任何不良嗜好，不od｜blender爱好者｜粒子动画制作中…… ｜  性别未知？（mtx? ）｜欢迎动画技术交流｜同类互fo 咕咕",
+        "id": "1780642673713356800",
+        "name": "咕咕不哭🏳️‍⚧️",
+        "pinned_tweet_id": "1928316268039295197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876133551264985088/f0P2uBOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 57,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 141
+        },
+        "username": "zhsy211427",
+        "verified": false
+      }
+    ]
+  }
+}

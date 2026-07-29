@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046650628",
+          "name": "USAID"
+        }
+      }
+    ],
+    "conversation_id": "1941139063526031628",
+    "created_at": "2025-07-04T14:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T15:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941139063526031628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1941047293198979491",
+          "start": 10,
+          "url": "https://t.co/fhZl62QXZE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941139063526031628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941047293198979491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇……还是pa环（ https://t.co/fhZl62QXZE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1941047289822253056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_8OdoXEAAPxV7.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650628",
+              "name": "USAID"
+            }
+          }
+        ],
+        "conversation_id": "1941139063526031628",
+        "created_at": "2025-07-04T14:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T15:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941139063526031628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1941047293198979491",
+              "start": 10,
+              "url": "https://t.co/fhZl62QXZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941139063526031628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941047293198979491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇……还是pa环（ https://t.co/fhZl62QXZE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941047289822253056"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046650628",
+              "name": "USAID"
+            }
+          }
+        ],
+        "conversation_id": "1941047293198979491",
+        "created_at": "2025-07-04T08:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941047293198979491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiFuwZIYlX",
+              "end": 43,
+              "expanded_url": "https://x.com/FurinaDF/status/1941047293198979491/photo/1",
+              "media_key": "3_1941047289822253056",
+              "start": 20,
+              "url": "https://t.co/HiFuwZIYlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941047293198979491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 30447,
+          "like_count": 354,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "USAID美国国际开发署，今天正式关闭 https://t.co/HiFuwZIYlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yyc20090"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1265,
+          "like_count": 36701,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 4359
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcHG2X"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34533,
+          "following_count": 2247,
+          "like_count": 26884,
+          "listed_count": 95,
+          "media_count": 5470,
+          "tweet_count": 9716
+        },
+        "url": "https://t.co/UXOSrcHG2X",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

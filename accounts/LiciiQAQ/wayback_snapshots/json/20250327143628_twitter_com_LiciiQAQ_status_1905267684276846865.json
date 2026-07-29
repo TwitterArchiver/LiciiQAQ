@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1905213084756570526",
+    "created_at": "2025-03-27T14:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T15:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905267684276846865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851919588508016640",
+          "start": 0,
+          "username": "rainppr2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905267684276846865",
+    "in_reply_to_user_id": "1851919588508016640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905213084756570526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainppr2008 没完全变声的话，可以试试伪声的，会好不少\n（窝好像体验卡变成永久了、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1905213084756570526",
+        "created_at": "2025-03-27T14:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T15:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905267684276846865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851919588508016640",
+              "start": 0,
+              "username": "rainppr2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905267684276846865",
+        "in_reply_to_user_id": "1851919588508016640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905213084756570526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainppr2008 没完全变声的话，可以试试伪声的，会好不少\n（窝好像体验卡变成永久了、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851919588508016640",
+        "conversation_id": "1905213084756570526",
+        "created_at": "2025-03-27T10:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905213084756570526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sentence1376/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Sentence1376/status/1905196930411725208",
+              "start": 39,
+              "url": "https://t.co/JbcTBjXErc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905213084756570526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905196930411725208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜 班里学声乐的女生说 我变声太大（小学就长喉结了）可能达到女声比较困难😭 https://t.co/JbcTBjXErc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 471,
+          "like_count": 4027,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 633
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T09:30:22.000Z",
+        "description": "佐倉杏子 | 友🏳️‍⚧️🏳️‍🌈 | 想变可爱 想做女生 awa | she / her / 妹妹 | 山东 2027 高考考生 | AFOed 算法竞赛 OIer | 喜欢贴贴抱抱 | 支持回 fo 喵 | 记性不好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rainppr.github.io",
+                "end": 23,
+                "expanded_url": "http://rainppr.github.io",
+                "start": 0,
+                "url": "https://t.co/wthn7eXgMq"
+              }
+            ]
+          }
+        },
+        "id": "1851919588508016640",
+        "location": "Qingdao, China",
+        "name": "RainPPR🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903688129925844992/zWYRRprm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 115,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/wthn7eXgMq",
+        "username": "rainppr2008",
+        "verified": false
+      }
+    ]
+  }
+}

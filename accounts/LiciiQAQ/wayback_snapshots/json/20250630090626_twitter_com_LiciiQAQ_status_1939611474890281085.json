@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939580332094668800"
+      ],
+      "media_source_tweet_id": [
+        "1939580336146616802"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1939611474890281085",
+    "created_at": "2025-06-30T09:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939611474890281085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462403736890920963",
+          "start": 3,
+          "username": "oekaki_bibbi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3SZlCMwHA6",
+          "end": 57,
+          "expanded_url": "https://x.com/oekaki_bibbi/status/1939580336146616802/photo/1",
+          "media_key": "3_1939580332094668800",
+          "start": 34,
+          "url": "https://t.co/3SZlCMwHA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939611474890281085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939580336146616802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oekaki_bibbi: みんなで真面目にお勉強……✍🏻 https://t.co/3SZlCMwHA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2210,
+        "media_key": "3_1939580332094668800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GurGCSPWQAAaBKN.jpg",
+        "width": 3250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939580332094668800"
+          ],
+          "media_source_tweet_id": [
+            "1939580336146616802"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1939611474890281085",
+        "created_at": "2025-06-30T09:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939611474890281085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462403736890920963",
+              "start": 3,
+              "username": "oekaki_bibbi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SZlCMwHA6",
+              "end": 57,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1939580336146616802/photo/1",
+              "media_key": "3_1939580332094668800",
+              "start": 34,
+              "url": "https://t.co/3SZlCMwHA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939611474890281085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939580336146616802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oekaki_bibbi: みんなで真面目にお勉強……✍🏻 https://t.co/3SZlCMwHA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939580332094668800"
+          ]
+        },
+        "author_id": "1462403736890920963",
+        "conversation_id": "1939580336146616802",
+        "created_at": "2025-06-30T07:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939580336146616802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SZlCMwHA6",
+              "end": 39,
+              "expanded_url": "https://x.com/oekaki_bibbi/status/1939580336146616802/photo/1",
+              "media_key": "3_1939580332094668800",
+              "start": 16,
+              "url": "https://t.co/3SZlCMwHA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939580336146616802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 34978,
+          "like_count": 3079,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "みんなで真面目にお勉強……✍🏻 https://t.co/3SZlCMwHA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 1214,
+          "like_count": 34868,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 4154
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T12:53:24.000Z",
+        "description": "お絵描き/ぼっちざろっく愛/恩師:ななすけ🌰\n     \n       ※イラストの商用利用は禁止",
+        "id": "1462403736890920963",
+        "name": "まよ/Mayo",
+        "pinned_tweet_id": "1669238935007141888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893993268624478208/saa_9fza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104036,
+          "following_count": 235,
+          "like_count": 18478,
+          "listed_count": 510,
+          "media_count": 491,
+          "tweet_count": 12209
+        },
+        "username": "oekaki_bibbi",
+        "verified": true
+      }
+    ]
+  }
+}

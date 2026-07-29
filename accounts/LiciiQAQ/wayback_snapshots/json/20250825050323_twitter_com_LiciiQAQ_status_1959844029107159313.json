@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959844026615824384"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1959844029107159313",
+    "created_at": "2025-08-25T05:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T06:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959844029107159313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CO2JnNAZ7",
+          "end": 29,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1959844029107159313/photo/1",
+          "media_key": "3_1959844026615824384",
+          "start": 6,
+          "url": "https://t.co/0CO2JnNAZ7"
+        },
+        {
+          "display_url": "x.com/MTNEKO123/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/MTNEKO123/status/1959618400407491057",
+          "start": 30,
+          "url": "https://t.co/DvBfdhvW0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959844029107159313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959618400407491057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要吃鸡吧 https://t.co/0CO2JnNAZ7 https://t.co/DvBfdhvW0I"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1959844029107159313].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1959844029107159313",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1959844029107159313"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1959844026615824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLDwi2bgAAEbFZ.jpg",
+        "width": 296
+      },
+      {
+        "height": 256,
+        "media_key": "3_1959618395357458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzH2jE6aMAAyjTr.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959618395357458432"
+          ]
+        },
+        "author_id": "1817821126640496640",
+        "conversation_id": "1959618400407491057",
+        "created_at": "2025-08-24T14:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959618400407491057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7Z5GWvDPU",
+              "end": 29,
+              "expanded_url": "https://x.com/MTNEKO123/status/1959618400407491057/photo/1",
+              "media_key": "3_1959618395357458432",
+              "start": 6,
+              "url": "https://t.co/k7Z5GWvDPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959618400407491057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 731,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃鸡吧 https://t.co/k7Z5GWvDPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 1749,
+          "like_count": 56861,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 6476
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 169cm 53kg｜面条一定要能吃✍️️✍️️✍️️｜极度社恐 / 社交障碍 / 泛性恋 / 缺爱b / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜互fo｜窝超级超级超级爱的宝宝❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 125,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958605792330096640/47TPiqrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 1958,
+          "like_count": 34563,
+          "listed_count": 6,
+          "media_count": 362,
+          "tweet_count": 4082
+        },
+        "username": "MTNEKO123",
+        "verified": true
+      }
+    ]
+  }
+}

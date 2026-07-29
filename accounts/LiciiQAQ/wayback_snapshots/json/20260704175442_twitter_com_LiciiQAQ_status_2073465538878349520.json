@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2073452421574234589",
+    "created_at": "2026-07-04T17:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073465538878349520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989031117111062528",
+          "start": 0,
+          "username": "kaionjiaoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073465538878349520",
+    "in_reply_to_user_id": "1989031117111062528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073452421574234589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaionjiaoi 圣剑，斩！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2073452421574234589",
+        "created_at": "2026-07-04T17:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073465538878349520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989031117111062528",
+              "start": 0,
+              "username": "kaionjiaoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073465538878349520",
+        "in_reply_to_user_id": "1989031117111062528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073452421574234589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaionjiaoi 圣剑，斩！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989031117111062528",
+        "conversation_id": "2073452421574234589",
+        "created_at": "2026-07-04T17:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073452421574234589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/2073416128278470984",
+              "start": 13,
+              "url": "https://t.co/2tcC5m5f4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073452421574234589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073416128278470984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到这种死蛆不图能行吗？ https://t.co/2tcC5m5f4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@Grinin_mark，♥️姐姐：@kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 2177,
+          "like_count": 121223,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 8342
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T18:02:46.000Z",
+        "description": "MtF/海洋生物/HRT.2024/永远十七岁/生日10.2/🚪8964/持证含糖/ADHD/rle进行中/来和我逛街/来玩ow/常驻南京/欢迎同类和我贴贴!/也欢迎同类约我旅行！/泛左翼激跨/❤️好宝宝好妹妹@LiciiQAQ/南京第一深情/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "1989031117111062528",
+        "location": "新祖尔法",
+        "name": "🪸Sea Aemone-葵🐠🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030685753781669889/Y5X9PT1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 110,
+          "like_count": 791,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "kaionjiaoi",
+        "verified": false
+      }
+    ]
+  }
+}

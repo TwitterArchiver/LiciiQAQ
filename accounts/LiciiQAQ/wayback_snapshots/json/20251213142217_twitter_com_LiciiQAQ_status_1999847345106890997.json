@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1999416049591255489",
+    "created_at": "2025-12-13T14:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T15:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999847345106890997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944413509401640960",
+          "start": 0,
+          "username": "Grinin_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999847345106890997",
+    "in_reply_to_user_id": "1944413509401640960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999844578585948231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grinin_mark 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1999416049591255489",
+        "created_at": "2025-12-13T14:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999847345106890997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944413509401640960",
+              "start": 0,
+              "username": "Grinin_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999847345106890997",
+        "in_reply_to_user_id": "1944413509401640960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999844578585948231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grinin_mark 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944413509401640960",
+        "conversation_id": "1999416049591255489",
+        "created_at": "2025-12-13T14:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999844578585948231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999844578585948231",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999416049591255489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 笨蛋……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 2087,
+          "like_count": 93523,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 7826
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:08:18.000Z",
+        "description": "|| 某年从炸柜党进化成家长党 || INFP-T || 168cm 52kg || 免费闲聊 || 好无聊 || hrt2023.8.3 ||泛性恋 || 肌肤渴求 || 最好的朋友@miromirofox7 @Sliverysummer || 最喜欢的人@didijn471877 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 92,
+                "username": "miromirofox7"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Sliverysummer"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "didijn471877"
+              }
+            ]
+          }
+        },
+        "id": "1944413509401640960",
+        "location": "江苏省 无锡",
+        "name": "Grin🍥",
+        "pinned_tweet_id": "1956140315305501028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955240735504207874/sPFWd7-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 112,
+          "like_count": 3792,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 388
+        },
+        "username": "Grinin_mark",
+        "verified": false
+      }
+    ]
+  }
+}

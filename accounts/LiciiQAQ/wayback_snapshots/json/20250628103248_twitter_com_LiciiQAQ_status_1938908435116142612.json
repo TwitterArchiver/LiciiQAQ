@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938908402337419264"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938908435116142612",
+    "created_at": "2025-06-28T10:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938908435116142612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Okk1NH8BB",
+          "end": 59,
+          "expanded_url": "https://x.com/LiciiQAQ/status/1938908435116142612/photo/1",
+          "media_key": "3_1938908402337419264",
+          "start": 36,
+          "url": "https://t.co/5Okk1NH8BB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938908435116142612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 396,
+      "like_count": 26,
+      "quote_count": 0,
+      "reply_count": 7,
+      "retweet_count": 1
+    },
+    "reply_settings": "everyone",
+    "text": "悲报：\n今天中午开票煮波拼尽全力30分钟无法战胜，这下不去了bw力（倒 https://t.co/5Okk1NH8BB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 96,
+        "media_key": "3_1938908402337419264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guhi601XkAADNUa.jpg",
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938908402337419264"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938908435116142612",
+        "created_at": "2025-06-28T10:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938908435116142612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Okk1NH8BB",
+              "end": 59,
+              "expanded_url": "https://x.com/LiciiQAQ/status/1938908435116142612/photo/1",
+              "media_key": "3_1938908402337419264",
+              "start": 36,
+              "url": "https://t.co/5Okk1NH8BB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938908435116142612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：\n今天中午开票煮波拼尽全力30分钟无法战胜，这下不去了bw力（倒 https://t.co/5Okk1NH8BB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1194,
+          "like_count": 34175,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4073
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

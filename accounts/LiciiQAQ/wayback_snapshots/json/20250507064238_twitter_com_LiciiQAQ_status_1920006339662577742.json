@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919417124621316581",
+    "created_at": "2025-05-07T06:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T07:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920006339662577742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "Oktavia_Majo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920006339662577742",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920001605774250227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oktavia_Majo 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919417124621316581",
+        "created_at": "2025-05-07T06:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920006339662577742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "Oktavia_Majo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920006339662577742",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920001605774250227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oktavia_Majo 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908086926391033856",
+        "conversation_id": "1919417124621316581",
+        "created_at": "2025-05-07T06:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T07:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920001605774250227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920001605774250227",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919417124621316581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 小尿娘 草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 760,
+          "like_count": 13538,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 2015
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "米娜桑我是见习魔女织莉子，希望能给大家带来安慰和快乐，平时学点心理学和精神分析。明天会更好吗 TG:https://t.co/IwFQUu4BYN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+2cARZ7y6_rRhO…",
+                "end": 73,
+                "expanded_url": "https://t.me/+2cARZ7y6_rRhODJl",
+                "start": 50,
+                "url": "https://t.co/IwFQUu4BYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Yuutsuorico",
+                "end": 23,
+                "expanded_url": "https://t.me/Yuutsuorico",
+                "start": 0,
+                "url": "https://t.co/0u3AQdJbmH"
+              }
+            ]
+          }
+        },
+        "id": "1908086926391033856",
+        "location": "Central Region, Singapore",
+        "name": "見習い魔女织莉子 🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919320204645158912/Kuaqf7eZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 856,
+          "like_count": 5899,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/0u3AQdJbmH",
+        "username": "Oktavia_Majo",
+        "verified": true
+      }
+    ]
+  }
+}

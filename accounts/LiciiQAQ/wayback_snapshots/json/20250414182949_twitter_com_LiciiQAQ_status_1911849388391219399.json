@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1911727698206183808",
+    "created_at": "2025-04-14T18:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T19:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911849388391219399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1794942592297455616",
+          "start": 0,
+          "username": "DanT4rt"
+        },
+        {
+          "end": 23,
+          "id": "1878437340852707328",
+          "start": 9,
+          "username": "ran_amatsuka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911849388391219399",
+    "in_reply_to_user_id": "1794942592297455616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911727698206183808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanT4rt @ran_amatsuka_ 羡慕w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24500,
+        "height": 800,
+        "media_key": "7_1911727608380723200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1911727608380723200/pu/img/IlxYPKqpk_plwaiI.jpg",
+        "public_metrics": {
+          "view_count": 270
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911727608380723200/pu/vid/avc1/320x354/9Wq4Pmq9r_D89EV2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911727608380723200/pu/vid/avc1/480x532/0tyexRGOGxNXZf-B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1911727608380723200/pu/vid/avc1/720x800/nf6P7QHoqCSkD_a5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1911727608380723200/pu/pl/Xs_8zcAHIG-SwTt_.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1911727698206183808",
+        "created_at": "2025-04-14T18:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T19:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911849388391219399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1794942592297455616",
+              "start": 0,
+              "username": "DanT4rt"
+            },
+            {
+              "end": 23,
+              "id": "1878437340852707328",
+              "start": 9,
+              "username": "ran_amatsuka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911849388391219399",
+        "in_reply_to_user_id": "1794942592297455616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911727698206183808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanT4rt @ran_amatsuka_ 羡慕w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1911727608380723200"
+          ]
+        },
+        "author_id": "1794942592297455616",
+        "conversation_id": "1911727698206183808",
+        "created_at": "2025-04-14T10:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911727698206183808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "NSFW"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "正太"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "男娘"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "伪娘"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "偽娘"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "男の娘"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "娼年"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "男の娘"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "男の子"
+            },
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "绒布球"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1878437340852707328",
+              "start": 4,
+              "username": "ran_amatsuka_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVV9dByJfg",
+              "end": 140,
+              "expanded_url": "https://x.com/DanT4rt/status/1911727698206183808/video/1",
+              "media_key": "7_1911727608380723200",
+              "start": 117,
+              "url": "https://t.co/aVV9dByJfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911727698206183808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 799,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "被阿蓝(@ran_amatsuka_)的大肉棒狠狠欺负前，最后拍一段现在还紧致着的小穴……  \n\n#NSFW #正太 #可爱的男孩子  #男娘 #伪娘 #小狗日记 #偽娘  #男の娘  #娼年 #男の娘 #男の子 #绒布球 #mtf https://t.co/aVV9dByJfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 592,
+          "like_count": 8040,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1092
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T04:04:19.000Z",
+        "description": "『04/166cm/57kg/水仙/跨性别/MTF/同类或路人缘好的可以互关/Hrt起始日2020.12.18日/打男娘tag是我缺钱不要骂我/目前不收门槛但纯绿/因为要还债急需打赏/谢谢你们^•͈༝•^』",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dant4rt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dant4rt",
+                "start": 0,
+                "url": "https://t.co/Abe0BsA7bd"
+              }
+            ]
+          }
+        },
+        "id": "1794942592297455616",
+        "location": "我家烤箱",
+        "name": "菠萝蛋挞大王🏳️‍⚧️ （互fo互推）",
+        "pinned_tweet_id": "1911727698206183808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910839560595996672/GcsdeesL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 73,
+          "like_count": 248,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/Abe0BsA7bd",
+        "username": "DanT4rt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:42:24.000Z",
+        "description": "🔞NSFW ｜ a femboy from CN🇨🇳｜ENFP｜文援、娼年、催眠师、虚拟男友、小穴老师、拜金小狗♡阿蓝｜图包绝赞出售中，也提供文援服务和男娘催眠服务♡，原味也卖♡也接各种视频图包定制♡欢迎来多多捧场♡｜不含糖🍬｜看色图请点媒体｜只和男生/伪娘互推互粉♡",
+        "id": "1878437340852707328",
+        "location": "距您1. 4㎞",
+        "name": "✝福音天使夕月蓝✝（求互推）",
+        "pinned_tweet_id": "1905509166937932253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891475652869750784/cMhQ78ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6099,
+          "following_count": 233,
+          "like_count": 1005,
+          "listed_count": 16,
+          "media_count": 49,
+          "tweet_count": 767
+        },
+        "username": "ran_amatsuka_",
+        "verified": false
+      }
+    ]
+  }
+}

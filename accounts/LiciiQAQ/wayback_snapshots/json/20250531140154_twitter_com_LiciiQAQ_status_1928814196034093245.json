@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1928814196034093245",
+    "created_at": "2025-05-31T14:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T15:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928814196034093245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886330442657214465",
+          "start": 3,
+          "username": "HHH2309nyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928814196034093245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928719490834907352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HHH2309nyan: 搞一个抽奖喵\n\n一等奖 50RMB 共一个\n二等奖 20RMB 共两个\n三等奖 5RMB 共三个\n神秘奖项 15RMB 共一个\n参与方式 关注+转帖+填写Forms表单(其中所填写的神秘数字会对神秘奖项产生影响)\n\n截止日期：看心情\n\nhttp…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1928814196034093245",
+        "created_at": "2025-05-31T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928814196034093245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886330442657214465",
+              "start": 3,
+              "username": "HHH2309nyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928814196034093245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928719490834907352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HHH2309nyan: 搞一个抽奖喵\n\n一等奖 50RMB 共一个\n二等奖 20RMB 共两个\n三等奖 5RMB 共三个\n神秘奖项 15RMB 共一个\n参与方式 关注+转帖+填写Forms表单(其中所填写的神秘数字会对神秘奖项产生影响)\n\n截止日期：看心情\n\nhttp…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886330442657214465",
+        "conversation_id": "1928719490834907352",
+        "created_at": "2025-05-31T07:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T08:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928719490834907352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "喵",
+              "display_url": "forms.office.com/r/80dNP98d02",
+              "end": 141,
+              "expanded_url": "https://forms.office.com/r/80dNP98d02",
+              "images": [
+                {
+                  "height": 192,
+                  "url": "https://pbs.twimg.com/news_img/1928719491959058432/fYBlxoNW?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1928719491959058432/fYBlxoNW?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 118,
+              "status": 200,
+              "title": "Fill | 猫猫的抽奖喵",
+              "unwound_url": "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACR4wd5UMUJQT0g0RzMyUksySUFQVjAyOURCVUMzMC4u&route=shorturl",
+              "url": "https://t.co/b9mIYet8Dc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928719490834907352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "搞一个抽奖喵\n\n一等奖 50RMB 共一个\n二等奖 20RMB 共两个\n三等奖 5RMB 共三个\n神秘奖项 15RMB 共一个\n参与方式 关注+转帖+填写Forms表单(其中所填写的神秘数字会对神秘奖项产生影响)\n\n截止日期：看心情\n\nhttps://t.co/b9mIYet8Dc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 956,
+          "like_count": 22193,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 3034
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T08:27:13.000Z",
+        "description": "苦逼高中生|OIer|家实党|友跨🏳️‍⚧️|或许是MtX|喜欢一切可爱的东西\n祝你生活愉快！\n互fo喵喵\nhttps://t.co/XjEHnVuXHq\nhttps://t.co/NTzSRTUFyG（未完成）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "oiermeow.love",
+                "end": 77,
+                "expanded_url": "http://oiermeow.love",
+                "start": 54,
+                "url": "https://t.co/XjEHnVuXHq"
+              },
+              {
+                "display_url": "hhh2309.github.io",
+                "end": 101,
+                "expanded_url": "https://hhh2309.github.io/",
+                "start": 78,
+                "url": "https://t.co/NTzSRTUFyG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oiermeow.love",
+                "end": 23,
+                "expanded_url": "http://oiermeow.love",
+                "start": 0,
+                "url": "https://t.co/XjEHnVuXHq"
+              }
+            ]
+          }
+        },
+        "id": "1886330442657214465",
+        "location": "喵星！",
+        "name": "HHH2309",
+        "pinned_tweet_id": "1921562532063408222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886330590829613056/0gDUuvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 419,
+          "like_count": 1116,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/XjEHnVuXHq",
+        "username": "HHH2309nyan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1926245174742511880",
+    "created_at": "2025-05-24T13:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T14:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926275594452406515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1883158410700746752",
+          "start": 0,
+          "username": "alienwuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926275594452406515",
+    "in_reply_to_user_id": "1883158410700746752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926245174742511880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alienwuwu 抱抱🥺\n（窝也偷偷买的、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1926245174742511880",
+        "created_at": "2025-05-24T13:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T14:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926275594452406515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1883158410700746752",
+              "start": 0,
+              "username": "alienwuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926275594452406515",
+        "in_reply_to_user_id": "1883158410700746752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926245174742511880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alienwuwu 抱抱🥺\n（窝也偷偷买的、"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883158410700746752",
+        "conversation_id": "1926245174742511880",
+        "created_at": "2025-05-24T11:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926245174742511880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liciiqaq/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/liciiqaq/status/1926178823705333917",
+              "start": 26,
+              "url": "https://t.co/Xagcyf40w9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926245174742511880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926178823705333917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等本呜呜离家出走惹也试试（好羡慕可以买玩具的，喵呜 https://t.co/Xagcyf40w9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 883,
+          "like_count": 18764,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 2684
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T14:22:26.000Z",
+        "description": "想看高能量内容可以康康 @productivewuwu.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "productivewuwu"
+              }
+            ]
+          }
+        },
+        "id": "1883158410700746752",
+        "location": "Moon",
+        "name": "呜呜",
+        "pinned_tweet_id": "1914306741074039164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912889755064532993/4mgitBN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 439,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 877
+        },
+        "username": "alienwuwu",
+        "verified": true
+      }
+    ]
+  }
+}

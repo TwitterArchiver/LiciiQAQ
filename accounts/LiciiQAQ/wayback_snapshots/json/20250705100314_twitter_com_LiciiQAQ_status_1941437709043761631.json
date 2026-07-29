@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941417036263088240",
+    "created_at": "2025-07-05T10:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T11:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941437709043761631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1850683970889076736",
+          "start": 0,
+          "username": "xyamzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941437709043761631",
+    "in_reply_to_user_id": "1850683970889076736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941430217731678403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyamzw 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941417036263088240",
+        "created_at": "2025-07-05T10:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T11:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941437709043761631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1850683970889076736",
+              "start": 0,
+              "username": "xyamzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941437709043761631",
+        "in_reply_to_user_id": "1850683970889076736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941430217731678403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyamzw 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850683970889076736",
+        "conversation_id": "1941417036263088240",
+        "created_at": "2025-07-05T09:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941430217731678403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941430217731678403",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941417036263088240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 没事，很厉害啦，咱还没你考的高呢🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yyc20090"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1264,
+          "like_count": 36893,
+          "listed_count": 4,
+          "media_count": 229,
+          "tweet_count": 4400
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T23:41:49.000Z",
+        "description": "18 y.o | Front-End Developer | ZH/EN | ACGN & Life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyamzw.top",
+                "end": 23,
+                "expanded_url": "http://xyamzw.top",
+                "start": 0,
+                "url": "https://t.co/Nx5ZEzIODH"
+              }
+            ]
+          }
+        },
+        "id": "1850683970889076736",
+        "name": "未觉寻星",
+        "pinned_tweet_id": "1930186846446989636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930193317159153664/BCjcUlx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 134,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/Nx5ZEzIODH",
+        "username": "xyamzw",
+        "verified": false
+      }
+    ]
+  }
+}

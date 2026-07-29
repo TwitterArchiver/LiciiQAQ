@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908452553370861568"
+      ],
+      "media_source_tweet_id": [
+        "1908452587122397290"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1908698095833276860",
+    "created_at": "2025-04-06T01:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T02:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908698095833276860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "991568730785103872",
+          "start": 3,
+          "username": "C1_S2_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZYjoKpEdG",
+          "end": 41,
+          "expanded_url": "https://x.com/C1_S2_/status/1908452587122397290/photo/1",
+          "media_key": "3_1908452553370861568",
+          "start": 18,
+          "url": "https://t.co/bZYjoKpEdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908698095833276860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 613
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908452587122397290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @C1_S2_: 隠さないと https://t.co/bZYjoKpEdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2300,
+        "media_key": "3_1908452553370861568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnwvfGJbgAArXiD.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908452553370861568"
+          ],
+          "media_source_tweet_id": [
+            "1908452587122397290"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1908698095833276860",
+        "created_at": "2025-04-06T01:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T02:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908698095833276860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "991568730785103872",
+              "start": 3,
+              "username": "C1_S2_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZYjoKpEdG",
+              "end": 41,
+              "expanded_url": "https://x.com/C1_S2_/status/1908452587122397290/photo/1",
+              "media_key": "3_1908452553370861568",
+              "start": 18,
+              "url": "https://t.co/bZYjoKpEdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908698095833276860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 613
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908452587122397290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @C1_S2_: 隠さないと https://t.co/bZYjoKpEdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908452553370861568"
+          ]
+        },
+        "author_id": "991568730785103872",
+        "conversation_id": "1908452587122397290",
+        "created_at": "2025-04-05T09:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T10:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908452587122397290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZYjoKpEdG",
+              "end": 29,
+              "expanded_url": "https://x.com/C1_S2_/status/1908452587122397290/photo/1",
+              "media_key": "3_1908452553370861568",
+              "start": 6,
+              "url": "https://t.co/bZYjoKpEdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908452587122397290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 78139,
+          "like_count": 6374,
+          "quote_count": 27,
+          "reply_count": 0,
+          "retweet_count": 613
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "隠さないと https://t.co/bZYjoKpEdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 507,
+          "like_count": 6109,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 821
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-02T06:43:02.000Z",
+        "description": "",
+        "id": "991568730785103872",
+        "location": "幸せです",
+        "name": "寝",
+        "pinned_tweet_id": "1828342634840293802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893518822201499648/JXfANFS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76777,
+          "following_count": 10,
+          "like_count": 13473,
+          "listed_count": 281,
+          "media_count": 35,
+          "tweet_count": 57
+        },
+        "username": "C1_S2_",
+        "verified": false
+      }
+    ]
+  }
+}

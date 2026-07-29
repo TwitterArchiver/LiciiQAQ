@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1942384187820105898",
+    "created_at": "2025-07-08T00:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T01:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942387061505360182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487563847602900992",
+          "start": 0,
+          "username": "duxiangwan4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942387061505360182",
+    "in_reply_to_user_id": "1487563847602900992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942384187820105898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxiangwan4 内圈贴贴🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1942384183311314944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS8H5-bsAAxz8o.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1942384187820105898",
+        "created_at": "2025-07-08T00:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942387061505360182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487563847602900992",
+              "start": 0,
+              "username": "duxiangwan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942387061505360182",
+        "in_reply_to_user_id": "1487563847602900992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942384187820105898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxiangwan4 内圈贴贴🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942384183311314944"
+          ]
+        },
+        "author_id": "1487563847602900992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1942384187820105898",
+        "created_at": "2025-07-08T00:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942384187820105898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/4VUyf5NDvq"
+            },
+            {
+              "display_url": "pic.x.com/AphOCxBgdn",
+              "end": 64,
+              "expanded_url": "https://x.com/duxiangwan4/status/1942384187820105898/photo/1",
+              "media_key": "3_1942384183311314944",
+              "start": 41,
+              "url": "https://t.co/AphOCxBgdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942384187820105898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/4VUyf5NDvq https://t.co/AphOCxBgdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 1298,
+          "like_count": 37445,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 4514
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T23:10:42.000Z",
+        "description": "待我长发及腰，娶我可好",
+        "id": "1487563847602900992",
+        "name": "🍥陌然🇨🇳🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941702376554950656/BZo2AT4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 40,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 225
+        },
+        "username": "duxiangwan4",
+        "verified": false
+      }
+    ]
+  }
+}

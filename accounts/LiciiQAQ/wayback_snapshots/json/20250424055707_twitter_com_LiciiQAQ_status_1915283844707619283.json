@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1914944100199243905",
+    "created_at": "2025-04-24T05:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T06:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915283844707619283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853293374889136128",
+          "start": 0,
+          "username": "gimanother"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915283844707619283",
+    "in_reply_to_user_id": "1853293374889136128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914944100199243905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimanother 好大欸，，🤤\n（关注点错误x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1914944083161964544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpM_f3Ga4AAmoo-.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1914944100199243905",
+        "created_at": "2025-04-24T05:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T06:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915283844707619283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853293374889136128",
+              "start": 0,
+              "username": "gimanother"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915283844707619283",
+        "in_reply_to_user_id": "1853293374889136128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914944100199243905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimanother 好大欸，，🤤\n（关注点错误x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914944083161964544"
+          ]
+        },
+        "author_id": "1853293374889136128",
+        "conversation_id": "1914944100199243905",
+        "created_at": "2025-04-23T07:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T08:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914944100199243905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/az6EEWjHnR",
+              "end": 26,
+              "expanded_url": "https://x.com/gimanother/status/1914944100199243905/photo/1",
+              "media_key": "3_1914944083161964544",
+              "start": 3,
+              "url": "https://t.co/az6EEWjHnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914944100199243905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 613,
+          "impression_count": 220278,
+          "like_count": 4441,
+          "quote_count": 5,
+          "reply_count": 87,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "肥硕 https://t.co/az6EEWjHnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 673,
+          "like_count": 10165,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1458
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853311066996162560/VyGivQK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 218,
+          "like_count": 12609,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1576
+        },
+        "username": "gimanother",
+        "verified": false
+      }
+    ]
+  }
+}

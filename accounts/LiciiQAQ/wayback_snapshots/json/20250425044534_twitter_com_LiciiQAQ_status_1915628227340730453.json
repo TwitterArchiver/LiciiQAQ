@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914326786613092352"
+      ],
+      "media_source_tweet_id": [
+        "1914327198200222126"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1915628227340730453",
+    "created_at": "2025-04-25T04:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T05:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915628227340730453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1892772975025541120",
+          "start": 3,
+          "username": "Carpantino912"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RGJ4tZgs7v",
+          "end": 56,
+          "expanded_url": "https://x.com/Carpantino912/status/1914327198200222126/video/1",
+          "media_key": "13_1914326786613092352",
+          "start": 33,
+          "url": "https://t.co/RGJ4tZgs7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915628227340730453",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2675
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914327198200222126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Carpantino912: Teto oo ee oo https://t.co/RGJ4tZgs7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59350,
+        "height": 1912,
+        "media_key": "13_1914326786613092352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914326786613092352/img/J79LjqdjMB5LQ1VH.jpg",
+        "public_metrics": {
+          "view_count": 175608
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914326786613092352/vid/avc1/320x566/XwCFv6UNEQWWc6cm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914326786613092352/vid/avc1/480x848/Z0iAb91dKdv003oN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914326786613092352/vid/avc1/720x1274/SwtAQXs_kKHIrY87.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914326786613092352/pl/OV0uuRJ_J7BMa3H0.m3u8?tag=14&v=d39"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914326786613092352"
+          ],
+          "media_source_tweet_id": [
+            "1914327198200222126"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1915628227340730453",
+        "created_at": "2025-04-25T04:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T05:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915628227340730453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1892772975025541120",
+              "start": 3,
+              "username": "Carpantino912"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGJ4tZgs7v",
+              "end": 56,
+              "expanded_url": "https://x.com/Carpantino912/status/1914327198200222126/video/1",
+              "media_key": "13_1914326786613092352",
+              "start": 33,
+              "url": "https://t.co/RGJ4tZgs7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915628227340730453",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2675
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914327198200222126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Carpantino912: Teto oo ee oo https://t.co/RGJ4tZgs7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914326786613092352"
+          ]
+        },
+        "author_id": "1892772975025541120",
+        "conversation_id": "1914327198200222126",
+        "created_at": "2025-04-21T14:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914327198200222126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGJ4tZgs7v",
+              "end": 37,
+              "expanded_url": "https://x.com/Carpantino912/status/1914327198200222126/video/1",
+              "media_key": "13_1914326786613092352",
+              "start": 14,
+              "url": "https://t.co/RGJ4tZgs7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914327198200222126",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5536,
+          "impression_count": 123609,
+          "like_count": 20605,
+          "quote_count": 71,
+          "reply_count": 64,
+          "retweet_count": 2675
+        },
+        "reply_settings": "everyone",
+        "text": "Teto oo ee oo https://t.co/RGJ4tZgs7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 675,
+          "like_count": 10382,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1490
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T03:07:12.000Z",
+        "description": "subo memes de Kasane Teto 🍐\nme gustan las milanesas",
+        "id": "1892772975025541120",
+        "name": "teto comiendo milanesas",
+        "pinned_tweet_id": "1915506789988126783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912262192277147648/Y4uks5rJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6540,
+          "following_count": 4031,
+          "like_count": 38760,
+          "listed_count": 2,
+          "media_count": 642,
+          "tweet_count": 3776
+        },
+        "username": "Carpantino912",
+        "verified": false
+      }
+    ]
+  }
+}

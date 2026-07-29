@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1926178823705333917",
+    "created_at": "2025-05-26T07:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T08:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926909768691564758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915099918189867008",
+          "start": 0,
+          "username": "SenronBanka0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926909768691564758",
+    "in_reply_to_user_id": "1915099918189867008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926909476247855254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SenronBanka0721 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1926178823705333917",
+        "created_at": "2025-05-26T07:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T08:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926909768691564758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915099918189867008",
+              "start": 0,
+              "username": "SenronBanka0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926909768691564758",
+        "in_reply_to_user_id": "1915099918189867008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926909476247855254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenronBanka0721 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915099918189867008",
+        "conversation_id": "1926178823705333917",
+        "created_at": "2025-05-26T07:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T08:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926909476247855254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926909476247855254",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926178823705333917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 899,
+          "like_count": 19566,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 2773
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T17:46:36.000Z",
+        "description": "无语",
+        "id": "1915099918189867008",
+        "location": "Pasir Ris, Singapore🇸🇬",
+        "name": "叢我雨籍 茉我子籍",
+        "pinned_tweet_id": "1916927605779165208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915100316514619392/lpC36_36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 430,
+          "like_count": 2322,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1006
+        },
+        "username": "SenronBanka0721",
+        "verified": false
+      }
+    ]
+  }
+}

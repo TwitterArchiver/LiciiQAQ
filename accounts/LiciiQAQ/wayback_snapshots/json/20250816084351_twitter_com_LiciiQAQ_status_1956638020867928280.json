@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1956593533466685544",
+    "created_at": "2025-08-16T08:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T09:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956638020867928280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764149440133447680",
+          "start": 0,
+          "username": "RinTka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956638020867928280",
+    "in_reply_to_user_id": "1764149440133447680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956608664116301833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinTka8964 应该是稳定情绪抗抑郁这种（？\n有抑郁医生给开的这个来着，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1956593533466685544",
+        "created_at": "2025-08-16T08:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T09:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956638020867928280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764149440133447680",
+              "start": 0,
+              "username": "RinTka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956638020867928280",
+        "in_reply_to_user_id": "1764149440133447680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956608664116301833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinTka8964 应该是稳定情绪抗抑郁这种（？\n有抑郁医生给开的这个来着，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764149440133447680",
+        "conversation_id": "1956593533466685544",
+        "created_at": "2025-08-16T06:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T07:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956608664116301833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956608664116301833",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956593533466685544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 这药干啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1671,
+          "like_count": 52982,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 6207
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T04:43:06.000Z",
+        "description": "战斗仍将继续....?坚定守着，就有办法!\n也许是个重度焦虑?",
+        "id": "1764149440133447680",
+        "location": "布里亚特",
+        "name": "理想奈",
+        "pinned_tweet_id": "1954564577632596385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946629073976864768/CBvhvm37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 353,
+          "like_count": 31769,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 6579
+        },
+        "username": "RinTka8964",
+        "verified": false
+      }
+    ]
+  }
+}

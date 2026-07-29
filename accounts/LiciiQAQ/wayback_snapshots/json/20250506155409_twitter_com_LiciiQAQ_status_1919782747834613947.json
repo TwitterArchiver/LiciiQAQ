@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919611681434480805",
+    "created_at": "2025-05-06T15:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919782747834613947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798017061131874304",
+          "start": 0,
+          "username": "cupric_oxide_"
+        },
+        {
+          "end": 29,
+          "id": "1856829734136811523",
+          "start": 15,
+          "username": "qhmm_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919782747834613947",
+    "in_reply_to_user_id": "1798017061131874304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919695199804260850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupric_oxide_ @qhmm_official 问问hk版的怎么用（好奇，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919611681434480805",
+        "created_at": "2025-05-06T15:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919782747834613947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            },
+            {
+              "end": 29,
+              "id": "1856829734136811523",
+              "start": 15,
+              "username": "qhmm_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919782747834613947",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919695199804260850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ @qhmm_official 问问hk版的怎么用（好奇，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "1919611681434480805",
+        "created_at": "2025-05-06T10:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T11:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919695199804260850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1856829734136811523",
+              "start": 0,
+              "username": "qhmm_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919695199804260850",
+        "in_reply_to_user_id": "1856829734136811523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 927,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919611681434480805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qhmm_official 支付宝\n诶等等AlipayHK算墙内app吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 758,
+          "like_count": 13363,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1985
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "穹璃：@Qiongli_Baka\n此方： @ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Qiongli_Baka"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cupric_oxide",
+                "end": 23,
+                "expanded_url": "http://t.me/Cupric_oxide",
+                "start": 0,
+                "url": "https://t.co/HwmInSlC9M"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1911043718855213290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1240,
+          "like_count": 24750,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 4330
+        },
+        "url": "https://t.co/HwmInSlC9M",
+        "username": "cupric_oxide_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T22:41:44.000Z",
+        "description": "願天上的每個星星都能成為璀璨星光……",
+        "id": "1856829734136811523",
+        "name": "晴海喵酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904024866925203456/WuIcp2Cb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 72,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "qhmm_official",
+        "verified": false
+      }
+    ]
+  }
+}

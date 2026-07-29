@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943940143532191745"
+      ],
+      "media_source_tweet_id": [
+        "1943940146547589504"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1943957576636662104",
+    "created_at": "2025-07-12T08:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T09:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943957576636662104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1927770770874454020",
+          "start": 3,
+          "username": "zhngqiu149175"
+        },
+        {
+          "end": 30,
+          "id": "1695649420539219968",
+          "start": 21,
+          "username": "LiciiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cdELhzbn9t",
+          "end": 60,
+          "expanded_url": "https://x.com/zhngqiu149175/status/1943940146547589504/photo/1",
+          "media_key": "3_1943940143532191745",
+          "start": 37,
+          "url": "https://t.co/cdELhzbn9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943957576636662104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943940146547589504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngqiu149175: 谢谢@LiciiQAQ的雌二醇凝胶 https://t.co/cdELhzbn9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1943940143532191745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvpDQtfbsAEbmhc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943940143532191745"
+          ],
+          "media_source_tweet_id": [
+            "1943940146547589504"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943957576636662104",
+        "created_at": "2025-07-12T08:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T09:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943957576636662104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1927770770874454020",
+              "start": 3,
+              "username": "zhngqiu149175"
+            },
+            {
+              "end": 30,
+              "id": "1695649420539219968",
+              "start": 21,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdELhzbn9t",
+              "end": 60,
+              "expanded_url": "https://x.com/zhngqiu149175/status/1943940146547589504/photo/1",
+              "media_key": "3_1943940143532191745",
+              "start": 37,
+              "url": "https://t.co/cdELhzbn9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943957576636662104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943940146547589504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngqiu149175: 谢谢@LiciiQAQ的雌二醇凝胶 https://t.co/cdELhzbn9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943940143532191745"
+          ]
+        },
+        "author_id": "1927770770874454020",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943940146547589504",
+        "created_at": "2025-07-12T07:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T08:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943940146547589504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695649420539219968",
+              "start": 2,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdELhzbn9t",
+              "end": 41,
+              "expanded_url": "https://x.com/zhngqiu149175/status/1943940146547589504/photo/1",
+              "media_key": "3_1943940143532191745",
+              "start": 18,
+              "url": "https://t.co/cdELhzbn9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943940146547589504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@LiciiQAQ的雌二醇凝胶 https://t.co/cdELhzbn9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 1318,
+          "like_count": 39295,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 4685
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T16:56:23.000Z",
+        "description": "这世上的路有许多条，而每个人都有属于自己的那条。",
+        "id": "1927770770874454020",
+        "name": "hope🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935705608906571776/q-cmNDo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 186,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "zhngqiu149175",
+        "verified": false
+      }
+    ]
+  }
+}

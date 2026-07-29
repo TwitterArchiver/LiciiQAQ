@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1941118682635329571",
+    "created_at": "2025-07-05T18:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T19:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941565532802777374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1467095282982793217",
+          "start": 0,
+          "username": "er_catmao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941565532802777374",
+    "in_reply_to_user_id": "1467095282982793217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941483971239698466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_catmao 是处方药（\n……就抗焦虑，然后有点晕晕的那种（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1941118682635329571",
+        "created_at": "2025-07-05T18:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T19:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941565532802777374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1467095282982793217",
+              "start": 0,
+              "username": "er_catmao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941565532802777374",
+        "in_reply_to_user_id": "1467095282982793217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941483971239698466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_catmao 是处方药（\n……就抗焦虑，然后有点晕晕的那种（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467095282982793217",
+        "conversation_id": "1941118682635329571",
+        "created_at": "2025-07-05T13:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941483971239698466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941483971239698466",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941442182323503455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 这个吃了什么效果，处方药吗👀好便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "yyc20090"
+              },
+              {
+                "end": 146,
+                "start": 130,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1281,
+          "like_count": 36981,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 4439
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T11:37:39.000Z",
+        "description": "瞎聊瞎看瞎说Ⅰ回foⅠ🍭23年3.11开始，7.9停🍭Ⅰ✨赫歇尔，星空合众国，星空文明前第18届总统，目前是大法官之一，东部和猫滨市长✨\n07，身高173，体重120，mtx或者f，不想聊政治，喜欢熟人，enfp，4i",
+        "id": "1467095282982793217",
+        "location": "赫歇尔星高川市赫歇城",
+        "name": "午睡の呆喵儿✨",
+        "pinned_tweet_id": "1624466097616588801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535819503493591040/XjAYmWGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 166,
+          "like_count": 11922,
+          "listed_count": 2,
+          "media_count": 420,
+          "tweet_count": 8396
+        },
+        "username": "er_catmao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1928440287526854981",
+    "created_at": "2025-05-30T13:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T14:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928440907210072090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853401698628448256",
+          "start": 0,
+          "username": "SchneeSchmit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928440907210072090",
+    "in_reply_to_user_id": "1853401698628448256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928440287526854981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SchneeSchmit 好可爱w"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928440287526854981].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928440287526854981",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928440287526854981"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1928440287526854981",
+        "created_at": "2025-05-30T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928440907210072090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853401698628448256",
+              "start": 0,
+              "username": "SchneeSchmit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928440907210072090",
+        "in_reply_to_user_id": "1853401698628448256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928440287526854981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SchneeSchmit 好可爱w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 939,
+          "like_count": 21592,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 2970
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T11:39:39.000Z",
+        "description": "前世 @SchneeSchmitt\n再強的外表, 也藏不住真實的自己...\n這裡是雪花貓的貓窩, 藏了深為不知人的事\n限熟悉推友(通常被此帳追蹤)可以申請訪問\n🍥27/12/2024斷續含糖小量od自殘+自閉症+不穩定抑鬱(求抱抱), 泛性戀，深櫃 🩵MtX🩷, INFP-T\n@CwuteMarikowo 的竉物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "CwuteMarikowo"
+              }
+            ]
+          }
+        },
+        "id": "1853401698628448256",
+        "location": "Madrid, España | 馬德里, 西班牙",
+        "name": "雪花 (日常區) 💕🏳️‍⚧️🍥🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927013173476880384/XwlWxYBk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 369,
+          "like_count": 21540,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2105
+        },
+        "username": "SchneeSchmit",
+        "verified": false
+      }
+    ]
+  }
+}

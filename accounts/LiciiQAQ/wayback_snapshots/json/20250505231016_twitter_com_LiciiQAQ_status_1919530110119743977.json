@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1919478045422845967",
+    "created_at": "2025-05-05T23:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T00:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919530110119743977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919530110119743977",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919524992200671708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 （抱走）🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1919478045422845967",
+        "created_at": "2025-05-05T23:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T00:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919530110119743977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919530110119743977",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919524992200671708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 （抱走）🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1919478045422845967",
+        "created_at": "2025-05-05T22:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T23:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919524992200671708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919524992200671708",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919478045422845967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 抓我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 744,
+          "like_count": 13030,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1914
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX🍥/\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyn-publiic.vercel.app",
+                "end": 23,
+                "expanded_url": "https://zyn-publiic.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/j7lBh9ksyI"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1911992905205506501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907085794097209344/EnDfqh1m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 2732,
+          "like_count": 30204,
+          "listed_count": 2,
+          "media_count": 746,
+          "tweet_count": 5376
+        },
+        "url": "https://t.co/j7lBh9ksyI",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

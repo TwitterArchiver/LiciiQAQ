@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1905835868260008215",
+    "created_at": "2025-03-30T01:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T02:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906164197685395861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734487694930329600",
+          "start": 0,
+          "username": "HuLuoBo0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906164197685395861",
+    "in_reply_to_user_id": "1734487694930329600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905835868260008215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuLuoBo0502 恭喜喵🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1905835865102020608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnLjnyua8AAagI3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1905835868260008215",
+        "created_at": "2025-03-30T01:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T02:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906164197685395861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734487694930329600",
+              "start": 0,
+              "username": "HuLuoBo0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906164197685395861",
+        "in_reply_to_user_id": "1734487694930329600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905835868260008215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuLuoBo0502 恭喜喵🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905835865102020608"
+          ]
+        },
+        "author_id": "1734487694930329600",
+        "conversation_id": "1905835868260008215",
+        "created_at": "2025-03-29T04:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T05:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905835868260008215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9WY7PH3Ib",
+              "end": 34,
+              "expanded_url": "https://x.com/HuLuoBo0502/status/1905835868260008215/photo/1",
+              "media_key": "3_1905835865102020608",
+              "start": 11,
+              "url": "https://t.co/R9WY7PH3Ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905835868260008215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3841,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "拿到鉴定结果了🥳🥳🥳 https://t.co/R9WY7PH3Ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 479,
+          "like_count": 4589,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 692
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T08:17:56.000Z",
+        "description": "1997大龄mtf丨坐标山东丨有5只猫丨发的推很杂，基本啥都有丨\n176丨63kg丨2018年底hrt丨2025.2.12SRS|老公 @DaHuiLangChi 丨\n住过精神病院丨双相情感障碍平稳期丨\n可以的话求个关注QAQ丨关注的话不是三无账号会互fo丨\n已出柜丨INFP丨喜欢蒸汽波另类摇滚迪斯科丨\n思维很跳丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "DaHuiLangChi"
+              }
+            ]
+          }
+        },
+        "id": "1734487694930329600",
+        "location": "暖乎乎的小被窝里",
+        "name": "🥕胡萝卜吃兔子啦🐰",
+        "pinned_tweet_id": "1892500423275090416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867494257285832704/2Spt4-NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 675,
+          "like_count": 6228,
+          "listed_count": 6,
+          "media_count": 545,
+          "tweet_count": 1663
+        },
+        "username": "HuLuoBo0502",
+        "verified": false
+      }
+    ]
+  }
+}

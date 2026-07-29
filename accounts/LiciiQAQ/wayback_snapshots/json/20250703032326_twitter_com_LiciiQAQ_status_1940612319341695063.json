@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1940454678934049253",
+    "created_at": "2025-07-03T03:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T04:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940612319341695063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789675507698778112",
+          "start": 0,
+          "username": "159357asd157039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940612319341695063",
+    "in_reply_to_user_id": "1789675507698778112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940602132169961626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@159357asd157039 豪🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1940454678934049253",
+        "created_at": "2025-07-03T03:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T04:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940612319341695063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789675507698778112",
+              "start": 0,
+              "username": "159357asd157039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940612319341695063",
+        "in_reply_to_user_id": "1789675507698778112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940602132169961626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@159357asd157039 豪🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789675507698778112",
+        "conversation_id": "1940454678934049253",
+        "created_at": "2025-07-03T02:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T03:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940602132169961626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940602132169961626",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940454678934049253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 超市你🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1230,
+          "like_count": 36029,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 4274
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T15:14:33.000Z",
+        "description": "cn黑瓷08年休学中，常驻哈尔滨，coser，散打运动员（练格斗管我女装什么事.JPG）平时喜欢骑行（JAVA idra）打舞萌（W1肺雾）钓鱼养爬虫和猫（提前进入退休生活）喜欢去一些废弃建筑探险，最爱玩的游戏是明日方舟，喜欢看灵异玄幻之类的小说，纯粹的理科生，没什么雷点啦，还是很随和的但有点呆呆的，希望同好扩列捏😋",
+        "id": "1789675507698778112",
+        "name": "自信舟批",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812730853736243200/QvmrmiwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 179,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 171
+        },
+        "username": "159357asd157039",
+        "verified": false
+      }
+    ]
+  }
+}

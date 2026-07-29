@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968379143734910977"
+      ],
+      "media_source_tweet_id": [
+        "1968379185879241052"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1968743509306794033",
+    "created_at": "2025-09-18T18:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T19:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968743509306794033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDuYbk9Mfq",
+          "end": 53,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1968379185879241052/photo/1",
+          "media_key": "3_1968379143734910977",
+          "start": 30,
+          "url": "https://t.co/JDuYbk9Mfq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968743509306794033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968379185879241052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: emmm其实都还好 https://t.co/JDuYbk9Mfq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_1968379143734910977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1EWZv2bYAEbxbS.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968379143734910977"
+          ],
+          "media_source_tweet_id": [
+            "1968379185879241052"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1968743509306794033",
+        "created_at": "2025-09-18T18:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968743509306794033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDuYbk9Mfq",
+              "end": 53,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1968379185879241052/photo/1",
+              "media_key": "3_1968379143734910977",
+              "start": 30,
+              "url": "https://t.co/JDuYbk9Mfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968743509306794033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968379185879241052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: emmm其实都还好 https://t.co/JDuYbk9Mfq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968379143734910977"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1968379185879241052",
+        "created_at": "2025-09-17T18:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968379185879241052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDuYbk9Mfq",
+              "end": 33,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1968379185879241052/photo/1",
+              "media_key": "3_1968379143734910977",
+              "start": 10,
+              "url": "https://t.co/JDuYbk9Mfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968379185879241052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9415,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "emmm其实都还好 https://t.co/JDuYbk9Mfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 1878,
+          "like_count": 65485,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 6876
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6980,
+          "following_count": 6493,
+          "like_count": 22942,
+          "listed_count": 15,
+          "media_count": 4741,
+          "tweet_count": 33102
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

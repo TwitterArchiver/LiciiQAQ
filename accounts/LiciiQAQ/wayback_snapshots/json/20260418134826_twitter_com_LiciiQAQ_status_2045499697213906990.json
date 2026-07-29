@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045492210469367808"
+      ],
+      "media_source_tweet_id": [
+        "2045499617983483968"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2045499697213906990",
+    "created_at": "2026-04-18T13:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045499697213906990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1860742128688857088",
+          "start": 3,
+          "username": "zhouxuanjiu2"
+        },
+        {
+          "end": 35,
+          "id": "1695649420539219968",
+          "start": 26,
+          "username": "LiciiQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SD7V6dzynT",
+          "end": 59,
+          "expanded_url": "https://x.com/zhouxuanjiu2/status/2045499617983483968/photo/1",
+          "media_key": "3_2045492210469367808",
+          "start": 36,
+          "url": "https://t.co/SD7V6dzynT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045499697213906990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045499617983483968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhouxuanjiu2: 我也要当地雷妹吗@LiciiQAQ https://t.co/SD7V6dzynT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045492210469367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMMU_Pa8AABZN9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045492210469367808"
+          ],
+          "media_source_tweet_id": [
+            "2045499617983483968"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2045499697213906990",
+        "created_at": "2026-04-18T13:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045499697213906990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860742128688857088",
+              "start": 3,
+              "username": "zhouxuanjiu2"
+            },
+            {
+              "end": 35,
+              "id": "1695649420539219968",
+              "start": 26,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SD7V6dzynT",
+              "end": 59,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2045499617983483968/photo/1",
+              "media_key": "3_2045492210469367808",
+              "start": 36,
+              "url": "https://t.co/SD7V6dzynT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045499697213906990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045499617983483968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhouxuanjiu2: 我也要当地雷妹吗@LiciiQAQ https://t.co/SD7V6dzynT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045492210469367808"
+          ]
+        },
+        "author_id": "1860742128688857088",
+        "conversation_id": "2045499617983483968",
+        "created_at": "2026-04-18T13:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:18:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045492252945138048",
+          "2045499617983483968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1695649420539219968",
+              "start": 8,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SD7V6dzynT",
+              "end": 41,
+              "expanded_url": "https://x.com/zhouxuanjiu2/status/2045499617983483968/photo/1",
+              "media_key": "3_2045492210469367808",
+              "start": 18,
+              "url": "https://t.co/SD7V6dzynT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045499617983483968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也要当地雷妹吗@LiciiQAQ https://t.co/SD7V6dzynT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 2178,
+          "like_count": 119195,
+          "listed_count": 3,
+          "media_count": 450,
+          "tweet_count": 8263
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T17:48:02.000Z",
+        "description": "男よ、来い｜Jpop爱好，广义二次元、绘画、吉他苦手｜INFP/ISFP｜性格恶劣、情绪不稳定｜可以和我交朋友，｜小杂鱼@LiciiQAQ｜闺蜜@Claireoyo｜买药找@TogawaMedical0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Claireoyo"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "TogawaMedical0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GUMOUXUAN",
+                "end": 23,
+                "expanded_url": "https://www.github.com/GUMOUXUAN",
+                "start": 0,
+                "url": "https://t.co/QgNGK9gUjI"
+              }
+            ]
+          }
+        },
+        "id": "1860742128688857088",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "璇_2🍥",
+        "pinned_tweet_id": "2043431647652331643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040455834787024896/obrN0Syw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 435,
+          "like_count": 2260,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/QgNGK9gUjI",
+        "username": "zhouxuanjiu2",
+        "verified": true
+      }
+    ]
+  }
+}

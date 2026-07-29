@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1898194191412609447",
+    "created_at": "2025-03-08T09:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T10:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898309814352298395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753644248979652608",
+          "start": 0,
+          "username": "Wrike630432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898309814352298395",
+    "in_reply_to_user_id": "1753644248979652608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898295948230754333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wrike630432 我也不知道，今天突然就涨了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1898194191412609447",
+        "created_at": "2025-03-08T09:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T10:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898309814352298395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753644248979652608",
+              "start": 0,
+              "username": "Wrike630432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898309814352298395",
+        "in_reply_to_user_id": "1753644248979652608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898295948230754333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wrike630432 我也不知道，今天突然就涨了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753644248979652608",
+        "conversation_id": "1898194191412609447",
+        "created_at": "2025-03-08T08:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T09:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898295948230754333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898295948230754333",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898194191412609447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 为什么你们涨粉这么快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 196,
+          "like_count": 699,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 164
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T04:59:14.000Z",
+        "description": "提问箱:https://t.co/jF1XJRdjkt\n互fo必回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wrike630423",
+                "end": 27,
+                "expanded_url": "https://ngl.link/wrike630423",
+                "start": 4,
+                "url": "https://t.co/jF1XJRdjkt"
+              }
+            ]
+          }
+        },
+        "id": "1753644248979652608",
+        "name": "该起床了小懒虫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794301240316461056/srVfsvjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 21,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 312
+        },
+        "username": "Wrike630432",
+        "verified": false
+      }
+    ]
+  }
+}

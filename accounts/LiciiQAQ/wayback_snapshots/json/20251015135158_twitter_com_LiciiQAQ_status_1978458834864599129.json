@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1978434476829970551",
+    "created_at": "2025-10-15T13:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T14:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978458834864599129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955850423904165913",
+          "start": 0,
+          "username": "Ammaaazzz_62com"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978458834864599129",
+    "in_reply_to_user_id": "1955850423904165913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978434476829970551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ammaaazzz_62com 别啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1978434476829970551",
+        "created_at": "2025-10-15T13:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T14:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978458834864599129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955850423904165913",
+              "start": 0,
+              "username": "Ammaaazzz_62com"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978458834864599129",
+        "in_reply_to_user_id": "1955850423904165913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978434476829970551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ammaaazzz_62com 别啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955850423904165913",
+        "conversation_id": "1978434476829970551",
+        "created_at": "2025-10-15T12:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978434476829970551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978434476829970551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界这么大，也没有喵的容身之所，那找一个安静的地方蜷缩着死掉吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 2016,
+          "like_count": 75919,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 7325
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T04:34:38.000Z",
+        "description": "哎呀呀～看看，看看，这是谁来了，我怎么知道？【我将成为跨圈最温柔的喵「叉腰」】｜最硬气的喵，我就是跨怎么了｜｜友好交流，别刷存在感｜",
+        "id": "1955850423904165913",
+        "name": "落喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977411309957444057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965709290456367105/udo8xzLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 73,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 273
+        },
+        "username": "Ammaaazzz_62com",
+        "verified": false
+      }
+    ]
+  }
+}

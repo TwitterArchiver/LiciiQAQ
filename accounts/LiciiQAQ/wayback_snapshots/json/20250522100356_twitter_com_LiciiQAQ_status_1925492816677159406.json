@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925464983229669376"
+      ],
+      "media_source_tweet_id": [
+        "1925464985989521655"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925492816677159406",
+    "created_at": "2025-05-22T10:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T11:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925492816677159406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1785683748006264833",
+          "start": 3,
+          "username": "ChenXu233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqdoKxRHPM",
+          "end": 38,
+          "expanded_url": "https://x.com/ChenXu233/status/1925464985989521655/photo/1",
+          "media_key": "3_1925464983229669376",
+          "start": 15,
+          "url": "https://t.co/pqdoKxRHPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925492816677159406",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925464985989521655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenXu233: https://t.co/pqdoKxRHPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_1925464983229669376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrigM2DboAAoslu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925464983229669376"
+          ],
+          "media_source_tweet_id": [
+            "1925464985989521655"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925492816677159406",
+        "created_at": "2025-05-22T10:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T11:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925492816677159406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1785683748006264833",
+              "start": 3,
+              "username": "ChenXu233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqdoKxRHPM",
+              "end": 38,
+              "expanded_url": "https://x.com/ChenXu233/status/1925464985989521655/photo/1",
+              "media_key": "3_1925464983229669376",
+              "start": 15,
+              "url": "https://t.co/pqdoKxRHPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925492816677159406",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925464985989521655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenXu233: https://t.co/pqdoKxRHPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925464983229669376"
+          ]
+        },
+        "author_id": "1785683748006264833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925464985989521655",
+        "created_at": "2025-05-22T08:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T09:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925464985989521655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqdoKxRHPM",
+              "end": 23,
+              "expanded_url": "https://x.com/ChenXu233/status/1925464985989521655/photo/1",
+              "media_key": "3_1925464983229669376",
+              "start": 0,
+              "url": "https://t.co/pqdoKxRHPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925464985989521655",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pqdoKxRHPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 871,
+          "like_count": 17983,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 2596
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "主人是@snowykami1145的小猫。是一只mtx类似物，加上猫耳有170，52kg大卡车，不再盲目希望世界变得更美好，不愿只留下失望，不希望我认识的大家出事，不想被悲伤吞没。\n技术栈:Python+jinja2+Dart(flutter)+Cpp+Typescript(vue)(只会一点点)，可以一起交流代码问题",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "snowykami1145"
+              }
+            ]
+          }
+        },
+        "id": "1785683748006264833",
+        "location": "Everywhere",
+        "name": "沐浴晨煦",
+        "pinned_tweet_id": "1924859381755347059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 222,
+          "like_count": 7552,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1078
+        },
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

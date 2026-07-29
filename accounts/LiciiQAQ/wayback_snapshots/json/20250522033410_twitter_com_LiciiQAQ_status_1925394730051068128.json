@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1925226974714462346",
+    "created_at": "2025-05-22T03:34:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T04:34:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925394730051068128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662474877000118272",
+          "start": 0,
+          "username": "ruiximtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925394730051068128",
+    "in_reply_to_user_id": "1662474877000118272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925226974714462346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiximtf 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1925226974714462346",
+        "created_at": "2025-05-22T03:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T04:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925394730051068128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662474877000118272",
+              "start": 0,
+              "username": "ruiximtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925394730051068128",
+        "in_reply_to_user_id": "1662474877000118272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925226974714462346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiximtf 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662474877000118272",
+        "conversation_id": "1925226974714462346",
+        "created_at": "2025-05-21T16:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T17:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925226974714462346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925226974714462346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活在阴暗的角落里好爽好舒服啊，关着灯看着番觉得自己就是受人欢迎的女主。哪怕只是幻想的也罢，因为现实中就不可能有这种感觉了啊，别醒来吧。为什么我父母要打我，在学校里被霸凌，甚至连一个朋友都没有，是我错了吗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 874,
+          "like_count": 17912,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 2583
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:04:50.000Z",
+        "description": "一个宅在家里的线虫/09休学中/好孤独呀欢迎来聊天互fo/日语学习ing！/看番和玩二游（原神/崩铁/啤酒烧烤/光遇…）来个人和喔说说话吧太无聊咯",
+        "id": "1662474877000118272",
+        "location": "Tokyo-to, Japan",
+        "name": "荠aha🍥",
+        "pinned_tweet_id": "1908938007543169070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882367615483731968/XaRhmnsQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 186,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "username": "ruiximtf",
+        "verified": false
+      }
+    ]
+  }
+}

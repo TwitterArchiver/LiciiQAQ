@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1926766593888895215",
+    "created_at": "2025-05-26T03:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T04:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926843598575702181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807114644252921856",
+          "start": 0,
+          "username": "Inyuki_1014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926843598575702181",
+    "in_reply_to_user_id": "1807114644252921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926766593888895215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inyuki_1014 p2感觉还行，p1是真抽象（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1926766552122023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr0_-IBWYAAgD8b.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1305,
+        "media_key": "3_1926766552159760384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr0_-IKWMAA6PH2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1926766593888895215",
+        "created_at": "2025-05-26T03:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926843598575702181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807114644252921856",
+              "start": 0,
+              "username": "Inyuki_1014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926843598575702181",
+        "in_reply_to_user_id": "1807114644252921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926766593888895215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inyuki_1014 p2感觉还行，p1是真抽象（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926766552122023936",
+            "3_1926766552159760384"
+          ]
+        },
+        "author_id": "1807114644252921856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1926766593888895215",
+        "created_at": "2025-05-25T22:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T23:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926766593888895215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p20Nm37Hxv",
+              "end": 176,
+              "expanded_url": "https://x.com/Inyuki_1014/status/1926766593888895215/photo/1",
+              "media_key": "3_1926766552122023936",
+              "start": 153,
+              "url": "https://t.co/p20Nm37Hxv"
+            },
+            {
+              "display_url": "pic.x.com/p20Nm37Hxv",
+              "end": 176,
+              "expanded_url": "https://x.com/Inyuki_1014/status/1926766593888895215/photo/1",
+              "media_key": "3_1926766552159760384",
+              "start": 153,
+              "url": "https://t.co/p20Nm37Hxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926766593888895215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nothing phone 3\n处理器:高通骁龙 8 Elite 或骁龙 8s Gen 4\n操作系统:基于 Android 15 的 Nothing OS 3.0，集成先进 AI 功能\n显示屏:6.5 英寸 AMOLED 屏幕，支持 120Hz 高刷，支持 HDR10+，峰值亮度有望超过 2000 尼特 https://t.co/p20Nm37Hxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 899,
+          "like_count": 19494,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 2762
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T18:12:05.000Z",
+        "description": "ink.脳幹を駆け巡る | 08 | 無證含糖 | INFP-T | 精神抽象 | BPD | 無性戀 | Tetris | 一直陪伴你... | 泛 • 藝術家 | 攻擊性極強 | 養生vtb | SnowLive_Studio |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/Inyuki1014",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/Inyuki1014",
+                "start": 0,
+                "url": "https://t.co/qhaClMJpfA"
+              }
+            ]
+          }
+        },
+        "id": "1807114644252921856",
+        "location": "拉尼亞凱亞超星系團",
+        "name": "墨雪inyuki",
+        "pinned_tweet_id": "1901633892550840519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881434464187973632/sDJtm_vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 472,
+          "like_count": 9879,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 1678
+        },
+        "url": "https://t.co/qhaClMJpfA",
+        "username": "Inyuki_1014",
+        "verified": false
+      }
+    ]
+  }
+}

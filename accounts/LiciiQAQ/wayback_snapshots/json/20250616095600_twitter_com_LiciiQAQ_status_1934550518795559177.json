@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1934534232531255690",
+    "created_at": "2025-06-16T09:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T10:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934550518795559177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934550518795559177",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934534232531255690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutismBerry 别啊🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934534172640784384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjYlJYbsAAnwyx.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1934534232531255690",
+        "created_at": "2025-06-16T09:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934550518795559177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934550518795559177",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934534232531255690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutismBerry 别啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934534172640784384"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "conversation_id": "1934534232531255690",
+        "created_at": "2025-06-16T08:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T09:51:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934534192031043719",
+          "1934534232531255690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ObfUel73Z",
+              "end": 34,
+              "expanded_url": "https://x.com/AutismBerry/status/1934534232531255690/photo/1",
+              "media_key": "3_1934534172640784384",
+              "start": 11,
+              "url": "https://t.co/8ObfUel73Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934534232531255690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4133,
+          "like_count": 64,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "照顾好你自己，对不起 https://t.co/8ObfUel73Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1041,
+          "like_count": 28012,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 3545
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "ASD(社交功能障碍)—双相情感障碍(偏抑郁)",
+        "id": "1908086926391033856",
+        "location": "Kards",
+        "name": "Berry已自杀",
+        "pinned_tweet_id": "1932876576989065330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 948,
+          "like_count": 11025,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 1449
+        },
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

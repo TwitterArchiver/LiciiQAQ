@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1946057758333116633",
+    "created_at": "2025-07-19T02:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T03:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946389593206755834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1288663758710034432",
+          "start": 0,
+          "username": "CaoBing_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946389593206755834",
+    "in_reply_to_user_id": "1288663758710034432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946057758333116633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaoBing_ （吃）😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946057723981803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHJMHZXMAAQir6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946057723994333186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwHJMHcWYAIQL6o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1946057758333116633",
+        "created_at": "2025-07-19T02:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T03:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946389593206755834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1288663758710034432",
+              "start": 0,
+              "username": "CaoBing_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946389593206755834",
+        "in_reply_to_user_id": "1288663758710034432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946057758333116633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaoBing_ （吃）😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946057723981803520",
+            "3_1946057723994333186"
+          ]
+        },
+        "author_id": "1288663758710034432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1946057758333116633",
+        "created_at": "2025-07-18T04:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T05:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946057758333116633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sec25aw5Ps",
+              "end": 28,
+              "expanded_url": "https://x.com/CaoBing_/status/1946057758333116633/photo/1",
+              "media_key": "3_1946057723981803520",
+              "start": 5,
+              "url": "https://t.co/Sec25aw5Ps"
+            },
+            {
+              "display_url": "pic.x.com/Sec25aw5Ps",
+              "end": 28,
+              "expanded_url": "https://x.com/CaoBing_/status/1946057758333116633/photo/1",
+              "media_key": "3_1946057723994333186",
+              "start": 5,
+              "url": "https://t.co/Sec25aw5Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946057758333116633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4235,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过请吃 https://t.co/Sec25aw5Ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1381,
+          "like_count": 41689,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 4988
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T02:32:47.000Z",
+        "description": "私信发牛子的赔点钱Ⅰ声控 喜欢看男妈妈  喜欢看漂亮女宝 直女Ⅰ重度🐱控🐶控Ⅰ不加v，互关除外，互关宝宝可以叫我Cao姐嘻嘻嘻Ⅰhttps://t.co/2aExQ1KIYO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccc44703",
+                "end": 87,
+                "expanded_url": "https://ngl.link/ccc44703",
+                "start": 64,
+                "url": "https://t.co/2aExQ1KIYO"
+              }
+            ]
+          }
+        },
+        "id": "1288663758710034432",
+        "location": "别找我发牛子聊黄",
+        "name": "我改名了",
+        "pinned_tweet_id": "1945937212043898926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916176068698116102/DKsxpAMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 89,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1363
+        },
+        "username": "CaoBing_",
+        "verified": false
+      }
+    ]
+  }
+}

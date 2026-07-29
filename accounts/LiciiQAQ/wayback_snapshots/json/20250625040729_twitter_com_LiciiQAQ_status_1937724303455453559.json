@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1937719244231446634",
+    "created_at": "2025-06-25T04:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T05:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937724303455453559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937724303455453559",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937719244231446634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 抱抱w🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1937719244231446634",
+        "created_at": "2025-06-25T04:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T05:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937724303455453559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937724303455453559",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937719244231446634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 抱抱w🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "conversation_id": "1937719244231446634",
+        "created_at": "2025-06-25T03:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937719244231446634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LiciiQAQ/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/LiciiQAQ/status/1937529848513306869",
+              "start": 34,
+              "url": "https://t.co/qeWw8az7Vl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937719244231446634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937529848513306869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一年前我也是这样个good begin\n然后我一年后就成这样了（） https://t.co/qeWw8az7Vl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 1168,
+          "like_count": 32721,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 3907
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "潜在性跨🏳️‍⚧️（？）没吃过🍥|07老年人|辍学-离家出走-无工作收入-经济窘困|ENFJ+表演型人格+双相（？）|永不设门🚪赞赏自愿|同类可互fo扩列喵|（祝我好似喵）",
+        "id": "1617523246144053251",
+        "location": "Goose Town",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1928345532537114825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936094042309222403/ebkp_DoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 33,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 828
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

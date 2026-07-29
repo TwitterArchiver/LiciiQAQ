@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1895427052129690075",
+    "created_at": "2025-02-28T17:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T18:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895523788303057082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1475131676850221066",
+          "start": 0,
+          "username": "LittleKittyya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895523788303057082",
+    "in_reply_to_user_id": "1475131676850221066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895464605939572918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleKittyya 是这样的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1895427052129690075",
+        "created_at": "2025-02-28T17:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T18:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895523788303057082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1475131676850221066",
+              "start": 0,
+              "username": "LittleKittyya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895523788303057082",
+        "in_reply_to_user_id": "1475131676850221066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895464605939572918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleKittyya 是这样的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475131676850221066",
+        "conversation_id": "1895427052129690075",
+        "created_at": "2025-02-28T13:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895464605939572918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895464605939572918",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895427052129690075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 感觉所谓的学生特供一般都是更差的😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 62,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T15:49:43.000Z",
+        "description": "一只懒猫 欢迎可爱的人～ | aka:有猫腻 | HRT:2021 RLE:2023 | 世人皆苦 唯我独甜 | 定个小目标 要天天开心～ | ❤️@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LittleKittyya",
+                "end": 23,
+                "expanded_url": "http://t.me/LittleKittyya",
+                "start": 0,
+                "url": "https://t.co/1bvAfRPQ3G"
+              }
+            ]
+          }
+        },
+        "id": "1475131676850221066",
+        "location": "梦里",
+        "name": "🍥猫小软🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882201156463517696/WLrnH25N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 553,
+          "like_count": 44600,
+          "listed_count": 9,
+          "media_count": 254,
+          "tweet_count": 5870
+        },
+        "url": "https://t.co/1bvAfRPQ3G",
+        "username": "LittleKittyya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943294920363483136",
+        "3_1943294920451596288"
+      ],
+      "media_source_tweet_id": [
+        "1943295075964064007",
+        "1943295075964064007"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1943493714493739435",
+    "created_at": "2025-07-11T02:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T03:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943493714493739435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8WlfY0ory",
+          "end": 45,
+          "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+          "media_key": "3_1943294920363483136",
+          "start": 22,
+          "url": "https://t.co/W8WlfY0ory"
+        },
+        {
+          "display_url": "pic.x.com/W8WlfY0ory",
+          "end": 45,
+          "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+          "media_key": "3_1943294920451596288",
+          "start": 22,
+          "url": "https://t.co/W8WlfY0ory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943493714493739435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1922
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943295075964064007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: オープンサンド https://t.co/W8WlfY0ory"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1943294920363483136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf4bx4WIAADKUY.jpg",
+        "width": 3300
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1943294920451596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvf4byNWoAAnsas.jpg",
+        "width": 3300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943294920363483136",
+            "3_1943294920451596288"
+          ],
+          "media_source_tweet_id": [
+            "1943295075964064007",
+            "1943295075964064007"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1943493714493739435",
+        "created_at": "2025-07-11T02:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T03:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943493714493739435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8WlfY0ory",
+              "end": 45,
+              "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+              "media_key": "3_1943294920363483136",
+              "start": 22,
+              "url": "https://t.co/W8WlfY0ory"
+            },
+            {
+              "display_url": "pic.x.com/W8WlfY0ory",
+              "end": 45,
+              "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+              "media_key": "3_1943294920451596288",
+              "start": 22,
+              "url": "https://t.co/W8WlfY0ory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943493714493739435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1922
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943295075964064007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: オープンサンド https://t.co/W8WlfY0ory"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943294920363483136",
+            "3_1943294920451596288"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1943295075964064007",
+        "created_at": "2025-07-10T13:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943295075964064007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8WlfY0ory",
+              "end": 31,
+              "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+              "media_key": "3_1943294920363483136",
+              "start": 8,
+              "url": "https://t.co/W8WlfY0ory"
+            },
+            {
+              "display_url": "pic.x.com/W8WlfY0ory",
+              "end": 31,
+              "expanded_url": "https://x.com/avogado6/status/1943295075964064007/photo/1",
+              "media_key": "3_1943294920451596288",
+              "start": 8,
+              "url": "https://t.co/W8WlfY0ory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943295075964064007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 354627,
+          "like_count": 25973,
+          "quote_count": 17,
+          "reply_count": 18,
+          "retweet_count": 1922
+        },
+        "reply_settings": "everyone",
+        "text": "オープンサンド https://t.co/W8WlfY0ory"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1312,
+          "like_count": 38908,
+          "listed_count": 4,
+          "media_count": 236,
+          "tweet_count": 4623
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1939613243791811021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490735,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9075,
+          "media_count": 3386,
+          "tweet_count": 4064
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

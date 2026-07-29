@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1938095412625477936",
+    "created_at": "2025-06-26T10:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T11:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938178247956828400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509391402484080646",
+          "start": 0,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938178247956828400",
+    "in_reply_to_user_id": "1509391402484080646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938155990798725594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moran_neko 那很好了😋（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1938095412625477936",
+        "created_at": "2025-06-26T10:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T11:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938178247956828400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938178247956828400",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938155990798725594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 那很好了😋（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509391402484080646",
+        "conversation_id": "1938095412625477936",
+        "created_at": "2025-06-26T08:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T09:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938155990798725594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938155990798725594",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938095412625477936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 晾衣服的时候袖子会自动向上45°吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1189,
+          "like_count": 33301,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 3959
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "*尝试找到心中的归属感*        52Hz 🎶     🐱|19|♂|日常&碎碎念&发癫&梗图分享|音游|战地1|MC|数码|音乐|🚫不键政|电吉他学习中🎸|懒|主人@_temryava|备用小号@moran_demon|曾用名:GhostJoel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "_temryava"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "moran_demon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moran_neko",
+                "end": 23,
+                "expanded_url": "http://t.me/moran_neko",
+                "start": 0,
+                "url": "https://t.co/OjtbvqQaRM"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然_mo",
+        "pinned_tweet_id": "1932361396249079998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918685355508932608/QeN0qub6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 1050,
+          "like_count": 13872,
+          "listed_count": 3,
+          "media_count": 587,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/OjtbvqQaRM",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

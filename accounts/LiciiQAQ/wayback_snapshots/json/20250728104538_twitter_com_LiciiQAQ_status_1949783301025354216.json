@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949757048759152640"
+      ],
+      "media_source_tweet_id": [
+        "1949757059085553717"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "1949783301025354216",
+    "created_at": "2025-07-28T10:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T11:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949783301025354216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766452473840173056",
+          "start": 3,
+          "username": "mikotossd0106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7vSVYeDLvx",
+          "end": 60,
+          "expanded_url": "https://x.com/mikotossd0106/status/1949757059085553717/photo/1",
+          "media_key": "3_1949757048759152640",
+          "start": 37,
+          "url": "https://t.co/7vSVYeDLvx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949783301025354216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949757059085553717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikotossd0106: 服了神人同学把我当Linux终端用 https://t.co/7vSVYeDLvx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1949757048759152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw7ttKGacAAj9wA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949757048759152640"
+          ],
+          "media_source_tweet_id": [
+            "1949757059085553717"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1949783301025354216",
+        "created_at": "2025-07-28T10:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T11:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949783301025354216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766452473840173056",
+              "start": 3,
+              "username": "mikotossd0106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vSVYeDLvx",
+              "end": 60,
+              "expanded_url": "https://x.com/mikotossd0106/status/1949757059085553717/photo/1",
+              "media_key": "3_1949757048759152640",
+              "start": 37,
+              "url": "https://t.co/7vSVYeDLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949783301025354216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949757059085553717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikotossd0106: 服了神人同学把我当Linux终端用 https://t.co/7vSVYeDLvx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949757048759152640"
+          ]
+        },
+        "author_id": "1766452473840173056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "1949757059085553717",
+        "created_at": "2025-07-28T09:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T10:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949757059085553717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vSVYeDLvx",
+              "end": 41,
+              "expanded_url": "https://x.com/mikotossd0106/status/1949757059085553717/photo/1",
+              "media_key": "3_1949757048759152640",
+              "start": 18,
+              "url": "https://t.co/7vSVYeDLvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949757059085553717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5690,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "服了神人同学把我当Linux终端用 https://t.co/7vSVYeDLvx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1475,
+          "like_count": 46643,
+          "listed_count": 4,
+          "media_count": 270,
+          "tweet_count": 5525
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "INFP 是骑25款喜德盛AD350和24款GT350的傻逼单车佬 死肥宅 剩下的不写了因为不知道我到底是怎么样的一个人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "海澜泪爷",
+        "pinned_tweet_id": "1949639359281668215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 1307,
+          "like_count": 56964,
+          "listed_count": 5,
+          "media_count": 467,
+          "tweet_count": 2394
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

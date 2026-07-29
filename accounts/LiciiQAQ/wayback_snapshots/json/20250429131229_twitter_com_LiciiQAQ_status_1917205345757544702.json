@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1917187735775043666",
+    "created_at": "2025-04-29T13:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T14:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917205345757544702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842105698509017088",
+          "start": 0,
+          "username": "Cyb3rn3rdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917205345757544702",
+    "in_reply_to_user_id": "1842105698509017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917187735775043666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb3rn3rdV 你需要向我支付阅读这条推文的费用😡👿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1917187658247458816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gps4BHmaUAAeLQ-.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1917187735775043666",
+        "created_at": "2025-04-29T13:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917205345757544702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842105698509017088",
+              "start": 0,
+              "username": "Cyb3rn3rdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917205345757544702",
+        "in_reply_to_user_id": "1842105698509017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917187735775043666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb3rn3rdV 你需要向我支付阅读这条推文的费用😡👿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917187658247458816"
+          ]
+        },
+        "author_id": "1842105698509017088",
+        "conversation_id": "1917187735775043666",
+        "created_at": "2025-04-29T12:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T13:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917187735775043666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksxpRHZFIZ",
+              "end": 32,
+              "expanded_url": "https://x.com/Cyb3rn3rdV/status/1917187735775043666/photo/1",
+              "media_key": "3_1917187658247458816",
+              "start": 9,
+              "url": "https://t.co/ksxpRHZFIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917187735775043666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1089,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这我不能一个人看 https://t.co/ksxpRHZFIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 696,
+          "like_count": 11510,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1669
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T07:34:16.000Z",
+        "description": "14yrs old Canadian-Chinese, now lives in Australia\n\nOtherAccounts @KINGSLA85042146 (for private posts)\n@ViiyElvin (Former Account)\n\nMy Only Master: @xckim392538",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "KINGSLA85042146"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "ViiyElvin"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "xckim392538"
+              }
+            ]
+          }
+        },
+        "id": "1842105698509017088",
+        "location": "Melbourne, Victoria",
+        "name": "Cybernerd(V)",
+        "pinned_tweet_id": "1912755840249122931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911642870387236864/0jxN01Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 753,
+          "like_count": 21218,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 2885
+        },
+        "username": "Cyb3rn3rdV",
+        "verified": false
+      }
+    ]
+  }
+}

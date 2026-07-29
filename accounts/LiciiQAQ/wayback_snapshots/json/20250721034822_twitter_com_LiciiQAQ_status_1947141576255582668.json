@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1947132274396500433",
+    "created_at": "2025-07-21T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947141576255582668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911351259749294080",
+          "start": 0,
+          "username": "Quitewaterqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947141576255582668",
+    "in_reply_to_user_id": "1911351259749294080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947132274396500433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quitewaterqwq 贴贴喵w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1947132269547999232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwWae5kb0AAdnCa.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1947132274396500433",
+        "created_at": "2025-07-21T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947141576255582668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911351259749294080",
+              "start": 0,
+              "username": "Quitewaterqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947141576255582668",
+        "in_reply_to_user_id": "1911351259749294080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947132274396500433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quitewaterqwq 贴贴喵w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947132269547999232"
+          ]
+        },
+        "author_id": "1911351259749294080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1947132274396500433",
+        "created_at": "2025-07-21T03:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T04:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947132274396500433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1945289458674540544/OT_go3zP?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945289458674540544/OT_go3zP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Ndjdvo8SC9"
+            },
+            {
+              "display_url": "pic.x.com/xULk04iyaA",
+              "end": 64,
+              "expanded_url": "https://x.com/Quitewaterqwq/status/1947132274396500433/photo/1",
+              "media_key": "3_1947132269547999232",
+              "start": 41,
+              "url": "https://t.co/xULk04iyaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947132274396500433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Ndjdvo8SC9 https://t.co/xULk04iyaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /互挂 @kongjingxiao94 ，姐姐 @mirekintoc @yyc20090，好朋友 @_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "yyc20090"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1400,
+          "like_count": 42757,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 5099
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:31:56.000Z",
+        "description": "09山东准高一|不b任何人|infp|友🏳️‍🌈🏳️‍⚧️非性少数|无固定政治立场|实验爱好者|推荐关注朋友👉@elp15_ @hajixi12356 @MikuMikuDong @Shimamura_Tako @wusweet_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "elp15_"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "hajixi12356"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "MikuMikuDong"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Shimamura_Tako"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "wusweet_i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PJRSYa",
+                "end": 23,
+                "expanded_url": "https://t.me/PJRSYa",
+                "start": 0,
+                "url": "https://t.co/9QvFwvTsID"
+              }
+            ]
+          }
+        },
+        "id": "1911351259749294080",
+        "location": "IP属地:中国",
+        "name": "平静如水🇨🇳🇦🇶|第二转世|推友巡回",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242634891493376/59jBA1pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 690,
+          "like_count": 1868,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/9QvFwvTsID",
+        "username": "Quitewaterqwq",
+        "verified": false
+      }
+    ]
+  }
+}

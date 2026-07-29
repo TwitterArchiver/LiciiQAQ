@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "1912119919837364688",
+    "created_at": "2025-04-15T23:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T00:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912292693885300842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "QiongliBAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912292693885300842",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912119919837364688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiongliBAKA 学校经典配置了（）\n（我们之前也是，6代i3，4+1tb机械，还是win10，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1912119919837364688",
+        "created_at": "2025-04-15T23:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T00:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912292693885300842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "QiongliBAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912292693885300842",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912119919837364688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiongliBAKA 学校经典配置了（）\n（我们之前也是，6代i3，4+1tb机械，还是win10，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806972371607474176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1553037640982638592",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          }
+        ],
+        "conversation_id": "1912119919837364688",
+        "created_at": "2025-04-15T12:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912119919837364688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912119919837364688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天班主任那电脑能卡死\n23年的dell品牌机\n全是捆绑流氓软件\n开个设置2分钟\n老师开个机卡10分钟\n6代i3..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 594,
+          "like_count": 8246,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1124
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊,超级笨蛋，10后（10/06/15）14岁，必回关！想交朋友QAQ！辽宁海城人‖INFP‖可Q，想聊天！有偏执，容易怀疑别人『望涨fo』 |||提问我：https://t.co/KlqPxuz3df||| 全是好朋友（无证含糖🍥）HRT:2025/3/19深柜中｛断糖｝⬇️赞赏码（小声",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiongli2",
+                "end": 109,
+                "expanded_url": "https://ngl.link/qiongli2",
+                "start": 86,
+                "url": "https://t.co/KlqPxuz3df"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/acgbaka233ba/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/acgbaka233ba/status/1903093167500694007?s=46",
+                "start": 0,
+                "url": "https://t.co/44irzZpvFS"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "fufu软软的脑袋上",
+        "name": "是穹璃捏🍥🏳‍⚧",
+        "pinned_tweet_id": "1908503352155267445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908354645971648512/KDoNGfir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 1246,
+          "like_count": 8550,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 2440
+        },
+        "url": "https://t.co/44irzZpvFS",
+        "username": "QiongliBAKA",
+        "verified": false
+      }
+    ]
+  }
+}

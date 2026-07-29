@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1922429891426840708",
+    "created_at": "2025-05-13T23:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T00:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922433402617115116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896545514302443520",
+          "start": 0,
+          "username": "FengYinCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922433402617115116",
+    "in_reply_to_user_id": "1896545514302443520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922429891426840708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FengYinCC 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1922429891426840708",
+        "created_at": "2025-05-13T23:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T00:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922433402617115116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896545514302443520",
+              "start": 0,
+              "username": "FengYinCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922433402617115116",
+        "in_reply_to_user_id": "1896545514302443520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922429891426840708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FengYinCC 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896545514302443520",
+        "conversation_id": "1922429891426840708",
+        "created_at": "2025-05-13T23:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T00:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922429891426840708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922429891426840708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次爆炸的状态似乎从所未有的久呢，一个月了(･･;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 810,
+          "like_count": 15675,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 2265
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T12:57:54.000Z",
+        "description": "请和我交朋友（注：是男生哦）（如果说话让您感到奇怪，还请告诉我，我很抱歉）",
+        "id": "1896545514302443520",
+        "name": "要活下去哦🍀",
+        "pinned_tweet_id": "1899366385337405562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921140597634617346/LvRWe43x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 119,
+          "like_count": 15536,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1829
+        },
+        "username": "FengYinCC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1917779067346247905",
+    "created_at": "2025-05-01T08:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T09:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917857820906774870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "shenlebanyueyin"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917857820906774870",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917857386825671049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenlebanyueyin @hsn8086 awmc（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1917779067346247905",
+        "created_at": "2025-05-01T08:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917857820906774870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "shenlebanyueyin"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917857820906774870",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917857386825671049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenlebanyueyin @hsn8086 awmc（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720356797758763008",
+        "conversation_id": "1917779067346247905",
+        "created_at": "2025-05-01T08:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T09:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917857386825671049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917857386825671049",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917779067346247905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 丸八个按键的拍拍机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 708,
+          "like_count": 11852,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1747
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "散养海苔肉松小猫咪一只（169/60kg），每天都会饿",
+        "id": "1720356797758763008",
+        "location": "小倉山",
+        "name": "狐萝卜好烫喵🍥🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1857050525256089666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903013874330374145/6TDxEmNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 2066,
+          "like_count": 16899,
+          "listed_count": 1,
+          "media_count": 698,
+          "tweet_count": 13096
+        },
+        "username": "shenlebanyueyin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63251,
+          "following_count": 959,
+          "like_count": 39498,
+          "listed_count": 143,
+          "media_count": 10146,
+          "tweet_count": 16308
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1925849415408824804",
+    "created_at": "2025-05-23T09:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T10:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925852056960573790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292929499",
+          "start": 0,
+          "username": "shushuglad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925852056960573790",
+    "in_reply_to_user_id": "292929499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925849415408824804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuglad 是没有依据的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1925849415408824804",
+        "created_at": "2025-05-23T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925852056960573790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292929499",
+              "start": 0,
+              "username": "shushuglad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925852056960573790",
+        "in_reply_to_user_id": "292929499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925849415408824804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuglad 是没有依据的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929499",
+        "conversation_id": "1925849415408824804",
+        "created_at": "2025-05-23T09:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925849415408824804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925849415408824804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白话：空话：没有根据或不能实现的话\n→ほら話\n不要空口说白话。\n(ほら話は言うな。)\n？\"空口\"是什么意思呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94 @CharmingFurina，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 874,
+          "like_count": 18523,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 2651
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，终于72岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。文好部　No.826",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9353,
+          "following_count": 1921,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 5166,
+          "tweet_count": 105988
+        },
+        "username": "shushuglad",
+        "verified": false
+      }
+    ]
+  }
+}

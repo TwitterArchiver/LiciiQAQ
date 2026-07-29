@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1953920943249928214",
+    "created_at": "2025-08-09T12:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T13:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954165420069433528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880542673742032896",
+          "start": 0,
+          "username": "Ace302180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954165420069433528",
+    "in_reply_to_user_id": "1880542673742032896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954157282222391698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace302180 好w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1953920943249928214",
+        "created_at": "2025-08-09T12:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954165420069433528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880542673742032896",
+              "start": 0,
+              "username": "Ace302180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954165420069433528",
+        "in_reply_to_user_id": "1880542673742032896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954157282222391698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace302180 好w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880542673742032896",
+        "conversation_id": "1953920943249928214",
+        "created_at": "2025-08-09T12:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T13:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954157282222391698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954157282222391698",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953920943249928214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 冷水加洗衣粉硬搓，亲测有效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 1548,
+          "like_count": 50620,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 6004
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T09:08:37.000Z",
+        "description": "乐子人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/5ugqcfeQzb"
+              }
+            ]
+          }
+        },
+        "id": "1880542673742032896",
+        "location": "中南海",
+        "name": "A ce",
+        "pinned_tweet_id": "1895890333684416748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886812264621367296/iAc0RyvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 737,
+          "like_count": 21378,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/5ugqcfeQzb",
+        "username": "Ace302180",
+        "verified": false
+      }
+    ]
+  }
+}

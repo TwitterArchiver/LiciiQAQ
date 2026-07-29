@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975937355413610497"
+      ],
+      "media_source_tweet_id": [
+        "1975937398417846372"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1976659646271414542",
+    "created_at": "2025-10-10T14:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976659646271414542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868677970728247296",
+          "start": 3,
+          "username": "ku_yuoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4paFvjqe6k",
+          "end": 36,
+          "expanded_url": "https://x.com/ku_yuoo/status/1975937398417846372/photo/1",
+          "media_key": "3_1975937355413610497",
+          "start": 13,
+          "url": "https://t.co/4paFvjqe6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976659646271414542",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975937398417846372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ku_yuoo: https://t.co/4paFvjqe6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975937355413610497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vwjkfaYAEdggf.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975937355413610497"
+          ],
+          "media_source_tweet_id": [
+            "1975937398417846372"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1976659646271414542",
+        "created_at": "2025-10-10T14:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976659646271414542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868677970728247296",
+              "start": 3,
+              "username": "ku_yuoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4paFvjqe6k",
+              "end": 36,
+              "expanded_url": "https://x.com/ku_yuoo/status/1975937398417846372/photo/1",
+              "media_key": "3_1975937355413610497",
+              "start": 13,
+              "url": "https://t.co/4paFvjqe6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976659646271414542",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975937398417846372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ku_yuoo: https://t.co/4paFvjqe6k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975937355413610497"
+          ]
+        },
+        "author_id": "1868677970728247296",
+        "conversation_id": "1975937398417846372",
+        "created_at": "2025-10-08T14:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975937398417846372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4paFvjqe6k",
+              "end": 23,
+              "expanded_url": "https://x.com/ku_yuoo/status/1975937398417846372/photo/1",
+              "media_key": "3_1975937355413610497",
+              "start": 0,
+              "url": "https://t.co/4paFvjqe6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975937398417846372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 23016,
+          "like_count": 460,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4paFvjqe6k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 2001,
+          "like_count": 73349,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 7247
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T15:23:00.000Z",
+        "description": "その先に待つのは、祝福か、破滅か。 ｜ 🔥@dxm_bot ｜ 🐱@cat1mango ｜ 🖤@NN2V66LVN5XQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "dxm_bot"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "cat1mango"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "NN2V66LVN5XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKIHR8hJMP0…",
+                "end": 23,
+                "expanded_url": "https://signal.group/#CjQKIHR8hJMP0J6KfqWPfxMH2oLDc0nzy-aeyrWT8k8wEwsREhBhK4laWdEe3j7-nRUIOdpg",
+                "start": 0,
+                "url": "https://t.co/6GacavI05Y"
+              }
+            ]
+          }
+        },
+        "id": "1868677970728247296",
+        "location": "🇰🇷Psychonaut | #️⃣UseSignal",
+        "name": "くゆ",
+        "pinned_tweet_id": "1975959287437619381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868682738825580544/5eImbBUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277,
+          "following_count": 1591,
+          "like_count": 85964,
+          "listed_count": 15,
+          "media_count": 429,
+          "tweet_count": 4449
+        },
+        "url": "https://t.co/6GacavI05Y",
+        "username": "ku_yuoo",
+        "verified": true
+      }
+    ]
+  }
+}

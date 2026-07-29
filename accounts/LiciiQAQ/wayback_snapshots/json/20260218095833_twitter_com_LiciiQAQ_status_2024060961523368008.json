@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "2023339199727043033",
+    "created_at": "2026-02-18T09:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024060961523368008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1942218142010552320",
+          "start": 0,
+          "username": "utc_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024060961523368008",
+    "in_reply_to_user_id": "1942218142010552320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023410039911063598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utc_08 那买喵🤓（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "2023339199727043033",
+        "created_at": "2026-02-18T09:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024060961523368008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1942218142010552320",
+              "start": 0,
+              "username": "utc_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024060961523368008",
+        "in_reply_to_user_id": "1942218142010552320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023410039911063598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utc_08 那买喵🤓（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218142010552320",
+        "conversation_id": "2023339199727043033",
+        "created_at": "2026-02-16T14:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023410039911063598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695649420539219968",
+              "start": 0,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023410039911063598",
+        "in_reply_to_user_id": "1695649420539219968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023339199727043033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiciiQAQ 有点想要了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵；；求互fo（没回可私信捏） /🥰@zhouxuanjiu2，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "zhouxuanjiu2"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998048171382181889/m4tbzUyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 2144,
+          "like_count": 111699,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 8113
+        },
+        "username": "LiciiQAQ",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:44:37.000Z",
+        "description": "listening http://127.0.0.1:2026",
+        "id": "1942218142010552320",
+        "location": "重庆",
+        "name": "timezone!()",
+        "pinned_tweet_id": "2018316346011070845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958907475270488064/gml8DRKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 200,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 641
+        },
+        "username": "utc_08",
+        "verified": false
+      }
+    ]
+  }
+}

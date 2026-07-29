@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1916052733502595117",
+    "created_at": "2025-04-26T08:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T09:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916052733502595117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1798017061131874304",
+          "start": 3,
+          "username": "cupric_oxide_"
+        },
+        {
+          "end": 37,
+          "id": "1916005601563590656",
+          "start": 24,
+          "username": "Qiongli_BAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916052733502595117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916012267726115263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cupric_oxide_: 穹璃转生为@Qiongli_Baka"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1916052733502595117",
+        "created_at": "2025-04-26T08:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916052733502595117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1798017061131874304",
+              "start": 3,
+              "username": "cupric_oxide_"
+            },
+            {
+              "end": 37,
+              "id": "1916005601563590656",
+              "start": 24,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916052733502595117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916012267726115263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cupric_oxide_: 穹璃转生为@Qiongli_Baka"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798017061131874304",
+        "conversation_id": "1916012267726115263",
+        "created_at": "2025-04-26T06:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916012267726115263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1916005601563590656",
+              "start": 5,
+              "username": "Qiongli_BAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916012267726115263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "穹璃转生为@Qiongli_Baka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce/出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 682,
+          "like_count": 10686,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1529
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "穹璃：@QiongliBAKA\n此方： @ci_shang85157\n提问↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "QiongliBAKA"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cupric_oxide",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cupric_oxide",
+                "start": 0,
+                "url": "https://t.co/udAnUlOEtK"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "pinned_tweet_id": "1911043718855213290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908351908139638784/CvNsELNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1170,
+          "like_count": 23476,
+          "listed_count": 5,
+          "media_count": 521,
+          "tweet_count": 4099
+        },
+        "url": "https://t.co/udAnUlOEtK",
+        "username": "cupric_oxide_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T05:45:16.000Z",
+        "description": "@QiongliBAKA前代账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "QiongliBAKA"
+              }
+            ]
+          }
+        },
+        "id": "1916005601563590656",
+        "location": "fufu头顶",
+        "name": "穹璃（二代目）🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916005721982009344/1iGJn7lC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 51,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "Qiongli_BAKA",
+        "verified": false
+      }
+    ]
+  }
+}

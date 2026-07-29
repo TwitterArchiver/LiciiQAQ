@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1903267297097290041",
+    "created_at": "2025-03-22T02:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T03:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903267297097290041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fictitious1966…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/fictitious1966/status/1902843611982729298",
+          "start": 14,
+          "url": "https://t.co/Ve17OVXM1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903267297097290041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902843611982729298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是一个一个一个主席啊（） https://t.co/Ve17OVXM1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_1902843608614703105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmhCLiqaEAEDgmF.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1903267297097290041",
+        "created_at": "2025-03-22T02:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T03:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903267297097290041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fictitious1966…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/fictitious1966/status/1902843611982729298",
+              "start": 14,
+              "url": "https://t.co/Ve17OVXM1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903267297097290041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902843611982729298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是一个一个一个主席啊（） https://t.co/Ve17OVXM1R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902843608614703105"
+          ]
+        },
+        "author_id": "1768979871324389376",
+        "conversation_id": "1902843611982729298",
+        "created_at": "2025-03-20T22:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T23:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902843611982729298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "中央政治委員会",
+              "probability": 0.543,
+              "start": 47,
+              "type": "Organization"
+            },
+            {
+              "end": 79,
+              "normalized_text": "ニクソン訪中",
+              "probability": 0.4057,
+              "start": 74,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPRQqd7DGk",
+              "end": 174,
+              "expanded_url": "https://x.com/fictitious1966/status/1902843611982729298/photo/1",
+              "media_key": "3_1902843608614703105",
+              "start": 151,
+              "url": "https://t.co/IPRQqd7DGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902843611982729298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 30518,
+          "like_count": 737,
+          "quote_count": 14,
+          "reply_count": 29,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "王道征\n\n中華人民共和国主席。1919年生まれ。国共内戦で軍功をあげ序列を上げた。1972年、中央政治委員会にて「尼克松?好!來!」と発言したことでニクソン訪中が決まった。その後この功績が評価され1978~1983年に国家主席を務めたが後に失脚。晩年はトレーニングに明け暮れたという。2009年に死去 https://t.co/IPRQqd7DGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏）/互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 433,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 512
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T12:37:45.000Z",
+        "description": "⚠このアカウントの投稿内容は全て架空です⚠⚠淫夢関連の投稿が8割を占めています⚠架空の偉人、歴史人物、出来事等について紹介するbotです。架空偉人bot @fictitious1933 は凍結されました。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "fictitious1933"
+              }
+            ]
+          }
+        },
+        "id": "1768979871324389376",
+        "location": "リッスンブール(亡命政府)",
+        "name": "架空偉人bot:Re",
+        "pinned_tweet_id": "1895953172788887652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896964419571396608/L-7KbUo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6428,
+          "following_count": 1054,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 102
+        },
+        "username": "fictitious1966",
+        "verified": false
+      }
+    ]
+  }
+}

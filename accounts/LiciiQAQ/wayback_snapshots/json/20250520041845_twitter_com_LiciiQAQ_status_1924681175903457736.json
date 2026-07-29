@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924628123351711744"
+      ],
+      "media_source_tweet_id": [
+        "1924628152678285605"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1924681175903457736",
+    "created_at": "2025-05-20T04:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T05:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924681175903457736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4zrdIzaRCT",
+          "end": 47,
+          "expanded_url": "https://x.com/hsn8086/status/1924628152678285605/photo/1",
+          "media_key": "3_1924628123351711744",
+          "start": 24,
+          "url": "https://t.co/4zrdIzaRCT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924681175903457736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924628152678285605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: 交警: 华容道真好玩 https://t.co/4zrdIzaRCT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_1924628123351711744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrWnFMEbAAAs3P_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924628123351711744"
+          ],
+          "media_source_tweet_id": [
+            "1924628152678285605"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "1924681175903457736",
+        "created_at": "2025-05-20T04:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T05:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924681175903457736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zrdIzaRCT",
+              "end": 47,
+              "expanded_url": "https://x.com/hsn8086/status/1924628152678285605/photo/1",
+              "media_key": "3_1924628123351711744",
+              "start": 24,
+              "url": "https://t.co/4zrdIzaRCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924681175903457736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924628152678285605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: 交警: 华容道真好玩 https://t.co/4zrdIzaRCT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924628123351711744"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1924628152678285605",
+        "created_at": "2025-05-20T00:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T01:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924628152678285605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zrdIzaRCT",
+              "end": 34,
+              "expanded_url": "https://x.com/hsn8086/status/1924628152678285605/photo/1",
+              "media_key": "3_1924628123351711744",
+              "start": 11,
+              "url": "https://t.co/4zrdIzaRCT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924628152678285605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9490,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "交警: 华容道真好玩 https://t.co/4zrdIzaRCT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，什么都会发点，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（鉴证浓度过高、可疑账户不加，没回可私信捏） /互挂 @kongjingxiao94，姐姐 @mirekintoc，好朋友 @_blueberrysauce /出自制凝胶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 78,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "_blueberrysauce"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1913849538269376913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 861,
+          "like_count": 17345,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2506
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69502,
+          "following_count": 964,
+          "like_count": 40088,
+          "listed_count": 156,
+          "media_count": 11308,
+          "tweet_count": 17595
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

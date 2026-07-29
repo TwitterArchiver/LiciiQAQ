@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1966659809219838062",
+    "created_at": "2025-09-13T00:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T01:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966659809219838062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaogudu423/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xiaogudu423/status/1966658124909007100",
+          "start": 13,
+          "url": "https://t.co/v3aYoPzj4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966659809219838062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966658124909007100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "枣！！尚！！耗！！🥳🥳🥳 https://t.co/v3aYoPzj4w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1966659809219838062",
+        "created_at": "2025-09-13T00:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966659809219838062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaogudu423/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiaogudu423/status/1966658124909007100",
+              "start": 13,
+              "url": "https://t.co/v3aYoPzj4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966659809219838062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966658124909007100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "枣！！尚！！耗！！🥳🥳🥳 https://t.co/v3aYoPzj4w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711840683638792192",
+        "conversation_id": "1966658124909007100",
+        "created_at": "2025-09-13T00:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966658124909007100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966658124909007100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枣！！尚！！耗！！🥳🥳🥳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1851,
+          "like_count": 63572,
+          "listed_count": 5,
+          "media_count": 314,
+          "tweet_count": 6781
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / 无证含糖 / infp  /家长反对党 / 重度 / 渴望被同类关注搭话 / 喜欢钢琴和猫猫 / 愿望是成功srs",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 848,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 595
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

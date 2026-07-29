@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1980844356228772091",
+    "created_at": "2025-10-22T05:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T06:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980864859433808287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891722301584048128",
+          "start": 0,
+          "username": "Shrimp_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980864859433808287",
+    "in_reply_to_user_id": "1891722301584048128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980844356228772091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Shrimp_8964 交朋友喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1980844356228772091",
+        "created_at": "2025-10-22T05:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980864859433808287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891722301584048128",
+              "start": 0,
+              "username": "Shrimp_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980864859433808287",
+        "in_reply_to_user_id": "1891722301584048128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980844356228772091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Shrimp_8964 交朋友喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891722301584048128",
+        "conversation_id": "1980844356228772091",
+        "created_at": "2025-10-22T03:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980844356228772091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980844356228772091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "想交朋友🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些？，都来找我玩喵；；求互fo（没回可私信捏） /🥰 @yyc20090 ，姐姐@mirekintoc @erciyuanha87431，亲友@_blueberrysauce @CharmingFurina，互挂@K4ALS__0486/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "yyc20090"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "erciyuanha87431"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "K4ALS__0486"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 2042,
+          "like_count": 78053,
+          "listed_count": 4,
+          "media_count": 360,
+          "tweet_count": 7408
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T05:32:05.000Z",
+        "description": "雜魚雨夏老婆：@xaa386| 有老婆但是不嫌多（|🍥HRT 2025.3.12 |已炸櫃家長黨| 邊緣人，雙向b，單車佬（Giant PP SL）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 7,
+                "username": "xaa386"
+              }
+            ]
+          }
+        },
+        "id": "1891722301584048128",
+        "name": "8964蝦蝦醬🍥🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897917125999968257/QaYuwvTD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 540,
+          "like_count": 8134,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 852
+        },
+        "username": "Shrimp_8964",
+        "verified": false
+      }
+    ]
+  }
+}
