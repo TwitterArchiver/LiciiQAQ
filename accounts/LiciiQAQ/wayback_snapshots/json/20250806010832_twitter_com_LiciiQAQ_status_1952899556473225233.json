@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952610153158828032",
+        "3_1952610151883739136"
+      ],
+      "media_source_tweet_id": [
+        "1952610167369179606",
+        "1952610167369179606"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "1952899556473225233",
+    "created_at": "2025-08-06T01:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952899556473225233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836065375785779200",
+          "start": 3,
+          "username": "CanTVVink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDKaUitpjp",
+          "end": 47,
+          "expanded_url": "https://x.com/CanTVVink/status/1952610167369179606/photo/1",
+          "media_key": "3_1952610153158828032",
+          "start": 24,
+          "url": "https://t.co/eDKaUitpjp"
+        },
+        {
+          "display_url": "pic.x.com/eDKaUitpjp",
+          "end": 47,
+          "expanded_url": "https://x.com/CanTVVink/status/1952610167369179606/photo/1",
+          "media_key": "3_1952610151883739136",
+          "start": 24,
+          "url": "https://t.co/eDKaUitpjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952899556473225233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952610167369179606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CanTVVink: 简直充满了冲击力 https://t.co/eDKaUitpjp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952899556473225233].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952899556473225233",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952899556473225233"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1952610153158828032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkQlsPaYAAWEQ0.jpg",
+        "width": 1046
+      },
+      {
+        "height": 780,
+        "media_key": "3_1952610151883739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkQlnfaEAAOqh8.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952610153158828032",
+            "3_1952610151883739136"
+          ]
+        },
+        "author_id": "1836065375785779200",
+        "conversation_id": "1952610167369179606",
+        "created_at": "2025-08-05T05:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952610167369179606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDKaUitpjp",
+              "end": 32,
+              "expanded_url": "https://x.com/CanTVVink/status/1952610167369179606/photo/1",
+              "media_key": "3_1952610153158828032",
+              "start": 9,
+              "url": "https://t.co/eDKaUitpjp"
+            },
+            {
+              "display_url": "pic.x.com/eDKaUitpjp",
+              "end": 32,
+              "expanded_url": "https://x.com/CanTVVink/status/1952610167369179606/photo/1",
+              "media_key": "3_1952610151883739136",
+              "start": 9,
+              "url": "https://t.co/eDKaUitpjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952610167369179606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 26140,
+          "like_count": 654,
+          "quote_count": 8,
+          "reply_count": 32,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "简直充满了冲击力 https://t.co/eDKaUitpjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥，成分复杂，可能偏日常些（？，都来找我玩喵；；求互fo（除鉴证浓度高和风险账号，没回可私信捏） /🥰 @yyc20090，互挂@kongjingxiao94 ，姐姐@mirekintoc，好朋友@_blueberrysauce @CharmingFurina/出自制凝胶，零售土色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "yyc20090"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "kongjingxiao94"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "mirekintoc"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "_blueberrysauce"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "CharmingFurina"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "1938438883345371468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912901692347314176/trd12osD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1526,
+          "like_count": 48585,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 5836
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T15:31:40.000Z",
+        "description": "そうですか.....\n要来一起打游戏吗？",
+        "id": "1836065375785779200",
+        "location": "不可思议之国",
+        "name": "UI_Nya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896394096165703680/a9GGdtPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 90,
+          "like_count": 342,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 409
+        },
+        "username": "CanTVVink",
+        "verified": false
+      }
+    ]
+  }
+}

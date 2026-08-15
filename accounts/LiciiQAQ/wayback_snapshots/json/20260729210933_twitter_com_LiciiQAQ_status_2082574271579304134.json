@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082574195213615104"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2082574271579304134",
+    "created_at": "2026-07-29T21:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082574271579304134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1IxfXwxX4",
+          "end": 28,
+          "expanded_url": "https://x.com/LiciiQAQ/status/2082574271579304134/photo/1",
+          "media_key": "3_2082574195213615104",
+          "start": 5,
+          "url": "https://t.co/y1IxfXwxX4"
+        },
+        {
+          "display_url": "x.com/citric_baizhou…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/citric_baizhou/status/2082462001583018466",
+          "start": 29,
+          "url": "https://t.co/n28A9VSbVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082574271579304134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082462001583018466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "陪一张😭 https://t.co/y1IxfXwxX4 https://t.co/n28A9VSbVb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_2082574195213615104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HObKMlQaQAAwsC4.png",
+        "width": 1904
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082461990782701568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZkJbLbEAAAgJM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082574195213615104"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2082574271579304134",
+        "created_at": "2026-07-29T21:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082574271579304134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1IxfXwxX4",
+              "end": 28,
+              "expanded_url": "https://x.com/LiciiQAQ/status/2082574271579304134/photo/1",
+              "media_key": "3_2082574195213615104",
+              "start": 5,
+              "url": "https://t.co/y1IxfXwxX4"
+            },
+            {
+              "display_url": "x.com/citric_baizhou…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/citric_baizhou/status/2082462001583018466",
+              "start": 29,
+              "url": "https://t.co/n28A9VSbVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082574271579304134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082462001583018466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "陪一张😭 https://t.co/y1IxfXwxX4 https://t.co/n28A9VSbVb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082461990782701568"
+          ]
+        },
+        "author_id": "1670362954590728197",
+        "conversation_id": "2082462001583018466",
+        "created_at": "2026-07-29T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082462001583018466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pf6VZeXjaf",
+              "end": 27,
+              "expanded_url": "https://x.com/citric_baizhou/status/2082462001583018466/photo/1",
+              "media_key": "3_2082461990782701568",
+              "start": 4,
+              "url": "https://t.co/Pf6VZeXjaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082462001583018466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坠机了 https://t.co/Pf6VZeXjaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@Grinin_mark，♥️姐姐：@kaionjiaoi\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "kaionjiaoi"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2717,
+          "following_count": 2166,
+          "like_count": 120409,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 8341
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "青春って値札が背中に貼られていて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/mTviyCNN5Y"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "🐟鱼头朝向的地方",
+        "name": "阳光菇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078112391657832448/aETgUu2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 991,
+          "like_count": 42607,
+          "listed_count": 6,
+          "media_count": 1065,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/mTviyCNN5Y",
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}
