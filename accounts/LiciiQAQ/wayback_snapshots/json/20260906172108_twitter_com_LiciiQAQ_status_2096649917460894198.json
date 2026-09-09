@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096451249365299204"
+      ],
+      "media_source_tweet_id": [
+        "2096451267111338323"
+      ]
+    },
+    "author_id": "1695649420539219968",
+    "conversation_id": "2096649917460894198",
+    "created_at": "2026-09-06T17:21:08.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T18:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096649917460894198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHXDJWPj8U",
+          "end": 70,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2096451267111338323/photo/1",
+          "media_key": "3_2096451249365299204",
+          "start": 47,
+          "url": "https://t.co/FHXDJWPj8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096649917460894198",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096451249365299204"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096451267111338323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 竟然在環状線的日语号上出现了那种特定排列的时间线：😨 https://t.co/FHXDJWPj8U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2096451249365299204",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgXTcdXsAQkUQn.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096451249365299204"
+          ],
+          "media_source_tweet_id": [
+            "2096451267111338323"
+          ]
+        },
+        "author_id": "1695649420539219968",
+        "conversation_id": "2096649917460894198",
+        "created_at": "2026-09-06T17:21:08.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096649917460894198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHXDJWPj8U",
+              "end": 70,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2096451267111338323/photo/1",
+              "media_key": "3_2096451249365299204",
+              "start": 47,
+              "url": "https://t.co/FHXDJWPj8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096649917460894198",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096451249365299204"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096451267111338323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 竟然在環状線的日语号上出现了那种特定排列的时间线：😨 https://t.co/FHXDJWPj8U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096451249365299204"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2096451267111338323",
+        "created_at": "2026-09-06T04:11:46.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096451267111338323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHXDJWPj8U",
+              "end": 50,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2096451267111338323/photo/1",
+              "media_key": "3_2096451249365299204",
+              "start": 27,
+              "url": "https://t.co/FHXDJWPj8U"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2095431038721781870",
+              "start": 51,
+              "url": "https://t.co/HAmrNJns6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096451267111338323",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096451249365299204"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 48179,
+          "like_count": 1079,
+          "quote_count": 2,
+          "reply_count": 146,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095431038721781870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "竟然在環状線的日语号上出现了那种特定排列的时间线：😨 https://t.co/FHXDJWPj8U https://t.co/HAmrNJns6N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🥰@Grinin_mark，姐姐：❤️@chicosiaasgard @laneunya_QWQ，😺主人：@dddddhxwys\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chicosiaasgard"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "laneunya_QWQ"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "dddddhxwys"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096649917460894198",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695649420539219968/1737909112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 2144,
+          "like_count": 121550,
+          "listed_count": 4,
+          "media_count": 477,
+          "tweet_count": 8382
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096639594087297119",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19280,
+          "following_count": 889,
+          "like_count": 35346,
+          "listed_count": 32,
+          "media_count": 2975,
+          "tweet_count": 13339
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
