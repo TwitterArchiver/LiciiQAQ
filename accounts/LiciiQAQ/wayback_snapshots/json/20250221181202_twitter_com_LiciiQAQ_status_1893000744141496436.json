@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1695649420539219968",
+    "conversation_id": "1893000744141496436",
+    "created_at": "2025-02-21T18:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T19:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893000744141496436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huamingyouqi/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/huamingyouqi/status/1892863159033098489",
+          "start": 5,
+          "url": "https://t.co/gdM7Lca30K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893000744141496436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892863159033098489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想做爱 https://t.co/gdM7Lca30K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695649420539219968",
+        "conversation_id": "1893000744141496436",
+        "created_at": "2025-02-21T18:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T19:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893000744141496436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huamingyouqi/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/huamingyouqi/status/1892863159033098489",
+              "start": 5,
+              "url": "https://t.co/gdM7Lca30K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893000744141496436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892863159033098489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想做爱 https://t.co/gdM7Lca30K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812559263371591680",
+        "conversation_id": "1892863159033098489",
+        "created_at": "2025-02-21T09:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T10:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892863159033098489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amemiya_Hasumi…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Amemiya_Hasumi/status/1892820362615775461",
+              "start": 5,
+              "url": "https://t.co/stl53eK7FW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892863159033098489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892820362615775461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想做爱 https://t.co/stl53eK7FW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn），成分复杂，都来找我玩喵；；求互fo",
+        "id": "1695649420539219968",
+        "name": "Licii🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884985761826521088/a7ejtO9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 44,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 39
+        },
+        "username": "LiciiQAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T18:46:40.000Z",
+        "description": "不定时发癫，不是男娘，私信会回，会回关，喜欢可爱的事物",
+        "id": "1812559263371591680",
+        "location": "0km",
+        "name": "花名有琦",
+        "pinned_tweet_id": "1889974396183560477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890645732526342144/XC_89LlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 490,
+          "like_count": 6190,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2263
+        },
+        "username": "huamingyouqi",
+        "verified": false
+      }
+    ]
+  }
+}
